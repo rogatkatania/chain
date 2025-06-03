@@ -1,0 +1,22 @@
+{
+  "chain_id": "721",
+  "name": "Lycan Chain",
+  "symbol": "LYC",
+  "explorer_url": "https://explorer.lycanchain.com",
+  "rpc_urls": [
+    "https://asia-southeast.lycanchain.com",
+    "https://eu-north.lycanchain.com",
+    "https://eu-west.lycanchain.com",
+    "https://rpc.lycanchain.com",
+    "https://us-east.lycanchain.com",
+    "https://us-west.lycanchain.com"
+  ],
+  "rpc": [
+    "https://eu-west.lycanchain.com",
+    "https://eu-north.lycanchain.com",
+    "https://us-east.lycanchain.com",
+    "https://rpc.lycanchain.com",
+    "https://us-west.lycanchain.com",
+    "https://asia-southeast.lycanchain.com"
+  ]
+}
