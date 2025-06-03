@@ -1,0 +1,14 @@
+{
+  "chain_id": "7171",
+  "name": "Bitrock Mainnet",
+  "symbol": "Bitrock",
+  "explorer_url": "https://brockscan.io",
+  "rpc_urls": [
+    "https://brockrpc.io",
+    "https://connect.bit-rock.io"
+  ],
+  "rpc": [
+    "https://connect.bit-rock.io",
+    "https://brockrpc.io"
+  ]
+}
