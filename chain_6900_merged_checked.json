@@ -1,0 +1,12 @@
+{
+  "chain_id": "6900",
+  "name": "Nibiru cataclysm-1",
+  "symbol": "Nibiru",
+  "explorer_url": "",
+  "rpc_urls": [
+    "https://evm-rpc.nibiru.fi"
+  ],
+  "rpc": [
+    "https://evm-rpc.nibiru.fi"
+  ]
+}
