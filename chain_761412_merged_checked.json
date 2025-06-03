@@ -1,0 +1,12 @@
+{
+  "chain_id": "761412",
+  "name": "Miexs Smartchain",
+  "symbol": "MiexsSmartchain",
+  "explorer_url": "https://miexs.com",
+  "rpc_urls": [
+    "https://mainnet-rpc.miexs.com"
+  ],
+  "rpc": [
+    "https://mainnet-rpc.miexs.com"
+  ]
+}

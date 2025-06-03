@@ -1,0 +1,14 @@
+{
+  "chain_id": "77001",
+  "name": "BORAchain mainnet",
+  "symbol": "BORA",
+  "explorer_url": "https://scope.boraportal.com",
+  "rpc_urls": [
+    "https://public-node.api.boraportal.com/bora/mainnet",
+    "https://public-node.api.boraportal.io/bora/mainnet"
+  ],
+  "rpc": [
+    "https://public-node.api.boraportal.io/bora/mainnet",
+    "https://public-node.api.boraportal.com/bora/mainnet"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "chain_id": "752025",
+  "name": "Ternoa",
+  "symbol": "Ternoa",
+  "explorer_url": "https://explorer-mainnet.zkevm.ternoa.network",
+  "rpc_urls": [
+    "https://rpc-mainnet.zkevm.ternoa.network"
+  ],
+  "rpc": [
+    "https://rpc-mainnet.zkevm.ternoa.network"
+  ]
+}

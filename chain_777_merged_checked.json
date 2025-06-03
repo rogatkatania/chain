@@ -1,0 +1,10 @@
+{
+  "chain_id": "777",
+  "name": "cheapETH",
+  "symbol": "cheapETH",
+  "explorer_url": "",
+  "rpc_urls": [
+    "https://node.cheapeth.org/rpc"
+  ],
+  "rpc": []
+}

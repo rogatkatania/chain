@@ -1,0 +1,12 @@
+{
+  "chain_id": "7233",
+  "name": "InitVerse Mainnet",
+  "symbol": "InitVerse",
+  "explorer_url": "https://www.iniscan.com",
+  "rpc_urls": [
+    "https://rpc-mainnet.inichain.com"
+  ],
+  "rpc": [
+    "https://rpc-mainnet.inichain.com"
+  ]
+}

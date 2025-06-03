@@ -1,0 +1,14 @@
+{
+  "chain_id": "73115",
+  "name": "ICB Network",
+  "symbol": "ICB",
+  "explorer_url": "https://icbscan.io",
+  "rpc_urls": [
+    "https://rpc1-mainnet.icbnetwork.info",
+    "https://rpc2-mainnet.icbnetwork.info"
+  ],
+  "rpc": [
+    "https://rpc1-mainnet.icbnetwork.info",
+    "https://rpc2-mainnet.icbnetwork.info"
+  ]
+}

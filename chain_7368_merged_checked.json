@@ -1,0 +1,13 @@
+{
+  "chain_id": "7368",
+  "name": "Rarimo",
+  "symbol": "ETH",
+  "explorer_url": "https://scan.rarimo.com",
+  "rpc_urls": [
+    "https://l2.rarimo.com",
+    "wss://wss.l2.rarimo.com"
+  ],
+  "rpc": [
+    "https://l2.rarimo.com"
+  ]
+}

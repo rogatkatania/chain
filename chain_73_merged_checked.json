@@ -1,0 +1,12 @@
+{
+  "chain_id": "73",
+  "name": "FNCY",
+  "symbol": "FNCY",
+  "explorer_url": "https://fncyscan.fncy.world",
+  "rpc_urls": [
+    "https://fncy-seed1.fncy.world"
+  ],
+  "rpc": [
+    "https://fncy-seed1.fncy.world"
+  ]
+}

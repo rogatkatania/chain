@@ -1,0 +1,10 @@
+{
+  "chain_id": "7355310",
+  "name": "OpenVessel",
+  "symbol": "VSL",
+  "explorer_url": "https://mainnet-explorer.openvessel.io",
+  "rpc_urls": [
+    "https://mainnet-external.openvessel.io"
+  ],
+  "rpc": []
+}

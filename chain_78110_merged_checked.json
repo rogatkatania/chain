@@ -1,0 +1,12 @@
+{
+  "chain_id": "78110",
+  "name": "",
+  "symbol": "",
+  "explorer_url": "",
+  "rpc_urls": [
+    "https://ethnode.primusmoney.com/firenze"
+  ],
+  "rpc": [
+    "https://ethnode.primusmoney.com/firenze"
+  ]
+}

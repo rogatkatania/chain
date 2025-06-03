@@ -1,0 +1,12 @@
+{
+  "chain_id": "7341",
+  "name": "Shyft Mainnet",
+  "symbol": "SHYFT",
+  "explorer_url": "https://bx.shyft.network",
+  "rpc_urls": [
+    "https://rpc.shyft.network"
+  ],
+  "rpc": [
+    "https://rpc.shyft.network"
+  ]
+}

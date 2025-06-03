@@ -1,0 +1,10 @@
+{
+  "chain_id": "730",
+  "name": "Lovely Network Mainnet",
+  "symbol": "Lovely",
+  "explorer_url": "https://scan.lovely.network",
+  "rpc_urls": [
+    "https://rpc.lovely.network"
+  ],
+  "rpc": []
+}

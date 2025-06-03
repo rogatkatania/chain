@@ -1,0 +1,10 @@
+{
+  "chain_id": "727",
+  "name": "Blucrates",
+  "symbol": "BLU",
+  "explorer_url": "",
+  "rpc_urls": [
+    "https://data.bluchain.pro"
+  ],
+  "rpc": []
+}

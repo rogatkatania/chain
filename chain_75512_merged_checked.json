@@ -1,0 +1,12 @@
+{
+  "chain_id": "75512",
+  "name": "GEEK Verse Mainnet",
+  "symbol": "GEEK",
+  "explorer_url": "https://explorer.geekout-pte.com",
+  "rpc_urls": [
+    "https://rpc.geekout-pte.com"
+  ],
+  "rpc": [
+    "https://rpc.geekout-pte.com"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "chain_id": "7300",
+  "name": "XPLA Verse",
+  "symbol": "XPLA Verse",
+  "explorer_url": "https://explorer-xpla-verse.xpla.dev",
+  "rpc_urls": [
+    "https://rpc-xpla-verse.xpla.dev"
+  ],
+  "rpc": [
+    "https://rpc-xpla-verse.xpla.dev"
+  ]
+}

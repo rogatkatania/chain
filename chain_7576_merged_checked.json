@@ -1,0 +1,12 @@
+{
+  "chain_id": "7576",
+  "name": "Adil Chain V2 Mainnet",
+  "symbol": "ADIL",
+  "explorer_url": "https://adilchain-scan.io",
+  "rpc_urls": [
+    "https://adilchain-rpc.io"
+  ],
+  "rpc": [
+    "https://adilchain-rpc.io"
+  ]
+}

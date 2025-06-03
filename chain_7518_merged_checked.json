@@ -1,0 +1,12 @@
+{
+  "chain_id": "7518",
+  "name": "MEVerse Chain Mainnet",
+  "symbol": "MEVerse",
+  "explorer_url": "https://www.meversescan.io",
+  "rpc_urls": [
+    "https://rpc.meversemainnet.io"
+  ],
+  "rpc": [
+    "https://rpc.meversemainnet.io"
+  ]
+}

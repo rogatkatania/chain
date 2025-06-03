@@ -1,0 +1,15 @@
+{
+  "chain_id": "747",
+  "name": "Flow EVM Mainnet",
+  "symbol": "Flow",
+  "explorer_url": "https://evm.flowscan.io",
+  "rpc_urls": [
+    "https://flow-mainnet.g.alchemy.com/v2/gi4tk6s65zmhnapbshfydl3w-lda8xmu",
+    "https://mainnet.evm.nodes.onflow.org",
+    "https://node.histori.xyz/flow-evm-mainnet/8ry9f6t9dct1se2hlagxnd9n2a"
+  ],
+  "rpc": [
+    "https://mainnet.evm.nodes.onflow.org",
+    "https://flow-mainnet.g.alchemy.com/v2/gi4tk6s65zmhnapbshfydl3w-lda8xmu"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "chain_id": "7672",
+  "name": "",
+  "symbol": "",
+  "explorer_url": "",
+  "rpc_urls": [
+    "https://porcini.rootnet.app/archive"
+  ],
+  "rpc": [
+    "https://porcini.rootnet.app/archive"
+  ]
+}

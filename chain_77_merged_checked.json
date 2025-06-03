@@ -1,0 +1,12 @@
+{
+  "chain_id": "77",
+  "name": "POA Network Sokol",
+  "symbol": "POA",
+  "explorer_url": "https://blockscout.com/poa/sokol",
+  "rpc_urls": [
+    "https://sokol.poa.network",
+    "ws://sokol.poa.network:8546",
+    "wss://sokol.poa.network/wss"
+  ],
+  "rpc": []
+}

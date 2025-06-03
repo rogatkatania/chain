@@ -1,0 +1,10 @@
+{
+  "chain_id": "76",
+  "name": "Mix",
+  "symbol": "MIX",
+  "explorer_url": "",
+  "rpc_urls": [
+    "https://rpc2.mix-blockchain.org:8647"
+  ],
+  "rpc": []
+}

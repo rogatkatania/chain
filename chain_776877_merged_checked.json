@@ -1,0 +1,10 @@
+{
+  "chain_id": "776877",
+  "name": "Modularium",
+  "symbol": "EVMCC",
+  "explorer_url": "https://tanssi-evmexplorer.netlify.app/?rpcUrl=https://fraa-dancebox-3035-rpc.a.dancebox.tanssi.network",
+  "rpc_urls": [
+    "https://fraa-dancebox-3035-rpc.a.dancebox.tanssi.network"
+  ],
+  "rpc": []
+}

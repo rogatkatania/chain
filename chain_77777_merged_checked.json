@@ -1,0 +1,10 @@
+{
+  "chain_id": "77777",
+  "name": "Toronet Mainnet",
+  "symbol": "Toronet",
+  "explorer_url": "https://toronet.org/explorer",
+  "rpc_urls": [
+    "https://www.toronet.org/rpc2"
+  ],
+  "rpc": []
+}

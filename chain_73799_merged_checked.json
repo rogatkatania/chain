@@ -1,0 +1,12 @@
+{
+  "chain_id": "73799",
+  "name": "",
+  "symbol": "",
+  "explorer_url": "",
+  "rpc_urls": [
+    "https://volta-rpc.energyweb.org"
+  ],
+  "rpc": [
+    "https://volta-rpc.energyweb.org"
+  ]
+}

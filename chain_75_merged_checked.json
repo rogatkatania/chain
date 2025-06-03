@@ -1,0 +1,20 @@
+{
+  "chain_id": "75",
+  "name": "Decimal Smart Chain Mainnet",
+  "symbol": "DSC",
+  "explorer_url": "https://explorer.decimalchain.com",
+  "rpc_urls": [
+    "https://node.decimalchain.com/web3",
+    "https://node1-mainnet.decimalchain.com/web3",
+    "https://node2-mainnet.decimalchain.com/web3",
+    "https://node3-mainnet.decimalchain.com/web3",
+    "https://node4-mainnet.decimalchain.com/web3"
+  ],
+  "rpc": [
+    "https://node4-mainnet.decimalchain.com/web3",
+    "https://node2-mainnet.decimalchain.com/web3",
+    "https://node1-mainnet.decimalchain.com/web3",
+    "https://node.decimalchain.com/web3",
+    "https://node3-mainnet.decimalchain.com/web3"
+  ]
+}

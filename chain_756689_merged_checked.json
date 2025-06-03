@@ -1,0 +1,10 @@
+{
+  "chain_id": "756689",
+  "name": "PAYSCAN CHAIN",
+  "symbol": "PAYSCAN CHAIN",
+  "explorer_url": "https://payscan.live",
+  "rpc_urls": [
+    "https://rpc.payscan.live"
+  ],
+  "rpc": []
+}

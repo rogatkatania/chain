@@ -1,0 +1,12 @@
+{
+  "chain_id": "7788",
+  "name": "Draw Coin",
+  "symbol": "DRW",
+  "explorer_url": "https://drawscan.io",
+  "rpc_urls": [
+    "https://rpc.drawchain.org"
+  ],
+  "rpc": [
+    "https://rpc.drawchain.org"
+  ]
+}

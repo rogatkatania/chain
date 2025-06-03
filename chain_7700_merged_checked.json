@@ -1,0 +1,23 @@
+{
+  "chain_id": "7700",
+  "name": "Canto",
+  "symbol": "Canto",
+  "explorer_url": "https://www.oklink.com/canto",
+  "rpc_urls": [
+    "https://canto-rpc.ansybl.io",
+    "https://canto.dexrouting.com",
+    "https://canto.dexvaults.com",
+    "https://canto.evm.chandrastation.com",
+    "https://canto.gravitychain.io",
+    "https://canto.slingshot.finance",
+    "https://jsonrpc.canto.nodestake.top",
+    "https://mainnode.plexnode.org:8545",
+    "wss://canto.dexvaults.com/ws",
+    "wss://canto.gravitychain.io:8546"
+  ],
+  "rpc": [
+    "https://canto.slingshot.finance",
+    "https://canto-rpc.ansybl.io",
+    "https://canto.gravitychain.io"
+  ]
+}
