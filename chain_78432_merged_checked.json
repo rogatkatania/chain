@@ -1,0 +1,10 @@
+{
+  "chain_id": "78432",
+  "name": "Conduit Subnet",
+  "symbol": "CONDUIT",
+  "explorer_url": "https://subnets-test.avax.network/conduit",
+  "rpc_urls": [
+    "https://subnets.avax.network/conduit/testnet/rpc"
+  ],
+  "rpc": []
+}

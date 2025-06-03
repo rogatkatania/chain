@@ -1,0 +1,17 @@
+{
+  "chain_id": "78281",
+  "name": "Dragonfly Mainnet (Hexapod)",
+  "symbol": "Dragonfly",
+  "explorer_url": "https://blockscout.dragonfly.hexapod.network",
+  "rpc_urls": [
+    "https://dragonfly-rpc.block-spirit.ch",
+    "https://dragonfly-rpc.kore-technologies.ch",
+    "https://dragonfly-rpc.phoenix-systems.io",
+    "https://dragonfly-rpc.switch.ch"
+  ],
+  "rpc": [
+    "https://dragonfly-rpc.phoenix-systems.io",
+    "https://dragonfly-rpc.kore-technologies.ch",
+    "https://dragonfly-rpc.block-spirit.ch"
+  ]
+}
