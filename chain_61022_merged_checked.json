@@ -1,0 +1,11 @@
+{
+  "chain_id": "61022",
+  "name": "Orange Chain Mainnet",
+  "symbol": "Orange Chain",
+  "explorer_url": "https://scan.orangechain.xyz",
+  "rpc_urls": [
+    "https://hk-rpc.orangechain.xyz",
+    "https://rpc.orangechain.xyz"
+  ],
+  "rpc": []
+}

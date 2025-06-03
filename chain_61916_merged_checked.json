@@ -1,0 +1,12 @@
+{
+  "chain_id": "61916",
+  "name": "DoKEN Super Chain Mainnet",
+  "symbol": "DoKEN Super Chain",
+  "explorer_url": "https://explore.doken.dev",
+  "rpc_urls": [
+    "https://nyrpc.doken.dev",
+    "https://sgrpc.doken.dev",
+    "https://ukrpc.doken.dev"
+  ],
+  "rpc": []
+}

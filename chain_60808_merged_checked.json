@@ -1,0 +1,23 @@
+{
+  "chain_id": "60808",
+  "name": "BOB",
+  "symbol": "ETH",
+  "explorer_url": "https://explorer.gobob.xyz",
+  "rpc_urls": [
+    "https://bob-mainnet.public.blastapi.io",
+    "https://bob.drpc.org",
+    "https://bob.gateway.tenderly.co",
+    "https://rpc.gobob.xyz",
+    "https://rpc.zerion.io/v1/bob",
+    "wss://bob-mainnet.public.blastapi.io",
+    "wss://bob.drpc.org",
+    "wss://rpc.gobob.xyz"
+  ],
+  "rpc": [
+    "https://bob-mainnet.public.blastapi.io",
+    "https://rpc.zerion.io/v1/bob",
+    "https://rpc.gobob.xyz",
+    "https://bob.gateway.tenderly.co",
+    "https://bob.drpc.org"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "chain_id": "6022140761023",
+  "name": "Molereum Network",
+  "symbol": "ETH",
+  "explorer_url": "",
+  "rpc_urls": [
+    "https://molereum.jdubedition.com"
+  ],
+  "rpc": []
+}

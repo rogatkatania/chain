@@ -1,0 +1,10 @@
+{
+  "chain_id": "59971",
+  "name": "Genesys Code Mainnet",
+  "symbol": "GCODE",
+  "explorer_url": "https://genesysscan.io",
+  "rpc_urls": [
+    "https://mainnet.genesyscode.io"
+  ],
+  "rpc": []
+}

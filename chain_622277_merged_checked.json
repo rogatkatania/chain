@@ -1,0 +1,17 @@
+{
+  "chain_id": "622277",
+  "name": "Hypra Mainnet",
+  "symbol": "HYP",
+  "explorer_url": "https://explorer.hypra.network",
+  "rpc_urls": [
+    "https://hypra.rpc.thirdweb.com",
+    "https://rethereum.rpc.restratagem.com",
+    "https://rpc.hypra.network",
+    "https://rpc.rethereum.org",
+    "https://rpc.rthcentral.org"
+  ],
+  "rpc": [
+    "https://rpc.hypra.network",
+    "https://hypra.rpc.thirdweb.com"
+  ]
+}

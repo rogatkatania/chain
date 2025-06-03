@@ -1,0 +1,10 @@
+{
+  "chain_id": "61800",
+  "name": "AxelChain Dev-Net",
+  "symbol": "AXEL",
+  "explorer_url": "https://devexplorer2.viacube.com",
+  "rpc_urls": [
+    "https://aium-rpc-dev.viacube.com"
+  ],
+  "rpc": []
+}

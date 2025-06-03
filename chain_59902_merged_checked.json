@@ -1,0 +1,14 @@
+{
+  "chain_id": "59902",
+  "name": "",
+  "symbol": "",
+  "explorer_url": "",
+  "rpc_urls": [
+    "https://metis-sepolia-rpc.publicnode.com",
+    "https://sepolia.metisdevops.link"
+  ],
+  "rpc": [
+    "https://metis-sepolia-rpc.publicnode.com",
+    "https://sepolia.metisdevops.link"
+  ]
+}

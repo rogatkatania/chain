@@ -1,0 +1,10 @@
+{
+  "chain_id": "62298",
+  "name": "Citrea Devnet",
+  "symbol": "Citrea",
+  "explorer_url": "https://explorer.devnet.citrea.xyz",
+  "rpc_urls": [
+    "https://rpc.devnet.citrea.xyz"
+  ],
+  "rpc": []
+}

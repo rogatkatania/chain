@@ -1,0 +1,26 @@
+{
+  "chain_id": "59144",
+  "name": "Linea",
+  "symbol": "ETH",
+  "explorer_url": "https://lineascan.build",
+  "rpc_urls": [
+    "https://1rpc.io/linea",
+    "https://linea-mainnet.g.alchemy.com/v2/gi4tk6s65zmhnapbshfydl3w-lda8xmu",
+    "https://linea-rpc.publicnode.com",
+    "https://linea.blockpi.network/v1/rpc/private",
+    "https://linea.decubate.com",
+    "https://linea.drpc.org",
+    "https://node.histori.xyz/linea-mainnet/8ry9f6t9dct1se2hlagxnd9n2a",
+    "https://rpc.linea.build",
+    "https://rpc.owlracle.info/linea/70d38ce1826c4a60bb2a8e05a6c8b20f",
+    "wss://linea-rpc.publicnode.com",
+    "wss://rpc.linea.build"
+  ],
+  "rpc": [
+    "https://linea-rpc.publicnode.com",
+    "https://linea-mainnet.g.alchemy.com/v2/gi4tk6s65zmhnapbshfydl3w-lda8xmu",
+    "https://linea.drpc.org",
+    "https://1rpc.io/linea",
+    "https://rpc.linea.build"
+  ]
+}

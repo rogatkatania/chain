@@ -1,0 +1,12 @@
+{
+  "chain_id": "6001",
+  "name": "BounceBit Mainnet",
+  "symbol": "BounceBit",
+  "explorer_url": "https://bbscan.io",
+  "rpc_urls": [
+    "https://fullnode-mainnet.bouncebitapi.com"
+  ],
+  "rpc": [
+    "https://fullnode-mainnet.bouncebitapi.com"
+  ]
+}

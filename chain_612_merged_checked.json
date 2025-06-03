@@ -1,0 +1,12 @@
+{
+  "chain_id": "612",
+  "name": "EIOB Mainnet",
+  "symbol": "EIOB",
+  "explorer_url": "https://explorer.eiob.xyz",
+  "rpc_urls": [
+    "https://rpc.eiob.xyz"
+  ],
+  "rpc": [
+    "https://rpc.eiob.xyz"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "chain_id": "61",
+  "name": "Ethereum Classic",
+  "symbol": "ETC",
+  "explorer_url": "https://etc.blockscout.com",
+  "rpc_urls": [
+    "https://0xrpc.io/etc",
+    "https://besu-at.etc-network.info",
+    "https://etc.etcdesktop.com",
+    "https://etc.mytokenpocket.vip",
+    "https://etc.rivet.link",
+    "https://geth-at.etc-network.info",
+    "https://rpc.etcinscribe.com",
+    "https://services.tokenview.io/vipapi/nodeservice/etc?apikey=qVHq2o6jpaakcw3lRstl",
+    "wss://0xrpc.io/etc"
+  ],
+  "rpc": [
+    "https://besu-at.etc-network.info",
+    "https://geth-at.etc-network.info",
+    "https://0xrpc.io/etc",
+    "https://etc.etcdesktop.com",
+    "https://rpc.etcinscribe.com",
+    "https://etc.rivet.link"
+  ]
+}
