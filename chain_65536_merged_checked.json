@@ -1,0 +1,14 @@
+{
+  "chain_id": "65536",
+  "name": "Automata Mainnet",
+  "symbol": "Automata Mainnet",
+  "explorer_url": "https://explorer.ata.network",
+  "rpc_urls": [
+    "https://automata-mainnet.alt.technology",
+    "https://rpc.ata.network"
+  ],
+  "rpc": [
+    "https://rpc.ata.network",
+    "https://automata-mainnet.alt.technology"
+  ]
+}

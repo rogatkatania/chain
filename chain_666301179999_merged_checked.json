@@ -1,0 +1,10 @@
+{
+  "chain_id": "666301179999",
+  "name": "SmartPay Mobile Money",
+  "symbol": "Mobile Money",
+  "explorer_url": "",
+  "rpc_urls": [
+    "https://network.uat.smartmoneyewallet.com"
+  ],
+  "rpc": []
+}

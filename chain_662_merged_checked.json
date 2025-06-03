@@ -1,0 +1,12 @@
+{
+  "chain_id": "662",
+  "name": "AmaxSmartchain",
+  "symbol": "AmaxSmartchain",
+  "explorer_url": "https://scan.amaxchain.io",
+  "rpc_urls": [
+    "https://rpc.amaxchain.io"
+  ],
+  "rpc": [
+    "https://rpc.amaxchain.io"
+  ]
+}

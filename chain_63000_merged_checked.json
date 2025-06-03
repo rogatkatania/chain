@@ -1,0 +1,14 @@
+{
+  "chain_id": "63000",
+  "name": "eSync Network Mainnet",
+  "symbol": "ECS",
+  "explorer_url": "https://explorer.esync.network",
+  "rpc_urls": [
+    "https://rpc.ecredits.com",
+    "https://rpc.esync.network"
+  ],
+  "rpc": [
+    "https://rpc.esync.network",
+    "https://rpc.ecredits.com"
+  ]
+}

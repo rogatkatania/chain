@@ -1,0 +1,14 @@
+{
+  "chain_id": "660279",
+  "name": "Xai Mainnet",
+  "symbol": "XAI",
+  "explorer_url": "https://explorer.xai-chain.net",
+  "rpc_urls": [
+    "https://rpc.ankr.com/xai",
+    "https://xai-chain.net/rpc"
+  ],
+  "rpc": [
+    "https://rpc.ankr.com/xai",
+    "https://xai-chain.net/rpc"
+  ]
+}

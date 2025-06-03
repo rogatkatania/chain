@@ -1,0 +1,13 @@
+{
+  "chain_id": "6626",
+  "name": "Pixie Chain Mainnet",
+  "symbol": "PixieChain",
+  "explorer_url": "https://scan.chain.pixie.xyz",
+  "rpc_urls": [
+    "https://http-mainnet.chain.pixie.xyz",
+    "wss://ws-mainnet.chain.pixie.xyz"
+  ],
+  "rpc": [
+    "https://http-mainnet.chain.pixie.xyz"
+  ]
+}

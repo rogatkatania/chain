@@ -1,0 +1,12 @@
+{
+  "chain_id": "634",
+  "name": "Avocado",
+  "symbol": "Avocado",
+  "explorer_url": "https://avoscan.co",
+  "rpc_urls": [
+    "https://rpc.avocado.instadapp.io"
+  ],
+  "rpc": [
+    "https://rpc.avocado.instadapp.io"
+  ]
+}

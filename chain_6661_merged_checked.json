@@ -1,0 +1,10 @@
+{
+  "chain_id": "6661",
+  "name": "Cybria Mainnet",
+  "symbol": "CYBA",
+  "explorer_url": "https://cybascan.io",
+  "rpc_urls": [
+    "https://rpc-mainnet.cybria.io"
+  ],
+  "rpc": []
+}

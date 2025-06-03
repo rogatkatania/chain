@@ -1,0 +1,10 @@
+{
+  "chain_id": "631571",
+  "name": "",
+  "symbol": "",
+  "explorer_url": "",
+  "rpc_urls": [
+    "https://geist-polter.g.alchemy.com/public"
+  ],
+  "rpc": []
+}

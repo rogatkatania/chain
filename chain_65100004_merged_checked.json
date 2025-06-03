@@ -1,0 +1,14 @@
+{
+  "chain_id": "65100004",
+  "name": "",
+  "symbol": "",
+  "explorer_url": "",
+  "rpc_urls": [
+    "https://autonity-piccadilly.rpc.subquery.network/public",
+    "https://piccadilly.autonity-apis.com"
+  ],
+  "rpc": [
+    "https://autonity-piccadilly.rpc.subquery.network/public",
+    "https://piccadilly.autonity-apis.com"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "chain_id": "6321",
+  "name": "",
+  "symbol": "",
+  "explorer_url": "",
+  "rpc_urls": [
+    "https://jsonrpc.euphoria.aura.network"
+  ],
+  "rpc": [
+    "https://jsonrpc.euphoria.aura.network"
+  ]
+}

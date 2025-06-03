@@ -1,0 +1,12 @@
+{
+  "chain_id": "62850",
+  "name": "",
+  "symbol": "",
+  "explorer_url": "",
+  "rpc_urls": [
+    "https://rpc.laossigma.laosfoundation.io"
+  ],
+  "rpc": [
+    "https://rpc.laossigma.laosfoundation.io"
+  ]
+}

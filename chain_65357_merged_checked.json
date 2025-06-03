@@ -1,0 +1,10 @@
+{
+  "chain_id": "65357",
+  "name": "Vecno Mainnet",
+  "symbol": "VE",
+  "explorer_url": "https://explorer.vecno.org",
+  "rpc_urls": [
+    "https://rpc.vecno.org"
+  ],
+  "rpc": []
+}

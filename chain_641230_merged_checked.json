@@ -1,0 +1,14 @@
+{
+  "chain_id": "641230",
+  "name": "Bear Network Chain Mainnet",
+  "symbol": "BRNKC",
+  "explorer_url": "https://brnkscan.bearnetwork.net",
+  "rpc_urls": [
+    "https://brnkc-mainnet.bearnetwork.net",
+    "https://brnkc-mainnet1.bearnetwork.net"
+  ],
+  "rpc": [
+    "https://brnkc-mainnet.bearnetwork.net",
+    "https://brnkc-mainnet1.bearnetwork.net"
+  ]
+}

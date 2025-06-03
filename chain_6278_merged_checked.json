@@ -1,0 +1,12 @@
+{
+  "chain_id": "6278",
+  "name": "Rails",
+  "symbol": "RAILS",
+  "explorer_url": "https://explore.steamexchange.io",
+  "rpc_urls": [
+    "https://mainnet.steamexchange.io"
+  ],
+  "rpc": [
+    "https://mainnet.steamexchange.io"
+  ]
+}

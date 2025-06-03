@@ -1,0 +1,14 @@
+{
+  "chain_id": "62621",
+  "name": "MultiVAC Mainnet",
+  "symbol": "MultiVAC",
+  "explorer_url": "https://e.mtv.ac",
+  "rpc_urls": [
+    "https://rpc-eu.mtv.ac",
+    "https://rpc.mtv.ac"
+  ],
+  "rpc": [
+    "https://rpc-eu.mtv.ac",
+    "https://rpc.mtv.ac"
+  ]
+}
