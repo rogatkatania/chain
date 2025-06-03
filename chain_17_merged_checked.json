@@ -1,0 +1,10 @@
+{
+  "chain_id": "17",
+  "name": "ThaiChain 2.0 ThaiFi",
+  "symbol": "TCH",
+  "explorer_url": "",
+  "rpc_urls": [
+    "https://rpc.thaifi.com"
+  ],
+  "rpc": []
+}

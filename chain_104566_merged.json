@@ -1,0 +1,10 @@
+{
+  "chain_id": "104566",
+  "name": "KaspaClassic Mainnet",
+  "symbol": "KaspaClassic",
+  "explorer_url": "https://explorer.kaspaclassic.world",
+  "rpc_urls": [
+    "http://80.178.101.118:8000",
+    "https://api.kaspaclassic.world"
+  ]
+}

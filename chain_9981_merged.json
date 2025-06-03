@@ -1,0 +1,9 @@
+{
+  "chain_id": "9981",
+  "name": "Volley Mainnet",
+  "symbol": "Volley",
+  "explorer_url": "https://volleyscan.io",
+  "rpc_urls": [
+    "https://main-rpc.volleychain.com"
+  ]
+}

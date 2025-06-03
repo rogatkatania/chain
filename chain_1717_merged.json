@@ -1,0 +1,9 @@
+{
+  "chain_id": "1717",
+  "name": "Doric Network",
+  "symbol": "DRC",
+  "explorer_url": "https://explorer.doric.network",
+  "rpc_urls": [
+    "https://mainnet.doric.network"
+  ]
+}

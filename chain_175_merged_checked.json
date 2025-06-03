@@ -1,0 +1,11 @@
+{
+  "chain_id": "175",
+  "name": "OTC",
+  "symbol": "OTC",
+  "explorer_url": "",
+  "rpc_urls": [
+    "https://rpc.otc.run",
+    "wss://rpc.otc.run"
+  ],
+  "rpc": []
+}

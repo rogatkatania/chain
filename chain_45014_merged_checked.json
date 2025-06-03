@@ -1,0 +1,12 @@
+{
+  "chain_id": "45014",
+  "name": "Juneo LINK1-Chain",
+  "symbol": "Juneo LINK1-Chain",
+  "explorer_url": "https://juneoscan.io/chain/13",
+  "rpc_urls": [
+    "https://rpc.juneo-mainnet.network/ext/bc/LINK1/rpc"
+  ],
+  "rpc": [
+    "https://rpc.juneo-mainnet.network/ext/bc/LINK1/rpc"
+  ]
+}

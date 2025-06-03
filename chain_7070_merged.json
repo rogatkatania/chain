@@ -1,0 +1,11 @@
+{
+  "chain_id": "7070",
+  "name": "Planq Mainnet",
+  "symbol": "Planq",
+  "explorer_url": "https://evm.planq.network",
+  "rpc_urls": [
+    "https://evm-rpc.planq.network",
+    "https://jsonrpc.planq.nodestake.top",
+    "https://planq-rpc.nodies.app"
+  ]
+}

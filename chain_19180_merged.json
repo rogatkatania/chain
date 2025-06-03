@@ -1,0 +1,9 @@
+{
+  "chain_id": "19180",
+  "name": "LocaChain Mainnet",
+  "symbol": "LocaChain",
+  "explorer_url": "https://explorer.locachain.io",
+  "rpc_urls": [
+    "https://tgrpntwm.locachain.io"
+  ]
+}

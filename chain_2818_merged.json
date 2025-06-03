@@ -1,0 +1,12 @@
+{
+  "chain_id": "2818",
+  "name": "Morph",
+  "symbol": "ETH",
+  "explorer_url": "https://explorer.morphl2.io",
+  "rpc_urls": [
+    "https://rpc-quicknode.morphl2.io",
+    "https://rpc.morphl2.io",
+    "wss://rpc-quicknode.morphl2.io",
+    "wss://rpc.morphl2.io:8443"
+  ]
+}

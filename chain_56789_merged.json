@@ -1,0 +1,9 @@
+{
+  "chain_id": "56789",
+  "name": "VELO Labs Mainnet",
+  "symbol": "NOVA chain",
+  "explorer_url": "https://novascan.velo.org",
+  "rpc_urls": [
+    "https://nova.velo.org"
+  ]
+}

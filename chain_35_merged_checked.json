@@ -1,0 +1,10 @@
+{
+  "chain_id": "35",
+  "name": "TBWG Chain",
+  "symbol": "TBWG",
+  "explorer_url": "",
+  "rpc_urls": [
+    "https://rpc.tbwg.io"
+  ],
+  "rpc": []
+}

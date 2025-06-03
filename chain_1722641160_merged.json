@@ -1,0 +1,9 @@
+{
+  "chain_id": "1722641160",
+  "name": "",
+  "symbol": "",
+  "explorer_url": "",
+  "rpc_urls": [
+    "https://rpc-sepolia.silicon.network"
+  ]
+}

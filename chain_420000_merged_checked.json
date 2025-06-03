@@ -1,0 +1,12 @@
+{
+  "chain_id": "420000",
+  "name": "Infinaeon",
+  "symbol": "Infinaeon",
+  "explorer_url": "https://explorer.infinaeon.com",
+  "rpc_urls": [
+    "https://rpc.infinaeon.com"
+  ],
+  "rpc": [
+    "https://rpc.infinaeon.com"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "chain_id": "1278060416",
+  "name": "OFFICIAL VASYL",
+  "symbol": "Official-Vasyl",
+  "explorer_url": "https://explorer.official-vasyl.network",
+  "rpc_urls": [
+    "https://rpc.official-vasyl.network"
+  ]
+}

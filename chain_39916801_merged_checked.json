@@ -1,0 +1,10 @@
+{
+  "chain_id": "39916801",
+  "name": "Kingdom Chain",
+  "symbol": "KingdomChain",
+  "explorer_url": "https://www.beastkingdom.io/travelsong",
+  "rpc_urls": [
+    "https://kingdomchain.observer/rpc"
+  ],
+  "rpc": []
+}

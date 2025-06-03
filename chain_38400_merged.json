@@ -1,0 +1,9 @@
+{
+  "chain_id": "38400",
+  "name": "ConnectorManager",
+  "symbol": "Rangers",
+  "explorer_url": "https://scan.rangersprotocol.com",
+  "rpc_urls": [
+    "https://cm.rangersprotocol.com/api/jsonrpc"
+  ]
+}

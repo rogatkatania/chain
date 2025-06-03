@@ -1,0 +1,10 @@
+{
+  "chain_id": "2718",
+  "name": "K-LAOS",
+  "symbol": "K-LAOS",
+  "explorer_url": "https://blockscout.klaos.laosfoundation.io",
+  "rpc_urls": [
+    "https://rpc.klaos.laosfoundation.io",
+    "wss://rpc.klaos.laosfoundation.io"
+  ]
+}

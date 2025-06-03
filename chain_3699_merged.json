@@ -1,0 +1,9 @@
+{
+  "chain_id": "3699",
+  "name": "SenjePowers Mainnet",
+  "symbol": "SPC",
+  "explorer_url": "https://senjepowersscan.com",
+  "rpc_urls": [
+    "https://rpc.senjepowersscan.com"
+  ]
+}

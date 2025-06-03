@@ -1,0 +1,10 @@
+{
+  "chain_id": "474142",
+  "name": "OpenChain Mainnet",
+  "symbol": "OpenChain",
+  "explorer_url": "https://sidescan.luniverse.io/1641349324562974539",
+  "rpc_urls": [
+    "https://baas-rpc.luniverse.io:18545?lChainId=1641349324562974539"
+  ],
+  "rpc": []
+}

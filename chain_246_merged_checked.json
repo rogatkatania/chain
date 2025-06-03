@@ -1,0 +1,11 @@
+{
+  "chain_id": "246",
+  "name": "Energy Web Chain",
+  "symbol": "Energy Web Chain",
+  "explorer_url": "https://explorer.energyweb.org",
+  "rpc_urls": [
+    "https://rpc.energyweb.org",
+    "wss://rpc.energyweb.org/ws"
+  ],
+  "rpc": []
+}

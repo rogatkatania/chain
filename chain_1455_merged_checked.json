@@ -1,0 +1,10 @@
+{
+  "chain_id": "1455",
+  "name": "Ctex Scan Blockchain",
+  "symbol": "Ctex Scan Blockchain",
+  "explorer_url": "https://ctexscan.com",
+  "rpc_urls": [
+    "https://mainnet-rpc.ctexscan.com"
+  ],
+  "rpc": []
+}

@@ -1,0 +1,11 @@
+{
+  "chain_id": "1967",
+  "name": "Eleanor",
+  "symbol": "MTC",
+  "explorer_url": "https://explorer.metatime.com/eleanor",
+  "rpc_urls": [
+    "https://rpc.metatime.com/eleanor",
+    "wss://ws.metatime.com/eleanor"
+  ],
+  "rpc": []
+}

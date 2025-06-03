@@ -1,0 +1,20 @@
+{
+  "chain_id": "1313161554",
+  "name": "Aurora Mainnet",
+  "symbol": "NEAR",
+  "explorer_url": "https://explorer.aurora.dev",
+  "rpc_urls": [
+    "https://1rpc.io/aurora",
+    "https://aurora-mainnet.gateway.tatum.io",
+    "https://aurora-mainnet.wallet.brave.com",
+    "https://aurora-mainnet.wallet.bravesoftware.com",
+    "https://aurora.drpc.org",
+    "https://endpoints.omniatech.io/v1/aurora/mainnet/public",
+    "https://mainnet.aurora.dev",
+    "https://node.histori.xyz/aurora-mainnet/8ry9f6t9dct1se2hlagxnd9n2a",
+    "https://rpc.owlracle.info/aurora/70d38ce1826c4a60bb2a8e05a6c8b20f",
+    "https://rpc.zerion.io/v1/aurora",
+    "wss://aurora.drpc.org"
+  ],
+  "rpc": []
+}

@@ -1,0 +1,9 @@
+{
+  "chain_id": "10248",
+  "name": "0XTade",
+  "symbol": "0XTade Chain",
+  "explorer_url": "https://www.0xtscan.com",
+  "rpc_urls": [
+    "https://node.0xtchain.com"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "chain_id": "713715",
+  "name": "Sei Devnet",
+  "symbol": "Sei",
+  "explorer_url": "https://seistream.app",
+  "rpc_urls": [
+    "https://evm-rpc-arctic-1.sei-apis.com",
+    "https://evm-rpc.arctic-1.seinetwork.io",
+    "https://sei-devnet.drpc.org",
+    "wss://sei-devnet.drpc.org"
+  ]
+}

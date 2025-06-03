@@ -1,0 +1,9 @@
+{
+  "chain_id": "68",
+  "name": "SoterOne Mainnet",
+  "symbol": "SOTER",
+  "explorer_url": "",
+  "rpc_urls": [
+    "https://rpc.soter.one"
+  ]
+}

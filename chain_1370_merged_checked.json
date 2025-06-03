@@ -1,0 +1,11 @@
+{
+  "chain_id": "1370",
+  "name": "Ramestta Mainnet",
+  "symbol": "Ramestta",
+  "explorer_url": "https://ramascan.com",
+  "rpc_urls": [
+    "https://blockchain.ramestta.com",
+    "https://blockchain2.ramestta.com"
+  ],
+  "rpc": []
+}

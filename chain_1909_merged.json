@@ -1,0 +1,9 @@
+{
+  "chain_id": "1909",
+  "name": "Merkle Scan",
+  "symbol": "MRK",
+  "explorer_url": "https://merklescan.com",
+  "rpc_urls": [
+    "https://marklechain-rpc.merklescan.com"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "chain_id": "148",
+  "name": "ShimmerEVM",
+  "symbol": "ShimmerEVM",
+  "explorer_url": "https://explorer.evm.shimmer.network",
+  "rpc_urls": [
+    "https://json-rpc.evm.shimmer.network"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "chain_id": "333000333",
+  "name": "Meld",
+  "symbol": "MELD",
+  "explorer_url": "https://meldscan.io",
+  "rpc_urls": [
+    "https://rpc-1.meld.com"
+  ]
+}

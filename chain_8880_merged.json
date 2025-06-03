@@ -1,0 +1,12 @@
+{
+  "chain_id": "8880",
+  "name": "Unique",
+  "symbol": "UNQ",
+  "explorer_url": "https://uniquescan.io/unique",
+  "rpc_urls": [
+    "https://asia-rpc.unique.network",
+    "https://eu-rpc.unique.network",
+    "https://rpc.unique.network",
+    "https://us-rpc.unique.network"
+  ]
+}

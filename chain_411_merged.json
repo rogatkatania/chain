@@ -1,0 +1,9 @@
+{
+  "chain_id": "411",
+  "name": "Pepe Chain Mainnet",
+  "symbol": "PC",
+  "explorer_url": "https://explorer.pepe-chain.vip",
+  "rpc_urls": [
+    "https://rpc.pepe-chain.vip"
+  ]
+}

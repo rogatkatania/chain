@@ -1,0 +1,28 @@
+{
+  "chain_id": "81457",
+  "name": "Blast",
+  "symbol": "ETH",
+  "explorer_url": "https://blastscan.io",
+  "rpc_urls": [
+    "https://blast-mainnet.g.alchemy.com/v2/gi4tk6s65zmhnapbshfydl3w-lda8xmu",
+    "https://blast-rpc.publicnode.com",
+    "https://blast.blockpi.network/v1/rpc/private",
+    "https://blast.blockpi.network/v1/rpc/public",
+    "https://blast.din.dev/rpc",
+    "https://blast.drpc.org",
+    "https://blast.gasswap.org",
+    "https://blast.gateway.tenderly.co",
+    "https://blastl2-mainnet.public.blastapi.io",
+    "https://endpoints.omniatech.io/v1/blast/mainnet/public",
+    "https://node.histori.xyz/blast-mainnet/8ry9f6t9dct1se2hlagxnd9n2a",
+    "https://rpc.ankr.com/blast",
+    "https://rpc.blast.io",
+    "https://rpc.owlracle.info/blast/70d38ce1826c4a60bb2a8e05a6c8b20f",
+    "https://rpc.therpc.io/blast",
+    "https://rpc.zerion.io/v1/blast",
+    "wss://blast-rpc.publicnode.com",
+    "wss://blast.callstaticrpc.com",
+    "wss://blast.drpc.org",
+    "wss://blast.gasswap.org"
+  ]
+}

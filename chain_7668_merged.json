@@ -1,0 +1,10 @@
+{
+  "chain_id": "7668",
+  "name": "The Root Network - Mainnet",
+  "symbol": "TRN",
+  "explorer_url": "https://explorer.rootnet.live",
+  "rpc_urls": [
+    "https://root.rootnet.live/archive",
+    "wss://root.rootnet.live/archive/ws"
+  ]
+}

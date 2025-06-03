@@ -1,0 +1,12 @@
+{
+  "chain_id": "363636",
+  "name": "Digit Soul Smart Chain 2",
+  "symbol": "DS2",
+  "explorer_url": "https://dgs-exp.digitsoul.co.th",
+  "rpc_urls": [
+    "https://dgs-rpc.digitsoul.co.th"
+  ],
+  "rpc": [
+    "https://dgs-rpc.digitsoul.co.th"
+  ]
+}

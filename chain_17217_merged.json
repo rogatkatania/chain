@@ -1,0 +1,9 @@
+{
+  "chain_id": "17217",
+  "name": "KONET Mainnet",
+  "symbol": "KONET",
+  "explorer_url": "https://explorer.kon-wallet.com",
+  "rpc_urls": [
+    "https://api.kon-wallet.com"
+  ]
+}

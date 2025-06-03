@@ -1,0 +1,9 @@
+{
+  "chain_id": "1875",
+  "name": "Whitechain",
+  "symbol": "WBT",
+  "explorer_url": "https://explorer.whitechain.io",
+  "rpc_urls": [
+    "https://rpc.whitechain.io"
+  ]
+}

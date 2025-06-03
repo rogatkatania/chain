@@ -1,0 +1,9 @@
+{
+  "chain_id": "1777",
+  "name": "Gauss Mainnet",
+  "symbol": "Gauss",
+  "explorer_url": "https://explorer.gaussgang.com",
+  "rpc_urls": [
+    "https://rpc.gaussgang.com"
+  ]
+}

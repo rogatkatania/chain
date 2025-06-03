@@ -1,0 +1,9 @@
+{
+  "chain_id": "766",
+  "name": "QL1",
+  "symbol": "QOM",
+  "explorer_url": "https://scan.qom.one",
+  "rpc_urls": [
+    "https://rpc.qom.one"
+  ]
+}

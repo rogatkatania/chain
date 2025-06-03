@@ -1,0 +1,9 @@
+{
+  "chain_id": "27082022",
+  "name": "Excoincial Chain Mainnet",
+  "symbol": "EXL",
+  "explorer_url": "https://exlscan.com",
+  "rpc_urls": [
+    "https://rpc.exlscan.com"
+  ]
+}

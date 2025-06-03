@@ -1,0 +1,9 @@
+{
+  "chain_id": "333313",
+  "name": "Bloom Genesis Mainnet",
+  "symbol": "Bloom",
+  "explorer_url": "https://explorer.bloomgenesis.com",
+  "rpc_urls": [
+    "https://mainnet-rpc.bloomgenesis.com"
+  ]
+}

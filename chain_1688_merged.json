@@ -1,0 +1,9 @@
+{
+  "chain_id": "1688",
+  "name": "LUDAN Mainnet",
+  "symbol": "LUDAN",
+  "explorer_url": "",
+  "rpc_urls": [
+    "https://rpc.ludan.org"
+  ]
+}

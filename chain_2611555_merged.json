@@ -1,0 +1,9 @@
+{
+  "chain_id": "2611555",
+  "name": "DPU Chain",
+  "symbol": "DPU",
+  "explorer_url": "",
+  "rpc_urls": [
+    "https://sc-rpc.dpu.ac.th"
+  ]
+}

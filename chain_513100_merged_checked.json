@@ -1,0 +1,14 @@
+{
+  "chain_id": "513100",
+  "name": "EthereumFair",
+  "symbol": "ETHF",
+  "explorer_url": "https://www.oklink.com/ethf",
+  "rpc_urls": [
+    "https://rpc.dischain.xyz",
+    "https://rpc.etherfair.org"
+  ],
+  "rpc": [
+    "https://rpc.dischain.xyz",
+    "https://rpc.etherfair.org"
+  ]
+}

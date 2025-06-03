@@ -1,0 +1,11 @@
+{
+  "chain_id": "868",
+  "name": "Fantasia Chain Mainnet",
+  "symbol": "FSC",
+  "explorer_url": "https://explorer.fantasiachain.com",
+  "rpc_urls": [
+    "https://mainnet-data1.fantasiachain.com",
+    "https://mainnet-data2.fantasiachain.com",
+    "https://mainnet-data3.fantasiachain.com"
+  ]
+}

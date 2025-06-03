@@ -1,0 +1,11 @@
+{
+  "chain_id": "2049",
+  "name": "Movo Smart Chain Mainnet",
+  "symbol": "MOVO",
+  "explorer_url": "https://movoscan.com",
+  "rpc_urls": [
+    "https://msc-rpc.movochain.org",
+    "https://msc-rpc.movoscan.com",
+    "https://msc-rpc.movoswap.com"
+  ]
+}

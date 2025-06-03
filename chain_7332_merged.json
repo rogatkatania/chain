@@ -1,0 +1,10 @@
+{
+  "chain_id": "7332",
+  "name": "Horizen EON Mainnet",
+  "symbol": "EON",
+  "explorer_url": "https://eon-explorer.horizenlabs.io",
+  "rpc_urls": [
+    "https://eon-rpc.horizenlabs.io/ethv1",
+    "https://rpc.ankr.com/horizen_eon"
+  ]
+}

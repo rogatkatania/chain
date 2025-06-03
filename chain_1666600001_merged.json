@@ -1,0 +1,12 @@
+{
+  "chain_id": "1666600001",
+  "name": "Harmony Mainnet Shard 1",
+  "symbol": "Harmony",
+  "explorer_url": "https://explorer.harmony.one/blocks/shard/1",
+  "rpc_urls": [
+    "https://api.s1.t.hmny.io",
+    "https://harmony-1.drpc.org",
+    "https://s1.api.harmony.one",
+    "wss://harmony-1.drpc.org"
+  ]
+}

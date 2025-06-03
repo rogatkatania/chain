@@ -1,0 +1,9 @@
+{
+  "chain_id": "9369",
+  "name": "Z Chain",
+  "symbol": "Z",
+  "explorer_url": "https://zscan.live",
+  "rpc_urls": [
+    "https://rpc.zchain.org"
+  ]
+}

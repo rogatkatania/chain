@@ -1,0 +1,10 @@
+{
+  "chain_id": "1515",
+  "name": "Beagle Messaging Chain",
+  "symbol": "BMC",
+  "explorer_url": "https://eth.beagle.chat",
+  "rpc_urls": [
+    "https://beagle.chat/eth"
+  ],
+  "rpc": []
+}

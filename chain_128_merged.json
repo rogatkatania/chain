@@ -1,0 +1,14 @@
+{
+  "chain_id": "128",
+  "name": "Huobi ECO Chain Mainnet",
+  "symbol": "Heco",
+  "explorer_url": "https://hecoinfo.com",
+  "rpc_urls": [
+    "https://heco.drpc.org",
+    "https://hecoapi.terminet.io/rpc",
+    "https://http-mainnet-node.huobichain.com",
+    "https://http-mainnet.hecochain.com",
+    "wss://heco.drpc.org",
+    "wss://ws-mainnet.hecochain.com"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "chain_id": "16507",
+  "name": "Genesys Mainnet",
+  "symbol": "Genesys",
+  "explorer_url": "https://gchainexplorer.genesys.network",
+  "rpc_urls": [
+    "https://rpc.genesys.network"
+  ],
+  "rpc": []
+}

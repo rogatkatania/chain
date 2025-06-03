@@ -1,0 +1,10 @@
+{
+  "chain_id": "19011",
+  "name": "HOME Verse Mainnet",
+  "symbol": "HOME Verse",
+  "explorer_url": "https://explorer.oasys.homeverse.games",
+  "rpc_urls": [
+    "https://rpc.mainnet.oasys.homeverse.games"
+  ],
+  "rpc": []
+}

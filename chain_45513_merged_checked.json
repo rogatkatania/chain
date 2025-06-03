@@ -1,0 +1,13 @@
+{
+  "chain_id": "45513",
+  "name": "Blessnet",
+  "symbol": "ETH",
+  "explorer_url": "https://blessnet.calderaexplorer.xyz",
+  "rpc_urls": [
+    "https://blessnet.calderachain.xyz/http",
+    "wss://blessnet.calderachain.xyz/ws"
+  ],
+  "rpc": [
+    "https://blessnet.calderachain.xyz/http"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "chain_id": "181",
+  "name": "Waterfall Network",
+  "symbol": "Waterfall Network",
+  "explorer_url": "",
+  "rpc_urls": [
+    "https://rpc.waterfall.network"
+  ],
+  "rpc": []
+}

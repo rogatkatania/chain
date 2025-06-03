@@ -1,0 +1,11 @@
+{
+  "chain_id": "4058",
+  "name": "Bahamut ocean",
+  "symbol": "Bahamut",
+  "explorer_url": "https://ocean.ftnscan.com",
+  "rpc_urls": [
+    "https://Bahamut-ocean-6h42j7.zeeve.net",
+    "https://rpc1.ocean.bahamutchain.com"
+  ],
+  "rpc": []
+}

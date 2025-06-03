@@ -1,0 +1,11 @@
+{
+  "chain_id": "4242",
+  "name": "Nexi Mainnet",
+  "symbol": "Nexi",
+  "explorer_url": "https://www.nexiscan.com",
+  "rpc_urls": [
+    "https://chain.nexi.evmnode.online",
+    "https://chain.nexilix.com",
+    "https://rpc.chain.nexi.technology"
+  ]
+}

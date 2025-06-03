@@ -1,0 +1,12 @@
+{
+  "chain_id": "5234",
+  "name": "Humanode Mainnet",
+  "symbol": "HMND",
+  "explorer_url": "https://humanode.subscan.io",
+  "rpc_urls": [
+    "https://explorer-rpc-http.mainnet.stages.humanode.io"
+  ],
+  "rpc": [
+    "https://explorer-rpc-http.mainnet.stages.humanode.io"
+  ]
+}

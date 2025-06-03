@@ -1,0 +1,9 @@
+{
+  "chain_id": "1209",
+  "name": "SaitaBlockChain(SBC)",
+  "symbol": "SaitaBlockChain(SBC)",
+  "explorer_url": "https://saitascan.io",
+  "rpc_urls": [
+    "https://rpc-nodes.saitascan.io"
+  ]
+}

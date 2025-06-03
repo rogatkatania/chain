@@ -1,0 +1,9 @@
+{
+  "chain_id": "144",
+  "name": "PHI Network v2",
+  "symbol": "PHI",
+  "explorer_url": "https://phiscan.com",
+  "rpc_urls": [
+    "https://connect.phi.network"
+  ]
+}

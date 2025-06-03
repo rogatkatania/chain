@@ -1,0 +1,10 @@
+{
+  "chain_id": "2032",
+  "name": "Catalyst",
+  "symbol": "CFG",
+  "explorer_url": "",
+  "rpc_urls": [
+    "wss://fullnode.catalyst.cntrfg.com"
+  ],
+  "rpc": []
+}

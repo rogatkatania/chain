@@ -1,0 +1,9 @@
+{
+  "chain_id": "20993",
+  "name": "Fluent Developer Preview",
+  "symbol": "Fluent",
+  "explorer_url": "https://blockscout.dev.gblend.xyz",
+  "rpc_urls": [
+    "https://rpc.dev.gblend.xyz"
+  ]
+}

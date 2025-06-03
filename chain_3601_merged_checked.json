@@ -1,0 +1,12 @@
+{
+  "chain_id": "3601",
+  "name": "PandoProject Mainnet",
+  "symbol": "PandoProject",
+  "explorer_url": "https://explorer.pandoproject.org",
+  "rpc_urls": [
+    "https://eth-rpc-api.pandoproject.org/rpc"
+  ],
+  "rpc": [
+    "https://eth-rpc-api.pandoproject.org/rpc"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "chain_id": "504441",
+  "name": "Playdapp Network",
+  "symbol": "PDA",
+  "explorer_url": "https://subnets.avax.network/playdappne",
+  "rpc_urls": [
+    "https://subnets.avax.network/playdappne/mainnet/rpc"
+  ],
+  "rpc": []
+}

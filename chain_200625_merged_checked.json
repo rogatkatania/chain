@@ -1,0 +1,11 @@
+{
+  "chain_id": "200625",
+  "name": "Akroma",
+  "symbol": "AKA",
+  "explorer_url": "",
+  "rpc_urls": [
+    "https://boot2.akroma.org",
+    "https://remote.akroma.io"
+  ],
+  "rpc": []
+}

@@ -1,0 +1,9 @@
+{
+  "chain_id": "101003",
+  "name": "Socotra JUNE-Chain",
+  "symbol": "Socotra JUNE-Chain",
+  "explorer_url": "https://socotra.juneoscan.io/chain/2",
+  "rpc_urls": [
+    "https://rpc.socotra-testnet.network/ext/bc/JUNE/rpc"
+  ]
+}

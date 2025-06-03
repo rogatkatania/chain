@@ -1,0 +1,9 @@
+{
+  "chain_id": "8889",
+  "name": "Vyvo Smart Chain",
+  "symbol": "VSC",
+  "explorer_url": "",
+  "rpc_urls": [
+    "https://vsc-dataseed.vyvo.org:8889"
+  ]
+}

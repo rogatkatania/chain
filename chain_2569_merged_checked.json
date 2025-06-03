@@ -1,0 +1,10 @@
+{
+  "chain_id": "2569",
+  "name": "TechPay Mainnet",
+  "symbol": "TPC",
+  "explorer_url": "https://tpcscan.com",
+  "rpc_urls": [
+    "https://api.techpay.io"
+  ],
+  "rpc": []
+}

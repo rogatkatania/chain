@@ -1,0 +1,9 @@
+{
+  "chain_id": "13600",
+  "name": "Kronobit Mainnet",
+  "symbol": "KNB",
+  "explorer_url": "https://explorer.qbitscan.com",
+  "rpc_urls": [
+    "https://mainnet-rpc.qbitscan.com"
+  ]
+}

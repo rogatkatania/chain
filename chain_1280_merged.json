@@ -1,0 +1,9 @@
+{
+  "chain_id": "1280",
+  "name": "HALO Mainnet",
+  "symbol": "HALO",
+  "explorer_url": "https://browser.halo.land",
+  "rpc_urls": [
+    "https://nodes.halo.land"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "chain_id": "12020498",
+  "name": "Lummio Network",
+  "symbol": "Lummio Network",
+  "explorer_url": "https://blockscout.lummio.net",
+  "rpc_urls": [
+    "https://rpc.lummio.net"
+  ],
+  "rpc": []
+}

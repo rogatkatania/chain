@@ -1,0 +1,11 @@
+{
+  "chain_id": "123420000588",
+  "name": "volmex",
+  "symbol": "volmex",
+  "explorer_url": "https://volmex.cloud.blockscout.com",
+  "rpc_urls": [
+    "https://rpc.volmex.t.raas.gelato.cloud",
+    "wss://ws.volmex.t.raas.gelato.cloud"
+  ],
+  "rpc": []
+}

@@ -1,0 +1,9 @@
+{
+  "chain_id": "743",
+  "name": "Tranched Mainnet",
+  "symbol": "tranched-mainnet",
+  "explorer_url": "https://tranched-mainnet.calderaexplorer.xyz",
+  "rpc_urls": [
+    "https://tranched-mainnet.calderachain.xyz/http"
+  ]
+}

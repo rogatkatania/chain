@@ -1,0 +1,9 @@
+{
+  "chain_id": "6119",
+  "name": "UPTN",
+  "symbol": "UPTN",
+  "explorer_url": "https://explorer.uptn.io",
+  "rpc_urls": [
+    "https://node-api.uptn.io/v1/ext/rpc"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "chain_id": "8082",
+  "name": "Shardeum Sphinx 1.X",
+  "symbol": "Shardeum",
+  "explorer_url": "https://explorer-sphinx.shardeum.org",
+  "rpc_urls": [
+    "https://sphinx.shardeum.org"
+  ]
+}

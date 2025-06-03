@@ -1,0 +1,12 @@
+{
+  "chain_id": "24734",
+  "name": "MintMe.com Coin",
+  "symbol": "MINTME",
+  "explorer_url": "",
+  "rpc_urls": [
+    "https://0xrpc.io/mint",
+    "https://node.1000x.ch",
+    "https://node1.mintme.com",
+    "wss://0xrpc.io/mint"
+  ]
+}

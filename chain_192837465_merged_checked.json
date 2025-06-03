@@ -1,0 +1,10 @@
+{
+  "chain_id": "192837465",
+  "name": "Gather Mainnet Network",
+  "symbol": "GTH",
+  "explorer_url": "https://explorer.gather.network",
+  "rpc_urls": [
+    "https://mainnet.gather.network"
+  ],
+  "rpc": []
+}

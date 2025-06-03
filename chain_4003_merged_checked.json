@@ -1,0 +1,10 @@
+{
+  "chain_id": "4003",
+  "name": "X1 Fastnet",
+  "symbol": "X1",
+  "explorer_url": "https://explorer.x1-fastnet.xen.network",
+  "rpc_urls": [
+    "https://x1-fastnet.xen.network"
+  ],
+  "rpc": []
+}

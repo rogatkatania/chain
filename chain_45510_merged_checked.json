@@ -1,0 +1,12 @@
+{
+  "chain_id": "45510",
+  "name": "Deelance Mainnet",
+  "symbol": "DEE",
+  "explorer_url": "https://deescan.com",
+  "rpc_urls": [
+    "https://rpc.deelance.com"
+  ],
+  "rpc": [
+    "https://rpc.deelance.com"
+  ]
+}

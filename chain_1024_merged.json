@@ -1,0 +1,9 @@
+{
+  "chain_id": "1024",
+  "name": "CLV Parachain",
+  "symbol": "CLV",
+  "explorer_url": "",
+  "rpc_urls": [
+    "https://api-para.clover.finance"
+  ]
+}

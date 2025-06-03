@@ -1,0 +1,9 @@
+{
+  "chain_id": "3332",
+  "name": "EthStorage L2 Mainnet",
+  "symbol": "EthStorage",
+  "explorer_url": "",
+  "rpc_urls": [
+    "http://mainnet.l2.ethstorage.io:9540"
+  ]
+}

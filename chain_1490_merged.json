@@ -1,0 +1,9 @@
+{
+  "chain_id": "1490",
+  "name": "Vitruveo Mainnet",
+  "symbol": "Vitruveo",
+  "explorer_url": "https://explorer.vitruveo.xyz",
+  "rpc_urls": [
+    "https://rpc.vitruveo.xyz"
+  ]
+}

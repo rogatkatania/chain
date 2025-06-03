@@ -1,0 +1,10 @@
+{
+  "chain_id": "157",
+  "name": "Puppynet",
+  "symbol": "Puppynet",
+  "explorer_url": "https://puppyscan.shib.io",
+  "rpc_urls": [
+    "https://puppynet.shibrpc.com"
+  ],
+  "rpc": []
+}

@@ -1,0 +1,11 @@
+{
+  "chain_id": "1380012617",
+  "name": "RARI Chain",
+  "symbol": "RARI",
+  "explorer_url": "https://mainnet.explorer.rarichain.org/",
+  "rpc_urls": [
+    "https://mainnet.rpc.rarichain.org/http",
+    "https://rari.calderachain.xyz/http",
+    "wss://mainnet.rpc.rarichain.org/ws"
+  ]
+}

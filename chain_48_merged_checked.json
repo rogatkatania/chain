@@ -1,0 +1,10 @@
+{
+  "chain_id": "48",
+  "name": "Ennothem Mainnet Proterozoic",
+  "symbol": "ETMP",
+  "explorer_url": "https://etmscan.network",
+  "rpc_urls": [
+    "https://rpc.etm.network"
+  ],
+  "rpc": []
+}

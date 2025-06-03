@@ -1,0 +1,12 @@
+{
+  "chain_id": "2192",
+  "name": "SnaxChain",
+  "symbol": "ETH",
+  "explorer_url": "https://explorer.snaxchain.io",
+  "rpc_urls": [
+    "https://mainnet.snaxchain.io",
+    "https://snaxchain.drpc.org",
+    "wss://snaxchain.drpc.org"
+  ],
+  "rpc": []
+}

@@ -1,0 +1,12 @@
+{
+  "chain_id": "2477",
+  "name": "6Degree of Outreach",
+  "symbol": "6DO",
+  "explorer_url": "https://explorer.6dochain.com",
+  "rpc_urls": [
+    "https://rpc.6do.world",
+    "https://rpc.6dochain.com",
+    "https://rpc2.6dochain.com",
+    "https://rpc3.6dochain.com"
+  ]
+}

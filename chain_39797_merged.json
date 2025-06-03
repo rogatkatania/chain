@@ -1,0 +1,10 @@
+{
+  "chain_id": "39797",
+  "name": "Energi Mainnet",
+  "symbol": "NRG",
+  "explorer_url": "",
+  "rpc_urls": [
+    "https://explorer.energi.network/api/eth-rpc",
+    "https://nodeapi.energi.network"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "chain_id": "28882",
+  "name": "",
+  "symbol": "",
+  "explorer_url": "",
+  "rpc_urls": [
+    "https://boba-sepolia.gateway.tenderly.co",
+    "https://gateway.tenderly.co/public/boba-sepolia",
+    "https://sepolia.boba.network"
+  ],
+  "rpc": []
+}

@@ -1,0 +1,9 @@
+{
+  "chain_id": "495",
+  "name": "Landstars",
+  "symbol": "Landstars",
+  "explorer_url": "",
+  "rpc_urls": [
+    "https://13882-60301.pph-server.de"
+  ]
+}

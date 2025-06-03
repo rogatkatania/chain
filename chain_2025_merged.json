@@ -1,0 +1,9 @@
+{
+  "chain_id": "2025",
+  "name": "Rangers Protocol Mainnet",
+  "symbol": "Rangers",
+  "explorer_url": "https://scan.rangersprotocol.com",
+  "rpc_urls": [
+    "https://mainnet.rangersprotocol.com/api/jsonrpc"
+  ]
+}

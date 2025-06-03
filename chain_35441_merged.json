@@ -1,0 +1,9 @@
+{
+  "chain_id": "35441",
+  "name": "Q Mainnet",
+  "symbol": "Q",
+  "explorer_url": "https://explorer.q.org",
+  "rpc_urls": [
+    "https://rpc.q.org"
+  ]
+}

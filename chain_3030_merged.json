@@ -1,0 +1,10 @@
+{
+  "chain_id": "3030",
+  "name": "BC Hyper Chain Mainnet",
+  "symbol": "BC Hyper Chain",
+  "explorer_url": "https://bchscan.io",
+  "rpc_urls": [
+    "https://datahub-asia01.bchscan.io",
+    "https://mainapi.bchscan.io"
+  ]
+}

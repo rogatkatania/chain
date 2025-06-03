@@ -1,0 +1,9 @@
+{
+  "chain_id": "9322252",
+  "name": "XCAP",
+  "symbol": "XCAP",
+  "explorer_url": "https://xcap-mainnet.explorer.xcap.network",
+  "rpc_urls": [
+    "https://xcap-mainnet.relay.xcap.network/znzvh2ueyvm2yts5fv5gnul395jbkfb2/rpc1"
+  ]
+}

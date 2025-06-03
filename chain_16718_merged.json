@@ -1,0 +1,9 @@
+{
+  "chain_id": "16718",
+  "name": "AirDAO Mainnet",
+  "symbol": "ambnet",
+  "explorer_url": "https://airdao.io/explorer",
+  "rpc_urls": [
+    "https://network.ambrosus.io"
+  ]
+}

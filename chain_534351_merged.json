@@ -1,0 +1,11 @@
+{
+  "chain_id": "534351",
+  "name": "",
+  "symbol": "",
+  "explorer_url": "",
+  "rpc_urls": [
+    "https://scroll-sepolia-rpc.publicnode.com",
+    "https://scroll-sepolia.chainstacklabs.com",
+    "https://sepolia-rpc.scroll.io"
+  ]
+}

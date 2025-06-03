@@ -1,0 +1,12 @@
+{
+  "chain_id": "1149",
+  "name": "Symplexia Smart Chain",
+  "symbol": "Plexchain",
+  "explorer_url": "https://explorer.plexfinance.us",
+  "rpc_urls": [
+    "https://plex-rpc.plexfinance.us"
+  ],
+  "rpc": [
+    "https://plex-rpc.plexfinance.us"
+  ]
+}

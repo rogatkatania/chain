@@ -1,0 +1,9 @@
+{
+  "chain_id": "360890",
+  "name": "LAVITA Mainnet",
+  "symbol": "LAVITA",
+  "explorer_url": "https://tsub360890-explorer.thetatoken.org",
+  "rpc_urls": [
+    "https://tsub360890-eth-rpc.thetatoken.org/rpc"
+  ]
+}

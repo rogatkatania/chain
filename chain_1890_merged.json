@@ -1,0 +1,10 @@
+{
+  "chain_id": "1890",
+  "name": "Lightlink Phoenix Mainnet",
+  "symbol": "Lightlink Phoenix Mainnet",
+  "explorer_url": "https://phoenix.lightlink.io",
+  "rpc_urls": [
+    "https://endpoints.omniatech.io/v1/lightlink/phoenix/public",
+    "https://replicator.phoenix.lightlink.io/rpc/v1"
+  ]
+}

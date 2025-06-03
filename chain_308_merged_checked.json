@@ -1,0 +1,10 @@
+{
+  "chain_id": "308",
+  "name": "Furtheon",
+  "symbol": "Furtheon Network",
+  "explorer_url": "http://furthscan.com",
+  "rpc_urls": [
+    "https://rpc.furtheon.org"
+  ],
+  "rpc": []
+}

@@ -1,0 +1,9 @@
+{
+  "chain_id": "666301171999",
+  "name": "PDC Mainnet",
+  "symbol": "IPDC",
+  "explorer_url": "https://scan.ipdc.io",
+  "rpc_urls": [
+    "https://mainnet.ipdc.io"
+  ]
+}

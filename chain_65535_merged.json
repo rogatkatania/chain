@@ -1,0 +1,9 @@
+{
+  "chain_id": "65535",
+  "name": "CyberChain Mainnet",
+  "symbol": "XCC",
+  "explorer_url": "https://scan.cyberchain.xyz",
+  "rpc_urls": [
+    "https://rpc.cyberchain.xyz"
+  ]
+}

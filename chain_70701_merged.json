@@ -1,0 +1,9 @@
+{
+  "chain_id": "70701",
+  "name": "Proof of Play - Boss",
+  "symbol": "ETH",
+  "explorer_url": "https://explorer.boss.proofofplay.com",
+  "rpc_urls": [
+    "https://rpc.boss.proofofplay.com"
+  ]
+}

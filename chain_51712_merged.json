@@ -1,0 +1,9 @@
+{
+  "chain_id": "51712",
+  "name": "Sardis Mainnet",
+  "symbol": "SRDX",
+  "explorer_url": "https://contract-mainnet.sardisnetwork.com",
+  "rpc_urls": [
+    "https://mainnet-rpc.sardisnetwork.com"
+  ]
+}

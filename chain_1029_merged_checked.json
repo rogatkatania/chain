@@ -1,0 +1,10 @@
+{
+  "chain_id": "1029",
+  "name": "BitTorrent Chain Donau",
+  "symbol": "BTTC",
+  "explorer_url": "https://testnet.bttcscan.com",
+  "rpc_urls": [
+    "https://pre-rpc.bt.io"
+  ],
+  "rpc": []
+}

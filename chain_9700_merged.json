@@ -1,0 +1,9 @@
+{
+  "chain_id": "9700",
+  "name": "Oort MainnetDev",
+  "symbol": "MainnetDev",
+  "explorer_url": "https://dev-scan.oortech.com",
+  "rpc_urls": [
+    "https://dev-rpc.oortech.com"
+  ]
+}

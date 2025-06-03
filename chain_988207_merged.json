@@ -1,0 +1,9 @@
+{
+  "chain_id": "988207",
+  "name": "Ecrox Chain Mainnet",
+  "symbol": "Ecrox Chain",
+  "explorer_url": "https://ecroxscan.com",
+  "rpc_urls": [
+    "https://mainnet-rpc.ecroxscan.com"
+  ]
+}

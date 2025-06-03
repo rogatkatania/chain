@@ -1,0 +1,10 @@
+{
+  "chain_id": "42766",
+  "name": "ZKFair Mainnet",
+  "symbol": "ZKFair",
+  "explorer_url": "https://scan.zkfair.io",
+  "rpc_urls": [
+    "https://endpoints.omniatech.io/v1/zkfair/mainnet/public",
+    "https://rpc.zkfair.io"
+  ]
+}

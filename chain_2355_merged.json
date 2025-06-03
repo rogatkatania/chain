@@ -1,0 +1,10 @@
+{
+  "chain_id": "2355",
+  "name": "Silicon zkEVM",
+  "symbol": "Silicon",
+  "explorer_url": "https://scope.silicon.network",
+  "rpc_urls": [
+    "https://rpc.silicon.network",
+    "https://silicon-mainnet.nodeinfra.com"
+  ]
+}

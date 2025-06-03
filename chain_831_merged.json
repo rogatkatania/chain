@@ -1,0 +1,9 @@
+{
+  "chain_id": "831",
+  "name": "CheckDot Blockchain Devnet",
+  "symbol": "CDT Blockchain",
+  "explorer_url": "https://explorer.checkdot.io",
+  "rpc_urls": [
+    "https://devnet.checkdot.io"
+  ]
+}

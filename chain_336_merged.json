@@ -1,0 +1,17 @@
+{
+  "chain_id": "336",
+  "name": "Shiden",
+  "symbol": "SDN",
+  "explorer_url": "https://shiden.subscan.io",
+  "rpc_urls": [
+    "https://rpc.shiden.astar.network:8545",
+    "https://shiden-rpc.dwellir.com",
+    "https://shiden.api.onfinality.io/public",
+    "https://shiden.public.blastapi.io",
+    "https://shiden.public.curie.radiumblock.co/http",
+    "https://shiden.public.curie.radiumblock.co/ws",
+    "wss://shiden-rpc.dwellir.com",
+    "wss://shiden.api.onfinality.io/public-ws",
+    "wss://shiden.public.blastapi.io"
+  ]
+}

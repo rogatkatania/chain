@@ -1,0 +1,10 @@
+{
+  "chain_id": "29223",
+  "name": "Nexa MetaNet",
+  "symbol": "NEXA",
+  "explorer_url": "https://nexa.sh",
+  "rpc_urls": [
+    "https://nexa.sh/metanet"
+  ],
+  "rpc": []
+}

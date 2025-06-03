@@ -1,0 +1,10 @@
+{
+  "chain_id": "2342",
+  "name": "Omnia Chain",
+  "symbol": "OMNIA",
+  "explorer_url": "https://scan.omniaverse.io",
+  "rpc_urls": [
+    "https://rpc.omniaverse.io"
+  ],
+  "rpc": []
+}

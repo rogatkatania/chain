@@ -1,0 +1,9 @@
+{
+  "chain_id": "2112",
+  "name": "UCHAIN Mainnet",
+  "symbol": "UCHAIN",
+  "explorer_url": "https://uchain.info",
+  "rpc_urls": [
+    "https://rpc.uchain.link"
+  ]
+}

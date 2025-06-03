@@ -1,0 +1,10 @@
+{
+  "chain_id": "24125",
+  "name": "Nexurachain",
+  "symbol": "nexurachain",
+  "explorer_url": "https://explorer.nexurachain.io",
+  "rpc_urls": [
+    "https://rpc.nexurachain.io"
+  ],
+  "rpc": []
+}

@@ -1,0 +1,9 @@
+{
+  "chain_id": "100000000",
+  "name": "Ethos",
+  "symbol": "ETHOS",
+  "explorer_url": "https://scan.ethos.cool",
+  "rpc_urls": [
+    "https://rpc.ethos.cool"
+  ]
+}

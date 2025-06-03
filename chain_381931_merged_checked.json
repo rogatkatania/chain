@@ -1,0 +1,13 @@
+{
+  "chain_id": "381931",
+  "name": "Metal C-Chain",
+  "symbol": "Metal",
+  "explorer_url": "https://metalscan.io",
+  "rpc_urls": [
+    "https://api.metalblockchain.org/ext/bc/C/rpc",
+    "https://api.metalblockchain.org/ext/bc/c/rpc"
+  ],
+  "rpc": [
+    "https://api.metalblockchain.org/ext/bc/C/rpc"
+  ]
+}

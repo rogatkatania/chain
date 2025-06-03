@@ -1,0 +1,10 @@
+{
+  "chain_id": "19516",
+  "name": "SEC Mainnet",
+  "symbol": "SEC",
+  "explorer_url": "https://secexplorer.io",
+  "rpc_urls": [
+    "https://rpc.secexplorer.io"
+  ],
+  "rpc": []
+}

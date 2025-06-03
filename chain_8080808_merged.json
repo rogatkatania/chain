@@ -1,0 +1,9 @@
+{
+  "chain_id": "8080808",
+  "name": "Hokum",
+  "symbol": "Hokum",
+  "explorer_url": "https://explorer.hokum.gg",
+  "rpc_urls": [
+    "https://mainnet.hokum.gg"
+  ]
+}

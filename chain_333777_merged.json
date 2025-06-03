@@ -1,0 +1,9 @@
+{
+  "chain_id": "333777",
+  "name": "Oone Chain Devnet",
+  "symbol": "OONE Devnet",
+  "explorer_url": "https://dev.oonescan.com",
+  "rpc_urls": [
+    "https://rpc.dev.oonechain.com"
+  ]
+}

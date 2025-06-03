@@ -1,0 +1,15 @@
+{
+  "chain_id": "79",
+  "name": "Zenith Mainnet",
+  "symbol": "Zenith",
+  "explorer_url": "https://scan.zenithchain.co",
+  "rpc_urls": [
+    "https://dataserver-asia-2.zenithchain.co",
+    "https://dataserver-asia-3.zenithchain.co",
+    "https://dataserver-asia-4.zenithchain.co",
+    "https://dataserver-asia-5.zenithchain.co",
+    "https://dataserver-asia-6.zenithchain.co",
+    "https://dataserver-asia-7.zenithchain.co",
+    "https://dataserver-us-1.zenithchain.co"
+  ]
+}

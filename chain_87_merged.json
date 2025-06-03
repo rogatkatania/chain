@@ -1,0 +1,12 @@
+{
+  "chain_id": "87",
+  "name": "Nova Network",
+  "symbol": "NNW",
+  "explorer_url": "https://explorer.novanetwork.io",
+  "rpc_urls": [
+    "https://0x57.redjackstudio.com",
+    "https://connect.novanetwork.io",
+    "https://dev.rpc.novanetwork.io",
+    "https://rpc.novanetwork.io:9070"
+  ]
+}

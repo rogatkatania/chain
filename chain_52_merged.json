@@ -1,0 +1,13 @@
+{
+  "chain_id": "52",
+  "name": "CoinEx Smart Chain Mainnet",
+  "symbol": "CSC",
+  "explorer_url": "https://www.coinex.net",
+  "rpc_urls": [
+    "https://rpc.coinex.net",
+    "https://rpc1.coinex.net",
+    "https://rpc2.coinex.net",
+    "https://rpc3.coinex.net",
+    "https://rpc4.coinex.net"
+  ]
+}

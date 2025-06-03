@@ -1,0 +1,11 @@
+{
+  "chain_id": "50104",
+  "name": "Sophon",
+  "symbol": "Sophon",
+  "explorer_url": "https://explorer.sophon.xyz",
+  "rpc_urls": [
+    "https://rpc-quicknode.sophon.xyz",
+    "https://rpc.sophon.xyz",
+    "wss://rpc.sophon.xyz/ws"
+  ]
+}

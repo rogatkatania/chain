@@ -1,0 +1,13 @@
+{
+  "chain_id": "404",
+  "name": "Syndr L3",
+  "symbol": "SYNDR",
+  "explorer_url": "https://explorer.syndr.com",
+  "rpc_urls": [
+    "https://rpc.syndr.com",
+    "wss://rpc.syndr.com/ws"
+  ],
+  "rpc": [
+    "https://rpc.syndr.com"
+  ]
+}

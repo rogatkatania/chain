@@ -1,0 +1,10 @@
+{
+  "chain_id": "19191",
+  "name": "BlockX Mainnet",
+  "symbol": "blockx",
+  "explorer_url": "https://explorer.blockxnet.com",
+  "rpc_urls": [
+    "https://web3.blockxnet.com"
+  ],
+  "rpc": []
+}

@@ -1,0 +1,10 @@
+{
+  "chain_id": "381",
+  "name": "ZKAmoeba Mainnet",
+  "symbol": "FIL",
+  "explorer_url": "https://explorer.zkamoeba.com",
+  "rpc_urls": [
+    "https://rpc.mainnet.zkamoeba.com/rpc"
+  ],
+  "rpc": []
+}

@@ -1,0 +1,9 @@
+{
+  "chain_id": "13000",
+  "name": "SPS",
+  "symbol": "SPS",
+  "explorer_url": "http://spsscan.ssquad.games",
+  "rpc_urls": [
+    "https://rpc.ssquad.games"
+  ]
+}

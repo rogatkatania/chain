@@ -1,0 +1,10 @@
+{
+  "chain_id": "56026",
+  "name": "Lambda Chain Mainnet",
+  "symbol": "Lambda Chain",
+  "explorer_url": "https://scan.lambda.im",
+  "rpc_urls": [
+    "https://nrpc.lambda.im"
+  ],
+  "rpc": []
+}

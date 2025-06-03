@@ -1,0 +1,12 @@
+{
+  "chain_id": "70",
+  "name": "Hoo Smart Chain",
+  "symbol": "HSC",
+  "explorer_url": "https://www.hooscan.com",
+  "rpc_urls": [
+    "https://http-mainnet.hoosmartchain.com",
+    "https://http-mainnet2.hoosmartchain.com",
+    "wss://ws-mainnet.hoosmartchain.com",
+    "wss://ws-mainnet2.hoosmartchain.com"
+  ]
+}

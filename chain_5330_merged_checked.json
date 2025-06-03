@@ -1,0 +1,15 @@
+{
+  "chain_id": "5330",
+  "name": "Superseed",
+  "symbol": "ETH",
+  "explorer_url": "https://explorer.superseed.xyz",
+  "rpc_urls": [
+    "https://mainnet.superseed.xyz",
+    "https://superseed.drpc.org",
+    "wss://mainnet.superseed.xyz",
+    "wss://superseed.drpc.org"
+  ],
+  "rpc": [
+    "https://mainnet.superseed.xyz"
+  ]
+}

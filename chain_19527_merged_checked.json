@@ -1,0 +1,10 @@
+{
+  "chain_id": "19527",
+  "name": "Magnet Network",
+  "symbol": "Magnet",
+  "explorer_url": "",
+  "rpc_urls": [
+    "https://magnet-rpc.magport.io"
+  ],
+  "rpc": []
+}

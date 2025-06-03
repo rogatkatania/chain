@@ -1,0 +1,10 @@
+{
+  "chain_id": "1288",
+  "name": "Moonrock",
+  "symbol": "MOON",
+  "explorer_url": "",
+  "rpc_urls": [
+    "https://rpc.api.moonrock.moonbeam.network",
+    "wss://wss.api.moonrock.moonbeam.network"
+  ]
+}

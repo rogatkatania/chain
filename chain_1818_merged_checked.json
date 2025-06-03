@@ -1,0 +1,15 @@
+{
+  "chain_id": "1818",
+  "name": "Cube Chain Mainnet",
+  "symbol": "Cube",
+  "explorer_url": "https://cubescan.network",
+  "rpc_urls": [
+    "https://http-mainnet-sg.cube.network",
+    "https://http-mainnet-us.cube.network",
+    "https://http-mainnet.cube.network",
+    "wss://ws-mainnet-sg.cube.network",
+    "wss://ws-mainnet-us.cube.network",
+    "wss://ws-mainnet.cube.network"
+  ],
+  "rpc": []
+}

@@ -1,0 +1,9 @@
+{
+  "chain_id": "83278",
+  "name": "Esa",
+  "symbol": "Esa",
+  "explorer_url": "",
+  "rpc_urls": [
+    "http://65.108.151.70:8545"
+  ]
+}

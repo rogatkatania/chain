@@ -1,0 +1,9 @@
+{
+  "chain_id": "20001",
+  "name": "Camelark Mainnet",
+  "symbol": "ETHW",
+  "explorer_url": "https://scan.camelark.com",
+  "rpc_urls": [
+    "https://mainnet-http-rpc.camelark.com"
+  ]
+}

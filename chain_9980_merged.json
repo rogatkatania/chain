@@ -1,0 +1,9 @@
+{
+  "chain_id": "9980",
+  "name": "Combo Mainnet",
+  "symbol": "Combo",
+  "explorer_url": "https://combotrace.nodereal.io",
+  "rpc_urls": [
+    "https://rpc.combonetwork.io"
+  ]
+}

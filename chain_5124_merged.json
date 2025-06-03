@@ -1,0 +1,9 @@
+{
+  "chain_id": "5124",
+  "name": "Seismic devnet",
+  "symbol": "Seismic",
+  "explorer_url": "https://explorer-2.seismicdev.net",
+  "rpc_urls": [
+    "https://node-2.seismicdev.net/rpc"
+  ]
+}

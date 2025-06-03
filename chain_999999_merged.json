@@ -1,0 +1,9 @@
+{
+  "chain_id": "999999",
+  "name": "AmChain",
+  "symbol": "AmChain",
+  "explorer_url": "https://explorer.amchain.net",
+  "rpc_urls": [
+    "https://node1.amchain.net"
+  ]
+}

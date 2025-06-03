@@ -1,0 +1,13 @@
+{
+  "chain_id": "13371",
+  "name": "Immutable zkEVM",
+  "symbol": "Immutable zkEVM",
+  "explorer_url": "https://explorer.immutable.com",
+  "rpc_urls": [
+    "https://immutable-zkevm.drpc.org",
+    "https://immutable.gateway.tenderly.co",
+    "https://node.histori.xyz/immutable-mainnet/8ry9f6t9dct1se2hlagxnd9n2a",
+    "https://rpc.immutable.com",
+    "wss://immutable-zkevm.drpc.org"
+  ]
+}

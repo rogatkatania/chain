@@ -1,0 +1,9 @@
+{
+  "chain_id": "651940",
+  "name": "ALL Mainnet",
+  "symbol": "ALL",
+  "explorer_url": "https://alltra.global",
+  "rpc_urls": [
+    "https://mainnet-rpc.alltra.global"
+  ]
+}

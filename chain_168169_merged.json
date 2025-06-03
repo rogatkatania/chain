@@ -1,0 +1,9 @@
+{
+  "chain_id": "168169",
+  "name": "MUD Chain",
+  "symbol": "MUD",
+  "explorer_url": "https://scan.mud.network",
+  "rpc_urls": [
+    "https://rpc.mud.network"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "chain_id": "117",
+  "name": "Uptick Mainnet",
+  "symbol": "Uptick",
+  "explorer_url": "https://evm-explorer.uptick.network",
+  "rpc_urls": [
+    "https://json-rpc.uptick.network"
+  ],
+  "rpc": [
+    "https://json-rpc.uptick.network"
+  ]
+}

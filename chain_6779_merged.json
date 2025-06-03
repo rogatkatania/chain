@@ -1,0 +1,10 @@
+{
+  "chain_id": "6779",
+  "name": "Compverse Mainnet",
+  "symbol": "CPV",
+  "explorer_url": "https://scan.compverse.io",
+  "rpc_urls": [
+    "https://rpc-useast1.compverse.io",
+    "https://rpc.compverse.io"
+  ]
+}

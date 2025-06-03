@@ -1,0 +1,12 @@
+{
+  "chain_id": "4048",
+  "name": "",
+  "symbol": "",
+  "explorer_url": "",
+  "rpc_urls": [
+    "https://rpc.gpu.net"
+  ],
+  "rpc": [
+    "https://rpc.gpu.net"
+  ]
+}

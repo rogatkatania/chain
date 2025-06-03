@@ -1,0 +1,10 @@
+{
+  "chain_id": "25186",
+  "name": "LiquidLayer Mainnet",
+  "symbol": "LiquidLayer",
+  "explorer_url": "https://scan.liquidlayer.network",
+  "rpc_urls": [
+    "https://mainnet.liquidlayer.network"
+  ],
+  "rpc": []
+}

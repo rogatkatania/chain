@@ -1,0 +1,15 @@
+{
+  "chain_id": "109",
+  "name": "Shibarium",
+  "symbol": "Shibarium",
+  "explorer_url": "https://www.shibariumscan.io",
+  "rpc_urls": [
+    "https://rpc.shibrpc.com",
+    "https://shib.nownodes.io",
+    "https://www.shibrpc.com"
+  ],
+  "rpc": [
+    "https://rpc.shibrpc.com",
+    "https://www.shibrpc.com"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "chain_id": "25327",
+  "name": "Everclear Mainnet",
+  "symbol": "Everclear Mainnet",
+  "explorer_url": "https://scan.everclear.org",
+  "rpc_urls": [
+    "https://everclear.drpc.org",
+    "https://rpc.everclear.raas.gelato.cloud",
+    "wss://everclear.drpc.org"
+  ],
+  "rpc": []
+}

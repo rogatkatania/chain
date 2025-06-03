@@ -1,0 +1,12 @@
+{
+  "chain_id": "2911",
+  "name": "HYCHAIN",
+  "symbol": "ETH",
+  "explorer_url": "https://explorer.hychain.com",
+  "rpc_urls": [
+    "https://rpc.hychain.com/http"
+  ],
+  "rpc": [
+    "https://rpc.hychain.com/http"
+  ]
+}

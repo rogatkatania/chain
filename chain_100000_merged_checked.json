@@ -1,0 +1,10 @@
+{
+  "chain_id": "100000",
+  "name": "QuarkChain Mainnet Root",
+  "symbol": "QuarkChain",
+  "explorer_url": "",
+  "rpc_urls": [
+    "http://jrpc.mainnet.quarkchain.io:38391"
+  ],
+  "rpc": []
+}

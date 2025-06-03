@@ -1,0 +1,12 @@
+{
+  "chain_id": "1003",
+  "name": "Tectum Emission Token",
+  "symbol": "TET",
+  "explorer_url": "https://explorer.tectum.io",
+  "rpc_urls": [
+    "https://rpc.softnote.com"
+  ],
+  "rpc": [
+    "https://rpc.softnote.com"
+  ]
+}

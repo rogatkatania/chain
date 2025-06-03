@@ -1,0 +1,9 @@
+{
+  "chain_id": "207",
+  "name": "VinuChain Network",
+  "symbol": "VinuChain",
+  "explorer_url": "https://vinuscan.com",
+  "rpc_urls": [
+    "https://vinuchain-rpc.com"
+  ]
+}

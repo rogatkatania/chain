@@ -1,0 +1,10 @@
+{
+  "chain_id": "168168",
+  "name": "Zchains",
+  "symbol": "Zchains",
+  "explorer_url": "https://scan.zchains.com",
+  "rpc_urls": [
+    "https://rpc.zchains.com"
+  ],
+  "rpc": []
+}

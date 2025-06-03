@@ -1,0 +1,9 @@
+{
+  "chain_id": "7208",
+  "name": "Nexera Mainnet",
+  "symbol": "Nexera",
+  "explorer_url": "",
+  "rpc_urls": [
+    "https://rpc.nexera.network"
+  ]
+}

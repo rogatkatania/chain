@@ -1,0 +1,10 @@
+{
+  "chain_id": "1350216234",
+  "name": "SKALE Titan Hub",
+  "symbol": "parallel-stormy-spica",
+  "explorer_url": "https://parallel-stormy-spica.explorer.mainnet.skalenodes.com",
+  "rpc_urls": [
+    "https://mainnet.skalenodes.com/v1/parallel-stormy-spica",
+    "wss://mainnet.skalenodes.com/v1/ws/parallel-stormy-spica"
+  ]
+}

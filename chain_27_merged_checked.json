@@ -1,0 +1,11 @@
+{
+  "chain_id": "27",
+  "name": "ShibaChain",
+  "symbol": "SHIB",
+  "explorer_url": "https://exp.shibchain.org",
+  "rpc_urls": [
+    "https://rpc.shibachain.net",
+    "https://rpc.shibchain.org"
+  ],
+  "rpc": []
+}

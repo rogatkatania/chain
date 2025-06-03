@@ -1,0 +1,10 @@
+{
+  "chain_id": "201018",
+  "name": "Alaya Mainnet",
+  "symbol": "Alaya",
+  "explorer_url": "https://scan.alaya.network",
+  "rpc_urls": [
+    "https://openapi.alaya.network/rpc",
+    "wss://openapi.alaya.network/ws"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "chain_id": "6667",
+  "name": "Storchain",
+  "symbol": "STR",
+  "explorer_url": "https://scan.storchain.io",
+  "rpc_urls": [
+    "https://rpc.storchain.io"
+  ]
+}

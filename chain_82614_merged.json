@@ -1,0 +1,9 @@
+{
+  "chain_id": "82614",
+  "name": "VEMP Horizon",
+  "symbol": "vemp-horizon",
+  "explorer_url": "https://vemp-horizon.calderaexplorer.xyz",
+  "rpc_urls": [
+    "https://vemp-horizon.calderachain.xyz/http"
+  ]
+}

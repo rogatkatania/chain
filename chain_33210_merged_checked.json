@@ -1,0 +1,10 @@
+{
+  "chain_id": "33210",
+  "name": "Cloudverse Subnet",
+  "symbol": "CLOUDVERSE",
+  "explorer_url": "https://subnets.avax.network/cloudverse",
+  "rpc_urls": [
+    "https://subnets.avax.network/cloudverse/mainnet/rpc"
+  ],
+  "rpc": []
+}

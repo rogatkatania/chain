@@ -1,0 +1,11 @@
+{
+  "chain_id": "278",
+  "name": "xFair.AI Mainnet",
+  "symbol": "FAI",
+  "explorer_url": "",
+  "rpc_urls": [
+    "https://rpc_mainnet.xfair.ai",
+    "wss://rpc_mainnet.xfair.ai"
+  ],
+  "rpc": []
+}

@@ -1,0 +1,9 @@
+{
+  "chain_id": "16350",
+  "name": "Incentiv Devnet",
+  "symbol": "Incentiv",
+  "explorer_url": "",
+  "rpc_urls": [
+    "https://rpc.ankr.com/incentiv_devnet"
+  ]
+}

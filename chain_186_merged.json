@@ -1,0 +1,9 @@
+{
+  "chain_id": "186",
+  "name": "Seele Mainnet",
+  "symbol": "Seele",
+  "explorer_url": "https://seeleview.net",
+  "rpc_urls": [
+    "https://rpc.seelen.pro"
+  ]
+}

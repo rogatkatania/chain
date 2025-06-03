@@ -1,0 +1,9 @@
+{
+  "chain_id": "200200",
+  "name": "Zoo Mainnet",
+  "symbol": "Zoo",
+  "explorer_url": "https://explore.zoo.network",
+  "rpc_urls": [
+    "https://api.zoo.network"
+  ]
+}

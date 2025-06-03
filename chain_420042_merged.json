@@ -1,0 +1,9 @@
+{
+  "chain_id": "420042",
+  "name": "Vector Smart Chain",
+  "symbol": "VSC",
+  "explorer_url": "https://explorer.vscblockchain.org",
+  "rpc_urls": [
+    "https://rpc.vscblockchain.org"
+  ]
+}

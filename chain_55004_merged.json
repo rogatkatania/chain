@@ -1,0 +1,10 @@
+{
+  "chain_id": "55004",
+  "name": "Titan",
+  "symbol": "ETH",
+  "explorer_url": "https://explorer.titan.tokamak.network",
+  "rpc_urls": [
+    "https://rpc.titan.tokamak.network",
+    "wss://rpc.titan.tokamak.network"
+  ]
+}

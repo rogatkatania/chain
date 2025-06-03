@@ -1,0 +1,9 @@
+{
+  "chain_id": "337",
+  "name": "R5 Network",
+  "symbol": "r5",
+  "explorer_url": "https://explorer.r5.network",
+  "rpc_urls": [
+    "https://rpc.r5.network"
+  ]
+}

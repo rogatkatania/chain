@@ -1,0 +1,11 @@
+{
+  "chain_id": "11119",
+  "name": "HashBit Mainnet",
+  "symbol": "HBIT",
+  "explorer_url": "https://explorer.hashbit.org",
+  "rpc_urls": [
+    "https://mainnet-rpc.hashbit.org",
+    "https://rpc.hashbit.org"
+  ],
+  "rpc": []
+}

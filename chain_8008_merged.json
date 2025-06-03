@@ -1,0 +1,10 @@
+{
+  "chain_id": "8008",
+  "name": "Polynomial",
+  "symbol": "Polynomial",
+  "explorer_url": "https://polynomialscan.io",
+  "rpc_urls": [
+    "https://node.histori.xyz/polynomial-mainnet/8ry9f6t9dct1se2hlagxnd9n2a",
+    "https://rpc.polynomial.fi"
+  ]
+}

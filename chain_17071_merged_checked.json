@@ -1,0 +1,11 @@
+{
+  "chain_id": "17071",
+  "name": "Onchain Points",
+  "symbol": "POP",
+  "explorer_url": "https://explorer.onchainpoints.xyz",
+  "rpc_urls": [
+    "https://rpc-onchain-points-8n0qkkpr2j.t.conduit.xyz/{CONDUIT_API_KEY}",
+    "https://rpc.onchainpoints.xyz"
+  ],
+  "rpc": []
+}

@@ -1,0 +1,13 @@
+{
+  "chain_id": "381932",
+  "name": "Metal Tahoe C-Chain",
+  "symbol": "Metal",
+  "explorer_url": "https://tahoe.metalscan.io",
+  "rpc_urls": [
+    "https://tahoe.metalblockchain.org/ext/bc/C/rpc",
+    "https://tahoe.metalblockchain.org/ext/bc/c/rpc"
+  ],
+  "rpc": [
+    "https://tahoe.metalblockchain.org/ext/bc/C/rpc"
+  ]
+}

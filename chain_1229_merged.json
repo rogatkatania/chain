@@ -1,0 +1,9 @@
+{
+  "chain_id": "1229",
+  "name": "Exzo Network Mainnet",
+  "symbol": "EXZO",
+  "explorer_url": "https://exzoscan.io",
+  "rpc_urls": [
+    "https://mainnet.exzo.technology"
+  ]
+}

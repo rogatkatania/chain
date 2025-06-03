@@ -1,0 +1,11 @@
+{
+  "chain_id": "17069",
+  "name": "Garnet Holesky",
+  "symbol": "ETH",
+  "explorer_url": "https://explorer.garnetchain.com",
+  "rpc_urls": [
+    "https://rpc.garnetchain.com",
+    "wss://rpc.garnetchain.com"
+  ],
+  "rpc": []
+}

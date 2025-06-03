@@ -1,0 +1,12 @@
+{
+  "chain_id": "488",
+  "name": "BlackFort Exchange Network",
+  "symbol": "BXN",
+  "explorer_url": "https://blackfortscan.com",
+  "rpc_urls": [
+    "https://rpc.blackfort.network/mainnet/rpc"
+  ],
+  "rpc": [
+    "https://rpc.blackfort.network/mainnet/rpc"
+  ]
+}

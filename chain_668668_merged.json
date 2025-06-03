@@ -1,0 +1,9 @@
+{
+  "chain_id": "668668",
+  "name": "Conwai Mainnet",
+  "symbol": "CNW",
+  "explorer_url": "https://conwai.calderaexplorer.xyz",
+  "rpc_urls": [
+    "https://conwai.calderachain.xyz/http"
+  ]
+}

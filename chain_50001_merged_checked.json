@@ -1,0 +1,10 @@
+{
+  "chain_id": "50001",
+  "name": "Liveplex OracleEVM",
+  "symbol": "Liveplex OracleEVM Network",
+  "explorer_url": "",
+  "rpc_urls": [
+    "https://rpc.oracle.liveplex.io"
+  ],
+  "rpc": []
+}

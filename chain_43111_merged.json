@@ -1,0 +1,9 @@
+{
+  "chain_id": "43111",
+  "name": "Hemi",
+  "symbol": "ETH",
+  "explorer_url": "https://explorer.hemi.xyz",
+  "rpc_urls": [
+    "https://rpc.hemi.network/rpc"
+  ]
+}

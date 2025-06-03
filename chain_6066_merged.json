@@ -1,0 +1,10 @@
+{
+  "chain_id": "6066",
+  "name": "Tres Mainnet",
+  "symbol": "TresLeches",
+  "explorer_url": "https://explorer.tresleches.finance",
+  "rpc_urls": [
+    "https://rpc.treschain.io",
+    "https://rpc.tresleches.finance"
+  ]
+}

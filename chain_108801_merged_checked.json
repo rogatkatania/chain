@@ -1,0 +1,14 @@
+{
+  "chain_id": "108801",
+  "name": "BROChain Mainnet",
+  "symbol": "BRO",
+  "explorer_url": "https://explorer.brochain.org",
+  "rpc_urls": [
+    "http://rpc.brochain.org",
+    "http://rpc.brochain.org/mainnet",
+    "https://rpc.brochain.org",
+    "https://rpc.brochain.org/mainnet",
+    "rpcWorking:false"
+  ],
+  "rpc": []
+}

@@ -1,0 +1,12 @@
+{
+  "chain_id": "33333",
+  "name": "Aves Mainnet",
+  "symbol": "AVS",
+  "explorer_url": "https://avescan.io",
+  "rpc_urls": [
+    "https://rpc.avescoin.io"
+  ],
+  "rpc": [
+    "https://rpc.avescoin.io"
+  ]
+}

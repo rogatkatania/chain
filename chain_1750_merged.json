@@ -1,0 +1,12 @@
+{
+  "chain_id": "1750",
+  "name": "Metal L2",
+  "symbol": "Metal L2",
+  "explorer_url": "https://explorer.metall2.com",
+  "rpc_urls": [
+    "https://metall2.drpc.org",
+    "https://node.histori.xyz/metal-l2-mainnet/8ry9f6t9dct1se2hlagxnd9n2a",
+    "https://rpc.metall2.com",
+    "wss://metall2.drpc.org"
+  ]
+}

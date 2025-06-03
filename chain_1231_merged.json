@@ -1,0 +1,9 @@
+{
+  "chain_id": "1231",
+  "name": "Ultron Mainnet",
+  "symbol": "Ultron",
+  "explorer_url": "https://ulxscan.com",
+  "rpc_urls": [
+    "https://ultron-rpc.net"
+  ]
+}

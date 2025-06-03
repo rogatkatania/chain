@@ -1,0 +1,9 @@
+{
+  "chain_id": "1012",
+  "name": "Newton",
+  "symbol": "NEW",
+  "explorer_url": "",
+  "rpc_urls": [
+    "https://global.rpc.mainnet.newtonproject.org"
+  ]
+}

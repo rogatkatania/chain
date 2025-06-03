@@ -1,0 +1,10 @@
+{
+  "chain_id": "13068200",
+  "name": "COTI Devnet",
+  "symbol": "COTI",
+  "explorer_url": "https://explorer-devnet.coti.io",
+  "rpc_urls": [
+    "https://devnet.coti.io/rpc"
+  ],
+  "rpc": []
+}

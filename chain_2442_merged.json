@@ -1,0 +1,10 @@
+{
+  "chain_id": "2442",
+  "name": "",
+  "symbol": "",
+  "explorer_url": "",
+  "rpc_urls": [
+    "https://polygon-zkevm-cardona.blockpi.network/v1/rpc/65b524e16c8154f9a281347fef8debe1f7ffc550",
+    "https://rpc.cardona.zkevm-rpc.com"
+  ]
+}

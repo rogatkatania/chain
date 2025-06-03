@@ -1,0 +1,11 @@
+{
+  "chain_id": "253",
+  "name": "Glide L2 Protocol XP",
+  "symbol": "GLXP",
+  "explorer_url": "https://blockchain-explorer.glideprotocol.xyz",
+  "rpc_urls": [
+    "https://rpc-api.glideprotocol.xyz/l2-rpc",
+    "wss://rpc-api.glideprotocol.xyz/l2-rpc"
+  ],
+  "rpc": []
+}

@@ -1,0 +1,10 @@
+{
+  "chain_id": "27181",
+  "name": "KLAOS Nova",
+  "symbol": "KLAOS Nova",
+  "explorer_url": "https://blockscout.klaosnova.laosfoundation.io",
+  "rpc_urls": [
+    "https://rpc.klaosnova.laosfoundation.io",
+    "wss://rpc.klaosnova.laosfoundation.io"
+  ]
+}

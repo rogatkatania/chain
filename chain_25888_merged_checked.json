@@ -1,0 +1,10 @@
+{
+  "chain_id": "25888",
+  "name": "Hammer Chain Mainnet",
+  "symbol": "HammerChain",
+  "explorer_url": "https://www.hammerchain.io",
+  "rpc_urls": [
+    "https://www.hammerchain.io/rpc"
+  ],
+  "rpc": []
+}

@@ -1,0 +1,16 @@
+{
+  "chain_id": "5165",
+  "name": "Bahamut",
+  "symbol": "Bahamut",
+  "explorer_url": "https://ftnscan.com",
+  "rpc_urls": [
+    "https://Bahamut-mainnet-2h93.zeeve.net",
+    "https://bahamut-rpc.publicnode.com",
+    "https://rpc.ankr.com/bahamut",
+    "https://rpc1.bahamut.io",
+    "https://rpc2.bahamut.io",
+    "wss://bahamut-rpc.publicnode.com",
+    "wss://ws1.sahara.bahamutchain.com",
+    "wss://ws2.sahara.bahamutchain.com"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "chain_id": "2306",
+  "name": "Ebro Network",
+  "symbol": "ebro",
+  "explorer_url": "",
+  "rpc_urls": [
+    "https://greendinoswap.com"
+  ],
+  "rpc": []
+}

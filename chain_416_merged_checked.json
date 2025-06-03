@@ -1,0 +1,12 @@
+{
+  "chain_id": "416",
+  "name": "SX Network Mainnet",
+  "symbol": "SX",
+  "explorer_url": "https://explorer.sx.technology",
+  "rpc_urls": [
+    "https://rpc.sx.technology"
+  ],
+  "rpc": [
+    "https://rpc.sx.technology"
+  ]
+}

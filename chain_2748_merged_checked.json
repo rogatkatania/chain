@@ -1,0 +1,10 @@
+{
+  "chain_id": "2748",
+  "name": "Nanon",
+  "symbol": "ETH",
+  "explorer_url": "https://explorer.nanon.network",
+  "rpc_urls": [
+    "https://rpc.nanon.network"
+  ],
+  "rpc": []
+}

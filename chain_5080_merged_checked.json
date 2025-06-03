@@ -1,0 +1,12 @@
+{
+  "chain_id": "5080",
+  "name": "Pione Zero",
+  "symbol": "PZO",
+  "explorer_url": "https://zeroscan.org",
+  "rpc_urls": [
+    "https://rpc.zeroscan.org"
+  ],
+  "rpc": [
+    "https://rpc.zeroscan.org"
+  ]
+}

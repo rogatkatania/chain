@@ -1,0 +1,11 @@
+{
+  "chain_id": "1440002",
+  "name": "XRPL EVM Sidechain Devnet",
+  "symbol": "XRPLEVM Devnet",
+  "explorer_url": "https://explorer.xrplevm.org",
+  "rpc_urls": [
+    "https://rpc.xrplevm.org",
+    "https://ws.xrplevm.org"
+  ],
+  "rpc": []
+}

@@ -1,0 +1,9 @@
+{
+  "chain_id": "70001",
+  "name": "Thinkium Mainnet Chain 1",
+  "symbol": "Thinkium",
+  "explorer_url": "https://chain1.thinkiumscan.net",
+  "rpc_urls": [
+    "https://proxy1.thinkiumrpc.net"
+  ]
+}

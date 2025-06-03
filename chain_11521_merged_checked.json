@@ -1,0 +1,10 @@
+{
+  "chain_id": "11521",
+  "name": "SatsChain",
+  "symbol": "SatsChain",
+  "explorer_url": "https://scan-satschain.bevm.io",
+  "rpc_urls": [
+    "https://rpc-satschain-1.bevm.io"
+  ],
+  "rpc": []
+}

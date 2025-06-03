@@ -1,0 +1,13 @@
+{
+  "chain_id": "4352",
+  "name": "MemeCore",
+  "symbol": "MemeCore",
+  "explorer_url": "https://www.okx.com/web3/explorer/memecore",
+  "rpc_urls": [
+    "https://rpc.memecore.net",
+    "wss://ws.memecore.net"
+  ],
+  "rpc": [
+    "https://rpc.memecore.net"
+  ]
+}

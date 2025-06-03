@@ -1,0 +1,10 @@
+{
+  "chain_id": "537",
+  "name": "OpTrust Mainnet",
+  "symbol": "OpTrust",
+  "explorer_url": "https://scan.optrust.io",
+  "rpc_urls": [
+    "https://rpc.optrust.io"
+  ],
+  "rpc": []
+}

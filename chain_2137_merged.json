@@ -1,0 +1,10 @@
+{
+  "chain_id": "2137",
+  "name": "BigShortBets",
+  "symbol": "BIGSB",
+  "explorer_url": "",
+  "rpc_urls": [
+    "https://market.bigsb.io",
+    "wss://market.bigsb.io"
+  ]
+}

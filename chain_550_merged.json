@@ -1,0 +1,10 @@
+{
+  "chain_id": "550",
+  "name": "River",
+  "symbol": "river",
+  "explorer_url": "https://explorer.river.build",
+  "rpc_urls": [
+    "https://mainnet.rpc.river.build",
+    "https://towns-mainnet.calderachain.xyz/http"
+  ]
+}

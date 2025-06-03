@@ -1,0 +1,10 @@
+{
+  "chain_id": "1951",
+  "name": "D-Chain Mainnet",
+  "symbol": "D-Chain",
+  "explorer_url": "",
+  "rpc_urls": [
+    "https://mainnet.d-chain.network/ext/bc/2ZiR1Bro5E59siVuwdNuRFzqL95NkvkbzyLBdrsYR9BLSHV7H4/rpc"
+  ],
+  "rpc": []
+}

@@ -1,0 +1,10 @@
+{
+  "chain_id": "2016",
+  "name": "MainnetZ Mainnet",
+  "symbol": "NetZ",
+  "explorer_url": "https://explorer.mainnetz.io",
+  "rpc_urls": [
+    "https://eu-rpc.mainnetz.io",
+    "https://mainnet-rpc.mainnetz.io"
+  ]
+}

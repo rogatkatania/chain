@@ -1,0 +1,9 @@
+{
+  "chain_id": "789",
+  "name": "Patex",
+  "symbol": "ETH",
+  "explorer_url": "https://patexscan.io",
+  "rpc_urls": [
+    "https://rpc.patex.io"
+  ]
+}

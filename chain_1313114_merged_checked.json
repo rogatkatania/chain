@@ -1,0 +1,10 @@
+{
+  "chain_id": "1313114",
+  "name": "Etho Protocol",
+  "symbol": "ETHO",
+  "explorer_url": "https://explorer.ethoprotocol.com",
+  "rpc_urls": [
+    "https://rpc.ethoprotocol.com"
+  ],
+  "rpc": []
+}

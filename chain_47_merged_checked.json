@@ -1,0 +1,12 @@
+{
+  "chain_id": "47",
+  "name": "Acria IntelliChain",
+  "symbol": "AIC",
+  "explorer_url": "https://explorer.acria.ai",
+  "rpc_urls": [
+    "https://aic.acria.ai"
+  ],
+  "rpc": [
+    "https://aic.acria.ai"
+  ]
+}

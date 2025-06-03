@@ -1,0 +1,12 @@
+{
+  "chain_id": "50888",
+  "name": "Erbie Mainnet",
+  "symbol": "Erbie",
+  "explorer_url": "https://www.erbie.io/explorer",
+  "rpc_urls": [
+    "https://api.erbie.io"
+  ],
+  "rpc": [
+    "https://api.erbie.io"
+  ]
+}

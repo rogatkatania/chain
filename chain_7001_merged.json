@@ -1,0 +1,12 @@
+{
+  "chain_id": "7001",
+  "name": "",
+  "symbol": "",
+  "explorer_url": "",
+  "rpc_urls": [
+    "https://7001.rpc.thirdweb.com",
+    "https://zetachain-athens-evm.blockpi.network/v1/rpc/d5a3e29bc712740ddfa4296be190cfdef0f1f02c",
+    "https://zetachain-athens-evm.blockpi.network/v1/rpc/public",
+    "https://zetachain-athens.g.allthatnode.com/archive/evm"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "chain_id": "1337803",
+  "name": "Zhejiang",
+  "symbol": "ETH",
+  "explorer_url": "https://zhejiang.beaconcha.in",
+  "rpc_urls": [
+    "https://rpc.zhejiang.ethpandaops.io"
+  ],
+  "rpc": []
+}

@@ -1,0 +1,9 @@
+{
+  "chain_id": "619",
+  "name": "Skynet",
+  "symbol": "Skynet",
+  "explorer_url": "http://explorer.skynet.io",
+  "rpc_urls": [
+    "http://rpc.skynet.io"
+  ]
+}

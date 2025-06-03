@@ -1,0 +1,13 @@
+{
+  "chain_id": "8881",
+  "name": "Quartz by Unique",
+  "symbol": "UNQ",
+  "explorer_url": "https://uniquescan.io/quartz",
+  "rpc_urls": [
+    "https://asia-rpc-quartz.unique.network",
+    "https://eu-rpc-quartz.unique.network",
+    "https://quartz.api.onfinality.io/public-ws",
+    "https://rpc-quartz.unique.network",
+    "https://us-rpc-quartz.unique.network"
+  ]
+}

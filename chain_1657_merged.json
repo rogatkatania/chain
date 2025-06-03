@@ -1,0 +1,9 @@
+{
+  "chain_id": "1657",
+  "name": "Btachain",
+  "symbol": "btachain",
+  "explorer_url": "",
+  "rpc_urls": [
+    "https://dataseed1.btachain.com"
+  ]
+}

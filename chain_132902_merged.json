@@ -1,0 +1,9 @@
+{
+  "chain_id": "132902",
+  "name": "",
+  "symbol": "",
+  "explorer_url": "",
+  "rpc_urls": [
+    "https://sepolia-rpc.form.network/http"
+  ]
+}

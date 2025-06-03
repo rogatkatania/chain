@@ -1,0 +1,12 @@
+{
+  "chain_id": "4278608",
+  "name": "Arcadia Mainnet",
+  "symbol": "Arcadia",
+  "explorer_url": "https://explorer.arcadia.khalani.network",
+  "rpc_urls": [
+    "https://arcadia.khalani.network"
+  ],
+  "rpc": [
+    "https://arcadia.khalani.network"
+  ]
+}

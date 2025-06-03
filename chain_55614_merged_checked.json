@@ -1,0 +1,10 @@
+{
+  "chain_id": "55614",
+  "name": "Flamma Mainnet",
+  "symbol": "Flamma",
+  "explorer_url": "https://flascan.net",
+  "rpc_urls": [
+    "https://rpc.flamma.network"
+  ],
+  "rpc": []
+}

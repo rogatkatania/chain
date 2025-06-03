@@ -1,0 +1,16 @@
+{
+  "chain_id": "57054",
+  "name": "",
+  "symbol": "",
+  "explorer_url": "",
+  "rpc_urls": [
+    "https://rpc.blaze.soniclabs.com",
+    "https://sonic-blaze-rpc.publicnode.com",
+    "https://sonic-blaze.blockpi.network/v1/rpc/e3a9e473e50710e9671ff2435956019f2dad178c"
+  ],
+  "rpc": [
+    "https://sonic-blaze-rpc.publicnode.com",
+    "https://rpc.blaze.soniclabs.com",
+    "https://sonic-blaze.blockpi.network/v1/rpc/e3a9e473e50710e9671ff2435956019f2dad178c"
+  ]
+}

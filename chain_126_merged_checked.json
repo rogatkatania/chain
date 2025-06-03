@@ -1,0 +1,11 @@
+{
+  "chain_id": "126",
+  "name": "OYchain Mainnet",
+  "symbol": "OYchain",
+  "explorer_url": "https://explorer.oychain.io",
+  "rpc_urls": [
+    "https://rpc.mainnet.oychain.io",
+    "https://rpc.oychain.io"
+  ],
+  "rpc": []
+}

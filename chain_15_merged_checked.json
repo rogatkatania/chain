@@ -1,0 +1,11 @@
+{
+  "chain_id": "15",
+  "name": "Diode Prenet",
+  "symbol": "DIODE",
+  "explorer_url": "",
+  "rpc_urls": [
+    "https://prenet.diode.io:8443",
+    "wss://prenet.diode.io:8443/ws"
+  ],
+  "rpc": []
+}

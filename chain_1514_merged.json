@@ -1,0 +1,21 @@
+{
+  "chain_id": "1514",
+  "name": "Story",
+  "symbol": "STORY",
+  "explorer_url": "https://mainnet.storyscan.xyz",
+  "rpc_urls": [
+    "https://evm-rpc-story.j-node.net",
+    "https://evm-rpc.story.mainnet.dteam.tech",
+    "https://evm-rpc.story.silentvalidator.com",
+    "https://evm.story.cumulo.me",
+    "https://evmrpc.story.nodestake.org",
+    "https://lightnode-json-rpc-mainnet-story.grandvalleys.com",
+    "https://mainnet.storyrpc.io",
+    "https://rpc-storyevm.aldebaranode.xyz",
+    "https://rpc.ankr.com/story_mainnet",
+    "https://story-evm-rpc.krews.xyz",
+    "https://story-evm-rpc.spidernode.net",
+    "https://story-mainnet-evmrpc.mandragora.io",
+    "https://story-mainnet.zenithnode.xyz"
+  ]
+}

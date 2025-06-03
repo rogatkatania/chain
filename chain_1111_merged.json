@@ -1,0 +1,12 @@
+{
+  "chain_id": "1111",
+  "name": "WEMIX3.0 Mainnet",
+  "symbol": "WEMIX",
+  "explorer_url": "https://explorer.wemix.com",
+  "rpc_urls": [
+    "https://api.wemix.com",
+    "https://wemix.drpc.org",
+    "wss://wemix.drpc.org",
+    "wss://ws.wemix.com"
+  ]
+}

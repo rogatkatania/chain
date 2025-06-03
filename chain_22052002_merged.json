@@ -1,0 +1,9 @@
+{
+  "chain_id": "22052002",
+  "name": "Excelon Mainnet",
+  "symbol": "XLON",
+  "explorer_url": "https://explorer.excelon.io",
+  "rpc_urls": [
+    "https://edgewallet1.xlon.org"
+  ]
+}

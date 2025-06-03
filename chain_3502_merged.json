@@ -1,0 +1,9 @@
+{
+  "chain_id": "3502",
+  "name": "JFINPOS",
+  "symbol": "JFINPOS",
+  "explorer_url": "https://exp.jfinpos.com",
+  "rpc_urls": [
+    "https://rpc.jfinpos.com"
+  ]
+}

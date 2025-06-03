@@ -1,0 +1,9 @@
+{
+  "chain_id": "90002",
+  "name": "UBIT SMARTCHAIN MAINNET",
+  "symbol": "UBIT SMARTCHAIN",
+  "explorer_url": "https://ubitscan.io",
+  "rpc_urls": [
+    "https://rpc.ubitscan.io"
+  ]
+}

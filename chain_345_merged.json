@@ -1,0 +1,9 @@
+{
+  "chain_id": "345",
+  "name": "TSC Mainnet",
+  "symbol": "Trust Smart Chain",
+  "explorer_url": "https://www.tscscan.io",
+  "rpc_urls": [
+    "https://rpc01.trias.one"
+  ]
+}

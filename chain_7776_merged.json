@@ -1,0 +1,9 @@
+{
+  "chain_id": "7776",
+  "name": "PandaSea Mainnet",
+  "symbol": "PandaSea",
+  "explorer_url": "https://pandaseascan.com",
+  "rpc_urls": [
+    "https://rpc1.pandasea.io"
+  ]
+}

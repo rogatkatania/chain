@@ -1,0 +1,10 @@
+{
+  "chain_id": "72888",
+  "name": "CAGA mainnet",
+  "symbol": "CAGA",
+  "explorer_url": "https://explorer.cagamainnet.com",
+  "rpc_urls": [
+    "https://cagamainnet.com",
+    "wss://cagamainnet.com/ws"
+  ]
+}

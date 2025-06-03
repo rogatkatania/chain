@@ -1,0 +1,9 @@
+{
+  "chain_id": "512",
+  "name": "Double-A Chain Mainnet",
+  "symbol": "AAC",
+  "explorer_url": "https://scan.acuteangle.com",
+  "rpc_urls": [
+    "https://rpc.acuteangle.com"
+  ]
+}

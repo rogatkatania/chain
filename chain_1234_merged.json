@@ -1,0 +1,9 @@
+{
+  "chain_id": "1234",
+  "name": "Step Network",
+  "symbol": "STEP",
+  "explorer_url": "https://stepscan.io",
+  "rpc_urls": [
+    "https://rpc.step.network"
+  ]
+}

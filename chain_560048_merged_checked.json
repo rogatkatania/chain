@@ -1,0 +1,15 @@
+{
+  "chain_id": "560048",
+  "name": "Ethereum Hoodi",
+  "symbol": "ETH",
+  "explorer_url": "https://light-hoodi.beaconcha.in",
+  "rpc_urls": [
+    "https://0xrpc.io/hoodi",
+    "https://rpc.hoodi.ethpandaops.io",
+    "wss://0xrpc.io/hoodi"
+  ],
+  "rpc": [
+    "https://0xrpc.io/hoodi",
+    "https://rpc.hoodi.ethpandaops.io"
+  ]
+}

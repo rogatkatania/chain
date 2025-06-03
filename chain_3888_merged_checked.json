@@ -1,0 +1,12 @@
+{
+  "chain_id": "3888",
+  "name": "KalyChain Mainnet",
+  "symbol": "KLC",
+  "explorer_url": "https://kalyscan.io",
+  "rpc_urls": [
+    "https://rpc.kalychain.io/rpc"
+  ],
+  "rpc": [
+    "https://rpc.kalychain.io/rpc"
+  ]
+}

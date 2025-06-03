@@ -1,0 +1,10 @@
+{
+  "chain_id": "165279",
+  "name": "Eclat Mainnet",
+  "symbol": "Eclat",
+  "explorer_url": "https://eclatscan.com",
+  "rpc_urls": [
+    "https://mainnet-rpc.eclatscan.com"
+  ],
+  "rpc": []
+}

@@ -1,0 +1,12 @@
+{
+  "chain_id": "309075",
+  "name": "One World Chain Mainnet",
+  "symbol": "One World Chain",
+  "explorer_url": "https://mainnet.oneworldchain.org",
+  "rpc_urls": [
+    "https://mainnet-rpc.oneworldchain.org"
+  ],
+  "rpc": [
+    "https://mainnet-rpc.oneworldchain.org"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "chain_id": "119",
+  "name": "ENULS Mainnet",
+  "symbol": "ENULS",
+  "explorer_url": "https://evmscan.nuls.io",
+  "rpc_urls": [
+    "https://evmapi.nuls.io",
+    "https://evmapi2.nuls.io"
+  ],
+  "rpc": []
+}

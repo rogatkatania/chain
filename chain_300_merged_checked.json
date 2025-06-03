@@ -1,0 +1,12 @@
+{
+  "chain_id": "300",
+  "name": "",
+  "symbol": "",
+  "explorer_url": "",
+  "rpc_urls": [
+    "https://sepolia.era.zksync.dev"
+  ],
+  "rpc": [
+    "https://sepolia.era.zksync.dev"
+  ]
+}

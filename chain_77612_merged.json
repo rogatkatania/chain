@@ -1,0 +1,9 @@
+{
+  "chain_id": "77612",
+  "name": "Vention Smart Chain Mainnet",
+  "symbol": "VSC",
+  "explorer_url": "https://ventionscan.io",
+  "rpc_urls": [
+    "https://mainnet-rpc.vention.network"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "chain_id": "11221",
+  "name": "Shine Chain",
+  "symbol": "SC20",
+  "explorer_url": "https://shinescan.io",
+  "rpc_urls": [
+    "https://rpc.shinescan.io"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "chain_id": "194",
+  "name": "firachain",
+  "symbol": "FIR",
+  "explorer_url": "https://block.firachain.com",
+  "rpc_urls": [
+    "https://rpc.firachain.com"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "chain_id": "214",
+  "name": "Shinarium Mainnet",
+  "symbol": "Shinarium",
+  "explorer_url": "https://shinascan.shinarium.org",
+  "rpc_urls": [
+    "https://mainnet.shinarium.org"
+  ],
+  "rpc": []
+}

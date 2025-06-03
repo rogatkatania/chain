@@ -1,0 +1,9 @@
+{
+  "chain_id": "13371337",
+  "name": "PepChain Churchill",
+  "symbol": "PEP",
+  "explorer_url": "",
+  "rpc_urls": [
+    "https://churchill-rpc.pepchain.io"
+  ]
+}

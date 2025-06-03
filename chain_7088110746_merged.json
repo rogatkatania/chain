@@ -1,0 +1,9 @@
+{
+  "chain_id": "7088110746",
+  "name": "pectra-devnet-5",
+  "symbol": "ETH",
+  "explorer_url": "https://explorer.pectra-devnet-5.ethpandaops.io",
+  "rpc_urls": [
+    "https://rpc.pectra-devnet-5.ethpandaops.io"
+  ]
+}

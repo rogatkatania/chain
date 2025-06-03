@@ -1,0 +1,9 @@
+{
+  "chain_id": "259",
+  "name": "Neonlink Mainnet",
+  "symbol": "Neonlink",
+  "explorer_url": "https://scan.neonlink.io",
+  "rpc_urls": [
+    "https://mainnet.neonlink.io"
+  ]
+}

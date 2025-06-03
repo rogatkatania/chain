@@ -1,0 +1,9 @@
+{
+  "chain_id": "64",
+  "name": "Ellaism",
+  "symbol": "ELLA",
+  "explorer_url": "",
+  "rpc_urls": [
+    "https://jsonrpc.ellaism.org"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "chain_id": "808813",
+  "name": "",
+  "symbol": "",
+  "explorer_url": "",
+  "rpc_urls": [
+    "https://bob-sepolia.rpc.gobob.xyz"
+  ]
+}

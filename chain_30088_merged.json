@@ -1,0 +1,10 @@
+{
+  "chain_id": "30088",
+  "name": "MiYou Mainnet",
+  "symbol": "MiYou Chain",
+  "explorer_url": "https://myscan.miyou.io",
+  "rpc_urls": [
+    "https://blockchain.miyou.io",
+    "https://blockchain.miyoulab.com"
+  ]
+}

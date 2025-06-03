@@ -1,0 +1,10 @@
+{
+  "chain_id": "1313161567",
+  "name": "Turbo",
+  "symbol": "NEAR",
+  "explorer_url": "https://explorer.turbo.aurora.dev",
+  "rpc_urls": [
+    "https://rpc-0x4e45415f.aurora-cloud.dev"
+  ],
+  "rpc": []
+}

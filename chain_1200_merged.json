@@ -1,0 +1,10 @@
+{
+  "chain_id": "1200",
+  "name": "Cuckoo Chain",
+  "symbol": "CuckooAI",
+  "explorer_url": "https://scan.cuckoo.network",
+  "rpc_urls": [
+    "https://mainnet-rpc.cuckoo.network",
+    "wss://mainnet-rpc.cuckoo.network"
+  ]
+}

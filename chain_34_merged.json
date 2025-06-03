@@ -1,0 +1,9 @@
+{
+  "chain_id": "34",
+  "name": "SecureChain Mainnet",
+  "symbol": "SCAI",
+  "explorer_url": "https://explorer.securechain.ai",
+  "rpc_urls": [
+    "https://mainnet-rpc.scai.network"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "chain_id": "520",
+  "name": "XT Smart Chain Mainnet",
+  "symbol": "XSC",
+  "explorer_url": "https://xscscan.pub",
+  "rpc_urls": [
+    "https://datarpc1.xsc.pub",
+    "https://datarpc2.xsc.pub",
+    "https://datarpc3.xsc.pub"
+  ],
+  "rpc": [
+    "https://datarpc2.xsc.pub",
+    "https://datarpc1.xsc.pub",
+    "https://datarpc3.xsc.pub"
+  ]
+}

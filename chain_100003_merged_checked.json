@@ -1,0 +1,13 @@
+{
+  "chain_id": "100003",
+  "name": "QuarkChain Mainnet Shard 2",
+  "symbol": "QuarkChain",
+  "explorer_url": "https://mainnet.quarkchain.io/2",
+  "rpc_urls": [
+    "http://eth-jrpc.mainnet.quarkchain.io:39002",
+    "https://mainnet-s2-ethapi.quarkchain.io"
+  ],
+  "rpc": [
+    "https://mainnet-s2-ethapi.quarkchain.io"
+  ]
+}

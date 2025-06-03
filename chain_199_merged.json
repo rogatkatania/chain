@@ -1,0 +1,12 @@
+{
+  "chain_id": "199",
+  "name": "BitTorrent Chain Mainnet",
+  "symbol": "BTTC",
+  "explorer_url": "https://bttcscan.com",
+  "rpc_urls": [
+    "https://bittorrent.drpc.org",
+    "https://rpc.bittorrentchain.io",
+    "https://rpc.bt.io",
+    "wss://bittorrent.drpc.org"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "chain_id": "17171",
+  "name": "G8Chain Mainnet",
+  "symbol": "G8C",
+  "explorer_url": "https://mainnet.oneg8.network",
+  "rpc_urls": [
+    "https://mainnet-rpc.oneg8.network"
+  ]
+}

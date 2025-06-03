@@ -1,0 +1,9 @@
+{
+  "chain_id": "777888",
+  "name": "Oone Chain Mainnet",
+  "symbol": "OONE",
+  "explorer_url": "https://oonescan.com",
+  "rpc_urls": [
+    "https://rpc.oonechain.com"
+  ]
+}

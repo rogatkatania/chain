@@ -1,0 +1,10 @@
+{
+  "chain_id": "1392",
+  "name": "Joseon Mainnet",
+  "symbol": "Joseon",
+  "explorer_url": "https://www.blockexplorer.com",
+  "rpc_urls": [
+    "https://rpc.modchain.net/blockchain.joseon.com/rpc"
+  ],
+  "rpc": []
+}

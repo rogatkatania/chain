@@ -1,0 +1,14 @@
+{
+  "chain_id": "2340",
+  "name": "Atleta Olympia",
+  "symbol": "Atleta Testnet Olympia",
+  "explorer_url": "https://blockscout.testnet-v2.atleta.network",
+  "rpc_urls": [
+    "https://atleta-testnet.htw.tech",
+    "https://public-atla-testnet.fastnode.io",
+    "https://public-atleta.nownodes.io",
+    "https://rpc.ankr.com/atleta_olympia",
+    "https://testnet-rpc.atleta.network",
+    "wss://testnet-rpc.atleta.network"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "chain_id": "2605",
+  "name": "Pho Blockchain Mainnet",
+  "symbol": "PHO",
+  "explorer_url": "https://phoscan.org",
+  "rpc_urls": [
+    "https://mainnet.phochain.org"
+  ],
+  "rpc": []
+}

@@ -1,0 +1,14 @@
+{
+  "chain_id": "11155420",
+  "name": "",
+  "symbol": "",
+  "explorer_url": "",
+  "rpc_urls": [
+    "https://optimism-sepolia.drpc.org",
+    "https://sepolia.optimism.io"
+  ],
+  "rpc": [
+    "https://optimism-sepolia.drpc.org",
+    "https://sepolia.optimism.io"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "chain_id": "1707",
+  "name": "TBSI Mainnet",
+  "symbol": "TBSI",
+  "explorer_url": "https://exp.blockchain.or.th",
+  "rpc_urls": [
+    "https://rpc.blockchain.or.th"
+  ]
+}

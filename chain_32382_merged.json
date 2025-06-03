@@ -1,0 +1,9 @@
+{
+  "chain_id": "32382",
+  "name": "Santiment Intelligence Network",
+  "symbol": "Santiment Intelligence Network",
+  "explorer_url": "https://app-explorer-pos.sanr.app",
+  "rpc_urls": [
+    "https://node.sanr.app"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "chain_id": "22",
+  "name": "ELA-DID-Sidechain Mainnet",
+  "symbol": "ETH",
+  "explorer_url": "",
+  "rpc_urls": [
+    "https://api.elastos.io/eid",
+    "https://api.trinity-tech.io/eid"
+  ],
+  "rpc": []
+}

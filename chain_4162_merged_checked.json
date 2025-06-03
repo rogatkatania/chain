@@ -1,0 +1,12 @@
+{
+  "chain_id": "4162",
+  "name": "SX Rollup",
+  "symbol": "SX",
+  "explorer_url": "https://explorerl2.sx.technology",
+  "rpc_urls": [
+    "https://rpc.sx-rollup.gelato.digital"
+  ],
+  "rpc": [
+    "https://rpc.sx-rollup.gelato.digital"
+  ]
+}

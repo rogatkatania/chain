@@ -1,0 +1,9 @@
+{
+  "chain_id": "73927",
+  "name": "Mixin Virtual Machine",
+  "symbol": "MVM",
+  "explorer_url": "https://scan.mvm.dev",
+  "rpc_urls": [
+    "https://geth.mvm.dev"
+  ]
+}

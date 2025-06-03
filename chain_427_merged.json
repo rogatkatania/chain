@@ -1,0 +1,9 @@
+{
+  "chain_id": "427",
+  "name": "Zeeth Chain",
+  "symbol": "ZeethChain",
+  "explorer_url": "https://explorer.zeeth.io",
+  "rpc_urls": [
+    "https://rpc.zeeth.io"
+  ]
+}

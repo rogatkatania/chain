@@ -1,0 +1,9 @@
+{
+  "chain_id": "96369",
+  "name": "Lux Mainnet",
+  "symbol": "Lux",
+  "explorer_url": "https://explore.lux.network",
+  "rpc_urls": [
+    "https://api.lux.network"
+  ]
+}

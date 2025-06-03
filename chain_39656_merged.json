@@ -1,0 +1,9 @@
+{
+  "chain_id": "39656",
+  "name": "PRM Mainnet",
+  "symbol": "prm",
+  "explorer_url": "https://prmscan.org",
+  "rpc_urls": [
+    "https://mainnet-rpc.prmscan.org"
+  ]
+}

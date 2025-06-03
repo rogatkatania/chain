@@ -1,0 +1,12 @@
+{
+  "chain_id": "32323",
+  "name": "BasedAI",
+  "symbol": "BasedAI",
+  "explorer_url": "https://explorer.getbased.ai",
+  "rpc_urls": [
+    "https://mainnet.basedaibridge.com/rpc"
+  ],
+  "rpc": [
+    "https://mainnet.basedaibridge.com/rpc"
+  ]
+}

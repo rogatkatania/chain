@@ -1,0 +1,14 @@
+{
+  "chain_id": "48900",
+  "name": "Zircuit Mainnet",
+  "symbol": "Zircuit Mainnet",
+  "explorer_url": "https://explorer.zircuit.com",
+  "rpc_urls": [
+    "https://mainnet.zircuit.com",
+    "https://node.histori.xyz/zircuit-mainnet/8ry9f6t9dct1se2hlagxnd9n2a",
+    "https://zircuit-mainnet.drpc.org",
+    "https://zircuit1-mainnet.liquify.com",
+    "https://zircuit1-mainnet.p2pify.com",
+    "wss://zircuit-mainnet.drpc.org"
+  ]
+}

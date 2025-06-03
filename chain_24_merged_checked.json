@@ -1,0 +1,10 @@
+{
+  "chain_id": "24",
+  "name": "KardiaChain Mainnet",
+  "symbol": "KAI",
+  "explorer_url": "",
+  "rpc_urls": [
+    "https://rpc.kardiachain.io"
+  ],
+  "rpc": []
+}

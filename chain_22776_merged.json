@@ -1,0 +1,9 @@
+{
+  "chain_id": "22776",
+  "name": "MAP Protocol",
+  "symbol": "MAPO",
+  "explorer_url": "https://maposcan.io",
+  "rpc_urls": [
+    "https://rpc.maplabs.io"
+  ]
+}

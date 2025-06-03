@@ -1,0 +1,12 @@
+{
+  "chain_id": "35011",
+  "name": "J2O Taro",
+  "symbol": "TARO",
+  "explorer_url": "https://exp.j2o.io",
+  "rpc_urls": [
+    "https://rpc.j2o.io"
+  ],
+  "rpc": [
+    "https://rpc.j2o.io"
+  ]
+}

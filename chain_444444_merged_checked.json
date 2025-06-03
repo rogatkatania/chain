@@ -1,0 +1,12 @@
+{
+  "chain_id": "444444",
+  "name": "",
+  "symbol": "",
+  "explorer_url": "",
+  "rpc_urls": [
+    "https://sepolia.syndr.com/http"
+  ],
+  "rpc": [
+    "https://sepolia.syndr.com/http"
+  ]
+}

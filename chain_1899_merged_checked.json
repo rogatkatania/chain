@@ -1,0 +1,10 @@
+{
+  "chain_id": "1899",
+  "name": "ReDeFi Layer 2",
+  "symbol": "ReDeFi",
+  "explorer_url": "https://scanlayer2.redefi.world",
+  "rpc_urls": [
+    "https://layer2.redefi.world"
+  ],
+  "rpc": []
+}

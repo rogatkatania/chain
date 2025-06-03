@@ -1,0 +1,9 @@
+{
+  "chain_id": "5315",
+  "name": "Uzmi Network Mainnet",
+  "symbol": "UZMI",
+  "explorer_url": "",
+  "rpc_urls": [
+    "https://network.uzmigames.com.br"
+  ]
+}

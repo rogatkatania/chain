@@ -1,0 +1,10 @@
+{
+  "chain_id": "421614",
+  "name": "",
+  "symbol": "",
+  "explorer_url": "",
+  "rpc_urls": [
+    "https://arbitrum-sepolia-rpc.publicnode.com",
+    "https://sepolia-rollup.arbitrum.io/rpc"
+  ]
+}

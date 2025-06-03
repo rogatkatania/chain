@@ -1,0 +1,9 @@
+{
+  "chain_id": "3344",
+  "name": "Pentagon Chain",
+  "symbol": "Pentagon Chain",
+  "explorer_url": "https://explorer.pentagon.games",
+  "rpc_urls": [
+    "https://rpc.pentagon.games"
+  ]
+}

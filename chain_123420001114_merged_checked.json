@@ -1,0 +1,10 @@
+{
+  "chain_id": "123420001114",
+  "name": "Basecamp",
+  "symbol": "CAMP",
+  "explorer_url": "https://basecamp.cloud.blockscout.com",
+  "rpc_urls": [
+    "https://rpc.basecamp.t.raas.gelato.cloud"
+  ],
+  "rpc": []
+}

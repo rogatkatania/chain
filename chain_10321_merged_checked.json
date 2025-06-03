@@ -1,0 +1,10 @@
+{
+  "chain_id": "10321",
+  "name": "TAO EVM Mainnet",
+  "symbol": "TAO EVM",
+  "explorer_url": "https://taoscan.org",
+  "rpc_urls": [
+    "https://rpc.taoevm.io"
+  ],
+  "rpc": []
+}

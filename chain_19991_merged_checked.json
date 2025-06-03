@@ -1,0 +1,10 @@
+{
+  "chain_id": "19991",
+  "name": "Ultra EVM Network",
+  "symbol": "Ultra",
+  "explorer_url": "https://evmexplorer.ultra.io",
+  "rpc_urls": [
+    "https://evm.ultra.eosusa.io"
+  ],
+  "rpc": []
+}

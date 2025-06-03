@@ -1,0 +1,9 @@
+{
+  "chain_id": "12009",
+  "name": "SatoshiChain Mainnet",
+  "symbol": "SATS",
+  "explorer_url": "https://satoshiscan.io",
+  "rpc_urls": [
+    "https://mainnet-rpc.satoshichain.io"
+  ]
+}

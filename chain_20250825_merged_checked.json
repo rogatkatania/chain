@@ -1,0 +1,10 @@
+{
+  "chain_id": "20250825",
+  "name": "Vcitychain Mainnet",
+  "symbol": "Vcitychain",
+  "explorer_url": "https://blockchain.vcity.app",
+  "rpc_urls": [
+    "https://mainnet-rpc.vcity.app"
+  ],
+  "rpc": []
+}

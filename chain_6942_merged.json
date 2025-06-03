@@ -1,0 +1,9 @@
+{
+  "chain_id": "6942",
+  "name": "Laika Mainnet",
+  "symbol": "LAIKA",
+  "explorer_url": "https://explorer.laikachain.dog",
+  "rpc_urls": [
+    "https://mainnetrpc.laikachain.dog"
+  ]
+}

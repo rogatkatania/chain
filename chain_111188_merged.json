@@ -1,0 +1,14 @@
+{
+  "chain_id": "111188",
+  "name": "re.al",
+  "symbol": "re.al",
+  "explorer_url": "https://explorer.re.al",
+  "rpc_urls": [
+    "https://real.drpc.org",
+    "https://rpc.realforreal.gelato.digital",
+    "https://tangible-real.gateway.tenderly.co",
+    "wss://real.drpc.org",
+    "wss://tangible-real.gateway.tenderly.co",
+    "wss://ws.realforreal.gelato.digital"
+  ]
+}

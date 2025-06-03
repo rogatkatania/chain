@@ -1,0 +1,14 @@
+{
+  "chain_id": "3068",
+  "name": "Bifrost Mainnet",
+  "symbol": "BFC",
+  "explorer_url": "https://explorer.mainnet.bifrostnetwork.com",
+  "rpc_urls": [
+    "https://public-01.mainnet.bifrostnetwork.com/rpc",
+    "https://public-02.mainnet.bifrostnetwork.com/rpc"
+  ],
+  "rpc": [
+    "https://public-02.mainnet.bifrostnetwork.com/rpc",
+    "https://public-01.mainnet.bifrostnetwork.com/rpc"
+  ]
+}

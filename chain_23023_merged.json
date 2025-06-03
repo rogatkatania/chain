@@ -1,0 +1,9 @@
+{
+  "chain_id": "23023",
+  "name": "PremiumBlock",
+  "symbol": "PBLK",
+  "explorer_url": "https://scan.premiumblock.org",
+  "rpc_urls": [
+    "https://rpc.premiumblock.org"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "chain_id": "22023",
+  "name": "Taycan",
+  "symbol": "Taycan",
+  "explorer_url": "https://taycan-evmscan.hupayx.io",
+  "rpc_urls": [
+    "https://taycan-rpc.hupayx.io:8545"
+  ],
+  "rpc": []
+}

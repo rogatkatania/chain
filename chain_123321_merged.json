@@ -1,0 +1,9 @@
+{
+  "chain_id": "123321",
+  "name": "Gemchain",
+  "symbol": "Gemchain",
+  "explorer_url": "https://scan.gemchain.org",
+  "rpc_urls": [
+    "https://evm-rpc.gemchain.org"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "chain_id": "11155111",
+  "name": "",
+  "symbol": "",
+  "explorer_url": "",
+  "rpc_urls": [
+    "https://ethereum-sepolia-rpc.publicnode.com",
+    "https://rpc-sepolia.rockx.com",
+    "https://rpc.sepolia.ethpandaops.io",
+    "https://sepolia.drpc.org",
+    "https://sepolia.gateway.tenderly.co"
+  ]
+}

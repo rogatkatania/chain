@@ -1,0 +1,9 @@
+{
+  "chain_id": "614",
+  "name": "Graphlinq Blockchain Mainnet",
+  "symbol": "GLQ Blockchain",
+  "explorer_url": "https://explorer.graphlinq.io",
+  "rpc_urls": [
+    "https://glq-dataseed.graphlinq.io"
+  ]
+}

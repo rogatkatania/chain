@@ -1,0 +1,9 @@
+{
+  "chain_id": "8869",
+  "name": "Lif3 Chain",
+  "symbol": "lif3chain",
+  "explorer_url": "https://lif3scout.com",
+  "rpc_urls": [
+    "https://rpc.lif3.com"
+  ]
+}

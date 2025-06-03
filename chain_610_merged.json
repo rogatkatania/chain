@@ -1,0 +1,9 @@
+{
+  "chain_id": "610",
+  "name": "Darwin Devnet",
+  "symbol": "Darwin",
+  "explorer_url": "https://explorer.darwinchain.ai",
+  "rpc_urls": [
+    "https://devnet-rpc.darwinchain.ai"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "chain_id": "327126",
+  "name": "",
+  "symbol": "",
+  "explorer_url": "",
+  "rpc_urls": [
+    "https://rpc.wabaworld.com"
+  ],
+  "rpc": [
+    "https://rpc.wabaworld.com"
+  ]
+}

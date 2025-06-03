@@ -1,0 +1,9 @@
+{
+  "chain_id": "17172",
+  "name": "Eclipse Subnet",
+  "symbol": "ECLIPSE",
+  "explorer_url": "https://subnets-test.avax.network/eclipse",
+  "rpc_urls": [
+    "https://subnets.avax.network/eclipse/testnet/rpc"
+  ]
+}

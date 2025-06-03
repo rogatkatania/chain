@@ -1,0 +1,9 @@
+{
+  "chain_id": "225",
+  "name": "LACHAIN Mainnet",
+  "symbol": "LA",
+  "explorer_url": "https://scan.lachain.io",
+  "rpc_urls": [
+    "https://rpc-mainnet.lachain.io"
+  ]
+}

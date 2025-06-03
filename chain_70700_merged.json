@@ -1,0 +1,9 @@
+{
+  "chain_id": "70700",
+  "name": "Proof of Play - Apex",
+  "symbol": "ETH",
+  "explorer_url": "https://explorer.apex.proofofplay.com",
+  "rpc_urls": [
+    "https://rpc.apex.proofofplay.com"
+  ]
+}

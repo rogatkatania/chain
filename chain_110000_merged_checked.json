@@ -1,0 +1,11 @@
+{
+  "chain_id": "110000",
+  "name": "QuarkChain Devnet Root",
+  "symbol": "QuarkChain",
+  "explorer_url": "",
+  "rpc_urls": [
+    "http://jrpc.devnet.quarkchain.io:38391",
+    "rpcWorking:false"
+  ],
+  "rpc": []
+}

@@ -1,0 +1,9 @@
+{
+  "chain_id": "65450",
+  "name": "Scolcoin Mainnet",
+  "symbol": "SCOLWEI",
+  "explorer_url": "https://explorer.scolcoin.com",
+  "rpc_urls": [
+    "https://mainnet-rpc.scolcoin.com"
+  ]
+}

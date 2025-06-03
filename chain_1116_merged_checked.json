@@ -1,0 +1,25 @@
+{
+  "chain_id": "1116",
+  "name": "Core Blockchain Mainnet",
+  "symbol": "Core",
+  "explorer_url": "https://scan.coredao.org",
+  "rpc_urls": [
+    "https://1rpc.io/core",
+    "https://api.zan.top/core-mainnet",
+    "https://core.drpc.org",
+    "https://core.public.infstones.com",
+    "https://rpc-core.icecreamswap.com",
+    "https://rpc.ankr.com/core",
+    "https://rpc.coredao.org",
+    "wss://core.drpc.org",
+    "wss://ws.coredao.org"
+  ],
+  "rpc": [
+    "https://rpc.ankr.com/core",
+    "https://rpc.coredao.org",
+    "https://core.drpc.org",
+    "https://1rpc.io/core",
+    "https://rpc-core.icecreamswap.com",
+    "https://api.zan.top/core-mainnet"
+  ]
+}

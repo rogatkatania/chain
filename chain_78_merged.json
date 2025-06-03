@@ -1,0 +1,9 @@
+{
+  "chain_id": "78",
+  "name": "PrimusChain mainnet",
+  "symbol": "PC",
+  "explorer_url": "",
+  "rpc_urls": [
+    "https://ethnode.primusmoney.com/mainnet"
+  ]
+}

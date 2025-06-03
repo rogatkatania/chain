@@ -1,0 +1,9 @@
+{
+  "chain_id": "279",
+  "name": "BPX Chain",
+  "symbol": "BPX",
+  "explorer_url": "https://explorer.bpxchain.cc",
+  "rpc_urls": [
+    "https://rpc.bpxchain.cc"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "chain_id": "1319",
+  "name": "AIA Mainnet",
+  "symbol": "AIA",
+  "explorer_url": "https://aiascan.com",
+  "rpc_urls": [
+    "https://aia-dataseed1.aiachain.org",
+    "https://aia-dataseed2.aiachain.org",
+    "https://aia-dataseed3.aiachain.org",
+    "https://aia-dataseed4.aiachain.org",
+    "https://aiachain.bycrpc.com",
+    "https://aiachain.znodes.net"
+  ]
+}

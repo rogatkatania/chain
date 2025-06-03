@@ -1,0 +1,9 @@
+{
+  "chain_id": "193939",
+  "name": "R0AR Chain",
+  "symbol": "R0AR Chain",
+  "explorer_url": "https://r0arscan.io",
+  "rpc_urls": [
+    "https://rpc-r0ar.io"
+  ]
+}

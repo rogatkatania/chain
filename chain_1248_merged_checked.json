@@ -1,0 +1,10 @@
+{
+  "chain_id": "1248",
+  "name": "Dogether Mainnet",
+  "symbol": "Dogether",
+  "explorer_url": "https://explorer.dogether.dog",
+  "rpc_urls": [
+    "https://rpc.dogether.dog"
+  ],
+  "rpc": []
+}

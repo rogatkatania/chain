@@ -1,0 +1,10 @@
+{
+  "chain_id": "1310",
+  "name": "COINZAX",
+  "symbol": "ZAX",
+  "explorer_url": "https://explorer.coinzax.com",
+  "rpc_urls": [
+    "https://rpc.coinzax.com"
+  ],
+  "rpc": []
+}

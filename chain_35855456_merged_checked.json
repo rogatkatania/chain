@@ -1,0 +1,10 @@
+{
+  "chain_id": "35855456",
+  "name": "Joys Digital Mainnet",
+  "symbol": "JOYS",
+  "explorer_url": "",
+  "rpc_urls": [
+    "https://node.joys.digital"
+  ],
+  "rpc": []
+}

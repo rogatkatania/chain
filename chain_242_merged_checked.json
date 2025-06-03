@@ -1,0 +1,12 @@
+{
+  "chain_id": "242",
+  "name": "Plinga Mainnet",
+  "symbol": "Plinga",
+  "explorer_url": "https://www.plgscan.com",
+  "rpc_urls": [
+    "https://rpcurl.mainnet.plgchain.com",
+    "https://rpcurl.mainnet.plgchain.plinga.technology",
+    "https://rpcurl.plgchain.blockchain.evmnode.online"
+  ],
+  "rpc": []
+}

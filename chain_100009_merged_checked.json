@@ -1,0 +1,12 @@
+{
+  "chain_id": "100009",
+  "name": "VeChain",
+  "symbol": "VeChain",
+  "explorer_url": "https://vechainstats.com",
+  "rpc_urls": [
+    "https://rpc-mainnet.vechain.energy"
+  ],
+  "rpc": [
+    "https://rpc-mainnet.vechain.energy"
+  ]
+}

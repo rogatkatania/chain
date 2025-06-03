@@ -1,0 +1,9 @@
+{
+  "chain_id": "10222",
+  "name": "GLScan",
+  "symbol": "GLC",
+  "explorer_url": "https://glscan.io",
+  "rpc_urls": [
+    "https://glc-dataseed.glscan.io"
+  ]
+}

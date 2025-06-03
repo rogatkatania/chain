@@ -1,0 +1,9 @@
+{
+  "chain_id": "1388",
+  "name": "AmStar Mainnet",
+  "symbol": "AmStar",
+  "explorer_url": "https://mainnet.amstarscan.com",
+  "rpc_urls": [
+    "https://mainnet-rpc.amstarscan.com"
+  ]
+}

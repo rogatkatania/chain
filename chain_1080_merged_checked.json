@@ -1,0 +1,10 @@
+{
+  "chain_id": "1080",
+  "name": "Mintara Mainnet",
+  "symbol": "Mintara",
+  "explorer_url": "https://subnets.avax.network/mintara",
+  "rpc_urls": [
+    "https://subnets.avax.network/mintara/mainnet/rpc"
+  ],
+  "rpc": []
+}

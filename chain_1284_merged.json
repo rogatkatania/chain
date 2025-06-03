@@ -1,0 +1,29 @@
+{
+  "chain_id": "1284",
+  "name": "Moonbeam",
+  "symbol": "MOON",
+  "explorer_url": "https://moonbeam.moonscan.io",
+  "rpc_urls": [
+    "https://1rpc.io/glmr",
+    "https://endpoints.omniatech.io/v1/moonbeam/mainnet/public",
+    "https://moonbeam-rpc.dwellir.com",
+    "https://moonbeam-rpc.publicnode.com",
+    "https://moonbeam.api.onfinality.io/public",
+    "https://moonbeam.drpc.org",
+    "https://moonbeam.public.blastapi.io",
+    "https://moonbeam.public.curie.radiumblock.co/http",
+    "https://moonbeam.public.curie.radiumblock.co/ws",
+    "https://moonbeam.unitedbloc.com",
+    "https://moonbeam.unitedbloc.com:3000",
+    "https://node.histori.xyz/moonbeam-mainnet/8ry9f6t9dct1se2hlagxnd9n2a",
+    "https://rpc.api.moonbeam.network",
+    "wss://moonbeam-rpc.dwellir.com",
+    "wss://moonbeam-rpc.publicnode.com",
+    "wss://moonbeam.api.onfinality.io/public-ws",
+    "wss://moonbeam.drpc.org",
+    "wss://moonbeam.public.blastapi.io",
+    "wss://moonbeam.unitedbloc.com",
+    "wss://moonbeam.unitedbloc.com:3001",
+    "wss://wss.api.moonbeam.network"
+  ]
+}

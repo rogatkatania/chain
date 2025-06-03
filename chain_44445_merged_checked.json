@@ -1,0 +1,10 @@
+{
+  "chain_id": "44445",
+  "name": "Quantum Network",
+  "symbol": "Quantum",
+  "explorer_url": "https://qtm.avescoin.io",
+  "rpc_urls": [
+    "https://rpcqtm.avescoin.io"
+  ],
+  "rpc": []
+}

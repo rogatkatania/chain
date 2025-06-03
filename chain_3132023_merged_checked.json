@@ -1,0 +1,10 @@
+{
+  "chain_id": "3132023",
+  "name": "Sahara AI",
+  "symbol": "Sahara",
+  "explorer_url": "",
+  "rpc_urls": [
+    "https://mainnet.saharalabs.ai"
+  ],
+  "rpc": []
+}

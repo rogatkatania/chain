@@ -1,0 +1,9 @@
+{
+  "chain_id": "2223",
+  "name": "VChain Mainnet",
+  "symbol": "VChain",
+  "explorer_url": "https://scan.vcex.xyz",
+  "rpc_urls": [
+    "https://bc.vcex.xyz"
+  ]
+}

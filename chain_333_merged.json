@@ -1,0 +1,9 @@
+{
+  "chain_id": "333",
+  "name": "Web3Q Mainnet",
+  "symbol": "Web3Q",
+  "explorer_url": "https://explorer.mainnet.web3q.io",
+  "rpc_urls": [
+    "https://mainnet.web3q.io:8545"
+  ]
+}

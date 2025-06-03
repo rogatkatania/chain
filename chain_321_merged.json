@@ -1,0 +1,13 @@
+{
+  "chain_id": "321",
+  "name": "KCC Mainnet",
+  "symbol": "KCC",
+  "explorer_url": "https://explorer.kcc.io/en",
+  "rpc_urls": [
+    "https://kcc-rpc.com",
+    "https://kcc.mytokenpocket.vip",
+    "https://public-rpc.blockpi.io/http/kcc",
+    "https://rpc-mainnet.kcc.network",
+    "https://services.tokenview.io/vipapi/nodeservice/kcs?apikey=qVHq2o6jpaakcw3lRstl"
+  ]
+}

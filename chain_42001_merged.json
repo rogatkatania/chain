@@ -1,0 +1,9 @@
+{
+  "chain_id": "42001",
+  "name": "PMON Chain",
+  "symbol": "42001",
+  "explorer_url": "https://explorer.pmon.xyz",
+  "rpc_urls": [
+    "https://rpc.pmon.xyz"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "chain_id": "17735",
+  "name": "Esports Chain",
+  "symbol": "ESPT",
+  "explorer_url": "https://esportsblock.org/explorer",
+  "rpc_urls": [
+    "https://esportsblock.org/rpc"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "chain_id": "40",
+  "name": "Telos EVM Mainnet",
+  "symbol": "TLOS",
+  "explorer_url": "https://teloscan.io",
+  "rpc_urls": [
+    "https://1rpc.io/telos/evm",
+    "https://mainnet.telos.net/evm",
+    "https://node.histori.xyz/telos-mainnet/8ry9f6t9dct1se2hlagxnd9n2a",
+    "https://rpc.ankr.com/telos",
+    "https://rpc.telos.net",
+    "https://telos.drpc.org",
+    "wss://telos.drpc.org"
+  ],
+  "rpc": [
+    "https://rpc.telos.net",
+    "https://rpc.ankr.com/telos",
+    "https://telos.drpc.org",
+    "https://mainnet.telos.net/evm",
+    "https://1rpc.io/telos/evm"
+  ]
+}

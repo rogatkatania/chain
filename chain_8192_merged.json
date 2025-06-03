@@ -1,0 +1,9 @@
+{
+  "chain_id": "8192",
+  "name": "Torus Mainnet",
+  "symbol": "TQF",
+  "explorer_url": "https://toruscan.com",
+  "rpc_urls": [
+    "https://rpc.toruschain.com"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "chain_id": "100011",
+  "name": "QuarkChain L2 Mainnet",
+  "symbol": "QuarkChain",
+  "explorer_url": "",
+  "rpc_urls": [
+    "https://mainnet-l2-ethapi.quarkchain.io"
+  ]
+}

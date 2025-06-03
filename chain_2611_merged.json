@@ -1,0 +1,9 @@
+{
+  "chain_id": "2611",
+  "name": "Redlight Chain Mainnet",
+  "symbol": "REDLC",
+  "explorer_url": "https://redlightscan.finance",
+  "rpc_urls": [
+    "https://dataseed2.redlightscan.finance"
+  ]
+}

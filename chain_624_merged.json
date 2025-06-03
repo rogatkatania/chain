@@ -1,0 +1,9 @@
+{
+  "chain_id": "624",
+  "name": "Binary Mainnet",
+  "symbol": "The Binary Holdings",
+  "explorer_url": "https://explorer.thebinaryholdings.com",
+  "rpc_urls": [
+    "https://rpc.zero.thebinaryholdings.com"
+  ]
+}

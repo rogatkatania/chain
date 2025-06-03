@@ -1,0 +1,10 @@
+{
+  "chain_id": "2037",
+  "name": "Kiwi Subnet",
+  "symbol": "KIWI",
+  "explorer_url": "https://subnets-test.avax.network/kiwi",
+  "rpc_urls": [
+    "https://subnets.avax.network/kiwi/testnet/rpc"
+  ],
+  "rpc": []
+}

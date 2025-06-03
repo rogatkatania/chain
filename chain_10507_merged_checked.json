@@ -1,0 +1,12 @@
+{
+  "chain_id": "10507",
+  "name": "Numbers Mainnet",
+  "symbol": "NUM",
+  "explorer_url": "https://mainnet.num.network",
+  "rpc_urls": [
+    "https://mainnetrpc.num.network"
+  ],
+  "rpc": [
+    "https://mainnetrpc.num.network"
+  ]
+}

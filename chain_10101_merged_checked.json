@@ -1,0 +1,12 @@
+{
+  "chain_id": "10101",
+  "name": "Blockchain Genesis Mainnet",
+  "symbol": "GEN",
+  "explorer_url": "",
+  "rpc_urls": [
+    "https://asia.mainnet.xixoio.com",
+    "https://eu.mainnet.xixoio.com",
+    "https://us.mainnet.xixoio.com"
+  ],
+  "rpc": []
+}

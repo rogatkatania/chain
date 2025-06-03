@@ -1,0 +1,17 @@
+{
+  "chain_id": "2031",
+  "name": "Centrifuge",
+  "symbol": "CFG",
+  "explorer_url": "https://centrifuge.subscan.io",
+  "rpc_urls": [
+    "https://centrifuge-parachain.api.onfinality.io/public",
+    "https://centrifuge-rpc.dwellir.com",
+    "https://fullnode.centrifuge.io",
+    "https://rpc-centrifuge.luckyfriday.io",
+    "wss://centrifuge-parachain.api.onfinality.io/public-ws",
+    "wss://centrifuge-rpc.dwellir.com",
+    "wss://fullnode.centrifuge.io",
+    "wss://rpc-centrifuge.luckyfriday.io"
+  ],
+  "rpc": []
+}

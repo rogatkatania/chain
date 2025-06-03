@@ -1,0 +1,9 @@
+{
+  "chain_id": "805",
+  "name": "Evoz Mainnet",
+  "symbol": "Evoz",
+  "explorer_url": "https://evozscan.com",
+  "rpc_urls": [
+    "https://rpc.evozscan.com"
+  ]
+}

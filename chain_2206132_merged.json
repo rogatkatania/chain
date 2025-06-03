@@ -1,0 +1,9 @@
+{
+  "chain_id": "2206132",
+  "name": "",
+  "symbol": "",
+  "explorer_url": "",
+  "rpc_urls": [
+    "https://devnet2openapi.platon.network/rpc"
+  ]
+}

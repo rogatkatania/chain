@@ -1,0 +1,10 @@
+{
+  "chain_id": "1433",
+  "name": "Rikeza Network Mainnet",
+  "symbol": "Rikeza",
+  "explorer_url": "https://rikscan.com",
+  "rpc_urls": [
+    "https://rpc.rikscan.com"
+  ],
+  "rpc": []
+}

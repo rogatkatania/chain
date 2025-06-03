@@ -1,0 +1,10 @@
+{
+  "chain_id": "2440",
+  "name": "Atleta Network",
+  "symbol": "Atleta",
+  "explorer_url": "https://blockscout.atleta.network",
+  "rpc_urls": [
+    "https://rpc.mainnet.atleta.network",
+    "wss://rpc.mainnet.atleta.network"
+  ]
+}

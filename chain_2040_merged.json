@@ -1,0 +1,10 @@
+{
+  "chain_id": "2040",
+  "name": "Vanar Mainnet",
+  "symbol": "VANAR",
+  "explorer_url": "https://explorer.vanarchain.com",
+  "rpc_urls": [
+    "https://rpc.vanarchain.com",
+    "wss://ws.vanarchain.com"
+  ]
+}

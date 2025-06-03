@@ -1,0 +1,9 @@
+{
+  "chain_id": "5112",
+  "name": "Ham",
+  "symbol": "Ham",
+  "explorer_url": "https://explorer.ham.fun",
+  "rpc_urls": [
+    "https://rpc.ham.fun"
+  ]
+}

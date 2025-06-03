@@ -1,0 +1,9 @@
+{
+  "chain_id": "69420",
+  "name": "Condrieu",
+  "symbol": "ETH",
+  "explorer_url": "https://explorer.condrieu.ethdevops.io",
+  "rpc_urls": [
+    "https://rpc.condrieu.ethdevops.io:8545"
+  ]
+}

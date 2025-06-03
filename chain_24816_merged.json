@@ -1,0 +1,9 @@
+{
+  "chain_id": "24816",
+  "name": "Recall",
+  "symbol": "Recall",
+  "explorer_url": "",
+  "rpc_urls": [
+    "https://evm.node-0.mainnet.recall.network"
+  ]
+}

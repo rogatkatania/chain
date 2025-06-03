@@ -1,0 +1,9 @@
+{
+  "chain_id": "45009",
+  "name": "Juneo LTC1-Chain",
+  "symbol": "Juneo LTC1-Chain",
+  "explorer_url": "https://juneoscan.io/chain/11",
+  "rpc_urls": [
+    "https://rpc.juneo-mainnet.network/ext/bc/LTC1/rpc"
+  ]
+}

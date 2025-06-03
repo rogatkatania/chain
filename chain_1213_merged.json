@@ -1,0 +1,9 @@
+{
+  "chain_id": "1213",
+  "name": "Popcateum Mainnet",
+  "symbol": "POPCATEUM",
+  "explorer_url": "https://explorer.popcateum.org",
+  "rpc_urls": [
+    "https://dataseed.popcateum.org"
+  ]
+}

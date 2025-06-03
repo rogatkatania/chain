@@ -1,0 +1,9 @@
+{
+  "chain_id": "1011",
+  "name": "Rebus Classic Mainnet",
+  "symbol": "REBUS",
+  "explorer_url": "https://evm-l1.rebuschain.com",
+  "rpc_urls": [
+    "https://apievm.rebuschain.com/rpc"
+  ]
+}

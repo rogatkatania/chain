@@ -1,0 +1,16 @@
+{
+  "chain_id": "56288",
+  "name": "Boba BNB Mainnet",
+  "symbol": "Boba BNB Mainnet",
+  "explorer_url": "https://bobascan.com",
+  "rpc_urls": [
+    "https://bnb.boba.network",
+    "https://boba-bnb.drpc.org",
+    "https://boba-bnb.gateway.tenderly.co",
+    "https://gateway.tenderly.co/public/boba-bnb",
+    "https://replica.bnb.boba.network",
+    "wss://boba-bnb.drpc.org",
+    "wss://boba-bnb.gateway.tenderly.co",
+    "wss://gateway.tenderly.co/public/boba-bnb"
+  ]
+}

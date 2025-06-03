@@ -1,0 +1,9 @@
+{
+  "chain_id": "486217935",
+  "name": "Gather Devnet Network",
+  "symbol": "GTH",
+  "explorer_url": "https://devnet-explorer.gather.network",
+  "rpc_urls": [
+    "https://devnet.gather.network"
+  ]
+}

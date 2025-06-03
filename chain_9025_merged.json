@@ -1,0 +1,11 @@
+{
+  "chain_id": "9025",
+  "name": "Nexa Mainnet Block",
+  "symbol": "Nexa Mainnet",
+  "explorer_url": "https://nexablockscan.io",
+  "rpc_urls": [
+    "https://rpc-nodes-delta.nexablockscan.io",
+    "https://rpc-nodes.nexablockscan.io",
+    "wss://wss-nodes.nexablockscan.io"
+  ]
+}

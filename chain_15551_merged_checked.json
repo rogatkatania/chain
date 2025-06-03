@@ -1,0 +1,10 @@
+{
+  "chain_id": "15551",
+  "name": "LoopNetwork Mainnet",
+  "symbol": "LoopNetwork",
+  "explorer_url": "http://explorer.mainnetloop.com",
+  "rpc_urls": [
+    "https://api.mainnetloop.com"
+  ],
+  "rpc": []
+}

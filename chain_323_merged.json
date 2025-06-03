@@ -1,0 +1,9 @@
+{
+  "chain_id": "323",
+  "name": "Cosvm Mainnet",
+  "symbol": "CVM",
+  "explorer_url": "https://explorer.cosvm.net",
+  "rpc_urls": [
+    "https://rpc.cosvm.net"
+  ]
+}

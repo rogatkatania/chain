@@ -1,0 +1,9 @@
+{
+  "chain_id": "220315",
+  "name": "Mas Mainnet",
+  "symbol": "MAS",
+  "explorer_url": "https://explorer.masnet.ai",
+  "rpc_urls": [
+    "http://node.masnet.ai:8545"
+  ]
+}

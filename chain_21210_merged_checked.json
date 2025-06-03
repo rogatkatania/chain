@@ -1,0 +1,10 @@
+{
+  "chain_id": "21210",
+  "name": "1Money Network Mainnet",
+  "symbol": "1Money Network",
+  "explorer_url": "",
+  "rpc_urls": [
+    "https://mainnet.1money.network"
+  ],
+  "rpc": []
+}

@@ -1,0 +1,10 @@
+{
+  "chain_id": "4919",
+  "name": "Venidium Mainnet",
+  "symbol": "XVM",
+  "explorer_url": "https://evm.venidiumexplorer.com",
+  "rpc_urls": [
+    "https://rpc.venidium.io"
+  ],
+  "rpc": []
+}

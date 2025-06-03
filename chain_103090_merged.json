@@ -1,0 +1,10 @@
+{
+  "chain_id": "103090",
+  "name": "Crystaleum",
+  "symbol": "crystal",
+  "explorer_url": "https://scan.crystaleum.org",
+  "rpc_urls": [
+    "https://evm.cryptocurrencydevs.org",
+    "https://rpc.crystaleum.org"
+  ]
+}

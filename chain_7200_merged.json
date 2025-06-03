@@ -1,0 +1,9 @@
+{
+  "chain_id": "7200",
+  "name": "exSat Mainnet",
+  "symbol": "exSat",
+  "explorer_url": "https://scan.exsat.network",
+  "rpc_urls": [
+    "https://evm.exsat.network"
+  ]
+}

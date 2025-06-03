@@ -1,0 +1,10 @@
+{
+  "chain_id": "2400",
+  "name": "TCG Verse Mainnet",
+  "symbol": "TCG Verse",
+  "explorer_url": "https://explorer.tcgverse.xyz",
+  "rpc_urls": [
+    "https://rpc.tcgverse.xyz"
+  ],
+  "rpc": []
+}

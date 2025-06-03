@@ -1,0 +1,12 @@
+{
+  "chain_id": "3737",
+  "name": "Crossbell",
+  "symbol": "Crossbell",
+  "explorer_url": "https://scan.crossbell.io",
+  "rpc_urls": [
+    "https://rpc.crossbell.io"
+  ],
+  "rpc": [
+    "https://rpc.crossbell.io"
+  ]
+}

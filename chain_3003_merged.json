@@ -1,0 +1,9 @@
+{
+  "chain_id": "3003",
+  "name": "Canxium Mainnet",
+  "symbol": "CAU",
+  "explorer_url": "https://explorer.canxium.org",
+  "rpc_urls": [
+    "https://rpc.canxium.org"
+  ]
+}

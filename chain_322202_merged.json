@@ -1,0 +1,9 @@
+{
+  "chain_id": "322202",
+  "name": "Parex Mainnet",
+  "symbol": "Parex",
+  "explorer_url": "https://scan.parex.network",
+  "rpc_urls": [
+    "https://mainnet-rpc.parex.network"
+  ]
+}

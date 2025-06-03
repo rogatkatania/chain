@@ -1,0 +1,11 @@
+{
+  "chain_id": "4444",
+  "name": "Htmlcoin Mainnet",
+  "symbol": "mainnet",
+  "explorer_url": "https://explorer.htmlcoin.com",
+  "rpc_urls": [
+    "https://janus.htmlcoin.com/api",
+    "https://janus.htmlcoin.dev/janus"
+  ],
+  "rpc": []
+}

@@ -1,0 +1,12 @@
+{
+  "chain_id": "32770",
+  "name": "Zilliqa 2 EVM proto-mainnet",
+  "symbol": "ZIL",
+  "explorer_url": "https://explorer.zq2-protomainnet.zilliqa.com",
+  "rpc_urls": [
+    "https://api.zq2-protomainnet.zilliqa.com"
+  ],
+  "rpc": [
+    "https://api.zq2-protomainnet.zilliqa.com"
+  ]
+}

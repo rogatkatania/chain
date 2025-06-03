@@ -1,0 +1,9 @@
+{
+  "chain_id": "632",
+  "name": "NFB Chain",
+  "symbol": "NFB Chain",
+  "explorer_url": "https://scan.nfbchain.com",
+  "rpc_urls": [
+    "https://node.nfbchain.com"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "chain_id": "5318008",
+  "name": "Reactive Kopli",
+  "symbol": "REACT",
+  "explorer_url": "https://kopli.reactscan.net",
+  "rpc_urls": [
+    "https://kopli-rpc.rnk.dev"
+  ]
+}

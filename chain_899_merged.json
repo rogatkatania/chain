@@ -1,0 +1,9 @@
+{
+  "chain_id": "899",
+  "name": "MAXI Chain Mainnet",
+  "symbol": "MAXI",
+  "explorer_url": "https://mainnet.maxi.network",
+  "rpc_urls": [
+    "https://rpc.maxi.network"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "chain_id": "530",
+  "name": "Pundi AIFX Omnilayer",
+  "symbol": "PUNDIAI",
+  "explorer_url": "https://pundiscan.io/evm",
+  "rpc_urls": [
+    "https://fx-json-web3.functionx.io:8545",
+    "https://fx-json-web3.portfolio-x.xyz:8545"
+  ],
+  "rpc": [
+    "https://fx-json-web3.functionx.io:8545",
+    "https://fx-json-web3.portfolio-x.xyz:8545"
+  ]
+}

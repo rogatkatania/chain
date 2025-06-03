@@ -1,0 +1,13 @@
+{
+  "chain_id": "6688",
+  "name": "IRIShub",
+  "symbol": "IRIShub",
+  "explorer_url": "https://irishub.iobscan.io",
+  "rpc_urls": [
+    "https://evmrpc.irishub-1.irisnet.org",
+    "https://iris-evm-rpc.publicnode.com",
+    "https://iris-evm.publicnode.com",
+    "wss://iris-evm-rpc.publicnode.com",
+    "wss://iris-evm.publicnode.com"
+  ]
+}

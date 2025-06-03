@@ -1,0 +1,10 @@
+{
+  "chain_id": "21223",
+  "name": "DCpay Mainnet",
+  "symbol": "DCpay",
+  "explorer_url": "https://mainnet.dcpay.io",
+  "rpc_urls": [
+    "https://rpc.dcpay.io"
+  ],
+  "rpc": []
+}

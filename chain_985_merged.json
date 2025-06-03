@@ -1,0 +1,10 @@
+{
+  "chain_id": "985",
+  "name": "Memo Smart Chain Mainnet",
+  "symbol": "MEMO",
+  "explorer_url": "https://scan.metamemo.one:8080",
+  "rpc_urls": [
+    "https://chain.metamemo.one:8501",
+    "wss://chain.metamemo.one:16801"
+  ]
+}

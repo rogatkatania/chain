@@ -1,0 +1,10 @@
+{
+  "chain_id": "74",
+  "name": "IDChain Mainnet",
+  "symbol": "IDChain",
+  "explorer_url": "https://explorer.idchain.one",
+  "rpc_urls": [
+    "https://idchain.one/rpc",
+    "wss://idchain.one/ws"
+  ]
+}

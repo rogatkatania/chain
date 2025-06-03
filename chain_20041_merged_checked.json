@@ -1,0 +1,10 @@
+{
+  "chain_id": "20041",
+  "name": "Niza Chain Mainnet",
+  "symbol": "NIZA",
+  "explorer_url": "https://nizascan.io",
+  "rpc_urls": [
+    "https://nizascan.io/rpc"
+  ],
+  "rpc": []
+}

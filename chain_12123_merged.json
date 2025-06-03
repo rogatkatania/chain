@@ -1,0 +1,9 @@
+{
+  "chain_id": "12123",
+  "name": "BRC Chain Mainnet",
+  "symbol": "BRC",
+  "explorer_url": "https://scan.brcchain.io",
+  "rpc_urls": [
+    "https://rpc.brcchain.io"
+  ]
+}

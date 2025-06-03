@@ -1,0 +1,11 @@
+{
+  "chain_id": "2415",
+  "name": "XODEX",
+  "symbol": "XODEX",
+  "explorer_url": "https://explorer.xo-dex.com",
+  "rpc_urls": [
+    "https://mainnet.xo-dex.com/rpc",
+    "https://xo-dex.io"
+  ],
+  "rpc": []
+}

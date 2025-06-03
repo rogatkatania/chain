@@ -1,0 +1,10 @@
+{
+  "chain_id": "38",
+  "name": "Valorbit",
+  "symbol": "VAL",
+  "explorer_url": "",
+  "rpc_urls": [
+    "https://rpc.valorbit.com/v2"
+  ],
+  "rpc": []
+}

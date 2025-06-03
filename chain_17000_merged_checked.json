@@ -1,0 +1,22 @@
+{
+  "chain_id": "17000",
+  "name": "Holesky",
+  "symbol": "ETH",
+  "explorer_url": "https://holesky.beaconcha.in",
+  "rpc_urls": [
+    "https://1rpc.io/holesky",
+    "https://api.zan.top/eth-holesky",
+    "https://endpoints.omniatech.io/v1/eth/holesky/public",
+    "https://ethereum-holesky-rpc.publicnode.com",
+    "https://ethereum-holesky.blockpi.network/v1/rpc/private",
+    "https://holesky-rpc.nocturnode.tech",
+    "https://holesky.drpc.org",
+    "https://holesky.gateway.tenderly.co",
+    "https://rpc-holesky.rockx.com",
+    "https://rpc.holesky.ethpandaops.io",
+    "wss://etherem-holesky-rpc.publicnode.com",
+    "wss://ethereum-holesky-rpc.publicnode.com",
+    "wss://holesky.drpc.org"
+  ],
+  "rpc": []
+}

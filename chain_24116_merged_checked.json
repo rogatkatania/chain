@@ -1,0 +1,10 @@
+{
+  "chain_id": "24116",
+  "name": "Amauti",
+  "symbol": "RAILS",
+  "explorer_url": "https://build.steamexchange.io",
+  "rpc_urls": [
+    "https://testnet.steamexchange.io"
+  ],
+  "rpc": []
+}

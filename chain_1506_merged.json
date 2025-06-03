@@ -1,0 +1,9 @@
+{
+  "chain_id": "1506",
+  "name": "Sherpax Mainnet",
+  "symbol": "Sherpax Mainnet",
+  "explorer_url": "https://evm.sherpax.io",
+  "rpc_urls": [
+    "https://mainnet.sherpax.io/rpc"
+  ]
+}

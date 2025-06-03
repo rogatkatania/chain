@@ -1,0 +1,12 @@
+{
+  "chain_id": "1480",
+  "name": "Vana",
+  "symbol": "Vana",
+  "explorer_url": "https://vanascan.io",
+  "rpc_urls": [
+    "https://evm-rpc-vana.j-node.net",
+    "https://evm-rpc-vana.josephtran.xyz",
+    "https://islander-vana-rpc.spidernode.net",
+    "https://rpc.vana.org"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "chain_id": "7979",
+  "name": "DOS Chain",
+  "symbol": "DOS",
+  "explorer_url": "https://doscan.io",
+  "rpc_urls": [
+    "https://main.doschain.com"
+  ]
+}

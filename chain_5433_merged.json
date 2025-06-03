@@ -1,0 +1,9 @@
+{
+  "chain_id": "5433",
+  "name": "Inertia Scan",
+  "symbol": "IRTA",
+  "explorer_url": "https://inertiascan.com",
+  "rpc_urls": [
+    "https://rpc.inertiascan.com"
+  ]
+}

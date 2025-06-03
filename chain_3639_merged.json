@@ -1,0 +1,9 @@
+{
+  "chain_id": "3639",
+  "name": "iChain Network",
+  "symbol": "iChain",
+  "explorer_url": "https://ichainscan.com",
+  "rpc_urls": [
+    "https://rpc.ichainscan.com"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "chain_id": "369",
+  "name": "PulseChain",
+  "symbol": "PLS",
+  "explorer_url": "https://ipfs.scan.pulsechain.com",
+  "rpc_urls": [
+    "https://evex.cloud/pulserpc",
+    "https://pulsechain-rpc.publicnode.com",
+    "https://rpc-pulsechain.g4mm4.io",
+    "https://rpc.owlracle.info/pulse/70d38ce1826c4a60bb2a8e05a6c8b20f",
+    "https://rpc.pulsechain.com",
+    "wss://evex.cloud/pulsews",
+    "wss://pulsechain-rpc.publicnode.com",
+    "wss://rpc-pulsechain.g4mm4.io",
+    "wss://rpc.pulsechain.com"
+  ]
+}

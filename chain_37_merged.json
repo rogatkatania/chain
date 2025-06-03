@@ -1,0 +1,9 @@
+{
+  "chain_id": "37",
+  "name": "Xpla Mainnet",
+  "symbol": "XPLA",
+  "explorer_url": "https://explorer.xpla.io/mainnet",
+  "rpc_urls": [
+    "https://dimension-evm-rpc.xpla.dev"
+  ]
+}

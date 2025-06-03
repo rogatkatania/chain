@@ -1,0 +1,13 @@
+{
+  "chain_id": "34443",
+  "name": "Mode",
+  "symbol": "ETH",
+  "explorer_url": "https://explorer.mode.network",
+  "rpc_urls": [
+    "https://1rpc.io/mode",
+    "https://mainnet.mode.network",
+    "https://mode.drpc.org",
+    "https://mode.gateway.tenderly.co",
+    "wss://mode.drpc.org"
+  ]
+}

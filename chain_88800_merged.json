@@ -1,0 +1,9 @@
+{
+  "chain_id": "88800",
+  "name": "ZKasino Mainnet",
+  "symbol": "ZKasino",
+  "explorer_url": "https://explorer.zkas.zeeve.net",
+  "rpc_urls": [
+    "https://rpc.zkas.zeeve.net"
+  ]
+}

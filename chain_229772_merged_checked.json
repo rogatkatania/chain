@@ -1,0 +1,10 @@
+{
+  "chain_id": "229772",
+  "name": "Abyss Protocol",
+  "symbol": "Abyss Protocol Testnet",
+  "explorer_url": "https://testnet.abyssprotocol.ai",
+  "rpc_urls": [
+    "https://testnet.rpc.abyssprotocol.ai"
+  ],
+  "rpc": []
+}

@@ -1,0 +1,10 @@
+{
+  "chain_id": "44444",
+  "name": "Frenchain",
+  "symbol": "fren",
+  "explorer_url": "https://frenscan.io",
+  "rpc_urls": [
+    "https://rpc-02.frenscan.io"
+  ],
+  "rpc": []
+}

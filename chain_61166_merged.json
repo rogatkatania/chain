@@ -1,0 +1,10 @@
+{
+  "chain_id": "61166",
+  "name": "Treasure",
+  "symbol": "Treasure",
+  "explorer_url": "https://treasurescan.io",
+  "rpc_urls": [
+    "https://rpc.treasure.lol",
+    "wss://rpc.treasure.lol/ws"
+  ]
+}

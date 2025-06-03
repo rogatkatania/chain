@@ -1,0 +1,20 @@
+{
+  "chain_id": "1135",
+  "name": "Lisk",
+  "symbol": "ETH",
+  "explorer_url": "https://blockscout.lisk.com",
+  "rpc_urls": [
+    "https://lisk.drpc.org",
+    "https://lisk.gateway.tenderly.co",
+    "https://node.histori.xyz/lisk-mainnet/8ry9f6t9dct1se2hlagxnd9n2a",
+    "https://rpc.api.lisk.com",
+    "https://rpc.zerion.io/v1/lisk",
+    "wss://lisk.drpc.org"
+  ],
+  "rpc": [
+    "https://lisk.gateway.tenderly.co",
+    "https://rpc.api.lisk.com",
+    "https://lisk.drpc.org",
+    "https://rpc.zerion.io/v1/lisk"
+  ]
+}

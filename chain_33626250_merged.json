@@ -1,0 +1,9 @@
+{
+  "chain_id": "33626250",
+  "name": "",
+  "symbol": "",
+  "explorer_url": "",
+  "rpc_urls": [
+    "https://rpc.toliman.suave.flashbots.net"
+  ]
+}

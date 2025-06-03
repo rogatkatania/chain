@@ -1,0 +1,9 @@
+{
+  "chain_id": "9779",
+  "name": "PepeNetwork Mainnet",
+  "symbol": "PepeNetwork",
+  "explorer_url": "https://explorer.pepenetwork.io",
+  "rpc_urls": [
+    "https://rpc-mainnet.pepenetwork.io"
+  ]
+}

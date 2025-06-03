@@ -1,0 +1,16 @@
+{
+  "chain_id": "39815",
+  "name": "OHO Mainnet",
+  "symbol": "OHO",
+  "explorer_url": "https://ohoscan.com",
+  "rpc_urls": [
+    "https://mainnet-rpc.ohoscan.com",
+    "https://mainnet-rpc2.ohoscan.com",
+    "https://mainnet.oho.ai"
+  ],
+  "rpc": [
+    "https://mainnet-rpc2.ohoscan.com",
+    "https://mainnet-rpc.ohoscan.com",
+    "https://mainnet.oho.ai"
+  ]
+}

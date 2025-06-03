@@ -1,0 +1,10 @@
+{
+  "chain_id": "1992",
+  "name": "Hubble Exchange",
+  "symbol": "Hubblenet",
+  "explorer_url": "",
+  "rpc_urls": [
+    "https://rpc.hubble.exchange",
+    "wss://ws-rpc.hubble.exchange"
+  ]
+}

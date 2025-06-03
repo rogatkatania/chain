@@ -1,0 +1,10 @@
+{
+  "chain_id": "534",
+  "name": "Candle",
+  "symbol": "Candle",
+  "explorer_url": "https://candleexplorer.com",
+  "rpc_urls": [
+    "https://candle-rpc.com",
+    "https://rpc.cndlchain.com"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "chain_id": "54",
+  "name": "Openpiece Mainnet",
+  "symbol": "OPENPIECE",
+  "explorer_url": "https://bellyscan.com",
+  "rpc_urls": [
+    "https://mainnet.openpiece.io"
+  ]
+}

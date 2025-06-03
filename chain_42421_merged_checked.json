@@ -1,0 +1,12 @@
+{
+  "chain_id": "42421",
+  "name": "",
+  "symbol": "",
+  "explorer_url": "",
+  "rpc_urls": [
+    "https://enugu-rpc.assetchain.org"
+  ],
+  "rpc": [
+    "https://enugu-rpc.assetchain.org"
+  ]
+}

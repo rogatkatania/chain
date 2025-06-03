@@ -1,0 +1,9 @@
+{
+  "chain_id": "984122",
+  "name": "Forma",
+  "symbol": "Forma",
+  "explorer_url": "https://explorer.forma.art",
+  "rpc_urls": [
+    "https://rpc.forma.art"
+  ]
+}

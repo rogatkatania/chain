@@ -1,0 +1,9 @@
+{
+  "chain_id": "9696",
+  "name": "Rebus Mainnet",
+  "symbol": "ETH",
+  "explorer_url": "https://evm.rebuschain.com",
+  "rpc_urls": [
+    "https://apievml2.rebuschain.com/l2rpc"
+  ]
+}

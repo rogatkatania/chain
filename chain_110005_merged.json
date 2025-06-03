@@ -1,0 +1,10 @@
+{
+  "chain_id": "110005",
+  "name": "QuarkChain Devnet Shard 4",
+  "symbol": "QuarkChain",
+  "explorer_url": "https://devnet.quarkchain.io/4",
+  "rpc_urls": [
+    "http://eth-jrpc.devnet.quarkchain.io:39904",
+    "https://devnet-s4-ethapi.quarkchain.io"
+  ]
+}

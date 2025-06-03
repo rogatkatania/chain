@@ -1,0 +1,10 @@
+{
+  "chain_id": "205",
+  "name": "EKAASH",
+  "symbol": "EKAASH",
+  "explorer_url": "",
+  "rpc_urls": [
+    "https://mainnet.ekaash.biz"
+  ],
+  "rpc": []
+}

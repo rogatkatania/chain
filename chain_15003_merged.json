@@ -1,0 +1,9 @@
+{
+  "chain_id": "15003",
+  "name": "Immutable zkEVM Devnet",
+  "symbol": "Immutable zkEVM",
+  "explorer_url": "https://explorer.dev.immutable.com",
+  "rpc_urls": [
+    "https://rpc.dev.immutable.com"
+  ]
+}

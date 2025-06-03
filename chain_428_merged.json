@@ -1,0 +1,9 @@
+{
+  "chain_id": "428",
+  "name": "Geso Verse",
+  "symbol": "Geso Verse",
+  "explorer_url": "https://explorer.verse.gesoten.com",
+  "rpc_urls": [
+    "https://rpc.verse.gesoten.com"
+  ]
+}

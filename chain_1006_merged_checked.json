@@ -1,0 +1,13 @@
+{
+  "chain_id": "1006",
+  "name": "LemonChain",
+  "symbol": "LEMX",
+  "explorer_url": "",
+  "rpc_urls": [
+    "https://rpc.allthingslemon.io",
+    "https://rpc.lemonchain.io"
+  ],
+  "rpc": [
+    "https://rpc.lemonchain.io"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "chain_id": "710420",
+  "name": "Tiltyard Mainnet Subnet",
+  "symbol": "TILTYARD",
+  "explorer_url": "https://subnets.avax.network/tiltyard",
+  "rpc_urls": [
+    "https://subnets.avax.network/tiltyard/mainnet/rpc"
+  ]
+}

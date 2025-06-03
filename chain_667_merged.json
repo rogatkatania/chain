@@ -1,0 +1,10 @@
+{
+  "chain_id": "667",
+  "name": "LAOS Arrakis",
+  "symbol": "LAOS",
+  "explorer_url": "https://arrakis.gorengine.com",
+  "rpc_urls": [
+    "https://arrakis.gorengine.com/own",
+    "wss://arrakis.gorengine.com/own"
+  ]
+}

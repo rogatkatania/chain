@@ -1,0 +1,13 @@
+{
+  "chain_id": "18159",
+  "name": "Proof Of Memes",
+  "symbol": "POM",
+  "explorer_url": "https://memescan.io",
+  "rpc_urls": [
+    "https://mainnet-rpc.memescan.io",
+    "https://mainnet-rpc2.memescan.io",
+    "https://mainnet-rpc3.memescan.io",
+    "https://mainnet-rpc4.memescan.io"
+  ],
+  "rpc": []
+}

@@ -1,0 +1,9 @@
+{
+  "chain_id": "1313",
+  "name": "JaiHo Chain",
+  "symbol": "JaiHoChain",
+  "explorer_url": "https://jaihochain.com",
+  "rpc_urls": [
+    "https://rpc.jaihochain.com"
+  ]
+}

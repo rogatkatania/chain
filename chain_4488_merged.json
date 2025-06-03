@@ -1,0 +1,9 @@
+{
+  "chain_id": "4488",
+  "name": "Hydra Chain",
+  "symbol": "HYDRA",
+  "explorer_url": "https://skynet.hydrachain.org",
+  "rpc_urls": [
+    "https://rpc-mainnet.hydrachain.org"
+  ]
+}

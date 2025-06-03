@@ -1,0 +1,10 @@
+{
+  "chain_id": "1605",
+  "name": "Betherance",
+  "symbol": "Beth",
+  "explorer_url": "https://bethscan.io",
+  "rpc_urls": [
+    "https://rpc.bethscan.io"
+  ],
+  "rpc": []
+}

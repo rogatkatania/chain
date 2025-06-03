@@ -1,0 +1,11 @@
+{
+  "chain_id": "21912",
+  "name": "BSL Mainnet",
+  "symbol": "BSL",
+  "explorer_url": "https://scan.nftruth.io",
+  "rpc_urls": [
+    "http://rpc-mainnet.nftruth.io:8545",
+    "ws://rpc-mainnet.nftruth.io:8645"
+  ],
+  "rpc": []
+}

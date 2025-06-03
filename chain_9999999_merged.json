@@ -1,0 +1,10 @@
+{
+  "chain_id": "9999999",
+  "name": "Fluence",
+  "symbol": "Fluence",
+  "explorer_url": "https://blockscout.mainnet.fluence.dev",
+  "rpc_urls": [
+    "https://rpc.mainnet.fluence.dev",
+    "wss://ws.mainnet.fluence.dev"
+  ]
+}

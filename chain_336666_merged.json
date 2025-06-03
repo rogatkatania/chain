@@ -1,0 +1,9 @@
+{
+  "chain_id": "336666",
+  "name": "UPchain Mainnet",
+  "symbol": "UPchain",
+  "explorer_url": "https://explorer.uniport.network",
+  "rpc_urls": [
+    "https://rpc.uniport.network"
+  ]
+}

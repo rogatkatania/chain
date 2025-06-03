@@ -1,0 +1,10 @@
+{
+  "chain_id": "2154",
+  "name": "Findora Forge",
+  "symbol": "Testnet-forge",
+  "explorer_url": "https://testnet-forge.evm.findorascan.io",
+  "rpc_urls": [
+    "https://prod-forge.prod.findora.org:8545"
+  ],
+  "rpc": []
+}

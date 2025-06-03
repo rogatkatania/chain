@@ -1,0 +1,9 @@
+{
+  "chain_id": "920001",
+  "name": "Posichain Devnet Shard 1",
+  "symbol": "PSC",
+  "explorer_url": "https://explorer-devnet.posichain.org",
+  "rpc_urls": [
+    "https://api.s1.d.posichain.org"
+  ]
+}

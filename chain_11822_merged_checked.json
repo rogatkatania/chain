@@ -1,0 +1,10 @@
+{
+  "chain_id": "11822",
+  "name": "",
+  "symbol": "",
+  "explorer_url": "",
+  "rpc_urls": [
+    "https://betanet-rpc1.artela.network"
+  ],
+  "rpc": []
+}

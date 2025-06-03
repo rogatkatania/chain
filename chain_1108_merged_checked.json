@@ -1,0 +1,10 @@
+{
+  "chain_id": "1108",
+  "name": "BLXq Mainnet",
+  "symbol": "BLXQ",
+  "explorer_url": "https://explorer.blxq.org",
+  "rpc_urls": [
+    "https://mainnet.blxq.org"
+  ],
+  "rpc": []
+}

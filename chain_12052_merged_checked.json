@@ -1,0 +1,10 @@
+{
+  "chain_id": "12052",
+  "name": "Singularity ZERO Mainnet",
+  "symbol": "ZERO",
+  "explorer_url": "https://zeroscan.singularity.gold",
+  "rpc_urls": [
+    "https://zerorpc.singularity.gold"
+  ],
+  "rpc": []
+}

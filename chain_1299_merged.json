@@ -1,0 +1,10 @@
+{
+  "chain_id": "1299",
+  "name": "Argochain",
+  "symbol": "Argochain",
+  "explorer_url": "https://scanner.argoscan.net",
+  "rpc_urls": [
+    "https://rpc-mainnet.devolvedai.com",
+    "https://rpc.devolvedai.com"
+  ]
+}

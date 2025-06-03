@@ -1,0 +1,9 @@
+{
+  "chain_id": "198",
+  "name": "Bitchain Mainnet",
+  "symbol": "Bit",
+  "explorer_url": "https://explorer.bitchain.biz",
+  "rpc_urls": [
+    "https://rpc.bitchain.biz"
+  ]
+}

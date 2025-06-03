@@ -1,0 +1,9 @@
+{
+  "chain_id": "1215",
+  "name": "ADF Chain",
+  "symbol": "ADF Chain",
+  "explorer_url": "https://explorer.adftechnology.com",
+  "rpc_urls": [
+    "https://mainnet.adftechnology.com"
+  ]
+}

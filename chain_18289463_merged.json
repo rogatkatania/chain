@@ -1,0 +1,9 @@
+{
+  "chain_id": "18289463",
+  "name": "IOLite",
+  "symbol": "ILT",
+  "explorer_url": "",
+  "rpc_urls": [
+    "https://net.iolite.io"
+  ]
+}

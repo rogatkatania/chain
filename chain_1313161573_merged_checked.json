@@ -1,0 +1,10 @@
+{
+  "chain_id": "1313161573",
+  "name": "Tuxappcoin",
+  "symbol": "NEAR",
+  "explorer_url": "https://explorer.tuxa.aurora.dev",
+  "rpc_urls": [
+    "https://rpc-0x4e454165.aurora-cloud.dev"
+  ],
+  "rpc": []
+}

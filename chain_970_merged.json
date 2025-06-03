@@ -1,0 +1,9 @@
+{
+  "chain_id": "970",
+  "name": "Oort Mainnet",
+  "symbol": "Oort Mainnet",
+  "explorer_url": "https://mainnet-scan.oortech.com",
+  "rpc_urls": [
+    "https://mainnet-rpc.oortech.com"
+  ]
+}

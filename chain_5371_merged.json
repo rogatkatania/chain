@@ -1,0 +1,9 @@
+{
+  "chain_id": "5371",
+  "name": "Settlus",
+  "symbol": "ETH",
+  "explorer_url": "https://mainnet.settlus.network",
+  "rpc_urls": [
+    "https://settlus-mainnet.g.alchemy.com/public"
+  ]
+}

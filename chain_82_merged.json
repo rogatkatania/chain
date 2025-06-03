@@ -1,0 +1,11 @@
+{
+  "chain_id": "82",
+  "name": "Meter Mainnet",
+  "symbol": "METER",
+  "explorer_url": "https://scan.meter.io",
+  "rpc_urls": [
+    "https://meter.blockpi.network/v1/rpc/public",
+    "https://rpc-meter.jellypool.xyz",
+    "https://rpc.meter.io"
+  ]
+}

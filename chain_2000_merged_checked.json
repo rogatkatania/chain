@@ -1,0 +1,17 @@
+{
+  "chain_id": "2000",
+  "name": "Dogechain Mainnet",
+  "symbol": "DC",
+  "explorer_url": "https://explorer.dogechain.dog",
+  "rpc_urls": [
+    "https://doge-mainnet.gateway.tatum.io",
+    "https://rpc-sg.dogechain.dog",
+    "https://rpc-us.dogechain.dog",
+    "https://rpc.ankr.com/dogechain",
+    "https://rpc.dogechain.dog",
+    "https://rpc01-sg.dogechain.dog",
+    "https://rpc02-sg.dogechain.dog",
+    "https://rpc03-sg.dogechain.dog"
+  ],
+  "rpc": []
+}

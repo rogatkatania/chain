@@ -1,0 +1,10 @@
+{
+  "chain_id": "311",
+  "name": "Omax Mainnet",
+  "symbol": "OMAX Chain",
+  "explorer_url": "https://omaxray.com",
+  "rpc_urls": [
+    "https://mainapi.omaxray.com",
+    "https://mainapi.omaxscan.com"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "chain_id": "2140",
+  "name": "Oneness Network",
+  "symbol": "Oneness",
+  "explorer_url": "https://scan.onenesslabs.io",
+  "rpc_urls": [
+    "https://rpc.onenesslabs.io"
+  ]
+}

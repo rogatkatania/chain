@@ -1,0 +1,10 @@
+{
+  "chain_id": "20256789",
+  "name": "ETP Mainnet",
+  "symbol": "ETP",
+  "explorer_url": "https://etpscan.xyz",
+  "rpc_urls": [
+    "https://rpc.etpscan.xyz"
+  ],
+  "rpc": []
+}

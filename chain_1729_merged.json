@@ -1,0 +1,10 @@
+{
+  "chain_id": "1729",
+  "name": "Reya Network",
+  "symbol": "Reya",
+  "explorer_url": "https://explorer.reya.network",
+  "rpc_urls": [
+    "https://rpc.reya.network",
+    "wss://ws.reya.network"
+  ]
+}

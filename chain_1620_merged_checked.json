@@ -1,0 +1,10 @@
+{
+  "chain_id": "1620",
+  "name": "Atheios",
+  "symbol": "ATH",
+  "explorer_url": "",
+  "rpc_urls": [
+    "https://rpc.atheios.org"
+  ],
+  "rpc": []
+}

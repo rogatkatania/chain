@@ -1,0 +1,10 @@
+{
+  "chain_id": "22222",
+  "name": "Nautilus Mainnet",
+  "symbol": "ETH",
+  "explorer_url": "https://nautscan.com",
+  "rpc_urls": [
+    "https://api.nautilus.nautchain.xyz"
+  ],
+  "rpc": []
+}

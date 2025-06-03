@@ -1,0 +1,9 @@
+{
+  "chain_id": "4400",
+  "name": "Credit Smart Chain Mainnet",
+  "symbol": "CREDIT",
+  "explorer_url": "https://scan.creditsmartchain.com",
+  "rpc_urls": [
+    "https://rpc.creditsmartchain.com"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "chain_id": "314159",
+  "name": "",
+  "symbol": "",
+  "explorer_url": "",
+  "rpc_urls": [
+    "https://api.calibration.node.glif.io/rpc/v1",
+    "https://calibration.filfox.info/rpc/v1",
+    "https://filecoin-calibration.chainup.net/rpc/v1"
+  ],
+  "rpc": [
+    "https://filecoin-calibration.chainup.net/rpc/v1",
+    "https://api.calibration.node.glif.io/rpc/v1"
+  ]
+}

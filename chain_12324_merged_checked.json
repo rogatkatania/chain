@@ -1,0 +1,10 @@
+{
+  "chain_id": "12324",
+  "name": "L3X Protocol",
+  "symbol": "L3X",
+  "explorer_url": "https://explorer.l3x.com",
+  "rpc_urls": [
+    "https://rpc-mainnet.l3x.com"
+  ],
+  "rpc": []
+}

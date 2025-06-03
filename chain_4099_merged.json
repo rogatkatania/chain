@@ -1,0 +1,9 @@
+{
+  "chain_id": "4099",
+  "name": "Bitindi Mainnet",
+  "symbol": "BNI",
+  "explorer_url": "https://bitindiscan.com",
+  "rpc_urls": [
+    "https://mainnet-rpc.bitindi.org"
+  ]
+}

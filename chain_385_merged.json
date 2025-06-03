@@ -1,0 +1,9 @@
+{
+  "chain_id": "385",
+  "name": "Lisinski",
+  "symbol": "CRO",
+  "explorer_url": "",
+  "rpc_urls": [
+    "https://rpc-bitfalls1.lisinski.online"
+  ]
+}

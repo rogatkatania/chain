@@ -1,0 +1,14 @@
+{
+  "chain_id": "4913",
+  "name": "OEV Network",
+  "symbol": "oev-network",
+  "explorer_url": "https://oev.explorer.api3.org",
+  "rpc_urls": [
+    "https://oev-network.calderachain.xyz/http",
+    "https://oev.rpc.api3.org"
+  ],
+  "rpc": [
+    "https://oev-network.calderachain.xyz/http",
+    "https://oev.rpc.api3.org"
+  ]
+}

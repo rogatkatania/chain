@@ -1,0 +1,9 @@
+{
+  "chain_id": "3424",
+  "name": "EVOLVE Mainnet",
+  "symbol": "EVO",
+  "explorer_url": "https://evoexplorer.com",
+  "rpc_urls": [
+    "https://rpc.evoexplorer.com"
+  ]
+}

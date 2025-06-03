@@ -1,0 +1,19 @@
+{
+  "chain_id": "108",
+  "name": "ThunderCore Mainnet",
+  "symbol": "TT",
+  "explorer_url": "https://viewblock.io/thundercore",
+  "rpc_urls": [
+    "https://mainnet-rpc.thundercore.com",
+    "https://mainnet-rpc.thundercore.io",
+    "https://mainnet-rpc.thundertoken.net",
+    "https://thundercore.drpc.org",
+    "wss://thundercore.drpc.org"
+  ],
+  "rpc": [
+    "https://mainnet-rpc.thundertoken.net",
+    "https://thundercore.drpc.org",
+    "https://mainnet-rpc.thundercore.io",
+    "https://mainnet-rpc.thundercore.com"
+  ]
+}

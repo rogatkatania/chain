@@ -1,0 +1,9 @@
+{
+  "chain_id": "6880",
+  "name": "MTT Network",
+  "symbol": "MTT",
+  "explorer_url": "https://explorer.mtt.network",
+  "rpc_urls": [
+    "https://evm-rpc.mtt.network"
+  ]
+}

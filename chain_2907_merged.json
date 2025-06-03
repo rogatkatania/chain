@@ -1,0 +1,9 @@
+{
+  "chain_id": "2907",
+  "name": "Elux Chain",
+  "symbol": "ELUX",
+  "explorer_url": "https://eluxscan.com",
+  "rpc_urls": [
+    "https://rpc.eluxscan.com"
+  ]
+}

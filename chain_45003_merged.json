@@ -1,0 +1,9 @@
+{
+  "chain_id": "45003",
+  "name": "Juneo JUNE-Chain",
+  "symbol": "Juneo JUNE-Chain",
+  "explorer_url": "https://juneoscan.io/chain/2",
+  "rpc_urls": [
+    "https://rpc.juneo-mainnet.network/ext/bc/JUNE/rpc"
+  ]
+}

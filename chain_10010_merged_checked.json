@@ -1,0 +1,12 @@
+{
+  "chain_id": "10010",
+  "name": "",
+  "symbol": "",
+  "explorer_url": "",
+  "rpc_urls": [
+    "https://evm.chiado.wardenprotocol.org"
+  ],
+  "rpc": [
+    "https://evm.chiado.wardenprotocol.org"
+  ]
+}

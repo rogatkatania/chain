@@ -1,0 +1,11 @@
+{
+  "chain_id": "123420000220",
+  "name": "Fluence Stage",
+  "symbol": "Fluence Stage (Testnet)",
+  "explorer_url": "https://blockscout.stage.fluence.dev",
+  "rpc_urls": [
+    "https://rpc.stage.fluence.dev",
+    "wss://ws.stage.fluence.dev"
+  ],
+  "rpc": []
+}

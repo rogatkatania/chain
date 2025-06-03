@@ -1,0 +1,9 @@
+{
+  "chain_id": "428962654539583",
+  "name": "Yominet",
+  "symbol": "YOMINET",
+  "explorer_url": "",
+  "rpc_urls": [
+    "https://jsonrpc-yominet-1.anvil.asia-southeast.initia.xyz"
+  ]
+}

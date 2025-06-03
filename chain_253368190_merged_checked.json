@@ -1,0 +1,10 @@
+{
+  "chain_id": "253368190",
+  "name": "Flame",
+  "symbol": "Flame",
+  "explorer_url": "https://explorer.flame.astria.org",
+  "rpc_urls": [
+    "https://rpc.flame.astria.org"
+  ],
+  "rpc": []
+}

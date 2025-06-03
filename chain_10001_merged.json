@@ -1,0 +1,9 @@
+{
+  "chain_id": "10001",
+  "name": "ETHW-mainnet",
+  "symbol": "ETHW",
+  "explorer_url": "https://www.oklink.com/ethw/",
+  "rpc_urls": [
+    "https://mainnet.ethereumpow.org"
+  ]
+}

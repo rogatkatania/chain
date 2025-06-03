@@ -1,0 +1,9 @@
+{
+  "chain_id": "121224",
+  "name": "Fushuma",
+  "symbol": "Fushuma",
+  "explorer_url": "https://fumascan.com",
+  "rpc_urls": [
+    "https://rpc.fushuma.com"
+  ]
+}

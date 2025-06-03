@@ -1,0 +1,23 @@
+{
+  "chain_id": "42220",
+  "name": "Celo Mainnet",
+  "symbol": "CELO",
+  "explorer_url": "https://celoscan.io",
+  "rpc_urls": [
+    "https://celo-json-rpc.stakely.io",
+    "https://celo-mainnet.gateway.tatum.io",
+    "https://celo.drpc.org",
+    "https://forno.celo.org",
+    "https://rpc.ankr.com/celo",
+    "https://rpc.zerion.io/v1/celo",
+    "wss://celo.drpc.org",
+    "wss://forno.celo.org/ws"
+  ],
+  "rpc": [
+    "https://celo.drpc.org",
+    "https://rpc.ankr.com/celo",
+    "https://rpc.zerion.io/v1/celo",
+    "https://celo-json-rpc.stakely.io",
+    "https://forno.celo.org"
+  ]
+}

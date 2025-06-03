@@ -1,0 +1,9 @@
+{
+  "chain_id": "42069",
+  "name": "pegglecoin",
+  "symbol": "42069",
+  "explorer_url": "",
+  "rpc_urls": [
+    "rpcWorking:false"
+  ]
+}

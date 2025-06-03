@@ -1,0 +1,9 @@
+{
+  "chain_id": "68770",
+  "name": "DM2 Verse Mainnet",
+  "symbol": "DM2 Verse",
+  "explorer_url": "https://explorer.dm2verse.dmm.com",
+  "rpc_urls": [
+    "https://rpc.dm2verse.dmm.com"
+  ]
+}

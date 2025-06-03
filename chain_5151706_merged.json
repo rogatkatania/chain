@@ -1,0 +1,10 @@
+{
+  "chain_id": "5151706",
+  "name": "Loot Mainnet",
+  "symbol": "LOOT",
+  "explorer_url": "https://explorer.lootchain.com/",
+  "rpc_urls": [
+    "https://rpc.lootchain.com/http",
+    "wss://rpc.lootchain.com/ws"
+  ]
+}

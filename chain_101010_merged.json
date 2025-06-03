@@ -1,0 +1,9 @@
+{
+  "chain_id": "101010",
+  "name": "Global Trust Network",
+  "symbol": "GTN",
+  "explorer_url": "https://stability.blockscout.com",
+  "rpc_urls": [
+    "https://gtn.stabilityprotocol.com"
+  ]
+}

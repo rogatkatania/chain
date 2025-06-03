@@ -1,0 +1,10 @@
+{
+  "chain_id": "1146703430",
+  "name": "CyberdeckNet",
+  "symbol": "cyberdeck",
+  "explorer_url": "http://cybeth1.cyberdeck.eu:8000",
+  "rpc_urls": [
+    "http://cybeth1.cyberdeck.eu:8545"
+  ],
+  "rpc": []
+}

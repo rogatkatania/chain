@@ -1,0 +1,21 @@
+{
+  "chain_id": "80002",
+  "name": "Amoy",
+  "symbol": "Polygon",
+  "explorer_url": "https://amoy.polygonscan.com",
+  "rpc_urls": [
+    "https://api.zan.top/polygon-amoy",
+    "https://node.histori.xyz/matic-amoy-testnet/8ry9f6t9dct1se2hlagxnd9n2a",
+    "https://polygon-amoy-bor-rpc.publicnode.com",
+    "https://polygon-amoy.blockpi.network/v1/rpc/55f0f1206445fe2a75901735bdbd0eda94018e89",
+    "https://polygon-amoy.blockpi.network/v1/rpc/private",
+    "https://polygon-amoy.drpc.org",
+    "https://polygon-amoy.gateway.tatum.io",
+    "https://polygon-amoy.gateway.tenderly.co",
+    "https://polygon-bor-amoy-rpc.publicnode.com",
+    "https://rpc-amoy.polygon.technology",
+    "https://rpc.therpc.io/polygon-amoy",
+    "wss://polygon-amoy-bor-rpc.publicnode.com",
+    "wss://polygon-bor-amoy-rpc.publicnode.com"
+  ]
+}

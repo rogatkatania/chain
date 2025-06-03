@@ -1,0 +1,10 @@
+{
+  "chain_id": "440017",
+  "name": "Graphite Mainnet",
+  "symbol": "Graphite",
+  "explorer_url": "https://main.atgraphite.com",
+  "rpc_urls": [
+    "https://anon-entrypoint-1.atgraphite.com",
+    "wss://ws-anon-entrypoint-1.atgraphite.com"
+  ]
+}

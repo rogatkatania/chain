@@ -1,0 +1,13 @@
+{
+  "chain_id": "2187",
+  "name": "Game7",
+  "symbol": "Game7",
+  "explorer_url": "https://mainnet.game7.io",
+  "rpc_urls": [
+    "https://mainnet-rpc.game7.build",
+    "https://mainnet-rpc.game7.io",
+    "wss://mainnet-rpc.game7.build",
+    "wss://mainnet-rpc.game7.io"
+  ],
+  "rpc": []
+}

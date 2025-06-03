@@ -1,0 +1,9 @@
+{
+  "chain_id": "19845",
+  "name": "BTCIX Network",
+  "symbol": "BTCIX",
+  "explorer_url": "https://btcixscan.com",
+  "rpc_urls": [
+    "https://seed.btcix.org/rpc"
+  ]
+}

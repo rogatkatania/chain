@@ -1,0 +1,9 @@
+{
+  "chain_id": "151",
+  "name": "Redbelly Network Mainnet",
+  "symbol": "RBN",
+  "explorer_url": "https://redbelly.routescan.io",
+  "rpc_urls": [
+    "https://governors.mainnet.redbelly.network"
+  ]
+}

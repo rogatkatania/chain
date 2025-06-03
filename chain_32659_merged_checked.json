@@ -1,0 +1,13 @@
+{
+  "chain_id": "32659",
+  "name": "Fusion Mainnet",
+  "symbol": "FSN",
+  "explorer_url": "https://fsnscan.com",
+  "rpc_urls": [
+    "https://mainnet.fusionnetwork.io",
+    "wss://mainnet.fusionnetwork.io"
+  ],
+  "rpc": [
+    "https://mainnet.fusionnetwork.io"
+  ]
+}

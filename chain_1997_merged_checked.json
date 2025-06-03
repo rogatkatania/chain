@@ -1,0 +1,10 @@
+{
+  "chain_id": "1997",
+  "name": "Kyoto",
+  "symbol": "KYOTO",
+  "explorer_url": "https://kyotoscan.io",
+  "rpc_urls": [
+    "https://rpc.kyotochain.io"
+  ],
+  "rpc": []
+}

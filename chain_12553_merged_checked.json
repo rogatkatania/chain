@@ -1,0 +1,10 @@
+{
+  "chain_id": "12553",
+  "name": "RSS3 VSL Mainnet",
+  "symbol": "RSS3",
+  "explorer_url": "https://scan.rss3.io",
+  "rpc_urls": [
+    "https://rpc.rss3.io"
+  ],
+  "rpc": []
+}

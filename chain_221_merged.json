@@ -1,0 +1,9 @@
+{
+  "chain_id": "221",
+  "name": "BlockEx Mainnet",
+  "symbol": "BlockEx",
+  "explorer_url": "http://explorer.blockex.biz",
+  "rpc_urls": [
+    "https://rpc.blockex.biz"
+  ]
+}

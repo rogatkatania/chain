@@ -1,0 +1,10 @@
+{
+  "chain_id": "2047",
+  "name": "",
+  "symbol": "",
+  "explorer_url": "",
+  "rpc_urls": [
+    "https://web3-rpc-mesos.thestratos.org"
+  ],
+  "rpc": []
+}

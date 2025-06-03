@@ -1,0 +1,11 @@
+{
+  "chain_id": "202624",
+  "name": "Jellie",
+  "symbol": "ETH",
+  "explorer_url": "https://jellie.twala.io",
+  "rpc_urls": [
+    "https://jellie-rpc.twala.io",
+    "wss://jellie-rpc-wss.twala.io"
+  ],
+  "rpc": []
+}

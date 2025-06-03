@@ -1,0 +1,12 @@
+{
+  "chain_id": "29",
+  "name": "Genesis L1",
+  "symbol": "genesis",
+  "explorer_url": "https://explorer.genesisl1.org",
+  "rpc_urls": [
+    "https://rpc.genesisl1.org"
+  ],
+  "rpc": [
+    "https://rpc.genesisl1.org"
+  ]
+}

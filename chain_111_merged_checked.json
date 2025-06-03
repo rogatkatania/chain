@@ -1,0 +1,10 @@
+{
+  "chain_id": "111",
+  "name": "EtherLite Chain",
+  "symbol": "ETL",
+  "explorer_url": "",
+  "rpc_urls": [
+    "https://rpc.etherlite.org"
+  ],
+  "rpc": []
+}

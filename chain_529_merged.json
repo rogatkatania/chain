@@ -1,0 +1,10 @@
+{
+  "chain_id": "529",
+  "name": "Firechain Mainnet",
+  "symbol": "FIRE",
+  "explorer_url": "",
+  "rpc_urls": [
+    "https://rpc-mainnet.firestation.io",
+    "https://rpc-mainnet.thefirechain.com"
+  ]
+}

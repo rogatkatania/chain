@@ -1,0 +1,11 @@
+{
+  "chain_id": "7778",
+  "name": "Orenium Mainnet Protocol",
+  "symbol": "ORE",
+  "explorer_url": "https://oreniumscan.org",
+  "rpc_urls": [
+    "https://portalmainnet.orenium.org",
+    "https://rpc-oracle-mainnet.orenium.org",
+    "https://validator-mainnet.orenium.org"
+  ]
+}

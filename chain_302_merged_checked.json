@@ -1,0 +1,12 @@
+{
+  "chain_id": "302",
+  "name": "",
+  "symbol": "",
+  "explorer_url": "",
+  "rpc_urls": [
+    "https://sepolia.rpc.zkcandy.io"
+  ],
+  "rpc": [
+    "https://sepolia.rpc.zkcandy.io"
+  ]
+}

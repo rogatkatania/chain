@@ -1,0 +1,14 @@
+{
+  "chain_id": "52014",
+  "name": "Electroneum Mainnet",
+  "symbol": "Electroneum",
+  "explorer_url": "https://blockexplorer.electroneum.com",
+  "rpc_urls": [
+    "https://rpc.ankr.com/electroneum",
+    "https://rpc.electroneum.com"
+  ],
+  "rpc": [
+    "https://rpc.ankr.com/electroneum",
+    "https://rpc.electroneum.com"
+  ]
+}

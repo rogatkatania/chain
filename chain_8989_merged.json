@@ -1,0 +1,9 @@
+{
+  "chain_id": "8989",
+  "name": "Giant Mammoth Mainnet",
+  "symbol": "GMMT",
+  "explorer_url": "https://scan.gmmtchain.io",
+  "rpc_urls": [
+    "https://rpc-asia.gmmtchain.io"
+  ]
+}

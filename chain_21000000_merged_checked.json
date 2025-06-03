@@ -1,0 +1,12 @@
+{
+  "chain_id": "21000000",
+  "name": "Corn",
+  "symbol": "BTCN",
+  "explorer_url": "https://cornscan.io",
+  "rpc_urls": [
+    "https://mainnet.corn-rpc.com",
+    "https://maizenet-rpc.usecorn.com",
+    "https://rpc.ankr.com/corn_maizenet"
+  ],
+  "rpc": []
+}

@@ -1,0 +1,9 @@
+{
+  "chain_id": "222555",
+  "name": "DeepL Mainnet",
+  "symbol": "DEEPL",
+  "explorer_url": "https://scan.deeplnetwork.org",
+  "rpc_urls": [
+    "https://rpc.deeplnetwork.org"
+  ]
+}

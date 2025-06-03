@@ -1,0 +1,10 @@
+{
+  "chain_id": "2612",
+  "name": "EZChain C-Chain Mainnet",
+  "symbol": "EZC",
+  "explorer_url": "https://cchain-explorer.ezchain.com",
+  "rpc_urls": [
+    "https://api.ezchain.com/ext/bc/C/rpc"
+  ],
+  "rpc": []
+}

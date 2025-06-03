@@ -1,0 +1,9 @@
+{
+  "chain_id": "260",
+  "name": "Guru Network",
+  "symbol": "GURU",
+  "explorer_url": "https://scan.gurunetwork.ai",
+  "rpc_urls": [
+    "https://rpc-main.gurunetwork.ai"
+  ]
+}

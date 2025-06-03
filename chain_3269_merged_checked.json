@@ -1,0 +1,10 @@
+{
+  "chain_id": "3269",
+  "name": "Dubxcoin network",
+  "symbol": "DUBX",
+  "explorer_url": "",
+  "rpc_urls": [
+    "https://rpcmain.arabianchain.org"
+  ],
+  "rpc": []
+}

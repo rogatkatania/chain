@@ -1,0 +1,10 @@
+{
+  "chain_id": "20240603",
+  "name": "DBK Chain",
+  "symbol": "DBK Chain",
+  "explorer_url": "https://scan.dbkchain.io",
+  "rpc_urls": [
+    "https://rpc.mainnet.dbkchain.io"
+  ],
+  "rpc": []
+}

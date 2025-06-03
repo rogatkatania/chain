@@ -1,0 +1,10 @@
+{
+  "chain_id": "19224",
+  "name": "Decentraconnect Social",
+  "symbol": "DCSM",
+  "explorer_url": "https://decentraconnect.io",
+  "rpc_urls": [
+    "https://rpc.decentraconnect.io"
+  ],
+  "rpc": []
+}

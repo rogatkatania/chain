@@ -1,0 +1,9 @@
+{
+  "chain_id": "1987",
+  "name": "EtherGem",
+  "symbol": "EGEM",
+  "explorer_url": "",
+  "rpc_urls": [
+    "https://jsonrpc.egem.io/custom"
+  ]
+}

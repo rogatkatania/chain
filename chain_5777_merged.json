@@ -1,0 +1,9 @@
+{
+  "chain_id": "5777",
+  "name": "Ganache",
+  "symbol": "ETH",
+  "explorer_url": "",
+  "rpc_urls": [
+    "https://127.0.0.1:7545"
+  ]
+}

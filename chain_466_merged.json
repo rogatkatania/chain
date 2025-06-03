@@ -1,0 +1,10 @@
+{
+  "chain_id": "466",
+  "name": "AppChain",
+  "symbol": "AppChain",
+  "explorer_url": "https://explorer.appchain.xyz",
+  "rpc_urls": [
+    "https://rpc.appchain.xyz/http",
+    "wss://rpc.appchain.xyz/ws"
+  ]
+}

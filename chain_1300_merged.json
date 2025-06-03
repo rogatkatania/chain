@@ -1,0 +1,9 @@
+{
+  "chain_id": "1300",
+  "name": "Glue Mainnet",
+  "symbol": "GLUE",
+  "explorer_url": "https://explorer.glue.net",
+  "rpc_urls": [
+    "https://rpc.glue.net"
+  ]
+}

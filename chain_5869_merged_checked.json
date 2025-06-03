@@ -1,0 +1,13 @@
+{
+  "chain_id": "5869",
+  "name": "Wegochain Rubidium Mainnet",
+  "symbol": "RBD",
+  "explorer_url": "https://scan2.wegochain.io",
+  "rpc_urls": [
+    "http://wallet.wegochain.io:7764",
+    "https://proxy.wegochain.io"
+  ],
+  "rpc": [
+    "https://proxy.wegochain.io"
+  ]
+}

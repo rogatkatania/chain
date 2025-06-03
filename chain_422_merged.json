@@ -1,0 +1,9 @@
+{
+  "chain_id": "422",
+  "name": "Viridis Mainnet",
+  "symbol": "VRD",
+  "explorer_url": "https://explorer.vrd.network",
+  "rpc_urls": [
+    "https://mainnet-rpc.vrd.network"
+  ]
+}

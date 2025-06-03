@@ -1,0 +1,11 @@
+{
+  "chain_id": "211",
+  "name": "Freight Trust Network",
+  "symbol": "EDI",
+  "explorer_url": "",
+  "rpc_urls": [
+    "http://13.57.207.168:3435",
+    "https://app.freighttrust.net/ftn/${API_KEY}"
+  ],
+  "rpc": []
+}

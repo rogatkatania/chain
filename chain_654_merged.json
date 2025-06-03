@@ -1,0 +1,9 @@
+{
+  "chain_id": "654",
+  "name": "Kalichain",
+  "symbol": "Kalichain",
+  "explorer_url": "https://explorer.kalichain.com",
+  "rpc_urls": [
+    "https://mainnet.kalichain.com"
+  ]
+}

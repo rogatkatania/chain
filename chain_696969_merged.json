@@ -1,0 +1,9 @@
+{
+  "chain_id": "696969",
+  "name": "Galadriel Devnet",
+  "symbol": "Galadriel",
+  "explorer_url": "https://explorer.galadriel.com",
+  "rpc_urls": [
+    "https://devnet.galadriel.com"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "chain_id": "1004",
+  "name": "T-EKTA",
+  "symbol": "T-EKTA",
+  "explorer_url": "https://test.ektascan.io",
+  "rpc_urls": [
+    "https://test.ekta.io:8545"
+  ],
+  "rpc": []
+}

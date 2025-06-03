@@ -1,0 +1,9 @@
+{
+  "chain_id": "123",
+  "name": "Fuse Sparknet",
+  "symbol": "fuse",
+  "explorer_url": "",
+  "rpc_urls": [
+    "https://rpc.fusespark.io"
+  ]
+}

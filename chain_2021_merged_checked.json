@@ -1,0 +1,23 @@
+{
+  "chain_id": "2021",
+  "name": "Edgeware EdgeEVM Mainnet",
+  "symbol": "EDG",
+  "explorer_url": "https://edgscan.live",
+  "rpc_urls": [
+    "https://edgeware-evm.jelliedowl.net",
+    "https://edgeware-evm0.jelliedowl.net",
+    "https://edgeware-evm1.jelliedowl.net",
+    "https://edgeware-evm2.jelliedowl.net",
+    "https://edgeware-evm3.jelliedowl.net",
+    "https://edgeware.api.onfinality.io/public",
+    "https://mainnet2.edgewa.re/evm",
+    "https://mainnet3.edgewa.re/evm",
+    "https://node.histori.xyz/lens-testnet/8ry9f6t9dct1se2hlagxnd9n2a",
+    "wss://edgeware-rpc0.jelliedowl.net",
+    "wss://edgeware-rpc1.jelliedowl.net",
+    "wss://edgeware-rpc2.jelliedowl.net",
+    "wss://edgeware-rpc3.jelliedowl.net",
+    "wss://edgeware.jelliedowl.net"
+  ],
+  "rpc": []
+}

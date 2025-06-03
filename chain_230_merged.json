@@ -1,0 +1,10 @@
+{
+  "chain_id": "230",
+  "name": "SwapDEX",
+  "symbol": "SDX",
+  "explorer_url": "https://evm.swapdex.network",
+  "rpc_urls": [
+    "https://rpc.swapdex.network",
+    "wss://ss.swapdex.network"
+  ]
+}

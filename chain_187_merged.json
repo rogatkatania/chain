@@ -1,0 +1,9 @@
+{
+  "chain_id": "187",
+  "name": "Dojima",
+  "symbol": "Dojima",
+  "explorer_url": "https://explorer.dojima.network",
+  "rpc_urls": [
+    "https://rpc-d11k.dojima.network"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "chain_id": "2488",
+  "name": "NOW Chain Mainnet",
+  "symbol": "NOW",
+  "explorer_url": "https://nowscan.io",
+  "rpc_urls": [
+    "https://rpc.nowscan.io"
+  ]
+}

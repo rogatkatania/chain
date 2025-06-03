@@ -1,0 +1,9 @@
+{
+  "chain_id": "1234567",
+  "name": "Sharecle Mainnet",
+  "symbol": "SHARECLE",
+  "explorer_url": "https://etherscan.io",
+  "rpc_urls": [
+    "https://mainnet.sharecle.com"
+  ]
+}

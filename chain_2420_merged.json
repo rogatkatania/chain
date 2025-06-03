@@ -1,0 +1,9 @@
+{
+  "chain_id": "2420",
+  "name": "Rufus",
+  "symbol": "rufus",
+  "explorer_url": "https://rufus.calderaexplorer.xyz",
+  "rpc_urls": [
+    "https://rufus.calderachain.xyz/http"
+  ]
+}

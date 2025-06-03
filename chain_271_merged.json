@@ -1,0 +1,9 @@
+{
+  "chain_id": "271",
+  "name": "EgonCoin Mainnet",
+  "symbol": "EGON",
+  "explorer_url": "https://egonscan.com",
+  "rpc_urls": [
+    "https://rpc.egonscan.com"
+  ]
+}

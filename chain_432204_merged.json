@@ -1,0 +1,9 @@
+{
+  "chain_id": "432204",
+  "name": "Dexalot Subnet",
+  "symbol": "DEXALOT",
+  "explorer_url": "https://subnets.avax.network/dexalot",
+  "rpc_urls": [
+    "https://subnets.avax.network/dexalot/mainnet/rpc"
+  ]
+}

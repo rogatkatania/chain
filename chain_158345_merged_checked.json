@@ -1,0 +1,10 @@
+{
+  "chain_id": "158345",
+  "name": "XCOIN",
+  "symbol": "XCOIN",
+  "explorer_url": "https://cryptoxscan.io",
+  "rpc_urls": [
+    "https://rpc-xcoin.cryptoxnetwork.io"
+  ],
+  "rpc": []
+}

@@ -1,0 +1,10 @@
+{
+  "chain_id": "3969",
+  "name": "PayNetwork Mainnet",
+  "symbol": "paynetwork",
+  "explorer_url": "https://paynetwork-main.calderaexplorer.xyz",
+  "rpc_urls": [
+    "https://paynetwork-main.calderachain.xyz/http",
+    "https://rpc.paynetwork.io"
+  ]
+}

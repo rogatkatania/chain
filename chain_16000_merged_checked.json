@@ -1,0 +1,10 @@
+{
+  "chain_id": "16000",
+  "name": "MetaDot Mainnet",
+  "symbol": "MTT",
+  "explorer_url": "",
+  "rpc_urls": [
+    "https://mainnet.metadot.network"
+  ],
+  "rpc": []
+}

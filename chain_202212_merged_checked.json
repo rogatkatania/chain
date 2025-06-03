@@ -1,0 +1,10 @@
+{
+  "chain_id": "202212",
+  "name": "X1 Devnet",
+  "symbol": "X1",
+  "explorer_url": "https://explorer.x1-devnet.xen.network",
+  "rpc_urls": [
+    "https://x1-devnet.xen.network"
+  ],
+  "rpc": []
+}

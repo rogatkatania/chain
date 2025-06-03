@@ -1,0 +1,10 @@
+{
+  "chain_id": "47805",
+  "name": "REI Network",
+  "symbol": "REI",
+  "explorer_url": "https://scan.rei.network",
+  "rpc_urls": [
+    "https://rpc.rei.network",
+    "wss://rpc.rei.network"
+  ]
+}

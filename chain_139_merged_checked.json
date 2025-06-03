@@ -1,0 +1,10 @@
+{
+  "chain_id": "139",
+  "name": "WoopChain Mainnet",
+  "symbol": "WOOP",
+  "explorer_url": "https://explorer.wikiwoop.com",
+  "rpc_urls": [
+    "https://rpc.woop.ai/rpc"
+  ],
+  "rpc": []
+}

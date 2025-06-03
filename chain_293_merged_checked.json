@@ -1,0 +1,10 @@
+{
+  "chain_id": "293",
+  "name": "DaVinci",
+  "symbol": "DCOIN",
+  "explorer_url": "https://mainnet-explorer.davinci.bz",
+  "rpc_urls": [
+    "https://rpc.davinci.bz"
+  ],
+  "rpc": []
+}

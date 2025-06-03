@@ -1,0 +1,11 @@
+{
+  "chain_id": "2468",
+  "name": "Hybrid Chain Network Mainnet",
+  "symbol": "HYBRID",
+  "explorer_url": "https://hybridscan.ai",
+  "rpc_urls": [
+    "https://coredata-mainnet.hybridchain.ai",
+    "https://rpc-mainnet.hybridchain.ai"
+  ],
+  "rpc": []
+}

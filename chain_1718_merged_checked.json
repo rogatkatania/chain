@@ -1,0 +1,10 @@
+{
+  "chain_id": "1718",
+  "name": "Palette Chain Mainnet",
+  "symbol": "PLT",
+  "explorer_url": "https://palettescan.com",
+  "rpc_urls": [
+    "https://palette-rpc.com:22000"
+  ],
+  "rpc": []
+}

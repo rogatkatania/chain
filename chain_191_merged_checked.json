@@ -1,0 +1,10 @@
+{
+  "chain_id": "191",
+  "name": "FileFileGo",
+  "symbol": "FFG",
+  "explorer_url": "",
+  "rpc_urls": [
+    "https://rpc.filefilego.com/rpc"
+  ],
+  "rpc": []
+}

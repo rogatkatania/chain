@@ -1,0 +1,10 @@
+{
+  "chain_id": "710",
+  "name": "Highbury",
+  "symbol": "HIGHBURY",
+  "explorer_url": "https://explorer.furya.io",
+  "rpc_urls": [
+    "https://highbury.furya.io",
+    "https://rest.furya.io"
+  ]
+}

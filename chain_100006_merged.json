@@ -1,0 +1,10 @@
+{
+  "chain_id": "100006",
+  "name": "QuarkChain Mainnet Shard 5",
+  "symbol": "QuarkChain",
+  "explorer_url": "https://mainnet.quarkchain.io/5",
+  "rpc_urls": [
+    "http://eth-jrpc.mainnet.quarkchain.io:39005",
+    "https://mainnet-s5-ethapi.quarkchain.io"
+  ]
+}

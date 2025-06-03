@@ -1,0 +1,12 @@
+{
+  "chain_id": "4457845",
+  "name": "",
+  "symbol": "",
+  "explorer_url": "",
+  "rpc_urls": [
+    "https://rpc.zerion.io/v1/zero-sepolia"
+  ],
+  "rpc": [
+    "https://rpc.zerion.io/v1/zero-sepolia"
+  ]
+}

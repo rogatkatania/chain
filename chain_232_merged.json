@@ -1,0 +1,10 @@
+{
+  "chain_id": "232",
+  "name": "Lens",
+  "symbol": "Lens",
+  "explorer_url": "https://explorer.lens.xyz",
+  "rpc_urls": [
+    "https://lens.drpc.org",
+    "https://rpc.lens.xyz"
+  ]
+}

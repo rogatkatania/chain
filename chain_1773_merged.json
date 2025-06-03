@@ -1,0 +1,11 @@
+{
+  "chain_id": "1773",
+  "name": "PartyChain",
+  "symbol": "mainnet",
+  "explorer_url": "https://partyexplorer.co",
+  "rpc_urls": [
+    "http://138.197.152.181:8245",
+    "http://172.104.194.36:8545",
+    "https://tea.mining4people.com/rpc"
+  ]
+}

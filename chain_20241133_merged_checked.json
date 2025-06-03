@@ -1,0 +1,10 @@
+{
+  "chain_id": "20241133",
+  "name": "",
+  "symbol": "",
+  "explorer_url": "",
+  "rpc_urls": [
+    "https://rpc-proxima.swanchain.io"
+  ],
+  "rpc": []
+}

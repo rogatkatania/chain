@@ -1,0 +1,9 @@
+{
+  "chain_id": "361",
+  "name": "Theta Mainnet",
+  "symbol": "Theta",
+  "explorer_url": "https://explorer.thetatoken.org",
+  "rpc_urls": [
+    "https://eth-rpc-api.thetatoken.org/rpc"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "chain_id": "245022934",
+  "name": "Neon EVM Mainnet",
+  "symbol": "Solana",
+  "explorer_url": "https://neonscan.org",
+  "rpc_urls": [
+    "https://neon-evm.drpc.org",
+    "https://neon-mainnet.everstake.one",
+    "https://neon-proxy-mainnet.solana.p2p.org",
+    "https://node.histori.xyz/neon-devnet/8ry9f6t9dct1se2hlagxnd9n2a",
+    "https://node.histori.xyz/neon-mainnet/8ry9f6t9dct1se2hlagxnd9n2a",
+    "wss://neon-evm.drpc.org"
+  ]
+}

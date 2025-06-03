@@ -1,0 +1,9 @@
+{
+  "chain_id": "6969",
+  "name": "Tomb Chain Mainnet",
+  "symbol": "Tomb Chain",
+  "explorer_url": "https://tombscout.com",
+  "rpc_urls": [
+    "https://rpc.tombchain.com"
+  ]
+}

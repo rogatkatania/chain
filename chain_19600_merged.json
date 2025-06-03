@@ -1,0 +1,9 @@
+{
+  "chain_id": "19600",
+  "name": "LBRY Mainnet",
+  "symbol": "LBRY",
+  "explorer_url": "https://explorer.lbry.com",
+  "rpc_urls": [
+    "https://lbry.nl/rpc"
+  ]
+}

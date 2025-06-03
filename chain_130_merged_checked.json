@@ -1,0 +1,19 @@
+{
+  "chain_id": "130",
+  "name": "Unichain",
+  "symbol": "ETH",
+  "explorer_url": "https://uniscan.xyz",
+  "rpc_urls": [
+    "https://0xrpc.io/uni",
+    "https://mainnet.unichain.org",
+    "https://rpc.therpc.io/unichain",
+    "https://unichain-mainnet.g.alchemy.com/v2/gi4tk6s65zmhnapbshfydl3w-lda8xmu",
+    "https://unichain-rpc.publicnode.com",
+    "https://unichain.api.onfinality.io/public",
+    "https://unichain.drpc.org",
+    "wss://0xrpc.io/uni",
+    "wss://unichain-rpc.publicnode.com",
+    "wss://unichain.drpc.org"
+  ],
+  "rpc": []
+}

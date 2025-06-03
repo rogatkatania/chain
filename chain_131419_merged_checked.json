@@ -1,0 +1,10 @@
+{
+  "chain_id": "131419",
+  "name": "ETND Chain Mainnets",
+  "symbol": "ETND",
+  "explorer_url": "https://scan.etnd.pro",
+  "rpc_urls": [
+    "https://rpc.node1.etnd.pro"
+  ],
+  "rpc": []
+}

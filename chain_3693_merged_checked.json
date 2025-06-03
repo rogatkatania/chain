@@ -1,0 +1,10 @@
+{
+  "chain_id": "3693",
+  "name": "Empire Network",
+  "symbol": "EMPIRE",
+  "explorer_url": "https://explorer.empirenetwork.io",
+  "rpc_urls": [
+    "https://rpc.empirenetwork.io"
+  ],
+  "rpc": []
+}

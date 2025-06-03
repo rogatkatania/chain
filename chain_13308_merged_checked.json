@@ -1,0 +1,10 @@
+{
+  "chain_id": "13308",
+  "name": "Credit Smart Chain",
+  "symbol": "CREDIT",
+  "explorer_url": "https://scan.creditsmartchain.com",
+  "rpc_urls": [
+    "https://rpc.creditsmartchain.com"
+  ],
+  "rpc": []
+}

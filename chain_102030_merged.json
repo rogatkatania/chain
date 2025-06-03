@@ -1,0 +1,9 @@
+{
+  "chain_id": "102030",
+  "name": "Creditcoin",
+  "symbol": "CTC",
+  "explorer_url": "https://creditcoin.blockscout.com",
+  "rpc_urls": [
+    "https://mainnet3.creditcoin.network"
+  ]
+}

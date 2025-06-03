@@ -1,0 +1,9 @@
+{
+  "chain_id": "91111",
+  "name": "Henez Chain Mainnet",
+  "symbol": "henez",
+  "explorer_url": "https://henez.calderaexplorer.xyz",
+  "rpc_urls": [
+    "https://henez.calderachain.xyz/http"
+  ]
+}

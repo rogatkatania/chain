@@ -1,0 +1,9 @@
+{
+  "chain_id": "12",
+  "name": "",
+  "symbol": "",
+  "explorer_url": "",
+  "rpc_urls": [
+    "https://api.metadium.com/dev"
+  ]
+}

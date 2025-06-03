@@ -1,0 +1,9 @@
+{
+  "chain_id": "6789",
+  "name": "Gold Smart Chain Mainnet",
+  "symbol": "STAND",
+  "explorer_url": "https://mainnet.goldsmartchain.com",
+  "rpc_urls": [
+    "https://rpc-mainnet.goldsmartchain.com"
+  ]
+}

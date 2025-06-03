@@ -1,0 +1,12 @@
+{
+  "chain_id": "8882",
+  "name": "",
+  "symbol": "",
+  "explorer_url": "",
+  "rpc_urls": [
+    "https://asia-rpc-opal.unique.network",
+    "https://eu-rpc-opal.unique.network",
+    "https://rpc-opal.unique.network",
+    "https://us-rpc-opal.unique.network"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "chain_id": "1555",
+  "name": "Datacore Smart Chain",
+  "symbol": "Datacore Smart Chain",
+  "explorer_url": "https://dscscan.io",
+  "rpc_urls": [
+    "https://rpc01.dscscan.io"
+  ]
+}

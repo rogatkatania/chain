@@ -1,0 +1,10 @@
+{
+  "chain_id": "61803",
+  "name": "Etica Mainnet",
+  "symbol": "Etica Protocol (ETI/EGAZ)",
+  "explorer_url": "https://eticascan.org",
+  "rpc_urls": [
+    "https://eticamainnet.eticaprotocol.org",
+    "https://eticamainnet.eticascan.org"
+  ]
+}

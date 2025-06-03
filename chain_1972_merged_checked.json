@@ -1,0 +1,10 @@
+{
+  "chain_id": "1972",
+  "name": "RedeCoin",
+  "symbol": "REDEV2",
+  "explorer_url": "https://explorer3.redecoin.eu",
+  "rpc_urls": [
+    "https://rpc2.redecoin.eu"
+  ],
+  "rpc": []
+}

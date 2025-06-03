@@ -1,0 +1,11 @@
+{
+  "chain_id": "42262",
+  "name": "Oasis Emerald",
+  "symbol": "Emerald",
+  "explorer_url": "https://explorer.oasis.io/mainnet/emerald",
+  "rpc_urls": [
+    "https://1rpc.io/oasis/emerald",
+    "https://emerald.oasis.io",
+    "wss://emerald.oasis.io/ws"
+  ]
+}

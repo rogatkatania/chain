@@ -1,0 +1,9 @@
+{
+  "chain_id": "555",
+  "name": "Vela1 Chain Mainnet",
+  "symbol": "VELA1",
+  "explorer_url": "https://exp.velaverse.io",
+  "rpc_urls": [
+    "https://rpc.velaverse.io"
+  ]
+}

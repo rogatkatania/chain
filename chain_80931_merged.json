@@ -1,0 +1,9 @@
+{
+  "chain_id": "80931",
+  "name": "Forta Chain",
+  "symbol": "Forta Chain",
+  "explorer_url": "https://explorer.forta.org",
+  "rpc_urls": [
+    "https://rpc-forta-chain-8gj1qndmfc.t.conduit.xyz"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "chain_id": "108160679",
+  "name": "Oraichain Mainnet",
+  "symbol": "Oraichain",
+  "explorer_url": "",
+  "rpc_urls": [
+    "https://evm.orai.io",
+    "https://oraichain-mainnet-evm.itrocket.net"
+  ],
+  "rpc": [
+    "https://oraichain-mainnet-evm.itrocket.net",
+    "https://evm.orai.io"
+  ]
+}

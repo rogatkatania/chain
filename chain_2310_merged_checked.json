@@ -1,0 +1,12 @@
+{
+  "chain_id": "2310",
+  "name": "CratD2C",
+  "symbol": "CRATD2C",
+  "explorer_url": "https://explorer.cratd2csmartchain.io",
+  "rpc_urls": [
+    "https://node1.cratd2csmartchain.io",
+    "https://node2.cratd2csmartchain.io",
+    "https://node3.cratd2csmartchain.io"
+  ],
+  "rpc": []
+}

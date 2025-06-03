@@ -1,0 +1,11 @@
+{
+  "chain_id": "114",
+  "name": "",
+  "symbol": "",
+  "explorer_url": "",
+  "rpc_urls": [
+    "https://coston2-api.flare.network/ext/c/rpc",
+    "https://coston2.enosys.global/ext/c/rpc"
+  ],
+  "rpc": []
+}

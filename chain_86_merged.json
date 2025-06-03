@@ -1,0 +1,9 @@
+{
+  "chain_id": "86",
+  "name": "GateChain Mainnet",
+  "symbol": "GT",
+  "explorer_url": "https://www.gatescan.org",
+  "rpc_urls": [
+    "https://evm.gatenode.cc"
+  ]
+}

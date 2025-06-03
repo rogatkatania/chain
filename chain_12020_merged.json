@@ -1,0 +1,9 @@
+{
+  "chain_id": "12020",
+  "name": "Aternos",
+  "symbol": "Aternos",
+  "explorer_url": "https://explorer.aternoschain.com",
+  "rpc_urls": [
+    "https://rpc.aternoschain.com"
+  ]
+}

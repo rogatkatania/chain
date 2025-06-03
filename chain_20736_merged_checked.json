@@ -1,0 +1,10 @@
+{
+  "chain_id": "20736",
+  "name": "P12 Chain",
+  "symbol": "P12",
+  "explorer_url": "https://explorer.p12.games",
+  "rpc_urls": [
+    "https://rpc-chain.p12.games"
+  ],
+  "rpc": []
+}

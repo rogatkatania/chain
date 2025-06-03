@@ -1,0 +1,10 @@
+{
+  "chain_id": "9819",
+  "name": "IMPERIUM MAINNET",
+  "symbol": "IMP",
+  "explorer_url": "https://impscan.com",
+  "rpc_urls": [
+    "https://data-aws-mainnet.imperiumchain.com",
+    "https://data-aws2-mainnet.imperiumchain.com"
+  ]
+}

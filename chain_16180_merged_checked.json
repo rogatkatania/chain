@@ -1,0 +1,10 @@
+{
+  "chain_id": "16180",
+  "name": "PLYR PHI",
+  "symbol": "PLYR",
+  "explorer_url": "https://explorer.plyr.network",
+  "rpc_urls": [
+    "https://subnets.avax.network/plyr/mainnet/rpc"
+  ],
+  "rpc": []
+}

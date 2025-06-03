@@ -1,0 +1,10 @@
+{
+  "chain_id": "7484",
+  "name": "Raba Network Mainnet",
+  "symbol": "Raba",
+  "explorer_url": "https://x.raba.app/explorer",
+  "rpc_urls": [
+    "https://rpc.x.raba.app",
+    "wss://rpc.x.raba.app/ws"
+  ]
+}

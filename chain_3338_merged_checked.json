@@ -1,0 +1,20 @@
+{
+  "chain_id": "3338",
+  "name": "peaq",
+  "symbol": "peaq",
+  "explorer_url": "https://peaq.subscan.io",
+  "rpc_urls": [
+    "https://evm.peaq.network",
+    "https://peaq-rpc.dwellir.com",
+    "https://peaq-rpc.publicnode.com",
+    "https://peaq.api.onfinality.io/public",
+    "https://responsive-powerful-mansion.peaq-mainnet.quiknode.pro/29963d0a2deee01a20b091926b08d68db12bc68b"
+  ],
+  "rpc": [
+    "https://responsive-powerful-mansion.peaq-mainnet.quiknode.pro/29963d0a2deee01a20b091926b08d68db12bc68b",
+    "https://peaq-rpc.publicnode.com",
+    "https://evm.peaq.network",
+    "https://peaq.api.onfinality.io/public",
+    "https://peaq-rpc.dwellir.com"
+  ]
+}

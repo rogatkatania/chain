@@ -1,0 +1,11 @@
+{
+  "chain_id": "138",
+  "name": "Defi Oracle Meta Mainnet",
+  "symbol": "dfiometa",
+  "explorer_url": "https://blockscout.defi-oracle.io",
+  "rpc_urls": [
+    "https://rpc.defi-oracle.io",
+    "wss://wss.defi-oracle.io"
+  ],
+  "rpc": []
+}

@@ -1,0 +1,10 @@
+{
+  "chain_id": "111111",
+  "name": "Siberium Network",
+  "symbol": "SBR",
+  "explorer_url": "https://explorer.main.siberium.net",
+  "rpc_urls": [
+    "https://rpc.main.siberium.net",
+    "https://rpc.main.siberium.net.ru"
+  ]
+}

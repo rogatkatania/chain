@@ -1,0 +1,9 @@
+{
+  "chain_id": "14235",
+  "name": "Bitlazer",
+  "symbol": "bitlazer",
+  "explorer_url": "https://bitlazer.calderaexplorer.xyz",
+  "rpc_urls": [
+    "https://bitlazer.calderachain.xyz/http"
+  ]
+}

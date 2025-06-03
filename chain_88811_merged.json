@@ -1,0 +1,9 @@
+{
+  "chain_id": "88811",
+  "name": "Unit Zero Mainnet",
+  "symbol": "Unit Zero",
+  "explorer_url": "",
+  "rpc_urls": [
+    "https://rpc.unit0.dev"
+  ]
+}

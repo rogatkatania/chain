@@ -1,0 +1,9 @@
+{
+  "chain_id": "53935",
+  "name": "DFK Chain",
+  "symbol": "DFK",
+  "explorer_url": "https://explorer.dfkchain.com",
+  "rpc_urls": [
+    "https://subnets.avax.network/defi-kingdoms/dfk-chain/rpc"
+  ]
+}

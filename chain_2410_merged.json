@@ -1,0 +1,9 @@
+{
+  "chain_id": "2410",
+  "name": "K2 Mainnet",
+  "symbol": "K2",
+  "explorer_url": "https://explorer.karak.network",
+  "rpc_urls": [
+    "https://rpc.karak.network"
+  ]
+}

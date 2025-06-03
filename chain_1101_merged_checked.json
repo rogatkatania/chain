@@ -1,0 +1,29 @@
+{
+  "chain_id": "1101",
+  "name": "Polygon zkEVM",
+  "symbol": "Polygon",
+  "explorer_url": "https://zkevm.polygonscan.com",
+  "rpc_urls": [
+    "https://1rpc.io/polygon/zkevm",
+    "https://endpoints.omniatech.io/v1/polygon-zkevm/mainnet/public",
+    "https://node.histori.xyz/polygon-zkevm-mainnet/8ry9f6t9dct1se2hlagxnd9n2a",
+    "https://polygon-zkevm-mainnet.public.blastapi.io",
+    "https://polygon-zkevm.blockpi.network/v1/rpc/private",
+    "https://polygon-zkevm.drpc.org",
+    "https://polygonzkevm-mainnet.g.alchemy.com/v2/gi4tk6s65zmhnapbshfydl3w-lda8xmu",
+    "https://rpc.polygon-zkevm.gateway.fm",
+    "https://zkevm-rpc.com",
+    "https://zkevm.twnodes.com",
+    "wss://polygon-zkevm.drpc.org"
+  ],
+  "rpc": [
+    "https://zkevm-rpc.com",
+    "https://endpoints.omniatech.io/v1/polygon-zkevm/mainnet/public",
+    "https://polygon-zkevm.drpc.org",
+    "https://polygon-zkevm-mainnet.public.blastapi.io",
+    "https://1rpc.io/polygon/zkevm",
+    "https://polygonzkevm-mainnet.g.alchemy.com/v2/gi4tk6s65zmhnapbshfydl3w-lda8xmu",
+    "https://rpc.polygon-zkevm.gateway.fm",
+    "https://zkevm.twnodes.com"
+  ]
+}

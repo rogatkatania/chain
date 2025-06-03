@@ -1,0 +1,10 @@
+{
+  "chain_id": "128123",
+  "name": "",
+  "symbol": "",
+  "explorer_url": "",
+  "rpc_urls": [
+    "https://node.ghostnet.etherlink.com"
+  ],
+  "rpc": []
+}

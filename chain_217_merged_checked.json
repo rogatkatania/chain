@@ -1,0 +1,10 @@
+{
+  "chain_id": "217",
+  "name": "SiriusNet V2",
+  "symbol": "SIN2",
+  "explorer_url": "https://scan.siriusnet.io",
+  "rpc_urls": [
+    "https://rpc2.siriusnet.io"
+  ],
+  "rpc": []
+}

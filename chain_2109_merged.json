@@ -1,0 +1,10 @@
+{
+  "chain_id": "2109",
+  "name": "Exosama Network",
+  "symbol": "EXN",
+  "explorer_url": "https://explorer.exosama.com",
+  "rpc_urls": [
+    "https://rpc.exosama.com",
+    "wss://rpc.exosama.com"
+  ]
+}

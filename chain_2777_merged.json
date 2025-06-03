@@ -1,0 +1,9 @@
+{
+  "chain_id": "2777",
+  "name": "GM Network Mainnet",
+  "symbol": "GM Network Mainnet",
+  "explorer_url": "https://scan.gmnetwork.ai",
+  "rpc_urls": [
+    "https://rpc.gmnetwork.ai"
+  ]
+}

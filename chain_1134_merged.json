@@ -1,0 +1,9 @@
+{
+  "chain_id": "1134",
+  "name": "StateMesh",
+  "symbol": "MESH",
+  "explorer_url": "https://scan.statemesh.net",
+  "rpc_urls": [
+    "https://rpc.statemesh.net"
+  ]
+}

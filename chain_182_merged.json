@@ -1,0 +1,11 @@
+{
+  "chain_id": "182",
+  "name": "IOST Mainnet",
+  "symbol": "iost",
+  "explorer_url": "https://l2-scan.iost.io",
+  "rpc_urls": [
+    "https://iost-mainnet.alt.technology",
+    "https://l2-mainnet.iost.io",
+    "wss://l2-mainnet.iost.io"
+  ]
+}

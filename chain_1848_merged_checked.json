@@ -1,0 +1,12 @@
+{
+  "chain_id": "1848",
+  "name": "Swisstronik Mainnet",
+  "symbol": "SWTR",
+  "explorer_url": "https://explorer-evm.mainnet.swisstronik.com",
+  "rpc_urls": [
+    "https://json-rpc.mainnet.swisstronik.com",
+    "https://json-rpc.mainnet.swisstronik.com/unencrypted",
+    "wss://ws-rpc.mainnet.swisstronik.com"
+  ],
+  "rpc": []
+}

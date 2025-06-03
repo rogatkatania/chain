@@ -1,0 +1,21 @@
+{
+  "chain_id": "288",
+  "name": "Boba Network",
+  "symbol": "ETH",
+  "explorer_url": "https://bobascan.com",
+  "rpc_urls": [
+    "https://1rpc.io/boba/eth",
+    "https://boba-eth.drpc.org",
+    "https://boba-ethereum.gateway.tenderly.co",
+    "https://gateway.tenderly.co/public/boba-ethereum",
+    "https://mainnet.boba.network",
+    "https://replica.boba.network",
+    "wss://boba-eth.drpc.org",
+    "wss://boba-ethereum.gateway.tenderly.co",
+    "wss://gateway.tenderly.co/public/boba-ethereum"
+  ],
+  "rpc": [
+    "https://mainnet.boba.network",
+    "https://replica.boba.network"
+  ]
+}

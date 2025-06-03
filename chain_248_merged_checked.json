@@ -1,0 +1,13 @@
+{
+  "chain_id": "248",
+  "name": "Oasys Mainnet",
+  "symbol": "Oasys",
+  "explorer_url": "https://explorer.oasys.games",
+  "rpc_urls": [
+    "https://oasys.blockpi.network/v1/rpc/public",
+    "https://oasys.rpc.grove.city/v1/167fa7a3",
+    "https://rpc.mainnet.oasys.games",
+    "wss://ws.mainnet.oasys.games"
+  ],
+  "rpc": []
+}

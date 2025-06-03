@@ -1,0 +1,115 @@
+{
+  "name": "Ethereum Mainnet",
+  "chain": "ETH",
+  "rpc": [
+    "https://eth.drpc.org",
+    "https://rpc.mevblocker.io/noreverts",
+    "https://rpc.mevblocker.io/fullprivacy",
+    "https://mainnet.gateway.tenderly.co",
+    "https://rpc.mevblocker.io",
+    "https://rpc.mevblocker.io/fast",
+    "https://ethereum-rpc.publicnode.com",
+    "https://rpc.flashbots.net/fast",
+    "https://rpc.flashbots.net"
+  ],
+  "faucets": [],
+  "nativeCurrency": {
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "infoURL": "https://ethereum.org",
+  "shortName": "eth",
+  "chainId": 1,
+  "networkId": 1,
+  "explorers": [
+    {
+      "name": "etherscan",
+      "url": "https://etherscan.io",
+      "standard": "EIP3091"
+    },
+    {
+      "name": "blockscout",
+      "url": "https://eth.blockscout.com",
+      "icon": "blockscout",
+      "standard": "EIP3091"
+    },
+    {
+      "name": "dexguru",
+      "url": "https://ethereum.dex.guru",
+      "icon": "dexguru",
+      "standard": "EIP3091"
+    },
+    {
+      "name": "Routescan",
+      "url": "https://ethereum.routescan.io",
+      "standard": "EIP3091"
+    },
+    {
+      "name": "etherscan",
+      "url": "https://etherscan.io",
+      "standard": "EIP3091"
+    },
+    {
+      "name": "blockscout",
+      "url": "https://eth.blockscout.com",
+      "icon": "blockscout",
+      "standard": "EIP3091"
+    },
+    {
+      "name": "dexguru",
+      "url": "https://ethereum.dex.guru",
+      "icon": "dexguru",
+      "standard": "EIP3091"
+    },
+    {
+      "name": "Routescan",
+      "url": "https://ethereum.routescan.io",
+      "standard": "EIP3091"
+    },
+    {
+      "name": "etherscan",
+      "url": "https://etherscan.io",
+      "standard": "EIP3091"
+    },
+    {
+      "name": "blockscout",
+      "url": "https://eth.blockscout.com",
+      "icon": "blockscout",
+      "standard": "EIP3091"
+    },
+    {
+      "name": "dexguru",
+      "url": "https://ethereum.dex.guru",
+      "icon": "dexguru",
+      "standard": "EIP3091"
+    },
+    {
+      "name": "Routescan",
+      "url": "https://ethereum.routescan.io",
+      "standard": "EIP3091"
+    },
+    {
+      "name": "etherscan",
+      "url": "https://etherscan.io",
+      "standard": "EIP3091"
+    },
+    {
+      "name": "blockscout",
+      "url": "https://eth.blockscout.com",
+      "icon": "blockscout",
+      "standard": "EIP3091"
+    },
+    {
+      "name": "dexguru",
+      "url": "https://ethereum.dex.guru",
+      "icon": "dexguru",
+      "standard": "EIP3091"
+    },
+    {
+      "name": "Routescan",
+      "url": "https://ethereum.routescan.io",
+      "standard": "EIP3091"
+    }
+  ]
+}

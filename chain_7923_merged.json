@@ -1,0 +1,9 @@
+{
+  "chain_id": "7923",
+  "name": "Dot Blox",
+  "symbol": "DTBX",
+  "explorer_url": "https://explorer.dotblox.io",
+  "rpc_urls": [
+    "https://rpc.dotblox.io"
+  ]
+}

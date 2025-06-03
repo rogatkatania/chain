@@ -1,0 +1,11 @@
+{
+  "chain_id": "166",
+  "name": "Omni",
+  "symbol": "Omni",
+  "explorer_url": "https://omniscan.network",
+  "rpc_urls": [
+    "https://mainnet.omni.network",
+    "wss://wss.mainnet.omni.network"
+  ],
+  "rpc": []
+}

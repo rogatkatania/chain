@@ -1,0 +1,10 @@
+{
+  "chain_id": "21133",
+  "name": "All About Healthy",
+  "symbol": "AAH",
+  "explorer_url": "https://exp.c4ex.net",
+  "rpc_urls": [
+    "https://rpc.c4ex.net"
+  ],
+  "rpc": []
+}

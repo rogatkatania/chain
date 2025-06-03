@@ -1,0 +1,10 @@
+{
+  "chain_id": "8428",
+  "name": "THAT Mainnet",
+  "symbol": "THAT",
+  "explorer_url": "https://that.blockscout.com",
+  "rpc_urls": [
+    "https://api.thatchain.io",
+    "https://api.thatchain.io/mainnet"
+  ]
+}

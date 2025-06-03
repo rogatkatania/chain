@@ -1,0 +1,11 @@
+{
+  "chain_id": "2199",
+  "name": "Moonsama Network",
+  "symbol": "MSN",
+  "explorer_url": "https://explorer.moonsama.com",
+  "rpc_urls": [
+    "https://rpc.moonsama.com",
+    "wss://rpc.moonsama.com/ws"
+  ],
+  "rpc": []
+}

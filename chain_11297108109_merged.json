@@ -1,0 +1,12 @@
+{
+  "chain_id": "11297108109",
+  "name": "Palm",
+  "symbol": "Palm",
+  "explorer_url": "https://palm.chainlens.com",
+  "rpc_urls": [
+    "https://node.histori.xyz/palm-mainnet/8ry9f6t9dct1se2hlagxnd9n2a",
+    "https://palm-mainnet.gateway.tatum.io",
+    "https://palm-mainnet.infura.io/v3/3a961d6501e54add9a41aa53f15de99b",
+    "https://palm-mainnet.public.blastapi.io"
+  ]
+}

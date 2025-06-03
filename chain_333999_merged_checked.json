@@ -1,0 +1,10 @@
+{
+  "chain_id": "333999",
+  "name": "Polis Mainnet",
+  "symbol": "Olympus",
+  "explorer_url": "",
+  "rpc_urls": [
+    "https://rpc.polis.tech"
+  ],
+  "rpc": []
+}

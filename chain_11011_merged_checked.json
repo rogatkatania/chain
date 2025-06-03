@@ -1,0 +1,12 @@
+{
+  "chain_id": "11011",
+  "name": "",
+  "symbol": "",
+  "explorer_url": "",
+  "rpc_urls": [
+    "https://sepolia.shape.network"
+  ],
+  "rpc": [
+    "https://sepolia.shape.network"
+  ]
+}

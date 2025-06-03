@@ -1,0 +1,10 @@
+{
+  "chain_id": "8000",
+  "name": "Teleport",
+  "symbol": "Teleport",
+  "explorer_url": "https://evm-explorer.teleport.network",
+  "rpc_urls": [
+    "https://dataseed.testnet.teleport.network",
+    "https://evm-rpc.teleport.network"
+  ]
+}

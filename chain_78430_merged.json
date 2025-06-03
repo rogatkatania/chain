@@ -1,0 +1,9 @@
+{
+  "chain_id": "78430",
+  "name": "Amplify Subnet",
+  "symbol": "AMPLIFY",
+  "explorer_url": "https://subnets-test.avax.network/amplify",
+  "rpc_urls": [
+    "https://subnets.avax.network/amplify/testnet/rpc"
+  ]
+}

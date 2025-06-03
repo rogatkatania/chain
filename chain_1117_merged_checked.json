@@ -1,0 +1,10 @@
+{
+  "chain_id": "1117",
+  "name": "Dogcoin Mainnet",
+  "symbol": "DOGS",
+  "explorer_url": "https://explorer.dogcoin.network",
+  "rpc_urls": [
+    "https://mainnet-rpc.dogcoin.me"
+  ],
+  "rpc": []
+}

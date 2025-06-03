@@ -1,0 +1,18 @@
+{
+  "chain_id": "5851",
+  "name": "",
+  "symbol": "",
+  "explorer_url": "",
+  "rpc_urls": [
+    "https://polaris1.ont.io:10339",
+    "https://polaris2.ont.io:10339",
+    "https://polaris3.ont.io:10339",
+    "https://polaris4.ont.io:10339"
+  ],
+  "rpc": [
+    "https://polaris1.ont.io:10339",
+    "https://polaris2.ont.io:10339",
+    "https://polaris3.ont.io:10339",
+    "https://polaris4.ont.io:10339"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "chain_id": "72992",
+  "name": "Grok Chain Mainnet",
+  "symbol": "Grok",
+  "explorer_url": "https://mainnet-explorer.grokchain.dev",
+  "rpc_urls": [
+    "https://mainnet-rpc.grokchain.dev"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "chain_id": "45010",
+  "name": "Juneo DOGE1-Chain",
+  "symbol": "Juneo DOGE1-Chain",
+  "explorer_url": "https://juneoscan.io/chain/10",
+  "rpc_urls": [
+    "https://rpc.juneo-mainnet.network/ext/bc/DOGE1/rpc"
+  ]
+}

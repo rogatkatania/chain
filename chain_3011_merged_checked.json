@@ -1,0 +1,12 @@
+{
+  "chain_id": "3011",
+  "name": "PLAYA3ULL GAMES",
+  "symbol": "3ULL",
+  "explorer_url": "https://3011.routescan.io",
+  "rpc_urls": [
+    "https://api.mainnet.playa3ull.games"
+  ],
+  "rpc": [
+    "https://api.mainnet.playa3ull.games"
+  ]
+}

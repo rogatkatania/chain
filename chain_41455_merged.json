@@ -1,0 +1,13 @@
+{
+  "chain_id": "41455",
+  "name": "Aleph Zero EVM",
+  "symbol": "Aleph Zero EVM",
+  "explorer_url": "https://evm-explorer.alephzero.org",
+  "rpc_urls": [
+    "https://alephzero.drpc.org",
+    "https://node.histori.xyz/aleph-zero-mainnet/8ry9f6t9dct1se2hlagxnd9n2a",
+    "https://rpc.alephzero.raas.gelato.cloud",
+    "wss://alephzero.drpc.org",
+    "wss://ws.alephzero.raas.gelato.cloud"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "chain_id": "47803",
+  "name": "ReDeFi Layer 1",
+  "symbol": "ReDeFi",
+  "explorer_url": "https://scanlayer1.redefi.world",
+  "rpc_urls": [
+    "https://layer1.redefi.world"
+  ]
+}

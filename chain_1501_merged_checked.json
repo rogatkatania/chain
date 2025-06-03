@@ -1,0 +1,11 @@
+{
+  "chain_id": "1501",
+  "name": "BEVM Canary",
+  "symbol": "ChainX",
+  "explorer_url": "https://scan-canary.bevm.io",
+  "rpc_urls": [
+    "https://rpc-canary-1.bevm.io",
+    "https://rpc-canary-2.bevm.io"
+  ],
+  "rpc": []
+}

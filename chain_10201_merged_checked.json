@@ -1,0 +1,12 @@
+{
+  "chain_id": "10201",
+  "name": "MaxxChain Mainnet",
+  "symbol": "MaxxChain",
+  "explorer_url": "https://explorer.maxxchain.org",
+  "rpc_urls": [
+    "https://rpc.maxxchain.org",
+    "https://rpc1.maxxchain.org",
+    "https://rpc2.maxxchain.org"
+  ],
+  "rpc": []
+}

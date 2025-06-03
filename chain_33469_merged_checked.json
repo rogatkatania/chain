@@ -1,0 +1,12 @@
+{
+  "chain_id": "33469",
+  "name": "Zilliqa 2 EVM devnet",
+  "symbol": "ZIL",
+  "explorer_url": "https://explorer.zq2-devnet.zilliqa.com",
+  "rpc_urls": [
+    "https://api.zq2-devnet.zilliqa.com"
+  ],
+  "rpc": [
+    "https://api.zq2-devnet.zilliqa.com"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "chain_id": "2390",
+  "name": "TAC Turin",
+  "symbol": "TAC",
+  "explorer_url": "https://turin.explorer.tac.build",
+  "rpc_urls": [
+    "https://rpc.ankr.com/tac_turin",
+    "https://turin-ws.rpc.tac.build",
+    "https://turin.rpc.tac.build"
+  ]
+}

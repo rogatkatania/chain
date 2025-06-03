@@ -1,0 +1,10 @@
+{
+  "chain_id": "1511670449",
+  "name": "GPT Mainnet",
+  "symbol": "GPT Protocol",
+  "explorer_url": "https://explorer.gptprotocol.io",
+  "rpc_urls": [
+    "https://rpc.gptprotocol.io"
+  ],
+  "rpc": []
+}

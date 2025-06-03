@@ -1,0 +1,10 @@
+{
+  "chain_id": "1008",
+  "name": "Eurus Mainnet",
+  "symbol": "EUN",
+  "explorer_url": "https://explorer.eurus.network",
+  "rpc_urls": [
+    "https://mainnet.eurus.network"
+  ],
+  "rpc": []
+}

@@ -1,0 +1,9 @@
+{
+  "chain_id": "5040",
+  "name": "ONIGIRI Subnet",
+  "symbol": "ONIGIRI",
+  "explorer_url": "https://subnets.avax.network/onigiri",
+  "rpc_urls": [
+    "https://subnets.avax.network/onigiri/mainnet/rpc"
+  ]
+}

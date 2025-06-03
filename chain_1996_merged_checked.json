@@ -1,0 +1,10 @@
+{
+  "chain_id": "1996",
+  "name": "Sanko",
+  "symbol": "Sanko",
+  "explorer_url": "https://explorer.sanko.xyz",
+  "rpc_urls": [
+    "https://mainnet.sanko.xyz"
+  ],
+  "rpc": []
+}

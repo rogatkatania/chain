@@ -1,0 +1,9 @@
+{
+  "chain_id": "129",
+  "name": "Innovator Chain",
+  "symbol": "INNOVATOR",
+  "explorer_url": "https://evm.innovatorchain.com",
+  "rpc_urls": [
+    "https://rpc.innovatorchain.com"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "chain_id": "33385",
+  "name": "Zilliqa EVM Devnet",
+  "symbol": "ZIL",
+  "explorer_url": "https://otterscan.devnet.zilliqa.com",
+  "rpc_urls": [
+    "https://api.devnet.zilliqa.com"
+  ]
+}

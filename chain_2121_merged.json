@@ -1,0 +1,9 @@
+{
+  "chain_id": "2121",
+  "name": "Catena Mainnet",
+  "symbol": "CMCX",
+  "explorer_url": "https://catenascan.com",
+  "rpc_urls": [
+    "https://rpc1.catenarpc.com"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "chain_id": "200901",
+  "name": "Bitlayer Mainnet",
+  "symbol": "Bitlayer",
+  "explorer_url": "https://www.btrscan.com",
+  "rpc_urls": [
+    "https://rpc-bitlayer.rockx.com",
+    "https://rpc.ankr.com/bitlayer",
+    "https://rpc.bitlayer-rpc.com",
+    "https://rpc.bitlayer.org",
+    "wss://ws.bitlayer-rpc.com",
+    "wss://ws.bitlayer.org"
+  ]
+}

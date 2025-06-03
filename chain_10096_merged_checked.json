@@ -1,0 +1,12 @@
+{
+  "chain_id": "10096",
+  "name": "MetaNova Verse",
+  "symbol": "MNV",
+  "explorer_url": "https://explorer.metanovaverse.com",
+  "rpc_urls": [
+    "https://web3.metanovaverse.com"
+  ],
+  "rpc": [
+    "https://web3.metanovaverse.com"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "chain_id": "4801",
+  "name": "",
+  "symbol": "",
+  "explorer_url": "",
+  "rpc_urls": [
+    "https://4801.rpc.thirdweb.com",
+    "https://worldchain-sepolia.g.alchemy.com/public",
+    "https://worldchain-sepolia.gateway.tenderly.co"
+  ],
+  "rpc": [
+    "https://worldchain-sepolia.g.alchemy.com/public",
+    "https://worldchain-sepolia.gateway.tenderly.co",
+    "https://4801.rpc.thirdweb.com"
+  ]
+}

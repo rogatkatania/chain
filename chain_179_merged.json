@@ -1,0 +1,9 @@
+{
+  "chain_id": "179",
+  "name": "ABEY Mainnet",
+  "symbol": "ABEY",
+  "explorer_url": "https://abeyscan.com",
+  "rpc_urls": [
+    "https://rpc.abeychain.com"
+  ]
+}

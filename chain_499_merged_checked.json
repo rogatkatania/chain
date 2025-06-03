@@ -1,0 +1,10 @@
+{
+  "chain_id": "499",
+  "name": "Rupaya",
+  "symbol": "RUPX",
+  "explorer_url": "https://scan.rupaya.io",
+  "rpc_urls": [
+    "https://rpc.rupaya.io"
+  ],
+  "rpc": []
+}

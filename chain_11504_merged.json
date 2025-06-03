@@ -1,0 +1,9 @@
+{
+  "chain_id": "11504",
+  "name": "GEB Signet",
+  "symbol": "GEB",
+  "explorer_url": "https://scan-signet.geb.network",
+  "rpc_urls": [
+    "https://signet.geb.network"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "chain_id": "315",
+  "name": "WorldEcoMoney",
+  "symbol": "WEM",
+  "explorer_url": "https://wemscan.com",
+  "rpc_urls": [
+    "https://rpc.wemblockchain.com"
+  ],
+  "rpc": [
+    "https://rpc.wemblockchain.com"
+  ]
+}

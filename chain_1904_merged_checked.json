@@ -1,0 +1,10 @@
+{
+  "chain_id": "1904",
+  "name": "Sports Chain Network",
+  "symbol": "SCN",
+  "explorer_url": "https://explorer.sportschainnetwork.xyz",
+  "rpc_urls": [
+    "https://rpc.sportschainnetwork.xyz"
+  ],
+  "rpc": []
+}

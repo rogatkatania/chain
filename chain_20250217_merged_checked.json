@@ -1,0 +1,10 @@
+{
+  "chain_id": "20250217",
+  "name": "Xphere Mainnet",
+  "symbol": "Xphere",
+  "explorer_url": "https://xp.tamsa.io",
+  "rpc_urls": [
+    "https://en-bkk.x-phere.com"
+  ],
+  "rpc": []
+}

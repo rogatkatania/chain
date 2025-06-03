@@ -1,0 +1,10 @@
+{
+  "chain_id": "18122",
+  "name": "Smart Trade Networks",
+  "symbol": "Smart Trade Networks",
+  "explorer_url": "https://stnscan.com",
+  "rpc_urls": [
+    "https://beefledgerwallet.com:8544"
+  ],
+  "rpc": []
+}

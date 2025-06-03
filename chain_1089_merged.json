@@ -1,0 +1,16 @@
+{
+  "chain_id": "1089",
+  "name": "Humans.ai Mainnet",
+  "symbol": "Humans",
+  "explorer_url": "https://humans.explorers.guru",
+  "rpc_urls": [
+    "https://evm-rpc.humans.huginn.tech",
+    "https://evm-rpc.mainnet.humans.zone",
+    "https://evm.humans.stakepool.dev.br",
+    "https://humans-evm-rpc.staketab.org:443",
+    "https://humans-mainnet-evm.itrocket.net",
+    "https://json-rpc.humans.bh.rocks",
+    "https://jsonrpc.humans.nodestake.top",
+    "https://mainnet-humans-evm.konsortech.xyz"
+  ]
+}

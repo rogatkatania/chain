@@ -1,0 +1,9 @@
+{
+  "chain_id": "3966",
+  "name": "DYNO Mainnet",
+  "symbol": "DYNO",
+  "explorer_url": "https://dynoscan.io",
+  "rpc_urls": [
+    "https://api.dynoprotocol.com"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "chain_id": "1285",
+  "name": "Moonriver",
+  "symbol": "MOON",
+  "explorer_url": "https://moonriver.moonscan.io",
+  "rpc_urls": [
+    "https://moonriver-rpc.dwellir.com",
+    "https://moonriver-rpc.publicnode.com",
+    "https://moonriver.api.onfinality.io/public",
+    "https://moonriver.drpc.org",
+    "https://moonriver.public.blastapi.io",
+    "https://moonriver.public.curie.radiumblock.co/http",
+    "https://moonriver.public.curie.radiumblock.co/ws",
+    "https://moonriver.unitedbloc.com",
+    "https://moonriver.unitedbloc.com:2000",
+    "https://node.histori.xyz/moonriver-mainnet/8ry9f6t9dct1se2hlagxnd9n2a",
+    "https://rpc.api.moonriver.moonbeam.network",
+    "https://rpc.owlracle.info/movr/70d38ce1826c4a60bb2a8e05a6c8b20f",
+    "wss://moonriver-rpc.dwellir.com",
+    "wss://moonriver-rpc.publicnode.com",
+    "wss://moonriver.api.onfinality.io/public-ws",
+    "wss://moonriver.drpc.org",
+    "wss://moonriver.public.blastapi.io",
+    "wss://moonriver.unitedbloc.com",
+    "wss://moonriver.unitedbloc.com:2001",
+    "wss://wss.api.moonriver.moonbeam.network"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "chain_id": "8007736",
+  "name": "Plian Mainnet Subchain 1",
+  "symbol": "Plian",
+  "explorer_url": "https://piscan.plian.org/child_0",
+  "rpc_urls": [
+    "https://mainnet.plian.io/child_0"
+  ]
+}

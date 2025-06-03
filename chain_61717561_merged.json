@@ -1,0 +1,10 @@
+{
+  "chain_id": "61717561",
+  "name": "Aquachain",
+  "symbol": "AQUA",
+  "explorer_url": "",
+  "rpc_urls": [
+    "https://c.onical.org",
+    "https://tx.aquacha.in/api"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "chain_id": "61406",
+  "name": "KaiChain",
+  "symbol": "KaiChain",
+  "explorer_url": "https://explorer.kaichain.net",
+  "rpc_urls": [
+    "https://mainnet-rpc.kaichain.net"
+  ]
+}

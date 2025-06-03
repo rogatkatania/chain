@@ -1,0 +1,9 @@
+{
+  "chain_id": "516",
+  "name": "Gear Zero Network Mainnet",
+  "symbol": "GearZero",
+  "explorer_url": "",
+  "rpc_urls": [
+    "https://gzn.linksme.info"
+  ]
+}

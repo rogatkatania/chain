@@ -1,0 +1,10 @@
+{
+  "chain_id": "1197",
+  "name": "Iora Chain",
+  "symbol": "IORA",
+  "explorer_url": "https://explorer.iorachain.com",
+  "rpc_urls": [
+    "https://dataseed.iorachain.com"
+  ],
+  "rpc": []
+}

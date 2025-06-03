@@ -1,0 +1,10 @@
+{
+  "chain_id": "2494104990",
+  "name": "Tron Shasta",
+  "symbol": "TRON",
+  "explorer_url": "https://shasta.tronscan.org",
+  "rpc_urls": [
+    "https://api.shasta.trongrid.io/jsonrpc"
+  ],
+  "rpc": []
+}

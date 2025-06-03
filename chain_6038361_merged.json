@@ -1,0 +1,10 @@
+{
+  "chain_id": "6038361",
+  "name": "Astar zKyoto",
+  "symbol": "ETH",
+  "explorer_url": "https://astar-zkyoto.blockscout.com",
+  "rpc_urls": [
+    "https://rpc.startale.com/zkyoto",
+    "https://rpc.zkyoto.gelato.digital"
+  ]
+}

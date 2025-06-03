@@ -1,0 +1,9 @@
+{
+  "chain_id": "7225878",
+  "name": "Saakuru Mainnet",
+  "symbol": "Saakuru",
+  "explorer_url": "https://explorer.saakuru.network",
+  "rpc_urls": [
+    "https://rpc.saakuru.network"
+  ]
+}

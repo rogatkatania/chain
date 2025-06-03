@@ -1,0 +1,16 @@
+{
+  "chain_id": "59141",
+  "name": "",
+  "symbol": "",
+  "explorer_url": "",
+  "rpc_urls": [
+    "https://linea-sepolia-rpc.publicnode.com",
+    "https://linea-sepolia.blockpi.network/v1/rpc/487a5f5233fc96cfed4202fac8b8508618348937",
+    "https://rpc.sepolia.linea.build"
+  ],
+  "rpc": [
+    "https://linea-sepolia-rpc.publicnode.com",
+    "https://linea-sepolia.blockpi.network/v1/rpc/487a5f5233fc96cfed4202fac8b8508618348937",
+    "https://rpc.sepolia.linea.build"
+  ]
+}

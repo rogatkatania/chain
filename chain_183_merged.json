@@ -1,0 +1,9 @@
+{
+  "chain_id": "183",
+  "name": "Ethernity",
+  "symbol": "Ethernity",
+  "explorer_url": "https://ernscan.io",
+  "rpc_urls": [
+    "https://mainnet.ethernitychain.io"
+  ]
+}

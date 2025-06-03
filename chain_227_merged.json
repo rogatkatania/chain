@@ -1,0 +1,9 @@
+{
+  "chain_id": "227",
+  "name": "Prom",
+  "symbol": "Prom",
+  "explorer_url": "https://prom-blockscout.eu-north-2.gateway.fm",
+  "rpc_urls": [
+    "https://prom-rpc.eu-north-2.gateway.fm"
+  ]
+}

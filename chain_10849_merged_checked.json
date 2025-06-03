@@ -1,0 +1,12 @@
+{
+  "chain_id": "10849",
+  "name": "Lamina1",
+  "symbol": "Lamina1",
+  "explorer_url": "https://subnets.avax.network/lamina1",
+  "rpc_urls": [
+    "https://subnets.avax.network/lamina1/mainnet/rpc"
+  ],
+  "rpc": [
+    "https://subnets.avax.network/lamina1/mainnet/rpc"
+  ]
+}

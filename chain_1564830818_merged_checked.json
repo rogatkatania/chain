@@ -1,0 +1,10 @@
+{
+  "chain_id": "1564830818",
+  "name": "SKALE Calypso Hub",
+  "symbol": "honorable-steel-rasalhague",
+  "explorer_url": "https://honorable-steel-rasalhague.explorer.mainnet.skalenodes.com",
+  "rpc_urls": [
+    "https://mainnet.skalenodes.com/v1/honorable-steel-rasalhague"
+  ],
+  "rpc": []
+}

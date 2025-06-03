@@ -1,0 +1,9 @@
+{
+  "chain_id": "7117",
+  "name": "0XL3",
+  "symbol": "0XL3",
+  "explorer_url": "https://exp.0xl3.com",
+  "rpc_urls": [
+    "https://rpc.0xl3.com"
+  ]
+}

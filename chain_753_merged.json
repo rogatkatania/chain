@@ -1,0 +1,9 @@
+{
+  "chain_id": "753",
+  "name": "Rivalz",
+  "symbol": "rivalz",
+  "explorer_url": "https://rivalz.calderaexplorer.xyz",
+  "rpc_urls": [
+    "https://rivalz.calderachain.xyz/http"
+  ]
+}

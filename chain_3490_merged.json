@@ -1,0 +1,9 @@
+{
+  "chain_id": "3490",
+  "name": "GTCSCAN",
+  "symbol": "GTC",
+  "explorer_url": "https://gtcscan.io",
+  "rpc_urls": [
+    "https://gtc-dataseed.gtcscan.io"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "chain_id": "13381",
+  "name": "Phoenix Mainnet",
+  "symbol": "Phoenix",
+  "explorer_url": "https://phoenixplorer.com",
+  "rpc_urls": [
+    "https://rpc.phoenixplorer.com"
+  ]
+}

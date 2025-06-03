@@ -1,0 +1,9 @@
+{
+  "chain_id": "6322",
+  "name": "Aura Mainnet",
+  "symbol": "Aura",
+  "explorer_url": "https://aurascan.io",
+  "rpc_urls": [
+    "https://jsonrpc.aura.network"
+  ]
+}

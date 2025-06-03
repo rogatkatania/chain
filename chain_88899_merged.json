@@ -1,0 +1,9 @@
+{
+  "chain_id": "88899",
+  "name": "Unite",
+  "symbol": "UNITE",
+  "explorer_url": "https://unite-mainnet.explorer.alchemy.com",
+  "rpc_urls": [
+    "https://unite-mainnet.g.alchemy.com/public"
+  ]
+}

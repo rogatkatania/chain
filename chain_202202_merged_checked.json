@@ -1,0 +1,10 @@
+{
+  "chain_id": "202202",
+  "name": "Bethel Sydney",
+  "symbol": "Bethel",
+  "explorer_url": "https://sydney.bethel.network",
+  "rpc_urls": [
+    "https://rpc-sydney.bethel.network"
+  ],
+  "rpc": []
+}

@@ -1,0 +1,10 @@
+{
+  "chain_id": "262",
+  "name": "SUR Blockchain Network",
+  "symbol": "SUR",
+  "explorer_url": "https://explorer.surnet.org",
+  "rpc_urls": [
+    "https://sur.nilin.org"
+  ],
+  "rpc": []
+}

@@ -1,0 +1,11 @@
+{
+  "chain_id": "210425",
+  "name": "PlatON Mainnet",
+  "symbol": "PlatON",
+  "explorer_url": "https://scan.platon.network",
+  "rpc_urls": [
+    "https://openapi2.platon.network/rpc",
+    "wss://openapi2.platon.network/ws"
+  ],
+  "rpc": []
+}

@@ -1,0 +1,9 @@
+{
+  "chain_id": "21363",
+  "name": "Lestnet",
+  "symbol": "LETH",
+  "explorer_url": "https://explore.lestnet.org",
+  "rpc_urls": [
+    "https://service.lestnet.org"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "chain_id": "88819",
+  "name": "Unit Zero Stagenet",
+  "symbol": "Unit Zero",
+  "explorer_url": "https://explorer-stagenet.unit0.dev",
+  "rpc_urls": [
+    "https://rpc-stagenet.unit0.dev"
+  ]
+}

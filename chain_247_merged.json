@@ -1,0 +1,9 @@
+{
+  "chain_id": "247",
+  "name": "ChooChain",
+  "symbol": "CHOO",
+  "explorer_url": "https://blocks.choochain.io",
+  "rpc_urls": [
+    "https://rpc.choochain.io"
+  ]
+}

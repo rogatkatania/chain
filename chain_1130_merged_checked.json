@@ -1,0 +1,14 @@
+{
+  "chain_id": "1130",
+  "name": "DeFiChain EVM Network Mainnet",
+  "symbol": "defichain-evm",
+  "explorer_url": "",
+  "rpc_urls": [
+    "https://dmc.mydefichain.com/mainnet",
+    "https://dmc01.mydefichain.com/mainnet"
+  ],
+  "rpc": [
+    "https://dmc.mydefichain.com/mainnet",
+    "https://dmc01.mydefichain.com/mainnet"
+  ]
+}

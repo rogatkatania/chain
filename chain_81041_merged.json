@@ -1,0 +1,9 @@
+{
+  "chain_id": "81041",
+  "name": "Nordek Mainnet",
+  "symbol": "Nordek",
+  "explorer_url": "https://nordekscan.com",
+  "rpc_urls": [
+    "https://mainnet-rpc.nordekscan.com"
+  ]
+}

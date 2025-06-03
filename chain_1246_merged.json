@@ -1,0 +1,9 @@
+{
+  "chain_id": "1246",
+  "name": "OM Platform Mainnet",
+  "symbol": "omplatform",
+  "explorer_url": "https://omscan.omplatform.com",
+  "rpc_urls": [
+    "https://rpc-cnx.omplatform.com"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "chain_id": "171717",
+  "name": "Wadzchain Mainnet",
+  "symbol": "Wadzchain-Mainnet",
+  "explorer_url": "https://scan.wadzchain.io",
+  "rpc_urls": [
+    "https://rpc.wadzchain.io"
+  ],
+  "rpc": []
+}

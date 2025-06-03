@@ -1,0 +1,9 @@
+{
+  "chain_id": "9889",
+  "name": "pointledger",
+  "symbol": "pointledger",
+  "explorer_url": "https://exp.pointledger.net",
+  "rpc_urls": [
+    "https://rpc.pointledger.net"
+  ]
+}

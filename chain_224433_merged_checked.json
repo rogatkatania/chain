@@ -1,0 +1,12 @@
+{
+  "chain_id": "224433",
+  "name": "CONET Cancun",
+  "symbol": "CONET Cancun",
+  "explorer_url": "https://cancun.conet.network",
+  "rpc_urls": [
+    "https://cancun-rpc.conet.network",
+    "https://conet.network",
+    "https://rpc.conet.network"
+  ],
+  "rpc": []
+}

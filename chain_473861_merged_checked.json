@@ -1,0 +1,10 @@
+{
+  "chain_id": "473861",
+  "name": "Ultra Pro Mainnet",
+  "symbol": "ultrapro",
+  "explorer_url": "https://ultraproscan.io",
+  "rpc_urls": [
+    "https://mainnet-rpc.ultraproscan.io"
+  ],
+  "rpc": []
+}

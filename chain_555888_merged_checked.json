@@ -1,0 +1,12 @@
+{
+  "chain_id": "555888",
+  "name": "DustBoy IoT",
+  "symbol": "DUSTBOY",
+  "explorer_url": "https://dustboy.jibl2.com",
+  "rpc_urls": [
+    "https://dustboy-rpc.jibl2.com"
+  ],
+  "rpc": [
+    "https://dustboy-rpc.jibl2.com"
+  ]
+}

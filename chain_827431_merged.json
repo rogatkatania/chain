@@ -1,0 +1,9 @@
+{
+  "chain_id": "827431",
+  "name": "CURVE Mainnet",
+  "symbol": "CURVE",
+  "explorer_url": "https://curvescan.io",
+  "rpc_urls": [
+    "https://mainnet-rpc.curvescan.io"
+  ]
+}

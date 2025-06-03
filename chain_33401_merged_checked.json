@@ -1,0 +1,12 @@
+{
+  "chain_id": "33401",
+  "name": "SlingShot",
+  "symbol": "SLING",
+  "explorer_url": "https://explore.slingshotdao.com",
+  "rpc_urls": [
+    "https://rpc.slingshotdao.com"
+  ],
+  "rpc": [
+    "https://rpc.slingshotdao.com"
+  ]
+}

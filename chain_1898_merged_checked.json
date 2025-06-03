@@ -1,0 +1,11 @@
+{
+  "chain_id": "1898",
+  "name": "BON Network",
+  "symbol": "BON",
+  "explorer_url": "https://explorer.boyanet.org:4001",
+  "rpc_urls": [
+    "http://rpc.boyanet.org:8545",
+    "ws://rpc.boyanet.org:8546"
+  ],
+  "rpc": []
+}

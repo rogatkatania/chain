@@ -1,0 +1,9 @@
+{
+  "chain_id": "1732",
+  "name": "Fuga Mainnet",
+  "symbol": "Fuga",
+  "explorer_url": "",
+  "rpc_urls": [
+    "https://rpc.fuga.blue"
+  ]
+}

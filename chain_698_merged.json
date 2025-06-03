@@ -1,0 +1,10 @@
+{
+  "chain_id": "698",
+  "name": "Matchain",
+  "symbol": "Matchain",
+  "explorer_url": "https://matchscan.io",
+  "rpc_urls": [
+    "https://rpc.ankr.com/matchain_mainnet",
+    "https://rpc.matchain.io"
+  ]
+}

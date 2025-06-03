@@ -1,0 +1,12 @@
+{
+  "chain_id": "10143",
+  "name": "",
+  "symbol": "",
+  "explorer_url": "",
+  "rpc_urls": [
+    "https://monad-testnet.g.alchemy.com/v2/gi4tk6s65zmhnapbshfydl3w-lda8xmu"
+  ],
+  "rpc": [
+    "https://monad-testnet.g.alchemy.com/v2/gi4tk6s65zmhnapbshfydl3w-lda8xmu"
+  ]
+}

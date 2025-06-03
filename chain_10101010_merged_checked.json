@@ -1,0 +1,10 @@
+{
+  "chain_id": "10101010",
+  "name": "Soverun Mainnet",
+  "symbol": "SVRN",
+  "explorer_url": "https://explorer.soverun.com",
+  "rpc_urls": [
+    "https://mainnet-rpc.soverun.com"
+  ],
+  "rpc": []
+}

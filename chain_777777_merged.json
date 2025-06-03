@@ -1,0 +1,9 @@
+{
+  "chain_id": "777777",
+  "name": "Winr Protocol Mainnet",
+  "symbol": "WINR",
+  "explorer_url": "https://explorer.winr.games",
+  "rpc_urls": [
+    "https://rpc.winr.games"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "chain_id": "4202",
+  "name": "",
+  "symbol": "",
+  "explorer_url": "",
+  "rpc_urls": [
+    "https://rpc.sepolia-api.lisk.com"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "chain_id": "208",
+  "name": "Structx Mainnet",
+  "symbol": "utx",
+  "explorer_url": "",
+  "rpc_urls": [
+    "https://mainnet.structx.io"
+  ],
+  "rpc": []
+}

@@ -1,0 +1,10 @@
+{
+  "chain_id": "2077",
+  "name": "Quokkacoin Mainnet",
+  "symbol": "Qkacoin",
+  "explorer_url": "https://explorer.qkacoin.org",
+  "rpc_urls": [
+    "http://rpc.qkacoin.org:8548",
+    "https://rpc.qkacoin.org"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "chain_id": "281123",
+  "name": "Athene Parthenon",
+  "symbol": "athene-parthenon",
+  "explorer_url": "https://parthenon.athenescan.io",
+  "rpc_urls": [
+    "https://rpc.parthenon.athenescan.io",
+    "wss://ws.parthenon.athenescan.io"
+  ]
+}

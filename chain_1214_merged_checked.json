@@ -1,0 +1,10 @@
+{
+  "chain_id": "1214",
+  "name": "EnterChain Mainnet",
+  "symbol": "ENTER",
+  "explorer_url": "https://explorer.entercoin.net",
+  "rpc_urls": [
+    "https://tapi.entercoin.net"
+  ],
+  "rpc": []
+}

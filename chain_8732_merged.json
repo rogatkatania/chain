@@ -1,0 +1,9 @@
+{
+  "chain_id": "8732",
+  "name": "Bullions Smart Chain",
+  "symbol": "Bullions",
+  "explorer_url": "https://bullionscan.org",
+  "rpc_urls": [
+    "https://rpc.bullionsx.org"
+  ]
+}

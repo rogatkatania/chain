@@ -1,0 +1,9 @@
+{
+  "chain_id": "188",
+  "name": "BMC Mainnet",
+  "symbol": "BMC",
+  "explorer_url": "https://bmc.blockmeta.com",
+  "rpc_urls": [
+    "https://mainnet.bmcchain.com"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "chain_id": "383353",
+  "name": "CheeseChain",
+  "symbol": "CHEESE",
+  "explorer_url": "",
+  "rpc_urls": [
+    "https://cheesechain.calderachain.xyz/http",
+    "https://rpc.cheesechain.xyz",
+    "https://rpc.cheesechain.xyz/http",
+    "wss://cheesechain.calderachain.xyz/ws"
+  ]
+}

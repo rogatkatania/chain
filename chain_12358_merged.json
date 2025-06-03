@@ -1,0 +1,9 @@
+{
+  "chain_id": "12358",
+  "name": "GDPR Mainnet",
+  "symbol": "GDPR",
+  "explorer_url": "https://explorer.gdprchain.com",
+  "rpc_urls": [
+    "https://rpc.gdprchain.com"
+  ]
+}

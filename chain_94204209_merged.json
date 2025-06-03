@@ -1,0 +1,10 @@
+{
+  "chain_id": "94204209",
+  "name": "Polygon Blackberry",
+  "symbol": "ETH",
+  "explorer_url": "https://polygon-blackberry.gelatoscout.com",
+  "rpc_urls": [
+    "https://rpc.polygon-blackberry.gelato.digital",
+    "wss://ws.polygon-blackberry.gelato.digital"
+  ]
+}

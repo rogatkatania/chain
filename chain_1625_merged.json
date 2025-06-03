@@ -1,0 +1,11 @@
+{
+  "chain_id": "1625",
+  "name": "Gravity Alpha Mainnet",
+  "symbol": "Gravity",
+  "explorer_url": "https://explorer.gravity.xyz",
+  "rpc_urls": [
+    "https://rpc.ankr.com/gravity",
+    "https://rpc.gravity.xyz",
+    "https://rpc.zerion.io/v1/gravity-alpha"
+  ]
+}

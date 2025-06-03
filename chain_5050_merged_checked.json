@@ -1,0 +1,14 @@
+{
+  "chain_id": "5050",
+  "name": "Skate Mainnet",
+  "symbol": "ETH",
+  "explorer_url": "https://scan.skatechain.org",
+  "rpc_urls": [
+    "https://rpc.liquidchain.net",
+    "https://rpc.skatechain.org",
+    "https://rpc.xlcscan.com"
+  ],
+  "rpc": [
+    "https://rpc.skatechain.org"
+  ]
+}

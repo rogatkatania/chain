@@ -1,0 +1,12 @@
+{
+  "chain_id": "383414847825",
+  "name": "Zeniq",
+  "symbol": "ZENIQ",
+  "explorer_url": "https://zeniqscan.com",
+  "rpc_urls": [
+    "https://api.zeniq.network"
+  ],
+  "rpc": [
+    "https://api.zeniq.network"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "chain_id": "558",
+  "name": "Tao Network",
+  "symbol": "TAO",
+  "explorer_url": "",
+  "rpc_urls": [
+    "http://rpc.testnet.tao.network:8545",
+    "https://rpc.tao.network",
+    "https://rpc.testnet.tao.network",
+    "wss://rpc.tao.network"
+  ],
+  "rpc": []
+}

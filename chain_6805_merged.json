@@ -1,0 +1,9 @@
+{
+  "chain_id": "6805",
+  "name": "RACE Mainnet",
+  "symbol": "ETH",
+  "explorer_url": "https://racescan.io",
+  "rpc_urls": [
+    "https://racemainnet.io"
+  ]
+}

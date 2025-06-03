@@ -1,0 +1,25 @@
+{
+  "chain_id": "1287",
+  "name": "Moonbase Alpha",
+  "symbol": "MOON",
+  "explorer_url": "https://moonbase.moonscan.io",
+  "rpc_urls": [
+    "https://moonbase-alpha.drpc.org",
+    "https://moonbase-alpha.public.blastapi.io",
+    "https://moonbase-rpc.dwellir.com",
+    "https://moonbase.unitedbloc.com",
+    "https://moonbase.unitedbloc.com:1000",
+    "https://moonbeam-alpha.api.onfinality.io/public",
+    "https://node.histori.xyz/moonbeam-testnet/8ry9f6t9dct1se2hlagxnd9n2a",
+    "https://rpc.api.moonbase.moonbeam.network",
+    "https://rpc.testnet.moonbeam.network",
+    "wss://moonbase-alpha.drpc.org",
+    "wss://moonbase-alpha.public.blastapi.io",
+    "wss://moonbase-rpc.dwellir.com",
+    "wss://moonbase.unitedbloc.com",
+    "wss://moonbase.unitedbloc.com:1001",
+    "wss://moonbeam-alpha.api.onfinality.io/public-ws",
+    "wss://wss.api.moonbase.moonbeam.network"
+  ],
+  "rpc": []
+}

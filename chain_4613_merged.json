@@ -1,0 +1,9 @@
+{
+  "chain_id": "4613",
+  "name": "VERY Mainnet",
+  "symbol": "VERY Mainnet",
+  "explorer_url": "https://www.veryscan.io",
+  "rpc_urls": [
+    "https://rpc.verylabs.io"
+  ]
+}

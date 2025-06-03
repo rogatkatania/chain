@@ -1,0 +1,9 @@
+{
+  "chain_id": "42355",
+  "name": "GoldXChain Mainnet",
+  "symbol": "GoldX",
+  "explorer_url": "https://explorer.goldxchain.io",
+  "rpc_urls": [
+    "https://mainnet-rpc.goldxchain.io"
+  ]
+}

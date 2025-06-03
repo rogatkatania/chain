@@ -1,0 +1,15 @@
+{
+  "chain_id": "10000",
+  "name": "Smart Bitcoin Cash",
+  "symbol": "smartBCH",
+  "explorer_url": "",
+  "rpc_urls": [
+    "https://bch-mainnet.gateway.tatum.io",
+    "https://global.uat.cash",
+    "https://rpc-mainnet.smartbch.org",
+    "https://rpc.uatvo.com",
+    "https://smartbch.devops.cash/mainnet",
+    "https://smartbch.fountainhead.cash/mainnet",
+    "https://smartbch.greyh.at"
+  ]
+}

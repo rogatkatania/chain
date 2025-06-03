@@ -1,0 +1,11 @@
+{
+  "chain_id": "328527",
+  "name": "Nal Mainnet",
+  "symbol": "ETH",
+  "explorer_url": "https://scan.nal.network",
+  "rpc_urls": [
+    "https://rpc.nal.network",
+    "wss://wss.nal.network"
+  ],
+  "rpc": []
+}

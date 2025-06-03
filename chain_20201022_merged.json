@@ -1,0 +1,12 @@
+{
+  "chain_id": "20201022",
+  "name": "Pego Network",
+  "symbol": "PEGO",
+  "explorer_url": "https://scan.pego.network",
+  "rpc_urls": [
+    "https://node1.pegorpc.com",
+    "https://node2.pegorpc.com",
+    "https://node3.pegorpc.com",
+    "https://pegorpc.com"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "chain_id": "176",
+  "name": "DC Mainnet",
+  "symbol": "dcchain",
+  "explorer_url": "https://exp.dcnetio.cloud",
+  "rpc_urls": [
+    "https://rpc.dcnetio.cloud",
+    "wss://ws.dcnetio.cloud"
+  ]
+}

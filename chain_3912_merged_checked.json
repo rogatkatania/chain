@@ -1,0 +1,10 @@
+{
+  "chain_id": "3912",
+  "name": "DRAC Network",
+  "symbol": "DRAC",
+  "explorer_url": "https://www.dracscan.io",
+  "rpc_urls": [
+    "https://www.dracscan.com/rpc"
+  ],
+  "rpc": []
+}

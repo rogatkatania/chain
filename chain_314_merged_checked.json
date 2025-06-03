@@ -1,0 +1,29 @@
+{
+  "chain_id": "314",
+  "name": "Filecoin - Mainnet",
+  "symbol": "FIL",
+  "explorer_url": "https://filfox.info/en",
+  "rpc_urls": [
+    "https://api.chain.love/rpc/v1",
+    "https://api.node.glif.io",
+    "https://filecoin-mainnet.chainstacklabs.com/rpc/v1",
+    "https://filecoin.atomicwallet.io",
+    "https://filecoin.chainup.net/rpc/v1",
+    "https://filecoin.drpc.org",
+    "https://filecoin.lava.build",
+    "https://filfox.info/rpc/v1",
+    "https://infura.sftproject.io/filecoin/rpc/v1",
+    "https://node.filutils.com/rpc/v1",
+    "https://rpc.ankr.com/filecoin",
+    "wss://filecoin.drpc.org"
+  ],
+  "rpc": [
+    "https://rpc.ankr.com/filecoin",
+    "https://filecoin.lava.build",
+    "https://filecoin.chainup.net/rpc/v1",
+    "https://filecoin.atomicwallet.io",
+    "https://api.chain.love/rpc/v1",
+    "https://api.node.glif.io",
+    "https://filecoin.drpc.org"
+  ]
+}

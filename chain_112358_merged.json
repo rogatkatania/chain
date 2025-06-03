@@ -1,0 +1,10 @@
+{
+  "chain_id": "112358",
+  "name": "Metachain One Mainnet",
+  "symbol": "METAO",
+  "explorer_url": "https://explorer.metachain.one",
+  "rpc_urls": [
+    "https://rpc.metachain.one",
+    "https://rpc2.metachain.one"
+  ]
+}

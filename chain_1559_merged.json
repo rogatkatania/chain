@@ -1,0 +1,12 @@
+{
+  "chain_id": "1559",
+  "name": "Tenet",
+  "symbol": "TENET",
+  "explorer_url": "https://tenetscan.io",
+  "rpc_urls": [
+    "https://rpc.ankr.com/tenet_evm",
+    "https://rpc.tenet.org",
+    "https://tenet-evm.publicnode.com",
+    "wss://tenet-evm.publicnode.com"
+  ]
+}

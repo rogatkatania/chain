@@ -1,0 +1,9 @@
+{
+  "chain_id": "112",
+  "name": "Coinbit Mainnet",
+  "symbol": "Coinbit",
+  "explorer_url": "https://coinbit-explorer.chain.sbcrypto.app",
+  "rpc_urls": [
+    "https://coinbit-rpc-mainnet.chain.sbcrypto.app"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "chain_id": "355110",
+  "name": "Bitfinity Network Mainnet",
+  "symbol": "BTF",
+  "explorer_url": "https://explorer.mainnet.bitfinity.network",
+  "rpc_urls": [
+    "https://mainnet.bitfinity.network"
+  ]
+}

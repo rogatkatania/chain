@@ -1,0 +1,10 @@
+{
+  "chain_id": "1727",
+  "name": "Ethpar Mainnet",
+  "symbol": "ETP",
+  "explorer_url": "https://dora.ethpar.net",
+  "rpc_urls": [
+    "https://rpc01.ethpar.net"
+  ],
+  "rpc": []
+}

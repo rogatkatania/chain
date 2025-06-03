@@ -1,0 +1,10 @@
+{
+  "chain_id": "158",
+  "name": "Roburna Mainnet",
+  "symbol": "RBA",
+  "explorer_url": "https://rbascan.com",
+  "rpc_urls": [
+    "https://dataseed.roburna.com"
+  ],
+  "rpc": []
+}

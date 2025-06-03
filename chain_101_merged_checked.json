@@ -1,0 +1,10 @@
+{
+  "chain_id": "101",
+  "name": "EtherInc",
+  "symbol": "ETI",
+  "explorer_url": "",
+  "rpc_urls": [
+    "https://api.einc.io/jsonrpc/mainnet"
+  ],
+  "rpc": []
+}

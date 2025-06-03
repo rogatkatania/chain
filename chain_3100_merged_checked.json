@@ -1,0 +1,11 @@
+{
+  "chain_id": "3100",
+  "name": "Immu3 EVM",
+  "symbol": "EVMCC",
+  "explorer_url": "",
+  "rpc_urls": [
+    "https://fraa-flashbox-2800-rpc.a.stagenet.tanssi.network",
+    "wss://fraa-flashbox-2800-rpc.a.stagenet.tanssi.network"
+  ],
+  "rpc": []
+}

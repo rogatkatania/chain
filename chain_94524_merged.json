@@ -1,0 +1,9 @@
+{
+  "chain_id": "94524",
+  "name": "XCHAIN",
+  "symbol": "XCHAIN",
+  "explorer_url": "https://xchain-explorer.kuma.bid",
+  "rpc_urls": [
+    "https://xchain-rpc.kuma.bid"
+  ]
+}

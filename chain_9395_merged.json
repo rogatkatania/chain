@@ -1,0 +1,9 @@
+{
+  "chain_id": "9395",
+  "name": "Evoke Mainnet",
+  "symbol": "MTHN",
+  "explorer_url": "https://explorer.evokescan.org",
+  "rpc_urls": [
+    "https://mainnet-rpc.evokescan.org"
+  ]
+}

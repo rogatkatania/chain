@@ -1,0 +1,10 @@
+{
+  "chain_id": "1666900001",
+  "name": "Harmony Devnet Shard 1",
+  "symbol": "Harmony",
+  "explorer_url": "",
+  "rpc_urls": [
+    "https://api.s1.ps.hmny.io"
+  ],
+  "rpc": []
+}

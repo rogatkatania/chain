@@ -1,0 +1,10 @@
+{
+  "chain_id": "34949059",
+  "name": "citronus-citro",
+  "symbol": "citronus-citro",
+  "explorer_url": "https://test.citronus.com",
+  "rpc_urls": [
+    "https://rpc.citro-testnet.t.raas.gelato.cloud",
+    "wss://testnet-ws.eh-dev.app"
+  ]
+}

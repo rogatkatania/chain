@@ -1,0 +1,9 @@
+{
+  "chain_id": "2122",
+  "name": "Metaplayerone Mainnet",
+  "symbol": "METAD",
+  "explorer_url": "https://scan.metaplayer.one",
+  "rpc_urls": [
+    "https://rpc.metaplayer.one"
+  ]
+}

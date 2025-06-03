@@ -1,0 +1,10 @@
+{
+  "chain_id": "251",
+  "name": "Glide L1 Protocol XP",
+  "symbol": "GLXP",
+  "explorer_url": "",
+  "rpc_urls": [
+    "https://rpc-api.glideprotocol.xyz/l1-rpc",
+    "wss://rpc-api.glideprotocol.xyz/l1-rpc"
+  ]
+}

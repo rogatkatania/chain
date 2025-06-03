@@ -1,0 +1,9 @@
+{
+  "chain_id": "60",
+  "name": "GoChain",
+  "symbol": "GO",
+  "explorer_url": "https://explorer.gochain.io",
+  "rpc_urls": [
+    "https://rpc.gochain.io"
+  ]
+}

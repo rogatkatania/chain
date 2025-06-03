@@ -1,0 +1,11 @@
+{
+  "chain_id": "53456",
+  "name": "BirdLayer",
+  "symbol": "BirdLayer",
+  "explorer_url": "https://scan.birdlayer.xyz",
+  "rpc_urls": [
+    "https://rpc.birdlayer.xyz",
+    "https://rpc1.birdlayer.xyz",
+    "wss://rpc.birdlayer.xyz/ws"
+  ]
+}

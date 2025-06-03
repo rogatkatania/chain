@@ -1,0 +1,9 @@
+{
+  "chain_id": "32990",
+  "name": "Zilliqa EVM Isolated Server",
+  "symbol": "ZIL",
+  "explorer_url": "https://devex.zilliqa.com/?network=https://zilliqa-isolated-server.zilliqa.com",
+  "rpc_urls": [
+    "https://zilliqa-isolated-server.zilliqa.com"
+  ]
+}

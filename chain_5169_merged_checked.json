@@ -1,0 +1,10 @@
+{
+  "chain_id": "5169",
+  "name": "Smart Layer Network",
+  "symbol": "SLN",
+  "explorer_url": "https://explorer.main.smartlayer.network",
+  "rpc_urls": [
+    "https://rpc.main.smartlayer.network"
+  ],
+  "rpc": []
+}

@@ -1,0 +1,10 @@
+{
+  "chain_id": "1618",
+  "name": "Catecoin Chain Mainnet",
+  "symbol": "Catechain",
+  "explorer_url": "",
+  "rpc_urls": [
+    "https://send.catechain.com"
+  ],
+  "rpc": []
+}

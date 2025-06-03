@@ -1,0 +1,10 @@
+{
+  "chain_id": "212",
+  "name": "MAPO Makalu",
+  "symbol": "MAPO",
+  "explorer_url": "https://testnet.maposcan.io",
+  "rpc_urls": [
+    "https://testnet-rpc.maplabs.io"
+  ],
+  "rpc": []
+}

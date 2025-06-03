@@ -1,0 +1,10 @@
+{
+  "chain_id": "96370",
+  "name": "Lumoz Chain Mainnet",
+  "symbol": "ETH",
+  "explorer_url": "https://scan.lumoz.info",
+  "rpc_urls": [
+    "https://rpc-hk.lumoz.org",
+    "https://rpc.lumoz.org"
+  ]
+}

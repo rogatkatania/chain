@@ -1,0 +1,13 @@
+{
+  "chain_id": "88",
+  "name": "Viction",
+  "symbol": "Viction",
+  "explorer_url": "",
+  "rpc_urls": [
+    "https://rpc.tomochain.com",
+    "https://rpc.viction.xyz",
+    "https://viction.blockpi.network/v1/rpc/public",
+    "https://viction.drpc.org",
+    "wss://viction.drpc.org"
+  ]
+}

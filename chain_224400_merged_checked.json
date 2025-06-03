@@ -1,0 +1,11 @@
+{
+  "chain_id": "224400",
+  "name": "CONET Mainnet",
+  "symbol": "CONET Mainnet",
+  "explorer_url": "https://mainnet.conet.network",
+  "rpc_urls": [
+    "https://conet.network",
+    "https://mainnet-rpc.conet.network"
+  ],
+  "rpc": []
+}

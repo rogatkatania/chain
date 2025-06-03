@@ -1,0 +1,10 @@
+{
+  "chain_id": "690",
+  "name": "Redstone",
+  "symbol": "ETH",
+  "explorer_url": "https://explorer.redstone.xyz",
+  "rpc_urls": [
+    "https://rpc.redstonechain.com",
+    "wss://rpc.redstonechain.com"
+  ]
+}

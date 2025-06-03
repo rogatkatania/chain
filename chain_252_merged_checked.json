@@ -1,0 +1,17 @@
+{
+  "chain_id": "252",
+  "name": "Fraxtal",
+  "symbol": "FRAX",
+  "explorer_url": "https://fraxscan.com",
+  "rpc_urls": [
+    "https://fraxtal-rpc.publicnode.com",
+    "https://fraxtal.drpc.org",
+    "https://fraxtal.gateway.tenderly.co",
+    "https://node.histori.xyz/fraxtal-mainnet/8ry9f6t9dct1se2hlagxnd9n2a",
+    "https://rpc.frax.com",
+    "https://rpc.zerion.io/v1/fraxtal",
+    "wss://fraxtal-rpc.publicnode.com",
+    "wss://fraxtal.drpc.org"
+  ],
+  "rpc": []
+}

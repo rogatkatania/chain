@@ -1,0 +1,9 @@
+{
+  "chain_id": "1000",
+  "name": "GTON Mainnet",
+  "symbol": "GTON",
+  "explorer_url": "https://explorer.gton.network",
+  "rpc_urls": [
+    "https://rpc.gton.network"
+  ]
+}

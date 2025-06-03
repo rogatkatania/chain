@@ -1,0 +1,9 @@
+{
+  "chain_id": "4653",
+  "name": "Gold Chain",
+  "symbol": "Gold",
+  "explorer_url": "",
+  "rpc_urls": [
+    "https://chain-rpc.gold.dev"
+  ]
+}

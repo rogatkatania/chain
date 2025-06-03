@@ -1,0 +1,10 @@
+{
+  "chain_id": "28945486",
+  "name": "Auxilium Network Mainnet",
+  "symbol": "AUX",
+  "explorer_url": "",
+  "rpc_urls": [
+    "https://rpc.auxilium.global"
+  ],
+  "rpc": []
+}

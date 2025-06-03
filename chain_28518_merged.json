@@ -1,0 +1,9 @@
+{
+  "chain_id": "28518",
+  "name": "Vizing Mainnet",
+  "symbol": "Vizing Mainnet",
+  "explorer_url": "https://explorer.vizing.com",
+  "rpc_urls": [
+    "https://rpc.vizing.com"
+  ]
+}

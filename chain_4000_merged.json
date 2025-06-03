@@ -1,0 +1,9 @@
+{
+  "chain_id": "4000",
+  "name": "Ozone Chain Mainnet",
+  "symbol": "OZONE",
+  "explorer_url": "https://ozonescan.io",
+  "rpc_urls": [
+    "https://node1.ozonechain.io"
+  ]
+}

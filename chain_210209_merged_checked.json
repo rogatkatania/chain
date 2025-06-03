@@ -1,0 +1,10 @@
+{
+  "chain_id": "210209",
+  "name": "Sorian",
+  "symbol": "SOR",
+  "explorer_url": "",
+  "rpc_urls": [
+    "https://rpc.sorian.io"
+  ],
+  "rpc": []
+}

@@ -1,0 +1,14 @@
+{
+  "chain_id": "5333",
+  "name": "Netsbo",
+  "symbol": "NETSBO",
+  "explorer_url": "https://explorer.netsbo.io",
+  "rpc_urls": [
+    "https://rpc1.netsbo.io",
+    "https://rpc2.netsbo.io"
+  ],
+  "rpc": [
+    "https://rpc1.netsbo.io",
+    "https://rpc2.netsbo.io"
+  ]
+}

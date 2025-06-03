@@ -1,0 +1,9 @@
+{
+  "chain_id": "2099156",
+  "name": "Plian Mainnet Main",
+  "symbol": "Plian",
+  "explorer_url": "https://piscan.plian.org/pchain",
+  "rpc_urls": [
+    "https://mainnet.plian.io/pchain"
+  ]
+}

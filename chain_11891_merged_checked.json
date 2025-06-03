@@ -1,0 +1,10 @@
+{
+  "chain_id": "11891",
+  "name": "Polygon Supernet Arianee",
+  "symbol": "Arianee",
+  "explorer_url": "https://polygonsupernet.explorer.arianee.net",
+  "rpc_urls": [
+    "https://rpc.polygonsupernet.public.arianee.net"
+  ],
+  "rpc": []
+}

@@ -1,0 +1,10 @@
+{
+  "chain_id": "1337702",
+  "name": "Kintsugi",
+  "symbol": "ETH",
+  "explorer_url": "https://explorer.kintsugi.themerge.dev",
+  "rpc_urls": [
+    "https://rpc.kintsugi.themerge.dev"
+  ],
+  "rpc": []
+}

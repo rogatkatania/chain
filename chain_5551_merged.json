@@ -1,0 +1,9 @@
+{
+  "chain_id": "5551",
+  "name": "Nahmii 2 Mainnet",
+  "symbol": "Nahmii",
+  "explorer_url": "https://explorer.n2.nahmii.io",
+  "rpc_urls": [
+    "https://l2.nahmii.io"
+  ]
+}

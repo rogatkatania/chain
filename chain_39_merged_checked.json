@@ -1,0 +1,12 @@
+{
+  "chain_id": "39",
+  "name": "U2U Solaris Mainnet",
+  "symbol": "u2u",
+  "explorer_url": "https://u2uscan.xyz",
+  "rpc_urls": [
+    "https://rpc-mainnet.u2u.xyz"
+  ],
+  "rpc": [
+    "https://rpc-mainnet.u2u.xyz"
+  ]
+}

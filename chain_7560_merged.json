@@ -1,0 +1,13 @@
+{
+  "chain_id": "7560",
+  "name": "Cyber Mainnet",
+  "symbol": "Cyber",
+  "explorer_url": "https://cyberscan.co",
+  "rpc_urls": [
+    "https://cyber.alt.technology",
+    "https://rpc.cyber.co",
+    "https://rpc.zerion.io/v1/cyber",
+    "wss://cyber-ws.alt.technology",
+    "wss://rpc.cyber.co"
+  ]
+}

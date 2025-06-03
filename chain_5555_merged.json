@@ -1,0 +1,9 @@
+{
+  "chain_id": "5555",
+  "name": "Chain Verse Mainnet",
+  "symbol": "CVERSE",
+  "explorer_url": "https://explorer.chainverse.info",
+  "rpc_urls": [
+    "https://rpc.chainverse.info"
+  ]
+}

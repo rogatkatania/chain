@@ -1,0 +1,11 @@
+{
+  "chain_id": "4181",
+  "name": "PHI Network V1",
+  "symbol": "PHI V1",
+  "explorer_url": "https://explorer.phi.network",
+  "rpc_urls": [
+    "https://rpc1.phi.network",
+    "https://rpc2.phi.network"
+  ],
+  "rpc": []
+}

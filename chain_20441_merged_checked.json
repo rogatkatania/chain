@@ -1,0 +1,10 @@
+{
+  "chain_id": "20441",
+  "name": "XUSD ONE StableChain Mainnet",
+  "symbol": "XUSD ONE",
+  "explorer_url": "https://xusdscan.com",
+  "rpc_urls": [
+    "https://xusd.live"
+  ],
+  "rpc": []
+}

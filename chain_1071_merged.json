@@ -1,0 +1,10 @@
+{
+  "chain_id": "1071",
+  "name": "OpenGPU Mainnet",
+  "symbol": "OGPU",
+  "explorer_url": "https://ogpuscan.io",
+  "rpc_urls": [
+    "https://mainnet-rpc.ogpuscan.io",
+    "wss://mainnet-rpc.ogpuscan.io"
+  ]
+}

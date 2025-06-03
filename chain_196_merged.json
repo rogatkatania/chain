@@ -1,0 +1,15 @@
+{
+  "chain_id": "196",
+  "name": "X Layer Mainnet",
+  "symbol": "X Layer",
+  "explorer_url": "https://www.oklink.com/xlayer",
+  "rpc_urls": [
+    "https://endpoints.omniatech.io/v1/xlayer/mainnet/public",
+    "https://node.histori.xyz/xlayer-mainnet/8ry9f6t9dct1se2hlagxnd9n2a",
+    "https://rpc.ankr.com/xlayer",
+    "https://rpc.xlayer.tech",
+    "https://xlayer.drpc.org",
+    "https://xlayerrpc.okx.com",
+    "wss://xlayer.drpc.org"
+  ]
+}

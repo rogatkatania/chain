@@ -1,0 +1,10 @@
+{
+  "chain_id": "45000",
+  "name": "Autobahn Network",
+  "symbol": "TXL",
+  "explorer_url": "https://explorer.autobahn.network",
+  "rpc_urls": [
+    "https://rpc.autobahn.network"
+  ],
+  "rpc": []
+}

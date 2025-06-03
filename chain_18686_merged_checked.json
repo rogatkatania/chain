@@ -1,0 +1,11 @@
+{
+  "chain_id": "18686",
+  "name": "MXC zkEVM Moonchain",
+  "symbol": "MXC zkEVM",
+  "explorer_url": "https://explorer.moonchain.com",
+  "rpc_urls": [
+    "https://rpc.mxc.com",
+    "wss://rpc.mxc.com/ws"
+  ],
+  "rpc": []
+}

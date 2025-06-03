@@ -1,0 +1,10 @@
+{
+  "chain_id": "1975",
+  "name": "ONUS Chain Mainnet",
+  "symbol": "onus",
+  "explorer_url": "https://explorer.onuschain.io",
+  "rpc_urls": [
+    "https://rpc.onuschain.io",
+    "wss://ws.onuschain.io"
+  ]
+}

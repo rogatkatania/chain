@@ -1,0 +1,13 @@
+{
+  "chain_id": "210",
+  "name": "Bitnet",
+  "symbol": "BTN",
+  "explorer_url": "https://btnscan.com",
+  "rpc_urls": [
+    "https://rpc.bitnet.money",
+    "https://rpc.bitnetmoney.com",
+    "https://rpc.btn-network.org",
+    "https://rpc.btn.network",
+    "https://rpc.btnscan.com"
+  ]
+}

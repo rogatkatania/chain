@@ -1,0 +1,10 @@
+{
+  "chain_id": "40000",
+  "name": "DIV Chain",
+  "symbol": "DIVC",
+  "explorer_url": "https://scan.divchain.org",
+  "rpc_urls": [
+    "https://rpc.divchain.org"
+  ],
+  "rpc": []
+}

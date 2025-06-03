@@ -1,0 +1,14 @@
+{
+  "chain_id": "9996",
+  "name": "Mind Smart Chain Mainnet",
+  "symbol": "MIND",
+  "explorer_url": "https://mainnet.mindscan.info",
+  "rpc_urls": [
+    "https://archive.mindchain.info",
+    "https://mind-smart-chain.rpc.thirdweb.com",
+    "https://rpc-msc.mindchain.info",
+    "https://seednode.mindchain.info",
+    "wss://archive.mindchain.info/ws",
+    "wss://seednode.mindchain.info/ws"
+  ]
+}

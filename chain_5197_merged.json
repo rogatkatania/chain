@@ -1,0 +1,10 @@
+{
+  "chain_id": "5197",
+  "name": "EraSwap Mainnet",
+  "symbol": "ESN",
+  "explorer_url": "",
+  "rpc_urls": [
+    "https://mainnet.eraswap.network",
+    "https://rpc-mumbai.mainnet.eraswap.network"
+  ]
+}

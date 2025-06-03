@@ -1,0 +1,12 @@
+{
+  "chain_id": "330844",
+  "name": "TTcoin Smart Chain Mainnet",
+  "symbol": "TSC",
+  "explorer_url": "https://tscscan.com",
+  "rpc_urls": [
+    "https://mainnet-rpc.tscscan.com"
+  ],
+  "rpc": [
+    "https://mainnet-rpc.tscscan.com"
+  ]
+}

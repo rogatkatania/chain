@@ -1,0 +1,9 @@
+{
+  "chain_id": "21004",
+  "name": "C4EI",
+  "symbol": "C4EI",
+  "explorer_url": "https://exp.c4ei.net",
+  "rpc_urls": [
+    "https://rpc.c4ei.net"
+  ]
+}

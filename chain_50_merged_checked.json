@@ -1,0 +1,30 @@
+{
+  "chain_id": "50",
+  "name": "XDC Network",
+  "symbol": "XDC",
+  "explorer_url": "https://xdcscan.com",
+  "rpc_urls": [
+    "https://earpc.xinfin.network",
+    "https://erpc.xdcrpc.com",
+    "https://erpc.xinfin.network",
+    "https://rpc.ankr.com/xdc",
+    "https://rpc.xdc.org",
+    "https://rpc.xdcrpc.com",
+    "https://rpc.xinfin.network",
+    "https://rpc1.xinfin.network",
+    "https://xdc-mainnet.gateway.tatum.io",
+    "wss://erpc.xdcrpc.com/ws",
+    "wss://ews.xinfin.network/ws",
+    "wss://rpc.xdcrpc.com/ws"
+  ],
+  "rpc": [
+    "https://rpc.ankr.com/xdc",
+    "https://earpc.xinfin.network",
+    "https://rpc1.xinfin.network",
+    "https://rpc.xinfin.network",
+    "https://rpc.xdcrpc.com",
+    "https://erpc.xdcrpc.com",
+    "https://erpc.xinfin.network",
+    "https://rpc.xdc.org"
+  ]
+}

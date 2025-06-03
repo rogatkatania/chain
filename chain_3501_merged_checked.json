@@ -1,0 +1,12 @@
+{
+  "chain_id": "3501",
+  "name": "JFIN Chain",
+  "symbol": "JFIN",
+  "explorer_url": "https://exp.jfinchain.com",
+  "rpc_urls": [
+    "https://rpc.jfinchain.com"
+  ],
+  "rpc": [
+    "https://rpc.jfinchain.com"
+  ]
+}

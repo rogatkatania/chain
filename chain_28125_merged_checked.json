@@ -1,0 +1,10 @@
+{
+  "chain_id": "28125",
+  "name": "XferChain Mainnet",
+  "symbol": "XferChain Mainnet",
+  "explorer_url": "https://network.xferchain.org",
+  "rpc_urls": [
+    "https://rpc.xferchain.org"
+  ],
+  "rpc": []
+}

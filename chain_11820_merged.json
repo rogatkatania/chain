@@ -1,0 +1,9 @@
+{
+  "chain_id": "11820",
+  "name": "Artela Mainnet",
+  "symbol": "Artela",
+  "explorer_url": "https://artscan.artela.network",
+  "rpc_urls": [
+    "https://node-euro.artela.network/rpc"
+  ]
+}

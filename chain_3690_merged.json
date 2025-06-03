@@ -1,0 +1,10 @@
+{
+  "chain_id": "3690",
+  "name": "Bittex Mainnet",
+  "symbol": "BTX",
+  "explorer_url": "https://bittexscan.com",
+  "rpc_urls": [
+    "https://rpc1.bittexscan.info",
+    "https://rpc2.bittexscan.info"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "chain_id": "10823",
+  "name": "CryptoCoinPay",
+  "symbol": "CCP",
+  "explorer_url": "https://cryptocoinpay.info",
+  "rpc_urls": [
+    "http://node106.cryptocoinpay.info:8545",
+    "ws://node106.cryptocoinpay.info:8546"
+  ],
+  "rpc": []
+}

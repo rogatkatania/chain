@@ -1,0 +1,10 @@
+{
+  "chain_id": "1001",
+  "name": "",
+  "symbol": "",
+  "explorer_url": "",
+  "rpc_urls": [
+    "https://kaia-kairos.blockpi.network/v1/rpc/95d551422df8b31ea34935fc2ae2cfd78efe1e12",
+    "https://public-en-kairos.node.kaia.io"
+  ]
+}

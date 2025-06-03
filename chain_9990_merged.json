@@ -1,0 +1,9 @@
+{
+  "chain_id": "9990",
+  "name": "Agung Network",
+  "symbol": "Agung",
+  "explorer_url": "https://polkadot.js.org/apps/?rpc=wss:///wss-async.agung.peaq.network#/explorer",
+  "rpc_urls": [
+    "https://wss-async.agung.peaq.network"
+  ]
+}

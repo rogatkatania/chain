@@ -1,0 +1,10 @@
+{
+  "chain_id": "1314",
+  "name": "Alyx Mainnet",
+  "symbol": "ALYX",
+  "explorer_url": "https://www.alyxscan.com",
+  "rpc_urls": [
+    "https://rpc.alyxchain.com"
+  ],
+  "rpc": []
+}

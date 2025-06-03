@@ -1,0 +1,10 @@
+{
+  "chain_id": "2048",
+  "name": "Stratos",
+  "symbol": "STOS",
+  "explorer_url": "https://web3-explorer.thestratos.org",
+  "rpc_urls": [
+    "https://web3-rpc.thestratos.org"
+  ],
+  "rpc": []
+}

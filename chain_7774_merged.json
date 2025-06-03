@@ -1,0 +1,9 @@
+{
+  "chain_id": "7774",
+  "name": "GDCC MAINNET",
+  "symbol": "GDCC",
+  "explorer_url": "https://gdccscan.io",
+  "rpc_urls": [
+    "https://mainnet-rpc-1.gdccscan.io"
+  ]
+}

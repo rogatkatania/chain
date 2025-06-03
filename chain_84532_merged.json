@@ -1,0 +1,10 @@
+{
+  "chain_id": "84532",
+  "name": "",
+  "symbol": "",
+  "explorer_url": "",
+  "rpc_urls": [
+    "https://base-sepolia-rpc.publicnode.com",
+    "https://sepolia.base.org"
+  ]
+}

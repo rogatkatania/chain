@@ -1,0 +1,11 @@
+{
+  "chain_id": "3073",
+  "name": "Movement EVM",
+  "symbol": "MOVE",
+  "explorer_url": "https://explorer.movementlabs.xyz",
+  "rpc_urls": [
+    "https://mainnet.movementnetwork.xyz/v1",
+    "https://movement.lava.build"
+  ],
+  "rpc": []
+}

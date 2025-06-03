@@ -1,0 +1,11 @@
+{
+  "chain_id": "2241",
+  "name": "Krest Network",
+  "symbol": "Krest",
+  "explorer_url": "https://polkadot.js.org/apps/?rpc=wss://wss-krest.peaq.network#/explorer",
+  "rpc_urls": [
+    "https://erpc-krest.peaq.network",
+    "https://krest.unitedbloc.com"
+  ],
+  "rpc": []
+}

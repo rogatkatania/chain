@@ -1,0 +1,11 @@
+{
+  "chain_id": "2552",
+  "name": "Bahamut horizon",
+  "symbol": "Bahamut",
+  "explorer_url": "https://horizon.ftnscan.com",
+  "rpc_urls": [
+    "https://horizon-fastex-testnet.zeeve.net",
+    "https://rpc.ankr.com/bahamut_horizon"
+  ],
+  "rpc": []
+}

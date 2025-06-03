@@ -1,0 +1,12 @@
+{
+  "chain_id": "50000",
+  "name": "Citronus",
+  "symbol": "Citronus",
+  "explorer_url": "https://explorer.citronus.com",
+  "rpc_urls": [
+    "https://rpc.citronus.com"
+  ],
+  "rpc": [
+    "https://rpc.citronus.com"
+  ]
+}

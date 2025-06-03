@@ -1,0 +1,10 @@
+{
+  "chain_id": "712",
+  "name": "Birdee-2",
+  "symbol": "Tucana",
+  "explorer_url": "https://explorer.birdee-2.tucana.zone",
+  "rpc_urls": [
+    "https://evm-rpc.birdee-2.tucana.zone",
+    "wss://evm-ws.birdee-2.tucana.zone"
+  ]
+}

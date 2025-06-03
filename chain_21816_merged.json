@@ -1,0 +1,10 @@
+{
+  "chain_id": "21816",
+  "name": "omChain Mainnet",
+  "symbol": "OML",
+  "explorer_url": "https://explorer.omchain.io",
+  "rpc_urls": [
+    "https://seed.omchain.io",
+    "https://seed.omlira.com"
+  ]
+}

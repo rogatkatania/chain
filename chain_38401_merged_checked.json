@@ -1,0 +1,10 @@
+{
+  "chain_id": "38401",
+  "name": "ConnectorManager Robin",
+  "symbol": "Rangers",
+  "explorer_url": "https://robin-rangersscan.rangersprotocol.com",
+  "rpc_urls": [
+    "https://robin-cm.rangersprotocol.com/api/jsonrpc"
+  ],
+  "rpc": []
+}

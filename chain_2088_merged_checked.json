@@ -1,0 +1,11 @@
+{
+  "chain_id": "2088",
+  "name": "Altair",
+  "symbol": "AIR",
+  "explorer_url": "",
+  "rpc_urls": [
+    "wss://altair.api.onfinality.io/public-ws",
+    "wss://fullnode.altair.centrifuge.io"
+  ],
+  "rpc": []
+}

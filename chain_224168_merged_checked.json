@@ -1,0 +1,10 @@
+{
+  "chain_id": "224168",
+  "name": "Taf ECO Chain Mainnet",
+  "symbol": "Taf ECO Chain",
+  "explorer_url": "https://ecoscan.tafchain.com",
+  "rpc_urls": [
+    "https://mainnet.tafchain.com/v1"
+  ],
+  "rpc": []
+}

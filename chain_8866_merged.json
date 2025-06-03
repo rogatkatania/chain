@@ -1,0 +1,9 @@
+{
+  "chain_id": "8866",
+  "name": "SuperLumio",
+  "symbol": "SuperLumio",
+  "explorer_url": "https://explorer.lumio.io",
+  "rpc_urls": [
+    "https://mainnet.lumio.io"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "chain_id": "2100",
+  "name": "Ecoball Mainnet",
+  "symbol": "ECO",
+  "explorer_url": "https://scan.ecoball.org",
+  "rpc_urls": [
+    "https://api.ecoball.org/ecoball"
+  ],
+  "rpc": []
+}

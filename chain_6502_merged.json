@@ -1,0 +1,9 @@
+{
+  "chain_id": "6502",
+  "name": "Peerpay",
+  "symbol": "P2P",
+  "explorer_url": "",
+  "rpc_urls": [
+    "https://peerpay.su.gy/p2p"
+  ]
+}

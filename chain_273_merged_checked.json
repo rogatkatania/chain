@@ -1,0 +1,12 @@
+{
+  "chain_id": "273",
+  "name": "XR One",
+  "symbol": "ETH",
+  "explorer_url": "https://xr1.calderaexplorer.xyz",
+  "rpc_urls": [
+    "https://xr-one.calderachain.xyz/http",
+    "https://xr1.calderachain.xyz/http",
+    "wss://xr1.calderachain.xyz/ws"
+  ],
+  "rpc": []
+}

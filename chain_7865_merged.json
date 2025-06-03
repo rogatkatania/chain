@@ -1,0 +1,9 @@
+{
+  "chain_id": "7865",
+  "name": "Powerloom Mainnet",
+  "symbol": "POWER",
+  "explorer_url": "https://explorer.powerloom.network",
+  "rpc_urls": [
+    "https://rpc.powerloom.network"
+  ]
+}

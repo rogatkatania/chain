@@ -1,0 +1,12 @@
+{
+  "chain_id": "42793",
+  "name": "Etherlink Mainnet",
+  "symbol": "Etherlink",
+  "explorer_url": "https://explorer.etherlink.com",
+  "rpc_urls": [
+    "https://node.mainnet.etherlink.com"
+  ],
+  "rpc": [
+    "https://node.mainnet.etherlink.com"
+  ]
+}

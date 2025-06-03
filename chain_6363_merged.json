@@ -1,0 +1,9 @@
+{
+  "chain_id": "6363",
+  "name": "Digit Soul Smart Chain",
+  "symbol": "DGS",
+  "explorer_url": "",
+  "rpc_urls": [
+    "https://dsc-rpc.digitsoul.co.th"
+  ]
+}

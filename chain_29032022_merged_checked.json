@@ -1,0 +1,10 @@
+{
+  "chain_id": "29032022",
+  "name": "Flachain Mainnet",
+  "symbol": "FLX",
+  "explorer_url": "https://explorer.flaexchange.top",
+  "rpc_urls": [
+    "https://flachain.flaexchange.top"
+  ],
+  "rpc": []
+}

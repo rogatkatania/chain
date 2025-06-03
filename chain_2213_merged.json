@@ -1,0 +1,9 @@
+{
+  "chain_id": "2213",
+  "name": "Evanesco Mainnet",
+  "symbol": "EVA",
+  "explorer_url": "https://explorer.evanesco.org",
+  "rpc_urls": [
+    "https://seed4.evanesco.org:8546"
+  ]
+}

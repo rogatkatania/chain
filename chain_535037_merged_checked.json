@@ -1,0 +1,10 @@
+{
+  "chain_id": "535037",
+  "name": "BeanEco SmartChain",
+  "symbol": "BESC",
+  "explorer_url": "https://Bescscan.io",
+  "rpc_urls": [
+    "https://mainnet-rpc.bescscan.io"
+  ],
+  "rpc": []
+}

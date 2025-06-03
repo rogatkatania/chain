@@ -1,0 +1,12 @@
+{
+  "chain_id": "713",
+  "name": "Vrcscan Mainnet",
+  "symbol": "VRC",
+  "explorer_url": "https://vrcscan.com",
+  "rpc_urls": [
+    "https://rpc-mainnet-5.vrcscan.com",
+    "https://rpc-mainnet-6.vrcscan.com",
+    "https://rpc-mainnet-7.vrcscan.com",
+    "https://rpc-mainnet-8.vrcscan.com"
+  ]
+}

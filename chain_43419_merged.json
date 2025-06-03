@@ -1,0 +1,9 @@
+{
+  "chain_id": "43419",
+  "name": "GUNZ",
+  "symbol": "GUNZ",
+  "explorer_url": "https://gunzscan.io",
+  "rpc_urls": [
+    "https://rpc.gunzchain.io/ext/bc/2M47TxWHGnhNtq6pM5zPXdATBtuqubxn5EPFgFmEawCQr9WFML/rpc"
+  ]
+}

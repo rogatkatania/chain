@@ -1,0 +1,9 @@
+{
+  "chain_id": "54176",
+  "name": "OverProtocol Mainnet",
+  "symbol": "OverProtocol",
+  "explorer_url": "https://scan.over.network",
+  "rpc_urls": [
+    "https://rpc.overprotocol.com"
+  ]
+}

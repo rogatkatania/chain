@@ -1,0 +1,10 @@
+{
+  "chain_id": "1985",
+  "name": "SatoshIE",
+  "symbol": "TUSHY",
+  "explorer_url": "http://explore.satosh.ie",
+  "rpc_urls": [
+    "http://rpc.satosh.ie"
+  ],
+  "rpc": []
+}

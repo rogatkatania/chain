@@ -1,0 +1,10 @@
+{
+  "chain_id": "238",
+  "name": "Blast Mainnet",
+  "symbol": "ETH",
+  "explorer_url": "https://blastchain.org",
+  "rpc_urls": [
+    "https://zkevmrpc.blastchain.org"
+  ],
+  "rpc": []
+}

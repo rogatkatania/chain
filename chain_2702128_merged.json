@@ -1,0 +1,9 @@
+{
+  "chain_id": "2702128",
+  "name": "Xterio Chain (ETH)",
+  "symbol": "Xterio",
+  "explorer_url": "https://eth.xterscan.io",
+  "rpc_urls": [
+    "https://xterio-eth.alt.technology"
+  ]
+}

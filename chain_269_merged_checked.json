@@ -1,0 +1,11 @@
+{
+  "chain_id": "269",
+  "name": "High Performance Blockchain",
+  "symbol": "HPB",
+  "explorer_url": "https://hscan.org",
+  "rpc_urls": [
+    "https://hpbnode.com",
+    "wss://ws.hpbnode.com"
+  ],
+  "rpc": []
+}

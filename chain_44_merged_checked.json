@@ -1,0 +1,14 @@
+{
+  "chain_id": "44",
+  "name": "Crab Network",
+  "symbol": "crab",
+  "explorer_url": "https://crab-scan.darwinia.network",
+  "rpc_urls": [
+    "https://crab-rpc.darwinia.network",
+    "https://crab-rpc.dcdao.box",
+    "https://crab.api.onfinality.io/public"
+  ],
+  "rpc": [
+    "https://crab-rpc.darwinia.network"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "chain_id": "297",
+  "name": "Hedera Previewnet",
+  "symbol": "Hedera",
+  "explorer_url": "https://hashscan.io/previewnet",
+  "rpc_urls": [
+    "https://previewnet.hashio.io/api"
+  ],
+  "rpc": [
+    "https://previewnet.hashio.io/api"
+  ]
+}

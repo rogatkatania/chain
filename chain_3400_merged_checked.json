@@ -1,0 +1,12 @@
+{
+  "chain_id": "3400",
+  "name": "Paribu Net Mainnet",
+  "symbol": "PRB",
+  "explorer_url": "https://explorer.paribu.network",
+  "rpc_urls": [
+    "https://rpc.paribu.network"
+  ],
+  "rpc": [
+    "https://rpc.paribu.network"
+  ]
+}

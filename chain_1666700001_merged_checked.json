@@ -1,0 +1,10 @@
+{
+  "chain_id": "1666700001",
+  "name": "",
+  "symbol": "",
+  "explorer_url": "",
+  "rpc_urls": [
+    "https://api.s1.b.hmny.io"
+  ],
+  "rpc": []
+}

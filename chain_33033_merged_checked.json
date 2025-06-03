@@ -1,0 +1,12 @@
+{
+  "chain_id": "33033",
+  "name": "Entangle Mainnet",
+  "symbol": "NGL",
+  "explorer_url": "https://explorer.entangle.fi",
+  "rpc_urls": [
+    "https://json-rpc.entangle.fi"
+  ],
+  "rpc": [
+    "https://json-rpc.entangle.fi"
+  ]
+}

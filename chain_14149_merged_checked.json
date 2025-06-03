@@ -1,0 +1,10 @@
+{
+  "chain_id": "14149",
+  "name": "Bitharvest Chain Mainnet",
+  "symbol": "Bitharvest Chain Mainnet",
+  "explorer_url": "https://bthscan.io",
+  "rpc_urls": [
+    "https://rpc.bthscan.io"
+  ],
+  "rpc": []
+}

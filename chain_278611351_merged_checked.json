@@ -1,0 +1,10 @@
+{
+  "chain_id": "278611351",
+  "name": "Razor Skale Chain",
+  "symbol": "Razor Schain",
+  "explorer_url": "https://turbulent-unique-scheat.explorer.mainnet.skalenodes.com",
+  "rpc_urls": [
+    "https://mainnet.skalenodes.com/v1/turbulent-unique-scheat"
+  ],
+  "rpc": []
+}

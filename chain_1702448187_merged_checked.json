@@ -1,0 +1,10 @@
+{
+  "chain_id": "1702448187",
+  "name": "WITNESS CHAIN",
+  "symbol": "Witness-Chain",
+  "explorer_url": "https://explorer.witnesschain.com",
+  "rpc_urls": [
+    "https://sequencer.witnesschain.com"
+  ],
+  "rpc": []
+}

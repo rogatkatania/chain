@@ -1,0 +1,9 @@
+{
+  "chain_id": "4281033",
+  "name": "Worlds Caldera",
+  "symbol": "WCal",
+  "explorer_url": "",
+  "rpc_urls": [
+    "https://worlds-test.calderachain.xyz/http"
+  ]
+}

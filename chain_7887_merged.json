@@ -1,0 +1,11 @@
+{
+  "chain_id": "7887",
+  "name": "Kinto Mainnet",
+  "symbol": "Kinto Mainnet",
+  "explorer_url": "https://explorer.kinto.xyz",
+  "rpc_urls": [
+    "https://kinto-mainnet.calderachain.xyz/http",
+    "https://rpc.ankr.com/kinto",
+    "https://rpc.kinto.xyz/http"
+  ]
+}

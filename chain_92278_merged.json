@@ -1,0 +1,9 @@
+{
+  "chain_id": "92278",
+  "name": "Miracle Chain",
+  "symbol": "MIRACLE",
+  "explorer_url": "https://explorer.miracleplay.io",
+  "rpc_urls": [
+    "https://rpc.miracleplay.io"
+  ]
+}

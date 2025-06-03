@@ -1,0 +1,17 @@
+{
+  "chain_id": "388",
+  "name": "Cronos zkEVM Mainnet",
+  "symbol": "CronosZkEVMMainnet",
+  "explorer_url": "https://explorer.zkevm.cronos.org",
+  "rpc_urls": [
+    "https://cronos-zkevm.drpc.org",
+    "https://mainnet.zkevm.cronos.org",
+    "https://rpc.zerion.io/v1/cronos-zkevm",
+    "wss://cronos-zkevm.drpc.org"
+  ],
+  "rpc": [
+    "https://cronos-zkevm.drpc.org",
+    "https://rpc.zerion.io/v1/cronos-zkevm",
+    "https://mainnet.zkevm.cronos.org"
+  ]
+}

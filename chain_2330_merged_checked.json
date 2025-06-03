@@ -1,0 +1,11 @@
+{
+  "chain_id": "2330",
+  "name": "Altcoinchain",
+  "symbol": "mainnet",
+  "explorer_url": "http://expedition.altcoinchain.org",
+  "rpc_urls": [
+    "http://138.197.152.181:8145",
+    "https://rpc0.altcoinchain.org/rpc"
+  ],
+  "rpc": []
+}

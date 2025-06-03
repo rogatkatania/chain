@@ -1,0 +1,10 @@
+{
+  "chain_id": "142857",
+  "name": "ICPlaza Mainnet",
+  "symbol": "ICPlaza",
+  "explorer_url": "https://browsemainnet.ic-plaza.org/index",
+  "rpc_urls": [
+    "https://rpc1.icplaza.pro",
+    "https://rpcmainnet.ic-plaza.org"
+  ]
+}

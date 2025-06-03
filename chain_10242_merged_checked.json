@@ -1,0 +1,10 @@
+{
+  "chain_id": "10242",
+  "name": "Arthera Mainnet",
+  "symbol": "AA",
+  "explorer_url": "https://explorer.arthera.net",
+  "rpc_urls": [
+    "https://rpc.arthera.net"
+  ],
+  "rpc": []
+}

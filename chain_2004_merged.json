@@ -1,0 +1,9 @@
+{
+  "chain_id": "2004",
+  "name": "MetaLink Network",
+  "symbol": "MetaLink",
+  "explorer_url": "http://twoto3.com:3000",
+  "rpc_urls": [
+    "http://77.237.237.69:9933"
+  ]
+}

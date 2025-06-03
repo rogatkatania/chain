@@ -1,0 +1,14 @@
+{
+  "chain_id": "4646",
+  "name": "MST Chain",
+  "symbol": "MST",
+  "explorer_url": "https://mstscan.com",
+  "rpc_urls": [
+    "https://craftrpc.mstblockchain.com",
+    "https://mariorpc.mstblockchain.com"
+  ],
+  "rpc": [
+    "https://craftrpc.mstblockchain.com",
+    "https://mariorpc.mstblockchain.com"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "chain_id": "543210",
+  "name": "ZERO Network",
+  "symbol": "ZERONetwork",
+  "explorer_url": "https://explorer.zero.network",
+  "rpc_urls": [
+    "https://rpc.zerion.io/v1/zero",
+    "https://zero.drpc.org",
+    "wss://zero.drpc.org"
+  ],
+  "rpc": [
+    "https://zero.drpc.org",
+    "https://rpc.zerion.io/v1/zero"
+  ]
+}

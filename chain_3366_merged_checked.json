@@ -1,0 +1,12 @@
+{
+  "chain_id": "3366",
+  "name": "",
+  "symbol": "",
+  "explorer_url": "",
+  "rpc_urls": [
+    "https://mainnet-node1.meronscan.ai"
+  ],
+  "rpc": [
+    "https://mainnet-node1.meronscan.ai"
+  ]
+}

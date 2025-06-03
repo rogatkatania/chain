@@ -1,0 +1,10 @@
+{
+  "chain_id": "16166",
+  "name": "Cypherium Mainnet",
+  "symbol": "CPH",
+  "explorer_url": "https://cypherium.tryethernal.com",
+  "rpc_urls": [
+    "https://make-cph-great-again.community",
+    "https://pubnodes.cypherium.io/rpc"
+  ]
+}

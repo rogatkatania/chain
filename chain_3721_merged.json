@@ -1,0 +1,10 @@
+{
+  "chain_id": "3721",
+  "name": "Xone Mainnet",
+  "symbol": "XOC",
+  "explorer_url": "https://xscscan.com",
+  "rpc_urls": [
+    "https://rpc.xone.org",
+    "wss://rpc-wss.xone.org"
+  ]
+}

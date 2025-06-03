@@ -1,0 +1,16 @@
+{
+  "chain_id": "20",
+  "name": "Elastos Smart Chain",
+  "symbol": "ETH",
+  "explorer_url": "https://esc.elastos.io",
+  "rpc_urls": [
+    "https://api.elastos.io/esc",
+    "https://api.elastos.io/eth",
+    "https://api.trinity-tech.io/esc",
+    "https://api2.elastos.io/esc",
+    "https://api2.elastos.io/eth",
+    "https://api2.elastos.net/esc",
+    "https://api2.elastos.net/eth",
+    "https://rpc.glidefinance.io"
+  ]
+}

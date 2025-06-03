@@ -1,0 +1,12 @@
+{
+  "chain_id": "5167004",
+  "name": "",
+  "symbol": "",
+  "explorer_url": "",
+  "rpc_urls": [
+    "https://geneva-rpc.moonchain.com"
+  ],
+  "rpc": [
+    "https://geneva-rpc.moonchain.com"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "chain_id": "4158",
+  "name": "CrossFi Mainnet",
+  "symbol": "crossfi",
+  "explorer_url": "https://xfiscan.com",
+  "rpc_urls": [
+    "https://crossfi-mainnet.g.alchemy.com/v2/gi4tk6s65zmhnapbshfydl3w-lda8xmu",
+    "https://rpc.mainnet.ms"
+  ],
+  "rpc": [
+    "https://rpc.mainnet.ms",
+    "https://crossfi-mainnet.g.alchemy.com/v2/gi4tk6s65zmhnapbshfydl3w-lda8xmu"
+  ]
+}

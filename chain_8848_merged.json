@@ -1,0 +1,9 @@
+{
+  "chain_id": "8848",
+  "name": "MARO Blockchain Mainnet",
+  "symbol": "MARO Blockchain",
+  "explorer_url": "https://scan.ma.ro/#",
+  "rpc_urls": [
+    "https://rpc-mainnet.ma.ro"
+  ]
+}

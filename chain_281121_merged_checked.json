@@ -1,0 +1,11 @@
+{
+  "chain_id": "281121",
+  "name": "Social Smart Chain Mainnet",
+  "symbol": "SoChain",
+  "explorer_url": "",
+  "rpc_urls": [
+    "https://socialsmartchain.digitalnext.business",
+    "rpcWorking:false"
+  ],
+  "rpc": []
+}

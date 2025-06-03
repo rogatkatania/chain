@@ -1,0 +1,15 @@
+{
+  "chain_id": "10946",
+  "name": "Quadrans Blockchain",
+  "symbol": "QDC",
+  "explorer_url": "https://explorer.quadrans.io",
+  "rpc_urls": [
+    "https://rpc.quadrans.io",
+    "https://rpceu.quadrans.io",
+    "https://rpcna.quadrans.io"
+  ],
+  "rpc": [
+    "https://rpc.quadrans.io",
+    "https://rpceu.quadrans.io"
+  ]
+}

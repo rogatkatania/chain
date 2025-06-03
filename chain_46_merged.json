@@ -1,0 +1,12 @@
+{
+  "chain_id": "46",
+  "name": "Darwinia Network",
+  "symbol": "darwinia",
+  "explorer_url": "https://explorer.darwinia.network",
+  "rpc_urls": [
+    "https://darwinia-rpc.dcdao.box",
+    "https://darwinia-rpc.dwellir.com",
+    "https://darwinia.rpc.subquery.network/public",
+    "https://rpc.darwinia.network"
+  ]
+}

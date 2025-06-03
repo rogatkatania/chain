@@ -1,0 +1,11 @@
+{
+  "chain_id": "4547",
+  "name": "TRUMPCHAIN",
+  "symbol": "trumpchain",
+  "explorer_url": "https://explorer.trumpchain.dev",
+  "rpc_urls": [
+    "https://testnet.trumpchain.dev/http",
+    "wss://testnet.trumpchain.dev/ws"
+  ],
+  "rpc": []
+}

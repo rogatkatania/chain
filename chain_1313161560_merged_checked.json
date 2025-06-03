@@ -1,0 +1,10 @@
+{
+  "chain_id": "1313161560",
+  "name": "PowerGold",
+  "symbol": "NEAR",
+  "explorer_url": "https://explorer.powergold.aurora.dev",
+  "rpc_urls": [
+    "https://powergold.aurora.dev"
+  ],
+  "rpc": []
+}

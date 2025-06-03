@@ -1,0 +1,16 @@
+{
+  "chain_id": "122",
+  "name": "Fuse Mainnet",
+  "symbol": "FUSE",
+  "explorer_url": "https://explorer.fuse.io",
+  "rpc_urls": [
+    "https://fuse-mainnet.chainstacklabs.com",
+    "https://fuse-pokt.nodies.app",
+    "https://fuse.api.onfinality.io/public",
+    "https://fuse.drpc.org",
+    "https://fuse.liquify.com",
+    "https://rpc.fuse.io",
+    "https://rpc.owlracle.info/fuse/70d38ce1826c4a60bb2a8e05a6c8b20f",
+    "wss://fuse.drpc.org"
+  ]
+}

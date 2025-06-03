@@ -1,0 +1,12 @@
+{
+  "chain_id": "8691942025",
+  "name": "ONFA Chain",
+  "symbol": "onfa",
+  "explorer_url": "https://onfascan.com",
+  "rpc_urls": [
+    "https://rpc.onfa.io",
+    "https://rpc.onfachain.com",
+    "wss://ws.onfa.io",
+    "wss://ws.onfachain.com"
+  ]
+}

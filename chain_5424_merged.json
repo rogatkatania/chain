@@ -1,0 +1,12 @@
+{
+  "chain_id": "5424",
+  "name": "edeXa Mainnet",
+  "symbol": "edeXa",
+  "explorer_url": "https://explorer.edexa.network",
+  "rpc_urls": [
+    "https://mainnet.edexa.com/rpc",
+    "https://mainnet.edexa.network/rpc",
+    "https://rpc.edexa.com",
+    "https://rpc.edexa.network"
+  ]
+}

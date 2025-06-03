@@ -1,0 +1,9 @@
+{
+  "chain_id": "9069",
+  "name": "Apex Fusion - Nexus Mainnet",
+  "symbol": "Nexus Mainnet",
+  "explorer_url": "",
+  "rpc_urls": [
+    "https://rpc.nexus.mainnet.apexfusion.org"
+  ]
+}

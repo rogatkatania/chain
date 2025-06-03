@@ -1,0 +1,13 @@
+{
+  "chain_id": "420420",
+  "name": "Kekchain",
+  "symbol": "kek",
+  "explorer_url": "https://mainnet-explorer.kekchain.com",
+  "rpc_urls": [
+    "https://kek.interchained.org",
+    "https://kekchain.interchained.org",
+    "https://mainnet.kekchain.com",
+    "https://rpc2.kekchain.com"
+  ],
+  "rpc": []
+}

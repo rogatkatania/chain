@@ -1,0 +1,9 @@
+{
+  "chain_id": "721529",
+  "name": "ERAM Mainnet",
+  "symbol": "ERAM",
+  "explorer_url": "https://eramscan.com",
+  "rpc_urls": [
+    "https://mainnet-rpc.eramscan.com"
+  ]
+}

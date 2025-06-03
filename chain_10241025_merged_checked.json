@@ -1,0 +1,14 @@
+{
+  "chain_id": "10241025",
+  "name": "",
+  "symbol": "",
+  "explorer_url": "",
+  "rpc_urls": [
+    "https://hal-rpc.alienxchain.io/http",
+    "https://hal.rpc.caldera.xyz/http"
+  ],
+  "rpc": [
+    "https://hal-rpc.alienxchain.io/http",
+    "https://hal.rpc.caldera.xyz/http"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "chain_id": "1424",
+  "name": "Perennial",
+  "symbol": "perennial",
+  "explorer_url": "https://explorer.perennial.foundation",
+  "rpc_urls": [
+    "https://rpc.perennial.foundation"
+  ]
+}

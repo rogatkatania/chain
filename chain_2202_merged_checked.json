@@ -1,0 +1,10 @@
+{
+  "chain_id": "2202",
+  "name": "Antofy Mainnet",
+  "symbol": "ABN",
+  "explorer_url": "https://antofyscan.com",
+  "rpc_urls": [
+    "https://rpc.antofy.io"
+  ],
+  "rpc": []
+}

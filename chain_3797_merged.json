@@ -1,0 +1,11 @@
+{
+  "chain_id": "3797",
+  "name": "AlveyChain Mainnet",
+  "symbol": "ALV",
+  "explorer_url": "https://alveyscan.com",
+  "rpc_urls": [
+    "https://elves-core1.alvey.io",
+    "https://elves-core2.alvey.io",
+    "https://elves-core3.alvey.io"
+  ]
+}

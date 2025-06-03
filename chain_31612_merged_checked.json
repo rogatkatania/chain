@@ -1,0 +1,15 @@
+{
+  "chain_id": "31612",
+  "name": "Mezo",
+  "symbol": "Mezo",
+  "explorer_url": "https://explorer.mezo.org",
+  "rpc_urls": [
+    "https://jsonrpc-mezo.boar.network",
+    "https://rpc_evm-mezo.imperator.co",
+    "wss://jsonrpcws-mezo.boar.network",
+    "wss://ws_evm-mezo.imperator.co"
+  ],
+  "rpc": [
+    "https://jsonrpc-mezo.boar.network"
+  ]
+}

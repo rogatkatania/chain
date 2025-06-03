@@ -1,0 +1,9 @@
+{
+  "chain_id": "5112023",
+  "name": "NumBlock Chain",
+  "symbol": "NumBlock",
+  "explorer_url": "https://mainnet.numblock.org",
+  "rpc_urls": [
+    "https://rpc-mainnet.numblock.org"
+  ]
+}

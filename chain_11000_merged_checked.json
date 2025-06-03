@@ -1,0 +1,10 @@
+{
+  "chain_id": "11000",
+  "name": "KB Chain",
+  "symbol": "KB",
+  "explorer_url": "https://scan.kbcfoundation.com",
+  "rpc_urls": [
+    "https://mainnet-rpc.kbcfoundation.com"
+  ],
+  "rpc": []
+}

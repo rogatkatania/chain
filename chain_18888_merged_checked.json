@@ -1,0 +1,13 @@
+{
+  "chain_id": "18888",
+  "name": "Titan (TKX)",
+  "symbol": "Titan (TKX)",
+  "explorer_url": "https://tkxscan.io/Titan",
+  "rpc_urls": [
+    "https://titan-json-rpc-hongkong.titanlab.io",
+    "https://titan-json-rpc-seoul.titanlab.io",
+    "https://titan-json-rpc-tokyo.titanlab.io",
+    "https://titan-json-rpc.titanlab.io"
+  ],
+  "rpc": []
+}

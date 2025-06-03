@@ -1,0 +1,10 @@
+{
+  "chain_id": "23451",
+  "name": "DreyerX Mainnet",
+  "symbol": "DreyerX",
+  "explorer_url": "https://scan.dreyerx.com",
+  "rpc_urls": [
+    "https://rpc.dreyerx.com"
+  ],
+  "rpc": []
+}

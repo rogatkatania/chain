@@ -1,0 +1,13 @@
+{
+  "chain_id": "1261120",
+  "name": "zKatana",
+  "symbol": "ETH",
+  "explorer_url": "https://zkatana.blockscout.com",
+  "rpc_urls": [
+    "https://astar-zkatana.drpc.org",
+    "https://rpc.startale.com/zkatana",
+    "https://rpc.zkatana.gelato.digital",
+    "wss://astar-zkatana.drpc.org"
+  ],
+  "rpc": []
+}

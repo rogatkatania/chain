@@ -1,0 +1,9 @@
+{
+  "chain_id": "6678",
+  "name": "Edge Matrix Chain",
+  "symbol": "EMC",
+  "explorer_url": "https://emcscan.com",
+  "rpc_urls": [
+    "https://rpc1-mainnet.emc.network"
+  ]
+}

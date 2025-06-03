@@ -1,0 +1,10 @@
+{
+  "chain_id": "5555555",
+  "name": "Imversed Mainnet",
+  "symbol": "Imversed",
+  "explorer_url": "https://txe.imversed.network",
+  "rpc_urls": [
+    "https://jsonrpc.imversed.network",
+    "https://ws-jsonrpc.imversed.network"
+  ]
+}

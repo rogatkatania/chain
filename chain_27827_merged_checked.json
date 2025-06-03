@@ -1,0 +1,10 @@
+{
+  "chain_id": "27827",
+  "name": "zeroone Mainnet Subnet",
+  "symbol": "ZEROONEMAI",
+  "explorer_url": "https://subnets.avax.network/zeroonemai",
+  "rpc_urls": [
+    "https://subnets.avax.network/zeroonemai/mainnet/rpc"
+  ],
+  "rpc": []
+}

@@ -1,0 +1,10 @@
+{
+  "chain_id": "188710",
+  "name": "Bitica Chain Mainnet",
+  "symbol": "BDCC",
+  "explorer_url": "https://biticablockchain.com",
+  "rpc_urls": [
+    "https://mainnet-rpc.biticablockchain.com"
+  ],
+  "rpc": []
+}

@@ -1,0 +1,10 @@
+{
+  "chain_id": "5678",
+  "name": "Tanssi Demo",
+  "symbol": "TANGO",
+  "explorer_url": "https://fra-dancebox-3001-bs.a.dancebox.tanssi.network",
+  "rpc_urls": [
+    "https://dancebox-3001.tanssi-api.network",
+    "wss://dancebox-3001.tanssi-api.network"
+  ]
+}

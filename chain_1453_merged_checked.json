@@ -1,0 +1,10 @@
+{
+  "chain_id": "1453",
+  "name": "MetaChain Istanbul",
+  "symbol": "MTC",
+  "explorer_url": "https://istanbul-explorer.metachain.dev",
+  "rpc_urls": [
+    "https://istanbul-rpc.metachain.dev"
+  ],
+  "rpc": []
+}

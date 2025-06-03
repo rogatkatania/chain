@@ -1,0 +1,9 @@
+{
+  "chain_id": "8099",
+  "name": "Bharat Blockchain Network Mainnet",
+  "symbol": "BBN",
+  "explorer_url": "",
+  "rpc_urls": [
+    "https://bbnrpc.mainnet.bharatblockchain.io"
+  ]
+}

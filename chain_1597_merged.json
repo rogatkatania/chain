@@ -1,0 +1,9 @@
+{
+  "chain_id": "1597",
+  "name": "Reactive Mainnet",
+  "symbol": "REACT",
+  "explorer_url": "https://reactscan.net",
+  "rpc_urls": [
+    "https://mainnet-rpc.rnk.dev"
+  ]
+}

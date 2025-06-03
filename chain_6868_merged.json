@@ -1,0 +1,9 @@
+{
+  "chain_id": "6868",
+  "name": "Pools Mainnet",
+  "symbol": "Pools",
+  "explorer_url": "https://scan.poolsmobility.com",
+  "rpc_urls": [
+    "https://rpc.poolsmobility.com"
+  ]
+}

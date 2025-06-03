@@ -1,0 +1,9 @@
+{
+  "chain_id": "8794598",
+  "name": "HAPchain",
+  "symbol": "HAPchain",
+  "explorer_url": "https://blockscout.hap.land",
+  "rpc_urls": [
+    "https://jsonrpc.hap.land"
+  ]
+}

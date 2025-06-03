@@ -1,0 +1,12 @@
+{
+  "chain_id": "23294",
+  "name": "Oasis Sapphire",
+  "symbol": "Sapphire",
+  "explorer_url": "https://explorer.oasis.io/mainnet/sapphire",
+  "rpc_urls": [
+    "https://1rpc.io/oasis/sapphire",
+    "https://sapphire.oasis.io",
+    "wss://sapphire.oasis.io/ws"
+  ],
+  "rpc": []
+}

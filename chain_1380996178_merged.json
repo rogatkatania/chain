@@ -1,0 +1,9 @@
+{
+  "chain_id": "1380996178",
+  "name": "RaptorChain",
+  "symbol": "RPTR",
+  "explorer_url": "https://explorer.raptorchain.io",
+  "rpc_urls": [
+    "https://rpc.raptorchain.io/web3"
+  ]
+}

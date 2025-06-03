@@ -1,0 +1,10 @@
+{
+  "chain_id": "153153",
+  "name": "Odyssey Chain Mainnet",
+  "symbol": "DIONE",
+  "explorer_url": "https://odysseyscan.com",
+  "rpc_urls": [
+    "https://node.dioneprotocol.com/ext/bc/D/rpc",
+    "https://node.dioneprotocol.com/ext/bc/d/rpc"
+  ]
+}

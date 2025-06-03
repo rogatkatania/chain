@@ -1,0 +1,9 @@
+{
+  "chain_id": "3337",
+  "name": "EthStorage Devnet",
+  "symbol": "EthStorage",
+  "explorer_url": "",
+  "rpc_urls": [
+    "http://devnet.ethstorage.io:9540"
+  ]
+}

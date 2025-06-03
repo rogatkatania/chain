@@ -1,0 +1,10 @@
+{
+  "chain_id": "305",
+  "name": "ZKSats Mainnet",
+  "symbol": "ZKSats",
+  "explorer_url": "https://explorer.zksats.io",
+  "rpc_urls": [
+    "https://mainnet.zksats.io"
+  ],
+  "rpc": []
+}

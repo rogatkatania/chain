@@ -1,0 +1,9 @@
+{
+  "chain_id": "972",
+  "name": "Oort Ascraeus",
+  "symbol": "Ascraeus",
+  "explorer_url": "https://ascraeus-scan.oortech.com",
+  "rpc_urls": [
+    "https://ascraeus-rpc.oortech.com"
+  ]
+}

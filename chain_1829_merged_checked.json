@@ -1,0 +1,11 @@
+{
+  "chain_id": "1829",
+  "name": "PlayBlock",
+  "symbol": "playblock",
+  "explorer_url": "https://explorer.playblock.io",
+  "rpc_urls": [
+    "https://rpc.playblock.io",
+    "wss://ws.playblock.io"
+  ],
+  "rpc": []
+}

@@ -1,0 +1,10 @@
+{
+  "chain_id": "14288640",
+  "name": "Anduschain Mainnet",
+  "symbol": "anduschain",
+  "explorer_url": "https://explorer.anduschain.io",
+  "rpc_urls": [
+    "https://rpc.anduschain.io/rpc",
+    "wss://rpc.anduschain.io/ws"
+  ]
+}

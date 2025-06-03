@@ -1,0 +1,9 @@
+{
+  "chain_id": "2889",
+  "name": "Aarma Mainnet",
+  "symbol": "Aarma",
+  "explorer_url": "https://aarmascan.com",
+  "rpc_urls": [
+    "https://aarmarpc.com"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "chain_id": "222000222",
+  "name": "Kanazawa",
+  "symbol": "Kanazawa",
+  "explorer_url": "https://testnet.meldscan.io",
+  "rpc_urls": [
+    "https://testnet-rpc.meld.com"
+  ]
+}

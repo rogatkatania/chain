@@ -1,0 +1,9 @@
+{
+  "chain_id": "21337",
+  "name": "CENNZnet Azalea",
+  "symbol": "CENNZnet",
+  "explorer_url": "https://uncoverexplorer.com",
+  "rpc_urls": [
+    "https://cennznet.unfrastructure.io/public"
+  ]
+}

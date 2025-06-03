@@ -1,0 +1,10 @@
+{
+  "chain_id": "140",
+  "name": "Eternal Mainnet",
+  "symbol": "ETE",
+  "explorer_url": "",
+  "rpc_urls": [
+    "https://mainnet.eternalcoin.io/v1",
+    "ws://mainnet.eternalcoin.io/v1/ws"
+  ]
+}

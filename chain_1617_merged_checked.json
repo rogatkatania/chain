@@ -1,0 +1,10 @@
+{
+  "chain_id": "1617",
+  "name": "Ethereum Inscription Mainnet",
+  "symbol": "ETINS",
+  "explorer_url": "https://explorer.etins.org",
+  "rpc_urls": [
+    "https://rpc.etins.org"
+  ],
+  "rpc": []
+}

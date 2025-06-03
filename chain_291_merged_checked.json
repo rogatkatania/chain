@@ -1,0 +1,12 @@
+{
+  "chain_id": "291",
+  "name": "Orderly Mainnet",
+  "symbol": "ETH",
+  "explorer_url": "https://explorer.orderly.network",
+  "rpc_urls": [
+    "https://rpc.orderly.network"
+  ],
+  "rpc": [
+    "https://rpc.orderly.network"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "chain_id": "43521",
+  "name": "Formicarium",
+  "symbol": "MemeCore",
+  "explorer_url": "https://www.okx.com/web3/explorer/formicarium-testnet",
+  "rpc_urls": [
+    "https://rpc.formicarium.memecore.net",
+    "wss://ws.formicarium.memecore.net"
+  ]
+}

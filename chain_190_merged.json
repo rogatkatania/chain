@@ -1,0 +1,9 @@
+{
+  "chain_id": "190",
+  "name": "CMDAO BBQ Chain",
+  "symbol": "Underchain 1",
+  "explorer_url": "https://bbqchain-exp.commudao.xyz",
+  "rpc_urls": [
+    "https://bbqchain-rpc.commudao.xyz"
+  ]
+}

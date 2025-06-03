@@ -1,0 +1,11 @@
+{
+  "chain_id": "80069",
+  "name": "Berachain Bepolia",
+  "symbol": "Berachain",
+  "explorer_url": "https://bepolia.beratrail.io",
+  "rpc_urls": [
+    "https://bepolia.rpc.berachain.com",
+    "https://berachain-bepolia.drpc.org",
+    "wss://berachain-bepolia.drpc.org"
+  ]
+}

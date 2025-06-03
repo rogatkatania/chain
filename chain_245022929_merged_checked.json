@@ -1,0 +1,10 @@
+{
+  "chain_id": "245022929",
+  "name": "Neon EVM Devnet Rollup",
+  "symbol": "Solana",
+  "explorer_url": "",
+  "rpc_urls": [
+    "https://devnet.rollup.neonevm.org"
+  ],
+  "rpc": []
+}

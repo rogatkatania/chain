@@ -1,0 +1,9 @@
+{
+  "chain_id": "272520",
+  "name": "Nxy Oasis",
+  "symbol": "NXY",
+  "explorer_url": "https://explorer.nxy.social",
+  "rpc_urls": [
+    "https://nxy.social/mainnet"
+  ]
+}

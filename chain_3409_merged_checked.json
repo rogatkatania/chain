@@ -1,0 +1,12 @@
+{
+  "chain_id": "3409",
+  "name": "Pepe Unchained",
+  "symbol": "PEPU",
+  "explorer_url": "https://pepuscan.com",
+  "rpc_urls": [
+    "https://rpc-pepe-unchained-gupg0lo9wf.t.conduit.xyz"
+  ],
+  "rpc": [
+    "https://rpc-pepe-unchained-gupg0lo9wf.t.conduit.xyz"
+  ]
+}

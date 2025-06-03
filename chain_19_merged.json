@@ -1,0 +1,18 @@
+{
+  "chain_id": "19",
+  "name": "Songbird Canary-Network",
+  "symbol": "SGB",
+  "explorer_url": "https://songbird-explorer.flare.network",
+  "rpc_urls": [
+    "https://01-gravelines-006-01.rpc.tatum.io/ext/bc/C/rpc",
+    "https://01-vinthill-006-02.rpc.tatum.io/ext/bc/C/rpc",
+    "https://02-tokyo-006-03.rpc.tatum.io/ext/bc/C/rpc",
+    "https://rpc.au.cc/songbird",
+    "https://rpc.ftso.au/songbird",
+    "https://songbird-api.flare.network/ext/C/rpc",
+    "https://songbird-api.flare.network/ext/c/rpc",
+    "https://songbird.enosys.global/ext/C/rpc",
+    "https://songbird.solidifi.app/ext/C/rpc",
+    "https://songbird.solidifi.app/ext/c/rpc"
+  ]
+}

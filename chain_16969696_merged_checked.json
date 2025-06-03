@@ -1,0 +1,11 @@
+{
+  "chain_id": "16969696",
+  "name": "Privix Chain Mainnet",
+  "symbol": "PRIVIX",
+  "explorer_url": "https://privixscan.io",
+  "rpc_urls": [
+    "https://mainnet-rpc.privixchain.xyz",
+    "wss://mainnet-rpc.privixchain.xyz/ws"
+  ],
+  "rpc": []
+}

@@ -1,0 +1,14 @@
+{
+  "chain_id": "295",
+  "name": "Hedera Mainnet",
+  "symbol": "Hedera",
+  "explorer_url": "https://explorer.arkhia.io",
+  "rpc_urls": [
+    "https://hedera.linkpool.pro",
+    "https://mainnet.hashio.io/api"
+  ],
+  "rpc": [
+    "https://mainnet.hashio.io/api",
+    "https://hedera.linkpool.pro"
+  ]
+}

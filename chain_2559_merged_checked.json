@@ -1,0 +1,10 @@
+{
+  "chain_id": "2559",
+  "name": "Kortho Mainnet",
+  "symbol": "Kortho Chain",
+  "explorer_url": "",
+  "rpc_urls": [
+    "https://www.kortho-chain.com"
+  ],
+  "rpc": []
+}

@@ -1,0 +1,12 @@
+{
+  "chain_id": "55555",
+  "name": "REI Chain Mainnet",
+  "symbol": "REI",
+  "explorer_url": "https://reiscan.com",
+  "rpc_urls": [
+    "https://rei-rpc.moonrhythm.io"
+  ],
+  "rpc": [
+    "https://rei-rpc.moonrhythm.io"
+  ]
+}

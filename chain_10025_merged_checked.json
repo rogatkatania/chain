@@ -1,0 +1,12 @@
+{
+  "chain_id": "10025",
+  "name": "AEON Chain",
+  "symbol": "AEON Chain",
+  "explorer_url": "https://scan.aeon.xyz",
+  "rpc_urls": [
+    "https://node.aeon.xyz/rpc"
+  ],
+  "rpc": [
+    "https://node.aeon.xyz/rpc"
+  ]
+}

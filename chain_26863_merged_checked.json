@@ -1,0 +1,12 @@
+{
+  "chain_id": "26863",
+  "name": "OasisChain Mainnet",
+  "symbol": "OasisChain",
+  "explorer_url": "https://scan.oasischain.io",
+  "rpc_urls": [
+    "https://rpc1.oasischain.io",
+    "https://rpc2.oasischain.io",
+    "https://rpc3.oasischain.io"
+  ],
+  "rpc": []
+}

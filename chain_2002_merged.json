@@ -1,0 +1,10 @@
+{
+  "chain_id": "2002",
+  "name": "Milkomeda A1 Mainnet",
+  "symbol": "milkALGO",
+  "explorer_url": "https://explorer-mainnet-algorand-rollup.a1.milkomeda.com",
+  "rpc_urls": [
+    "https://rpc-mainnet-algorand-rollup.a1.milkomeda.com",
+    "wss://rpc-mainnet-algorand-rollup.a1.milkomeda.com/ws"
+  ]
+}

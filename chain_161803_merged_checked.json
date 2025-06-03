@@ -1,0 +1,10 @@
+{
+  "chain_id": "161803",
+  "name": "Eventum Mainnet",
+  "symbol": "Eventum",
+  "explorer_url": "https://explorer.evedex.com",
+  "rpc_urls": [
+    "https://mainnet-rpc.evedex.com"
+  ],
+  "rpc": []
+}

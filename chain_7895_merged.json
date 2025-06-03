@@ -1,0 +1,9 @@
+{
+  "chain_id": "7895",
+  "name": "ARDENIUM Athena",
+  "symbol": "ATHENA",
+  "explorer_url": "https://testnet.ardscan.com",
+  "rpc_urls": [
+    "https://rpc-athena.ardescan.com"
+  ]
+}

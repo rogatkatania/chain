@@ -1,0 +1,12 @@
+{
+  "chain_id": "1170",
+  "name": "",
+  "symbol": "",
+  "explorer_url": "",
+  "rpc_urls": [
+    "https://json-rpc.origin.uptick.network"
+  ],
+  "rpc": [
+    "https://json-rpc.origin.uptick.network"
+  ]
+}

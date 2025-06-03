@@ -1,0 +1,12 @@
+{
+  "chain_id": "274",
+  "name": "LaChain",
+  "symbol": "LaChain",
+  "explorer_url": "https://explorer.lachain.network",
+  "rpc_urls": [
+    "https://lachain.rpc-nodes.cedalio.dev",
+    "https://rpc1.mainnet.lachain.network",
+    "https://rpc2.mainnet.lachain.network"
+  ],
+  "rpc": []
+}

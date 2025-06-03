@@ -1,0 +1,10 @@
+{
+  "chain_id": "434",
+  "name": "Boyaa Mainnet",
+  "symbol": "BYC",
+  "explorer_url": "https://explorer.mainnet.boyaa.network",
+  "rpc_urls": [
+    "https://evm-rpc.mainnet.boyaa.network"
+  ],
+  "rpc": []
+}

@@ -1,0 +1,9 @@
+{
+  "chain_id": "7027",
+  "name": "Ella the heart",
+  "symbol": "ella",
+  "explorer_url": "https://ella.network",
+  "rpc_urls": [
+    "https://rpc.ella.network"
+  ]
+}

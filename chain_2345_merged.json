@@ -1,0 +1,12 @@
+{
+  "chain_id": "2345",
+  "name": "GOAT Network",
+  "symbol": "GOAT",
+  "explorer_url": "https://explorer.goat.network",
+  "rpc_urls": [
+    "https://goat-mainnet-alpha.drpc.org",
+    "https://rpc.ankr.com/goat_mainnet",
+    "https://rpc.goat.network",
+    "wss://goat-mainnet-alpha.drpc.org"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "chain_id": "2649",
+  "name": "AILayer Mainnet",
+  "symbol": "AILayer",
+  "explorer_url": "https://mainnet-explorer.ailayer.xyz",
+  "rpc_urls": [
+    "https://mainnet-rpc.ailayer.xyz",
+    "wss://mainnet-rpc.ailayer.xyz"
+  ],
+  "rpc": []
+}

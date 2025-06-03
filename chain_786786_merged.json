@@ -1,0 +1,10 @@
+{
+  "chain_id": "786786",
+  "name": "Zebro Smart Chain",
+  "symbol": "ZEBRO",
+  "explorer_url": "https://explorer.zebrocoin.app",
+  "rpc_urls": [
+    "https://rpc.zebrocoin.app",
+    "https://rpc1.zebrocoin.app"
+  ]
+}

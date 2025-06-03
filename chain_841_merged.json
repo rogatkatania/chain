@@ -1,0 +1,10 @@
+{
+  "chain_id": "841",
+  "name": "Taraxa Mainnet",
+  "symbol": "TARA",
+  "explorer_url": "https://tara.to",
+  "rpc_urls": [
+    "https://rpc.mainnet.taraxa.io",
+    "https://ws.mainnet.taraxa.io"
+  ]
+}

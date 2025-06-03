@@ -1,0 +1,9 @@
+{
+  "chain_id": "526916",
+  "name": "DoCoin Community Chain",
+  "symbol": "DoCoin",
+  "explorer_url": "https://explorer.docoin.shop",
+  "rpc_urls": [
+    "https://rpc.docoin.shop"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "chain_id": "478",
+  "name": "Form Network",
+  "symbol": "form",
+  "explorer_url": "https://explorer.form.network",
+  "rpc_urls": [
+    "https://rpc.form.network/http",
+    "wss://rpc.form.network/ws"
+  ]
+}

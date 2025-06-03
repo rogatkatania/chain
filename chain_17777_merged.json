@@ -1,0 +1,9 @@
+{
+  "chain_id": "17777",
+  "name": "EOS EVM Network",
+  "symbol": "EOS",
+  "explorer_url": "https://explorer.evm.eosnetwork.com",
+  "rpc_urls": [
+    "https://api.evm.eosnetwork.com"
+  ]
+}

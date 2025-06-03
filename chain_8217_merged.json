@@ -1,0 +1,18 @@
+{
+  "chain_id": "8217",
+  "name": "Kaia Mainnet",
+  "symbol": "KAIA",
+  "explorer_url": "https://kaiascope.com",
+  "rpc_urls": [
+    "https://1rpc.io/klay",
+    "https://alpha-hardworking-orb.kaia-mainnet.quiknode.pro",
+    "https://go.getblock.io/d7094dbd80ab474ba7042603fe912332",
+    "https://kaia-mainnet.rpc.grove.city/v1/803ceedf",
+    "https://kaia.blockpi.network/v1/rpc/public",
+    "https://klaytn.api.onfinality.io/public",
+    "https://klaytn.drpc.org",
+    "https://node.histori.xyz/kaia-mainnet/8ry9f6t9dct1se2hlagxnd9n2a",
+    "https://public-en.node.kaia.io",
+    "https://rpc.ankr.com/kaia"
+  ]
+}

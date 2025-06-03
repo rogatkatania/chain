@@ -1,0 +1,9 @@
+{
+  "chain_id": "142",
+  "name": "DAX CHAIN",
+  "symbol": "DAX",
+  "explorer_url": "",
+  "rpc_urls": [
+    "https://rpc.prodax.io"
+  ]
+}

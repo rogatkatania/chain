@@ -1,0 +1,10 @@
+{
+  "chain_id": "2039",
+  "name": "Aleph Zero",
+  "symbol": "Aleph Zero",
+  "explorer_url": "https://evm-explorer-testnet.alephzero.org",
+  "rpc_urls": [
+    "https://rpc.alephzero-testnet.gelato.digital",
+    "wss://rpc.alephzero-testnet.gelato.digital"
+  ]
+}

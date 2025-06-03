@@ -1,0 +1,12 @@
+{
+  "chain_id": "49049",
+  "name": "",
+  "symbol": "",
+  "explorer_url": "",
+  "rpc_urls": [
+    "https://rpc-floripa.wireshape.org"
+  ],
+  "rpc": [
+    "https://rpc-floripa.wireshape.org"
+  ]
+}

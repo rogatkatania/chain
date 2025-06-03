@@ -1,0 +1,10 @@
+{
+  "chain_id": "2632500",
+  "name": "COTI",
+  "symbol": "COTI",
+  "explorer_url": "https://mainnet.cotiscan.io",
+  "rpc_urls": [
+    "https://mainnet.coti.io/rpc"
+  ],
+  "rpc": []
+}

@@ -1,0 +1,11 @@
+{
+  "chain_id": "6999",
+  "name": "PolySmartChain",
+  "symbol": "PSC",
+  "explorer_url": "",
+  "rpc_urls": [
+    "https://seed0.polysmartchain.com",
+    "https://seed1.polysmartchain.com",
+    "https://seed2.polysmartchain.com"
+  ]
+}

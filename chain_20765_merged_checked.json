@@ -1,0 +1,10 @@
+{
+  "chain_id": "20765",
+  "name": "Jono11 Subnet",
+  "symbol": "JONO11",
+  "explorer_url": "https://subnets-test.avax.network/jono11",
+  "rpc_urls": [
+    "https://subnets.avax.network/jono11/testnet/rpc"
+  ],
+  "rpc": []
+}

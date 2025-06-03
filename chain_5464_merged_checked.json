@@ -1,0 +1,13 @@
+{
+  "chain_id": "5464",
+  "name": "Saga",
+  "symbol": "SAGA",
+  "explorer_url": "https://sagaevm-5464-1.sagaexplorer.io",
+  "rpc_urls": [
+    "http://sagaevm-5464-1.jsonrpc.sagarpc.io",
+    "https://sagaevm.jsonrpc.sagarpc.io"
+  ],
+  "rpc": [
+    "https://sagaevm.jsonrpc.sagarpc.io"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "chain_id": "4321",
+  "name": "Echos Chain",
+  "symbol": "Echos",
+  "explorer_url": "https://explorer.echos.fun",
+  "rpc_urls": [
+    "https://rpc-echos-mainnet-0.t.conduit.xyz"
+  ],
+  "rpc": [
+    "https://rpc-echos-mainnet-0.t.conduit.xyz"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "chain_id": "456",
+  "name": "ARZIO Chain",
+  "symbol": "ARZIO",
+  "explorer_url": "https://scan.arzio.co",
+  "rpc_urls": [
+    "https://chain-rpc.arzio.co"
+  ]
+}

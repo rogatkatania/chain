@@ -1,0 +1,12 @@
+{
+  "chain_id": "3666",
+  "name": "Jouleverse Mainnet",
+  "symbol": "Jouleverse",
+  "explorer_url": "https://jscan.jnsdao.com",
+  "rpc_urls": [
+    "https://rpc.jnsdao.com:8503"
+  ],
+  "rpc": [
+    "https://rpc.jnsdao.com:8503"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "chain_id": "43113",
+  "name": "",
+  "symbol": "",
+  "explorer_url": "",
+  "rpc_urls": [
+    "https://avalanche-fuji-c-chain-rpc.publicnode.com"
+  ],
+  "rpc": [
+    "https://avalanche-fuji-c-chain-rpc.publicnode.com"
+  ]
+}

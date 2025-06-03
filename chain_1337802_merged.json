@@ -1,0 +1,9 @@
+{
+  "chain_id": "1337802",
+  "name": "Kiln",
+  "symbol": "ETH",
+  "explorer_url": "https://explorer.kiln.themerge.dev",
+  "rpc_urls": [
+    "https://rpc.kiln.themerge.dev"
+  ]
+}

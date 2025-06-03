@@ -1,0 +1,10 @@
+{
+  "chain_id": "11111",
+  "name": "WAGMI",
+  "symbol": "WAGMI",
+  "explorer_url": "https://subnets-test.avax.network/wagmi",
+  "rpc_urls": [
+    "https://api.trywagmi.xyz/rpc",
+    "https://subnets.avax.network/wagmi/wagmi-chain-testnet/rpc"
+  ]
+}

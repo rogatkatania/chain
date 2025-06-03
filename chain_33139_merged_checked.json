@@ -1,0 +1,20 @@
+{
+  "chain_id": "33139",
+  "name": "ApeChain",
+  "symbol": "apechain",
+  "explorer_url": "https://apescan.io",
+  "rpc_urls": [
+    "https://apechain-mainnet.g.alchemy.com/v2/gi4tk6s65zmhnapbshfydl3w-lda8xmu",
+    "https://apechain.drpc.org",
+    "https://node.histori.xyz/apechain-mainnet/8ry9f6t9dct1se2hlagxnd9n2a",
+    "https://rpc.apechain.com",
+    "https://rpc.zerion.io/v1/ape",
+    "wss://apechain.drpc.org"
+  ],
+  "rpc": [
+    "https://apechain.drpc.org",
+    "https://apechain-mainnet.g.alchemy.com/v2/gi4tk6s65zmhnapbshfydl3w-lda8xmu",
+    "https://rpc.apechain.com",
+    "https://rpc.zerion.io/v1/ape"
+  ]
+}

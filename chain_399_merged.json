@@ -1,0 +1,10 @@
+{
+  "chain_id": "399",
+  "name": "Nativ3 Mainnet",
+  "symbol": "Nativ3",
+  "explorer_url": "https://scan.nativ3.network",
+  "rpc_urls": [
+    "https://rpc.nativ3.network",
+    "wss://ws.nativ3.network"
+  ]
+}

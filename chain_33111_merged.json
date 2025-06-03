@@ -1,0 +1,12 @@
+{
+  "chain_id": "33111",
+  "name": "Curtis",
+  "symbol": "Curtis",
+  "explorer_url": "https://explorer.curtis.apechain.com",
+  "rpc_urls": [
+    "https://apechain-curtis.drpc.org",
+    "https://node.histori.xyz/apechain-testnet/8ry9f6t9dct1se2hlagxnd9n2a",
+    "https://rpc.curtis.apechain.com",
+    "wss://apechain-curtis.drpc.org"
+  ]
+}

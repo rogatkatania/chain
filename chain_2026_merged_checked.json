@@ -1,0 +1,10 @@
+{
+  "chain_id": "2026",
+  "name": "Edgeless Network",
+  "symbol": "Edgeless",
+  "explorer_url": "https://explorer.edgeless.network",
+  "rpc_urls": [
+    "https://rpc.edgeless.network/http"
+  ],
+  "rpc": []
+}

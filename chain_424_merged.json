@@ -1,0 +1,9 @@
+{
+  "chain_id": "424",
+  "name": "PGN (Public Goods Network)",
+  "symbol": "ETH",
+  "explorer_url": "https://explorer.publicgoods.network",
+  "rpc_urls": [
+    "https://rpc.publicgoods.network"
+  ]
+}

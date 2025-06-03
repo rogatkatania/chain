@@ -1,0 +1,12 @@
+{
+  "chain_id": "3630",
+  "name": "Tycooncoin",
+  "symbol": "TYCON",
+  "explorer_url": "",
+  "rpc_urls": [
+    "https://mainnet-rpc.tycoscan.com"
+  ],
+  "rpc": [
+    "https://mainnet-rpc.tycoscan.com"
+  ]
+}

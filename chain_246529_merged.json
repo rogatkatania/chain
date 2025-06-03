@@ -1,0 +1,9 @@
+{
+  "chain_id": "246529",
+  "name": "ARTIS sigma1",
+  "symbol": "ARTIS",
+  "explorer_url": "",
+  "rpc_urls": [
+    "https://rpc.sigma1.artis.network"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "chain_id": "111222333444",
+  "name": "Alphabet Mainnet",
+  "symbol": "Alphabet Network",
+  "explorer_url": "https://scan.alphabetnetwork.org",
+  "rpc_urls": [
+    "https://londonpublic.alphabetnetwork.org",
+    "https://main-rpc.com",
+    "wss://londonpublic.alphabetnetwork.org/ws",
+    "wss://main-rpc.com/ws"
+  ]
+}

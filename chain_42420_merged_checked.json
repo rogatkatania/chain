@@ -1,0 +1,12 @@
+{
+  "chain_id": "42420",
+  "name": "Asset Chain Mainnet",
+  "symbol": "Asset Chain",
+  "explorer_url": "https://scan.assetchain.org",
+  "rpc_urls": [
+    "https://mainnet-rpc.assetchain.org"
+  ],
+  "rpc": [
+    "https://mainnet-rpc.assetchain.org"
+  ]
+}

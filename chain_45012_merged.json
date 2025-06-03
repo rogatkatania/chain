@@ -1,0 +1,9 @@
+{
+  "chain_id": "45012",
+  "name": "Juneo SGD1-Chain",
+  "symbol": "Juneo SGD1-Chain",
+  "explorer_url": "https://juneoscan.io/chain/7",
+  "rpc_urls": [
+    "https://rpc.juneo-mainnet.network/ext/bc/SGD1/rpc"
+  ]
+}

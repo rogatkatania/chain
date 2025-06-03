@@ -1,0 +1,9 @@
+{
+  "chain_id": "820",
+  "name": "Callisto Mainnet",
+  "symbol": "CLO",
+  "explorer_url": "https://explorer.callistodao.org",
+  "rpc_urls": [
+    "https://rpc.callistodao.org"
+  ]
+}

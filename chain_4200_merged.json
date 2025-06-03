@@ -1,0 +1,15 @@
+{
+  "chain_id": "4200",
+  "name": "Merlin Mainnet",
+  "symbol": "Merlin",
+  "explorer_url": "https://scan.merlinchain.io",
+  "rpc_urls": [
+    "https://endpoints.omniatech.io/v1/merlin/mainnet/public",
+    "https://merlin-mainnet-enterprise.unifra.io",
+    "https://merlin.blockpi.network/v1/rpc/public",
+    "https://merlin.drpc.org",
+    "https://rpc-merlin.rockx.com",
+    "https://rpc.merlinchain.io",
+    "wss://merlin.drpc.org"
+  ]
+}

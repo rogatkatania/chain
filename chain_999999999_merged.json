@@ -1,0 +1,9 @@
+{
+  "chain_id": "999999999",
+  "name": "",
+  "symbol": "",
+  "explorer_url": "",
+  "rpc_urls": [
+    "https://sepolia.rpc.zora.energy"
+  ]
+}

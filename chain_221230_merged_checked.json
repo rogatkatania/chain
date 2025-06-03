@@ -1,0 +1,10 @@
+{
+  "chain_id": "221230",
+  "name": "Reapchain Mainnet",
+  "symbol": "REAP",
+  "explorer_url": "https://dashboard.reapchain.org",
+  "rpc_urls": [
+    "https://eth.reapchain.org"
+  ],
+  "rpc": []
+}

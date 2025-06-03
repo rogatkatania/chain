@@ -1,0 +1,9 @@
+{
+  "chain_id": "88559",
+  "name": "InoAi",
+  "symbol": "INOAI",
+  "explorer_url": "https://inoai.live",
+  "rpc_urls": [
+    "https://inoai-network.com"
+  ]
+}

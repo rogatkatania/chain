@@ -1,0 +1,10 @@
+{
+  "chain_id": "45454",
+  "name": "Swamps L2",
+  "symbol": "SWP",
+  "explorer_url": "https://swamps-explorer.tc.l2aas.com",
+  "rpc_urls": [
+    "https://swamps.tc.l2aas.com"
+  ],
+  "rpc": []
+}

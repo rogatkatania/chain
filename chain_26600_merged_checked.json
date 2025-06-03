@@ -1,0 +1,10 @@
+{
+  "chain_id": "26600",
+  "name": "Hertz Network Mainnet",
+  "symbol": "HTZ",
+  "explorer_url": "https://hertzscan.com",
+  "rpc_urls": [
+    "https://mainnet-rpc.hertzscan.com"
+  ],
+  "rpc": []
+}

@@ -1,0 +1,9 @@
+{
+  "chain_id": "1993",
+  "name": "",
+  "symbol": "",
+  "explorer_url": "",
+  "rpc_urls": [
+    "https://sepolia.b3.fun"
+  ]
+}

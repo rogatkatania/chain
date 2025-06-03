@@ -1,0 +1,12 @@
+{
+  "chain_id": "320",
+  "name": "ZKcandy Mainnet",
+  "symbol": "ETH",
+  "explorer_url": "https://explorer.zkcandy.io",
+  "rpc_urls": [
+    "https://rpc.zkcandy.io"
+  ],
+  "rpc": [
+    "https://rpc.zkcandy.io"
+  ]
+}

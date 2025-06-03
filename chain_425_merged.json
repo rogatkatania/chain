@@ -1,0 +1,9 @@
+{
+  "chain_id": "425",
+  "name": "Stenix Mainnet",
+  "symbol": "STEN",
+  "explorer_url": "https://stenscan.com",
+  "rpc_urls": [
+    "https://stenix.network/pub"
+  ]
+}

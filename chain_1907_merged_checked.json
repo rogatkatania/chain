@@ -1,0 +1,10 @@
+{
+  "chain_id": "1907",
+  "name": "Bitcichain Mainnet",
+  "symbol": "BITCI",
+  "explorer_url": "https://bitciexplorer.com",
+  "rpc_urls": [
+    "https://rpc.bitci.com"
+  ],
+  "rpc": []
+}

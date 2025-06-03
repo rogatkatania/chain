@@ -1,0 +1,12 @@
+{
+  "chain_id": "1125",
+  "name": "Taker Chain Mainnet",
+  "symbol": "Taker",
+  "explorer_url": "https://explorer.taker.xyz",
+  "rpc_urls": [
+    "https://rpc-mainnet.taker.xyz"
+  ],
+  "rpc": [
+    "https://rpc-mainnet.taker.xyz"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "chain_id": "879151",
+  "name": "BlocX Mainnet",
+  "symbol": "BLX",
+  "explorer_url": "https://explorer.blxscan.com",
+  "rpc_urls": [
+    "https://mainnet-rpc.blxscan.com"
+  ]
+}

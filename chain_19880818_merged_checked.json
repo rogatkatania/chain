@@ -1,0 +1,10 @@
+{
+  "chain_id": "19880818",
+  "name": "DeepBrainChain Mainnet",
+  "symbol": "DeepBrainChain",
+  "explorer_url": "https://www.dbcscan.io",
+  "rpc_urls": [
+    "https://rpc.dbcwallet.io"
+  ],
+  "rpc": []
+}

@@ -1,0 +1,10 @@
+{
+  "chain_id": "136",
+  "name": "Deamchain Mainnet",
+  "symbol": "Deamchain",
+  "explorer_url": "https://scan.deamchain.com",
+  "rpc_urls": [
+    "https://mainnet.deamchain.com"
+  ],
+  "rpc": []
+}

@@ -1,0 +1,12 @@
+{
+  "chain_id": "177",
+  "name": "HashKey Chain",
+  "symbol": "HashKey Chain",
+  "explorer_url": "https://hashkey.blockscout.com",
+  "rpc_urls": [
+    "https://hashkey.drpc.org",
+    "https://mainnet.hsk.xyz",
+    "wss://hashkey.drpc.org"
+  ],
+  "rpc": []
+}

@@ -1,0 +1,10 @@
+{
+  "chain_id": "11451",
+  "name": "eGold Chain",
+  "symbol": "EGC",
+  "explorer_url": "https://egoldscan.io",
+  "rpc_urls": [
+    "https://rpc.egoldchain.com",
+    "wss://rpc.egoldchain.com"
+  ]
+}

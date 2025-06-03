@@ -1,0 +1,10 @@
+{
+  "chain_id": "201804",
+  "name": "Mythical Chain",
+  "symbol": "MYTH",
+  "explorer_url": "https://explorer.mythicalgames.com",
+  "rpc_urls": [
+    "https://chain-rpc.mythicalgames.com"
+  ],
+  "rpc": []
+}

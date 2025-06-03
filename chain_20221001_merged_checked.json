@@ -1,0 +1,10 @@
+{
+  "chain_id": "20221001",
+  "name": "",
+  "symbol": "",
+  "explorer_url": "",
+  "rpc_urls": [
+    "https://sepolia.rpc.soonchain.ai"
+  ],
+  "rpc": []
+}

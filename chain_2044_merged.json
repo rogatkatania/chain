@@ -1,0 +1,9 @@
+{
+  "chain_id": "2044",
+  "name": "Shrapnel Subnet",
+  "symbol": "shrapnel",
+  "explorer_url": "",
+  "rpc_urls": [
+    "https://subnets.avax.network/shrapnel/mainnet/rpc"
+  ]
+}

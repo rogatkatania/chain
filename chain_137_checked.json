@@ -1,0 +1,61 @@
+{
+  "name": "Polygon",
+  "chain": "Polygon",
+  "rpc": [],
+  "faucets": [],
+  "nativeCurrency": {
+    "name": "POL",
+    "symbol": "POL",
+    "decimals": 18
+  },
+  "infoURL": "https://polygon.technology/",
+  "shortName": "pol",
+  "chainId": 137,
+  "networkId": 137,
+  "explorers": [
+    {
+      "name": "polygonscan",
+      "url": "https://polygonscan.com",
+      "standard": "EIP3091"
+    },
+    {
+      "name": "dexguru",
+      "url": "https://polygon.dex.guru",
+      "icon": "dexguru",
+      "standard": "EIP3091"
+    },
+    {
+      "name": "polygonscan",
+      "url": "https://polygonscan.com",
+      "standard": "EIP3091"
+    },
+    {
+      "name": "dexguru",
+      "url": "https://polygon.dex.guru",
+      "icon": "dexguru",
+      "standard": "EIP3091"
+    },
+    {
+      "name": "polygonscan",
+      "url": "https://polygonscan.com",
+      "standard": "EIP3091"
+    },
+    {
+      "name": "dexguru",
+      "url": "https://polygon.dex.guru",
+      "icon": "dexguru",
+      "standard": "EIP3091"
+    },
+    {
+      "name": "polygonscan",
+      "url": "https://polygonscan.com",
+      "standard": "EIP3091"
+    },
+    {
+      "name": "dexguru",
+      "url": "https://polygon.dex.guru",
+      "icon": "dexguru",
+      "standard": "EIP3091"
+    }
+  ]
+}

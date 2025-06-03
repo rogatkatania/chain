@@ -1,0 +1,9 @@
+{
+  "chain_id": "13396",
+  "name": "Masa",
+  "symbol": "MASA",
+  "explorer_url": "https://subnets.avax.network/masa",
+  "rpc_urls": [
+    "https://subnets.avax.network/masanetwork/mainnet/rpc"
+  ]
+}

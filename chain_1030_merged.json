@@ -1,0 +1,11 @@
+{
+  "chain_id": "1030",
+  "name": "Conflux eSpace",
+  "symbol": "Conflux",
+  "explorer_url": "https://evm.confluxscan.net",
+  "rpc_urls": [
+    "https://conflux-espace-public.unifra.io",
+    "https://conflux-espace.blockpi.network/v1/rpc/public",
+    "https://evm.confluxrpc.com"
+  ]
+}

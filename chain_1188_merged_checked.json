@@ -1,0 +1,10 @@
+{
+  "chain_id": "1188",
+  "name": "ClubMos Mainnet",
+  "symbol": "MOS",
+  "explorer_url": "https://www.mosscan.com",
+  "rpc_urls": [
+    "https://mainnet.mosscan.com"
+  ],
+  "rpc": []
+}

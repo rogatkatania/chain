@@ -1,0 +1,9 @@
+{
+  "chain_id": "3999",
+  "name": "YuanChain Mainnet",
+  "symbol": "YCC",
+  "explorer_url": "https://mainnet.yuan.org",
+  "rpc_urls": [
+    "https://mainnet.yuan.org/eth"
+  ]
+}

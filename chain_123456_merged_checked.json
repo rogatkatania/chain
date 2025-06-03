@@ -1,0 +1,10 @@
+{
+  "chain_id": "123456",
+  "name": "ADIL Devnet",
+  "symbol": "ADIL",
+  "explorer_url": "https://devnet.adilchain-scan.io",
+  "rpc_urls": [
+    "https://devnet.adilchain-rpc.io"
+  ],
+  "rpc": []
+}

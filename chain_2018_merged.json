@@ -1,0 +1,9 @@
+{
+  "chain_id": "2018",
+  "name": "PublicMint Devnet",
+  "symbol": "PublicMint",
+  "explorer_url": "https://explorer.dev.publicmint.io",
+  "rpc_urls": [
+    "https://rpc.dev.publicmint.io:8545"
+  ]
+}

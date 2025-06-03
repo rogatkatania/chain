@@ -1,0 +1,10 @@
+{
+  "chain_id": "3637",
+  "name": "Botanix Mainnet",
+  "symbol": "BTC",
+  "explorer_url": "https://btxtestchain.com",
+  "rpc_urls": [
+    "https://rpc.btxtestchain.com"
+  ],
+  "rpc": []
+}

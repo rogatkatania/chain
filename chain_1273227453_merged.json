@@ -1,0 +1,9 @@
+{
+  "chain_id": "1273227453",
+  "name": "HUMAN Protocol",
+  "symbol": "wan-red-ain",
+  "explorer_url": "https://wan-red-ain.explorer.mainnet.skalenodes.com",
+  "rpc_urls": [
+    "https://mainnet.skalenodes.com/v1/wan-red-ain"
+  ]
+}

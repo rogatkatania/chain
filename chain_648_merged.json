@@ -1,0 +1,9 @@
+{
+  "chain_id": "648",
+  "name": "Endurance Smart Chain Mainnet",
+  "symbol": "ACE",
+  "explorer_url": "https://explorer.endurance.fusionist.io",
+  "rpc_urls": [
+    "https://rpc-endurance.fusionist.io"
+  ]
+}

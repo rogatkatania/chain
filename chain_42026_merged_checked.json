@@ -1,0 +1,12 @@
+{
+  "chain_id": "42026",
+  "name": "Donatuz",
+  "symbol": "ETH",
+  "explorer_url": "https://explorer.donatuz.com",
+  "rpc_urls": [
+    "https://rpc.donatuz.com"
+  ],
+  "rpc": [
+    "https://rpc.donatuz.com"
+  ]
+}

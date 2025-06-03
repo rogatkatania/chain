@@ -1,0 +1,9 @@
+{
+  "chain_id": "7007",
+  "name": "BST Chain",
+  "symbol": "BSTC",
+  "explorer_url": "https://bstscan.com",
+  "rpc_urls": [
+    "https://rpc.bstchain.io"
+  ]
+}

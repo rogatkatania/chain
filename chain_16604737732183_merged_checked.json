@@ -1,0 +1,10 @@
+{
+  "chain_id": "16604737732183",
+  "name": "",
+  "symbol": "",
+  "explorer_url": "",
+  "rpc_urls": [
+    "https://rpc.flame.dawn-1.astria.org"
+  ],
+  "rpc": []
+}

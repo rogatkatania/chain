@@ -1,0 +1,10 @@
+{
+  "chain_id": "2071",
+  "name": "Metacces Mainnet",
+  "symbol": "Metacces Mainnet",
+  "explorer_url": "https://accesscan.io",
+  "rpc_urls": [
+    "https://oli.accesscan.io"
+  ],
+  "rpc": []
+}

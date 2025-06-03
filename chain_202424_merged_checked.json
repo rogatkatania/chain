@@ -1,0 +1,10 @@
+{
+  "chain_id": "202424",
+  "name": "Blockfit",
+  "symbol": "202424",
+  "explorer_url": "https://blockfitscan.io",
+  "rpc_urls": [
+    "https://rpc.blockfitscan.io"
+  ],
+  "rpc": []
+}

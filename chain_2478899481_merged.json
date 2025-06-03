@@ -1,0 +1,9 @@
+{
+  "chain_id": "2478899481",
+  "name": "Accumulate Kermit",
+  "symbol": "Accumulate",
+  "explorer_url": "https://kermit.explorer.accumulatenetwork.io",
+  "rpc_urls": [
+    "https://kermit.accumulatenetwork.io/eth"
+  ]
+}

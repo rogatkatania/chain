@@ -1,0 +1,9 @@
+{
+  "chain_id": "2222222",
+  "name": "Coinweb BNB shard",
+  "symbol": "CWEB BNB",
+  "explorer_url": "https://explorer.coinweb.io",
+  "rpc_urls": [
+    "https://api-cloud.coinweb.io/eth-rpc-service/bnb"
+  ]
+}

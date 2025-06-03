@@ -1,0 +1,10 @@
+{
+  "chain_id": "1989",
+  "name": "Lydia Coin",
+  "symbol": "LYDIA",
+  "explorer_url": "",
+  "rpc_urls": [
+    "https://rpc.lydiacoins.com"
+  ],
+  "rpc": []
+}

@@ -1,0 +1,22 @@
+{
+  "chain_id": "167000",
+  "name": "Taiko Alethia",
+  "symbol": "ETH",
+  "explorer_url": "https://taikoscan.io",
+  "rpc_urls": [
+    "https://node.histori.xyz/taiko-mainnet/8ry9f6t9dct1se2hlagxnd9n2a",
+    "https://rpc.ankr.com/taiko",
+    "https://rpc.mainnet.taiko.xyz",
+    "https://rpc.taiko.tools",
+    "https://rpc.taiko.xyz",
+    "https://taiko-json-rpc.stakely.io",
+    "https://taiko-mainnet.4everland.org/v1/37fa9972c1b1cd5fab542c7bdd4cde2f",
+    "https://taiko-mainnet.gateway.tenderly.co",
+    "https://taiko-mainnet.rpc.porters.xyz/taiko-public",
+    "https://taiko-rpc.publicnode.com",
+    "https://taiko.drpc.org",
+    "wss://taiko-mainnet.4everland.org/ws/v1/37fa9972c1b1cd5fab542c7bdd4cde2f",
+    "wss://taiko-rpc.publicnode.com",
+    "wss://taiko.drpc.org"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "chain_id": "193",
+  "name": "Crypto Emergency",
+  "symbol": "CEM",
+  "explorer_url": "https://cemscan.com",
+  "rpc_urls": [
+    "https://cemchain.com"
+  ],
+  "rpc": []
+}

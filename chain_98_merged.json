@@ -1,0 +1,9 @@
+{
+  "chain_id": "98",
+  "name": "Six Protocol",
+  "symbol": "SIXNET",
+  "explorer_url": "https://sixscan.io/sixnet",
+  "rpc_urls": [
+    "https://sixnet-rpc-evm.sixprotocol.net"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "chain_id": "11235",
+  "name": "Haqq Network",
+  "symbol": "Haqq",
+  "explorer_url": "https://explorer.haqq.network",
+  "rpc_urls": [
+    "https://evm.haqq.sh",
+    "https://haqq-evm-rpc.publicnode.com",
+    "https://haqq-evm.publicnode.com",
+    "https://haqq-mainnet.gateway.tatum.io",
+    "https://haqq.drpc.org",
+    "https://rpc.eth.haqq.network",
+    "wss://evm-ws.haqq.sh",
+    "wss://haqq-evm-rpc.publicnode.com",
+    "wss://haqq-evm.publicnode.com",
+    "wss://haqq.drpc.org"
+  ],
+  "rpc": [
+    "https://haqq-evm-rpc.publicnode.com",
+    "https://evm.haqq.sh",
+    "https://haqq.drpc.org",
+    "https://haqq-evm.publicnode.com",
+    "https://rpc.eth.haqq.network"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "chain_id": "420420421",
+  "name": "Westend Asset Hub",
+  "symbol": "WST",
+  "explorer_url": "https://westend-asset-hub-eth-explorer.parity.io",
+  "rpc_urls": [
+    "https://westend-asset-hub-eth-rpc.polkadot.io"
+  ]
+}

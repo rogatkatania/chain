@@ -1,0 +1,9 @@
+{
+  "chain_id": "147",
+  "name": "Flag Mainnet",
+  "symbol": "Flag",
+  "explorer_url": "https://flagscan.xyz",
+  "rpc_urls": [
+    "https://mainnet-rpc.flagscan.xyz"
+  ]
+}

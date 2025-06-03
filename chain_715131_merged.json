@@ -1,0 +1,10 @@
+{
+  "chain_id": "715131",
+  "name": "Zether Mainnet",
+  "symbol": "Zether",
+  "explorer_url": "https://zthscan.com",
+  "rpc_urls": [
+    "https://rpc.zether.org",
+    "https://rpc.zthscan.com"
+  ]
+}

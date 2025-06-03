@@ -1,0 +1,9 @@
+{
+  "chain_id": "3001",
+  "name": "CENNZnet Nikau",
+  "symbol": "CENNZnet",
+  "explorer_url": "https://www.uncoverexplorer.com/?network=Nikau",
+  "rpc_urls": [
+    "https://nikau.centrality.me/public"
+  ]
+}

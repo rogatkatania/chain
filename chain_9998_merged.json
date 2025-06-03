@@ -1,0 +1,9 @@
+{
+  "chain_id": "9998",
+  "name": "Ztc Mainnet",
+  "symbol": "ZTC",
+  "explorer_url": "",
+  "rpc_urls": [
+    "https://zitcoin.us"
+  ]
+}

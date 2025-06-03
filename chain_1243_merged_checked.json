@@ -1,0 +1,10 @@
+{
+  "chain_id": "1243",
+  "name": "ARC Mainnet",
+  "symbol": "ARC",
+  "explorer_url": "https://app.archiescan.io",
+  "rpc_urls": [
+    "https://rpc-main-1.archiechain.io"
+  ],
+  "rpc": []
+}

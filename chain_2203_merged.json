@@ -1,0 +1,9 @@
+{
+  "chain_id": "2203",
+  "name": "Bitcoin EVM",
+  "symbol": "Bitcoin EVM",
+  "explorer_url": "https://explorer.bitcoinevm.com",
+  "rpc_urls": [
+    "https://connect.bitcoinevm.com"
+  ]
+}

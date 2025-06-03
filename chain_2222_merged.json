@@ -1,0 +1,24 @@
+{
+  "chain_id": "2222",
+  "name": "Kava",
+  "symbol": "KAVA",
+  "explorer_url": "https://kavascan.com",
+  "rpc_urls": [
+    "https://evm.kava-rpc.com",
+    "https://evm.kava.chainstacklabs.com",
+    "https://evm.kava.io",
+    "https://kava-evm-rpc.publicnode.com",
+    "https://kava-evm.rpc.thirdweb.com",
+    "https://kava-pokt.nodies.app",
+    "https://kava-rpc.gateway.pokt.network",
+    "https://kava.api.onfinality.io/public",
+    "https://kava.drpc.org",
+    "https://node.histori.xyz/kava-mainnet/8ry9f6t9dct1se2hlagxnd9n2a",
+    "https://rpc.ankr.com/kava_evm",
+    "wss://kava-evm-rpc.publicnode.com",
+    "wss://kava.drpc.org",
+    "wss://wevm.kava-rpc.com",
+    "wss://wevm.kava.chainstacklabs.com",
+    "wss://wevm.kava.io"
+  ]
+}

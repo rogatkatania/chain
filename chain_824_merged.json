@@ -1,0 +1,9 @@
+{
+  "chain_id": "824",
+  "name": "Daily Network Mainnet",
+  "symbol": "Daily Network",
+  "explorer_url": "https://explorer.mainnet.dailycrypto.net",
+  "rpc_urls": [
+    "https://rpc.mainnet.dailycrypto.net"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "chain_id": "500",
+  "name": "Camino C-Chain",
+  "symbol": "CAM",
+  "explorer_url": "https://suite.camino.network/explorer",
+  "rpc_urls": [
+    "https://api.camino.network/ext/bc/C/rpc",
+    "https://api.camino.network/ext/bc/c/rpc"
+  ],
+  "rpc": [
+    "https://api.camino.network/ext/bc/C/rpc"
+  ]
+}

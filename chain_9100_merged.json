@@ -1,0 +1,11 @@
+{
+  "chain_id": "9100",
+  "name": "Genesis Coin",
+  "symbol": "Genesis",
+  "explorer_url": "",
+  "rpc_urls": [
+    "https://genesis-gn.com",
+    "rpcWorking:false",
+    "wss://genesis-gn.com"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "chain_id": "5002",
+  "name": "Treasurenet Mainnet Alpha",
+  "symbol": "Treasurenet Mainnet Alpha",
+  "explorer_url": "https://evmexplorer.treasurenet.io",
+  "rpc_urls": [
+    "https://node0.treasurenet.io",
+    "https://node1.treasurenet.io",
+    "https://node2.treasurenet.io",
+    "https://node3.treasurenet.io"
+  ],
+  "rpc": [
+    "https://node0.treasurenet.io",
+    "https://node2.treasurenet.io",
+    "https://node1.treasurenet.io",
+    "https://node3.treasurenet.io"
+  ]
+}

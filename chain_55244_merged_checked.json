@@ -1,0 +1,12 @@
+{
+  "chain_id": "55244",
+  "name": "Superposition",
+  "symbol": "Superposition",
+  "explorer_url": "https://explorer.superposition.so",
+  "rpc_urls": [
+    "https://rpc.superposition.so"
+  ],
+  "rpc": [
+    "https://rpc.superposition.so"
+  ]
+}

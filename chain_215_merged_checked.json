@@ -1,0 +1,12 @@
+{
+  "chain_id": "215",
+  "name": "IDN Mainnet",
+  "symbol": "IDN",
+  "explorer_url": "https://scan.idn-network.com",
+  "rpc_urls": [
+    "https://dataseed1.idn-rpc.com",
+    "https://dataseed2.idn-rpc.com",
+    "https://dataseed3.idn-rpc.com"
+  ],
+  "rpc": []
+}

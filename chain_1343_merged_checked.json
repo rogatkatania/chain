@@ -1,0 +1,10 @@
+{
+  "chain_id": "1343",
+  "name": "Blitz Subnet",
+  "symbol": "BLITZ",
+  "explorer_url": "https://subnets-test.avax.network/blitz",
+  "rpc_urls": [
+    "https://subnets.avax.network/blitz/testnet/rpc"
+  ],
+  "rpc": []
+}

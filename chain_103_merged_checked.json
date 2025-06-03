@@ -1,0 +1,13 @@
+{
+  "chain_id": "103",
+  "name": "WorldLand Mainnet",
+  "symbol": "Worldland",
+  "explorer_url": "https://scan.worldland.foundation",
+  "rpc_urls": [
+    "https://seoul.worldland.foundation",
+    "https://seoul2.worldland.foundation"
+  ],
+  "rpc": [
+    "https://seoul.worldland.foundation"
+  ]
+}

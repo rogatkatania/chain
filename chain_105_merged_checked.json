@@ -1,0 +1,10 @@
+{
+  "chain_id": "105",
+  "name": "Web3Games Devnet",
+  "symbol": "Web3Games",
+  "explorer_url": "https://explorer-devnet.web3games.org",
+  "rpc_urls": [
+    "https://devnet.web3games.org/evm"
+  ],
+  "rpc": []
+}

@@ -1,0 +1,9 @@
+{
+  "chain_id": "16116",
+  "name": "DeFiVerse Mainnet",
+  "symbol": "DeFiVerse",
+  "explorer_url": "https://scan.defi-verse.org",
+  "rpc_urls": [
+    "https://rpc.defi-verse.org"
+  ]
+}

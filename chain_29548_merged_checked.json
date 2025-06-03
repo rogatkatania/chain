@@ -1,0 +1,12 @@
+{
+  "chain_id": "29548",
+  "name": "MCH Verse Mainnet",
+  "symbol": "MCH Verse",
+  "explorer_url": "https://explorer.oasys.mycryptoheroes.net",
+  "rpc_urls": [
+    "https://rpc.oasys.mycryptoheroes.net"
+  ],
+  "rpc": [
+    "https://rpc.oasys.mycryptoheroes.net"
+  ]
+}

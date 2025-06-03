@@ -1,0 +1,13 @@
+{
+  "chain_id": "212013",
+  "name": "Heima",
+  "symbol": "Heima",
+  "explorer_url": "https://heima.statescan.io",
+  "rpc_urls": [
+    "https://litentry-rpc.dwellir.com",
+    "https://rpc.heima-parachain.heima.network",
+    "https://rpc.litentry-parachain.litentry.io",
+    "wss://litentry-rpc.dwellir.com",
+    "wss://rpc.heima-parachain.heima.network"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "chain_id": "3334",
+  "name": "Web3Q Galileo",
+  "symbol": "Web3Q",
+  "explorer_url": "https://explorer.galileo.web3q.io",
+  "rpc_urls": [
+    "https://galileo.web3q.io:8545"
+  ],
+  "rpc": []
+}

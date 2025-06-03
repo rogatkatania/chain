@@ -1,0 +1,12 @@
+{
+  "chain_id": "10241024",
+  "name": "AlienX Mainnet",
+  "symbol": "AlienX Mainnet",
+  "explorer_url": "https://explorer.alienxchain.io",
+  "rpc_urls": [
+    "https://rpc.alienxchain.io/http"
+  ],
+  "rpc": [
+    "https://rpc.alienxchain.io/http"
+  ]
+}

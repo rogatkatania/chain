@@ -1,0 +1,9 @@
+{
+  "chain_id": "95432",
+  "name": "SRICHAIN",
+  "symbol": "SRICHAIN",
+  "explorer_url": "https://sriscan.com",
+  "rpc_urls": [
+    "https://rpc.sriscan.com"
+  ]
+}

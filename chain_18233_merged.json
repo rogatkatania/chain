@@ -1,0 +1,10 @@
+{
+  "chain_id": "18233",
+  "name": "unreal",
+  "symbol": "unreal",
+  "explorer_url": "https://unreal.blockscout.com",
+  "rpc_urls": [
+    "https://rpc.unreal-orbit.gelato.digital",
+    "wss://ws.unreal-orbit.gelato.digital"
+  ]
+}

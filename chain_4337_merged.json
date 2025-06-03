@@ -1,0 +1,12 @@
+{
+  "chain_id": "4337",
+  "name": "Beam",
+  "symbol": "BEAM",
+  "explorer_url": "https://subnets.avax.network/beam",
+  "rpc_urls": [
+    "https://build.onbeam.com/rpc",
+    "https://subnets.avax.network/beam/mainnet/rpc",
+    "wss://build.onbeam.com/ws",
+    "wss://subnets.avax.network/beam/mainnet/ws"
+  ]
+}

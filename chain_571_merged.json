@@ -1,0 +1,9 @@
+{
+  "chain_id": "571",
+  "name": "MetaChain Mainnet",
+  "symbol": "MTC",
+  "explorer_url": "https://explorer.metatime.com",
+  "rpc_urls": [
+    "https://rpc.metatime.com"
+  ]
+}

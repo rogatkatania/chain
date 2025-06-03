@@ -1,0 +1,10 @@
+{
+  "chain_id": "5845",
+  "name": "Tangle",
+  "symbol": "Tangle",
+  "explorer_url": "https://explorer.tangle.tools",
+  "rpc_urls": [
+    "https://rpc.tangle.tools",
+    "wss://rpc.tangle.tools"
+  ]
+}

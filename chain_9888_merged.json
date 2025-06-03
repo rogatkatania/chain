@@ -1,0 +1,9 @@
+{
+  "chain_id": "9888",
+  "name": "Dogelayer Mainnet",
+  "symbol": "Dogelayer",
+  "explorer_url": "https://dl-explorer.dogelayer.org",
+  "rpc_urls": [
+    "https://dl-rpc.dogelayer.org"
+  ]
+}

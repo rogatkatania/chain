@@ -1,0 +1,9 @@
+{
+  "chain_id": "102032",
+  "name": "Creditcoin Devnet",
+  "symbol": "CTC",
+  "explorer_url": "https://creditcoin-devnet.blockscout.com",
+  "rpc_urls": [
+    "https://rpc.cc3-devnet.creditcoin.network"
+  ]
+}

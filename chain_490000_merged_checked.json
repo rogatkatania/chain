@@ -1,0 +1,12 @@
+{
+  "chain_id": "490000",
+  "name": "",
+  "symbol": "",
+  "explorer_url": "",
+  "rpc_urls": [
+    "https://auto-evm.taurus.autonomys.xyz/ws"
+  ],
+  "rpc": [
+    "https://auto-evm.taurus.autonomys.xyz/ws"
+  ]
+}

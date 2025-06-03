@@ -1,0 +1,12 @@
+{
+  "chain_id": "4078",
+  "name": "Muster Mainnet",
+  "symbol": "Muster",
+  "explorer_url": "https://muster-explorer.alt.technology",
+  "rpc_urls": [
+    "https://muster.alt.technology"
+  ],
+  "rpc": [
+    "https://muster.alt.technology"
+  ]
+}

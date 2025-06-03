@@ -1,0 +1,10 @@
+{
+  "chain_id": "1648",
+  "name": "Pivotal Mainnet",
+  "symbol": "Pivotal",
+  "explorer_url": "https://pivotalscan.xyz",
+  "rpc_urls": [
+    "https://mainnet.pivotalprotocol.com"
+  ],
+  "rpc": []
+}

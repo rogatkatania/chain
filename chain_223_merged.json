@@ -1,0 +1,13 @@
+{
+  "chain_id": "223",
+  "name": "B2 Mainnet",
+  "symbol": "B2",
+  "explorer_url": "https://explorer.bsquared.network",
+  "rpc_urls": [
+    "https://b2-mainnet-public.s.chainbase.com",
+    "https://b2-mainnet.alt.technology",
+    "https://mainnet.b2-rpc.com",
+    "https://rpc.ankr.com/b2",
+    "https://rpc.bsquared.network"
+  ]
+}

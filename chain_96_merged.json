@@ -1,0 +1,10 @@
+{
+  "chain_id": "96",
+  "name": "KUB Mainnet",
+  "symbol": "KUB",
+  "explorer_url": "https://kubscan.com",
+  "rpc_urls": [
+    "https://rpc.bitkubchain.io",
+    "wss://wss.bitkubchain.io"
+  ]
+}

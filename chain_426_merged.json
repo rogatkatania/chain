@@ -1,0 +1,9 @@
+{
+  "chain_id": "426",
+  "name": "The Widows Mite",
+  "symbol": "MITE",
+  "explorer_url": "https://scan.twmcrypto.com",
+  "rpc_urls": [
+    "https://rpc.twmcrypto.com"
+  ]
+}

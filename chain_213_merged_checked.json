@@ -1,0 +1,10 @@
+{
+  "chain_id": "213",
+  "name": "B2 Hub Mainnet",
+  "symbol": "B2",
+  "explorer_url": "https://hub-explorer.bsquared.network",
+  "rpc_urls": [
+    "https://hub-rpc.bsquared.network"
+  ],
+  "rpc": []
+}

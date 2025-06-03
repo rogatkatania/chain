@@ -1,0 +1,9 @@
+{
+  "chain_id": "12323",
+  "name": "Huddle01 dRTC Chain",
+  "symbol": "huddle01",
+  "explorer_url": "https://huddle01.calderaexplorer.xyz",
+  "rpc_urls": [
+    "https://huddle01.calderachain.xyz/http"
+  ]
+}

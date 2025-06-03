@@ -1,0 +1,10 @@
+{
+  "chain_id": "10086",
+  "name": "SJATSH",
+  "symbol": "ETH",
+  "explorer_url": "",
+  "rpc_urls": [
+    "http://geth.free.idcfengye.com"
+  ],
+  "rpc": []
+}

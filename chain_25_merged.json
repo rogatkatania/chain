@@ -1,0 +1,22 @@
+{
+  "chain_id": "25",
+  "name": "Cronos Mainnet",
+  "symbol": "CRO",
+  "explorer_url": "https://explorer.cronos.org",
+  "rpc_urls": [
+    "https://1rpc.io/cro",
+    "https://cronos-evm-rpc.publicnode.com",
+    "https://cronos-evm.publicnode.com",
+    "https://cronos-rpc.elk.finance",
+    "https://cronos.blockpi.network/v1/rpc/private",
+    "https://cronos.drpc.org",
+    "https://endpoints.omniatech.io/v1/cronos/mainnet/public",
+    "https://evm.cronos.org",
+    "https://mmf-rpc.xstaking.sg",
+    "https://rpc.nebkas.ro",
+    "https://rpc.owlracle.info/cro/70d38ce1826c4a60bb2a8e05a6c8b20f",
+    "https://rpc.vvs.finance",
+    "wss://cronos-evm-rpc.publicnode.com",
+    "wss://cronos.drpc.org"
+  ]
+}

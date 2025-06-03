@@ -1,0 +1,10 @@
+{
+  "chain_id": "1379",
+  "name": "Kalar Chain",
+  "symbol": "KLC",
+  "explorer_url": "https://explorer.kalarchain.tech",
+  "rpc_urls": [
+    "https://rpc-api.kalarchain.tech"
+  ],
+  "rpc": []
+}

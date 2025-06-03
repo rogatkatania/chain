@@ -1,0 +1,12 @@
+{
+  "chain_id": "311752642",
+  "name": "OneLedger Mainnet",
+  "symbol": "OLT",
+  "explorer_url": "https://mainnet-explorer.oneledger.network",
+  "rpc_urls": [
+    "https://mainnet-rpc.oneledger.network"
+  ],
+  "rpc": [
+    "https://mainnet-rpc.oneledger.network"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "chain_id": "880",
+  "name": "Ambros Chain Mainnet",
+  "symbol": "ambroschain",
+  "explorer_url": "https://ambrosscan.com",
+  "rpc_urls": [
+    "https://api.ambros.network"
+  ]
+}

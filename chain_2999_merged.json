@@ -1,0 +1,9 @@
+{
+  "chain_id": "2999",
+  "name": "BitYuan Mainnet",
+  "symbol": "BTY",
+  "explorer_url": "https://mainnet.bityuan.com",
+  "rpc_urls": [
+    "https://mainnet.bityuan.com/eth"
+  ]
+}

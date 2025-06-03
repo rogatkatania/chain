@@ -1,0 +1,9 @@
+{
+  "chain_id": "2786",
+  "name": "Apertum",
+  "symbol": "APTM",
+  "explorer_url": "https://explorer.apertum.io",
+  "rpc_urls": [
+    "https://rpc.apertum.io/ext/bc/YDJ1r9RMkewATmA7B35q1bdV18aywzmdiXwd9zGBq3uQjsCnn/rpc"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "chain_id": "728126428",
+  "name": "Tron Mainnet",
+  "symbol": "TRON",
+  "explorer_url": "https://tronscan.org",
+  "rpc_urls": [
+    "https://api.trongrid.io/jsonrpc",
+    "https://rpc.ankr.com/tron_jsonrpc",
+    "https://tron.drpc.org",
+    "wss://tron.drpc.org"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "chain_id": "912559",
+  "name": "Astria EVM Dusknet",
+  "symbol": "RIA",
+  "explorer_url": "https://explorer.evm.dusk-3.devnet.astria.org",
+  "rpc_urls": [
+    "https://rpc.evm.dusk-3.devnet.astria.org"
+  ]
+}

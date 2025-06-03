@@ -1,0 +1,17 @@
+{
+  "chain_id": "1100",
+  "name": "Dymension",
+  "symbol": "Dymension",
+  "explorer_url": "https://dym.fyi",
+  "rpc_urls": [
+    "https://dymension-evm-rpc.publicnode.com",
+    "https://dymension-evm.blockpi.network/v1/rpc/public",
+    "https://dymension-evm.kynraze.com",
+    "https://dymension.drpc.org",
+    "https://dymension.liquify.com/json-rpc",
+    "https://jsonrpc.dymension.nodestake.org",
+    "https://rollapp.jrpc.cumulo.com.es",
+    "wss://dymension-evm-rpc.publicnode.com",
+    "wss://dymension.drpc.org"
+  ]
+}

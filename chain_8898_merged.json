@@ -1,0 +1,11 @@
+{
+  "chain_id": "8898",
+  "name": "Mammoth Mainnet",
+  "symbol": "MMT",
+  "explorer_url": "https://mmtscan.io",
+  "rpc_urls": [
+    "https://dataseed.mmtscan.io",
+    "https://dataseed1.mmtscan.io",
+    "https://dataseed2.mmtscan.io"
+  ]
+}

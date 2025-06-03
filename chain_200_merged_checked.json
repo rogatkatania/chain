@@ -1,0 +1,10 @@
+{
+  "chain_id": "200",
+  "name": "Arbitrum on xDai",
+  "symbol": "AOX",
+  "explorer_url": "https://blockscout.com/xdai/arbitrum",
+  "rpc_urls": [
+    "https://arbitrum.xdaichain.com"
+  ],
+  "rpc": []
+}

@@ -1,0 +1,9 @@
+{
+  "chain_id": "5177",
+  "name": "TLChain Network Mainnet",
+  "symbol": "TLC",
+  "explorer_url": "https://explorer.tlchain.network",
+  "rpc_urls": [
+    "https://mainnet-rpc.tlxscan.com"
+  ]
+}

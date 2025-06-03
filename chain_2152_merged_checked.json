@@ -1,0 +1,10 @@
+{
+  "chain_id": "2152",
+  "name": "Findora Mainnet",
+  "symbol": "Findora",
+  "explorer_url": "https://evm.findorascan.io",
+  "rpc_urls": [
+    "https://rpc-mainnet.findora.org"
+  ],
+  "rpc": []
+}

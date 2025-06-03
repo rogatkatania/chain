@@ -1,0 +1,11 @@
+{
+  "chain_id": "11110",
+  "name": "Astra",
+  "symbol": "Astra",
+  "explorer_url": "https://explorer.astranaut.io",
+  "rpc_urls": [
+    "https://rpc.astranaut.io",
+    "https://rpc1.astranaut.io"
+  ],
+  "rpc": []
+}

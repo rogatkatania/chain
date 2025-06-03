@@ -1,0 +1,9 @@
+{
+  "chain_id": "964",
+  "name": "Subtensor EVM",
+  "symbol": "Bittensor",
+  "explorer_url": "",
+  "rpc_urls": [
+    "https://lite.chain.opentensor.ai"
+  ]
+}

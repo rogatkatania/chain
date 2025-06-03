@@ -1,0 +1,10 @@
+{
+  "chain_id": "62050",
+  "name": "Optopia Mainnet",
+  "symbol": "ETH",
+  "explorer_url": "https://scan.optopia.ai",
+  "rpc_urls": [
+    "https://rpc-mainnet-2.optopia.ai",
+    "https://rpc-mainnet.optopia.ai"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "chain_id": "1701",
+  "name": "Anytype EVM Chain",
+  "symbol": "ETH",
+  "explorer_url": "https://explorer.anytype.io",
+  "rpc_urls": [
+    "https://geth.anytype.io"
+  ],
+  "rpc": []
+}

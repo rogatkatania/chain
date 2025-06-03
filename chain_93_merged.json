@@ -1,0 +1,9 @@
+{
+  "chain_id": "93",
+  "name": "Garizon Stage3",
+  "symbol": "GAR",
+  "explorer_url": "https://explorer.garizon.com",
+  "rpc_urls": [
+    "https://s3.garizon.net/rpc"
+  ]
+}

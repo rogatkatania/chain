@@ -1,0 +1,10 @@
+{
+  "chain_id": "1689",
+  "name": "NERO Mainnet",
+  "symbol": "NERO Chain",
+  "explorer_url": "https://www.neroscan.io",
+  "rpc_urls": [
+    "https://rpc.nerochain.io",
+    "wss://ws.nerochain.io"
+  ]
+}

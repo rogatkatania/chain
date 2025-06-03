@@ -1,0 +1,10 @@
+{
+  "chain_id": "2716446429837000",
+  "name": "DCHAIN",
+  "symbol": "dchainmainnet",
+  "explorer_url": "https://dchain-2716446429837000-1.sagaexplorer.io",
+  "rpc_urls": [
+    "https://dchain-2716446429837000-1.jsonrpc.sagarpc.io"
+  ],
+  "rpc": []
+}

@@ -1,0 +1,10 @@
+{
+  "chain_id": "256256",
+  "name": "CMP-Mainnet",
+  "symbol": "CMP",
+  "explorer_url": "https://mainnet.scan.caduceus.foundation",
+  "rpc_urls": [
+    "https://mainnet.block.caduceus.foundation",
+    "wss://mainnet.block.caduceus.foundation"
+  ]
+}

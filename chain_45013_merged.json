@@ -1,0 +1,9 @@
+{
+  "chain_id": "45013",
+  "name": "Juneo BCH1-Chain",
+  "symbol": "Juneo BCH1-Chain",
+  "explorer_url": "https://juneoscan.io/chain/12",
+  "rpc_urls": [
+    "https://rpc.juneo-mainnet.network/ext/bc/BCH1/rpc"
+  ]
+}

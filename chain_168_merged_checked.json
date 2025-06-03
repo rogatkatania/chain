@@ -1,0 +1,10 @@
+{
+  "chain_id": "168",
+  "name": "AIOZ Network",
+  "symbol": "AIOZ",
+  "explorer_url": "https://explorer.aioz.network",
+  "rpc_urls": [
+    "https://eth-dataseed.aioz.network"
+  ],
+  "rpc": []
+}

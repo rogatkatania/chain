@@ -1,0 +1,11 @@
+{
+  "chain_id": "171",
+  "name": "CO2e Chain",
+  "symbol": "CO2E",
+  "explorer_url": "https://exp.co2e.cc",
+  "rpc_urls": [
+    "https://rpc.co2e.cc",
+    "https://rpc.co2ledger.xyz"
+  ],
+  "rpc": []
+}

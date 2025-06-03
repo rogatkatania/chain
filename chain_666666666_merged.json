@@ -1,0 +1,11 @@
+{
+  "chain_id": "666666666",
+  "name": "Degen Chain",
+  "symbol": "Degen",
+  "explorer_url": "",
+  "rpc_urls": [
+    "https://degen-mainnet.g.alchemy.com/v2/gi4tk6s65zmhnapbshfydl3w-lda8xmu",
+    "https://rpc.degen.tips",
+    "https://rpc.zerion.io/v1/degen"
+  ]
+}

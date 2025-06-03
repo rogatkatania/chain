@@ -1,0 +1,11 @@
+{
+  "chain_id": "2046399126",
+  "name": "SKALE Europa Hub",
+  "symbol": "europa",
+  "explorer_url": "https://elated-tan-skat.explorer.mainnet.skalenodes.com",
+  "rpc_urls": [
+    "https://mainnet.skalenodes.com/v1/elated-tan-skat",
+    "wss://mainnet.skalenodes.com/v1/elated-tan-skat"
+  ],
+  "rpc": []
+}

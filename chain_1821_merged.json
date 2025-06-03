@@ -1,0 +1,10 @@
+{
+  "chain_id": "1821",
+  "name": "Ruby Smart Chain MAINNET",
+  "symbol": "RUBY",
+  "explorer_url": "https://rubyscan.net",
+  "rpc_urls": [
+    "https://mainnet-data.rubychain.io",
+    "https://mainnet.rubychain.io"
+  ]
+}

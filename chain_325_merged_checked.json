@@ -1,0 +1,12 @@
+{
+  "chain_id": "325",
+  "name": "GRVT Exchange",
+  "symbol": "ETH",
+  "explorer_url": "",
+  "rpc_urls": [
+    "https://rpc.grvt.io"
+  ],
+  "rpc": [
+    "https://rpc.grvt.io"
+  ]
+}

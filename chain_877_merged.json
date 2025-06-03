@@ -1,0 +1,9 @@
+{
+  "chain_id": "877",
+  "name": "Dexit Network",
+  "symbol": "DXT",
+  "explorer_url": "https://dxtscan.com",
+  "rpc_urls": [
+    "https://dxt.dexit.network"
+  ]
+}

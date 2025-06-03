@@ -1,0 +1,22 @@
+{
+  "chain_id": "204",
+  "name": "opBNB Mainnet",
+  "symbol": "opBNB",
+  "explorer_url": "https://mainnet.opbnbscan.com",
+  "rpc_urls": [
+    "https://1rpc.io/opbnb",
+    "https://opbnb-mainnet-rpc.bnbchain.org",
+    "https://opbnb-mainnet.4everland.org/v1/37fa9972c1b1cd5fab542c7bdd4cde2f",
+    "https://opbnb-mainnet.g.alchemy.com/v2/gi4tk6s65zmhnapbshfydl3w-lda8xmu",
+    "https://opbnb-mainnet.nodereal.io/v1/64a9df0874fb4a93b9d0a3849de012d3",
+    "https://opbnb-mainnet.nodereal.io/v1/e9a36765eb8a40b9bd12e680a1fd2bc5",
+    "https://opbnb-rpc.publicnode.com",
+    "https://opbnb.drpc.org",
+    "wss://opbnb-mainnet.4everland.org/ws/v1/37fa9972c1b1cd5fab542c7bdd4cde2f",
+    "wss://opbnb-mainnet.nodereal.io/ws/v1/64a9df0874fb4a93b9d0a3849de012d3",
+    "wss://opbnb-mainnet.nodereal.io/ws/v1/e9a36765eb8a40b9bd12e680a1fd2bc5",
+    "wss://opbnb-rpc.publicnode.com",
+    "wss://opbnb.drpc.org"
+  ],
+  "rpc": []
+}

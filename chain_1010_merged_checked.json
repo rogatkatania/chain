@@ -1,0 +1,10 @@
+{
+  "chain_id": "1010",
+  "name": "Evrice Network",
+  "symbol": "EVC",
+  "explorer_url": "",
+  "rpc_urls": [
+    "https://meta.evrice.com"
+  ],
+  "rpc": []
+}

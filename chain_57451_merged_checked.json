@@ -1,0 +1,10 @@
+{
+  "chain_id": "57451",
+  "name": "COINSEC Network",
+  "symbol": "coinsecnetwork",
+  "explorer_url": "https://explorer.coinsec.network",
+  "rpc_urls": [
+    "https://mainnet-rpc.coinsec.network"
+  ],
+  "rpc": []
+}

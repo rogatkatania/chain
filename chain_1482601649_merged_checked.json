@@ -1,0 +1,11 @@
+{
+  "chain_id": "1482601649",
+  "name": "SKALE Nebula Hub",
+  "symbol": "green-giddy-denebola",
+  "explorer_url": "https://green-giddy-denebola.explorer.mainnet.skalenodes.com",
+  "rpc_urls": [
+    "https://mainnet.skalenodes.com/v1/green-giddy-denebola",
+    "wss://mainnet-proxy.skalenodes.com/v1/ws/green-giddy-denebola"
+  ],
+  "rpc": []
+}

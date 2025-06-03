@@ -1,0 +1,9 @@
+{
+  "chain_id": "1994",
+  "name": "Ekta",
+  "symbol": "EKTA",
+  "explorer_url": "https://ektascan.io",
+  "rpc_urls": [
+    "https://main.ekta.io"
+  ]
+}

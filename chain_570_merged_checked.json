@@ -1,0 +1,16 @@
+{
+  "chain_id": "570",
+  "name": "Rollux Mainnet",
+  "symbol": "SYS",
+  "explorer_url": "https://explorer.rollux.com",
+  "rpc_urls": [
+    "https://rollux.rpc.syscoin.org",
+    "https://rpc.ankr.com/rollux",
+    "https://rpc.rollux.com",
+    "wss://rollux.rpc.syscoin.org/wss",
+    "wss://rpc.rollux.com/wss"
+  ],
+  "rpc": [
+    "https://rpc.rollux.com"
+  ]
+}

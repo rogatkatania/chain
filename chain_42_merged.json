@@ -1,0 +1,13 @@
+{
+  "chain_id": "42",
+  "name": "LUKSO Mainnet",
+  "symbol": "LUKSO",
+  "explorer_url": "https://explorer.execution.mainnet.lukso.network",
+  "rpc_urls": [
+    "https://42.rpc.thirdweb.com",
+    "https://lukso.nownodes.io",
+    "https://rpc.lukso.sigmacore.io",
+    "https://rpc.mainnet.lukso.network",
+    "wss://ws-rpc.mainnet.lukso.network"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "chain_id": "10024",
+  "name": "Gon Chain",
+  "symbol": "GonChain",
+  "explorer_url": "https://gonscan.com",
+  "rpc_urls": [
+    "https://node1.mainnet.gon.network",
+    "https://node1.testnet.gaiaopen.network",
+    "https://node2.mainnet.gon.network",
+    "https://node3.mainnet.gon.network",
+    "https://node4.mainnet.gon.network"
+  ],
+  "rpc": []
+}

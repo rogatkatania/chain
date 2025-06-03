@@ -1,0 +1,12 @@
+{
+  "chain_id": "45005",
+  "name": "Juneo USDT1-Chain",
+  "symbol": "Juneo USDT1-Chain",
+  "explorer_url": "https://juneoscan.io/chain/3",
+  "rpc_urls": [
+    "https://rpc.juneo-mainnet.network/ext/bc/USDT1/rpc"
+  ],
+  "rpc": [
+    "https://rpc.juneo-mainnet.network/ext/bc/USDT1/rpc"
+  ]
+}

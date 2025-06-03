@@ -1,0 +1,18 @@
+{
+  "chain_id": "169",
+  "name": "Manta Pacific Mainnet",
+  "symbol": "Manta Pacific",
+  "explorer_url": "https://pacific-explorer.manta.network",
+  "rpc_urls": [
+    "https://1rpc.io/manta",
+    "https://endpoints.omniatech.io/v1/manta-pacific/mainnet/public",
+    "https://manta-pacific-gascap.calderachain.xyz/http",
+    "https://manta-pacific.drpc.org",
+    "https://manta.nirvanalabs.xyz/mantapublic",
+    "https://node.histori.xyz/manta-mainnet/8ry9f6t9dct1se2hlagxnd9n2a",
+    "https://pacific-rpc.manta.network/http",
+    "https://r1.pacific.manta.systems/http",
+    "https://www.tencentcloud-rpc.com/v2/manta/manta-rpc",
+    "wss://manta-pacific.drpc.org"
+  ]
+}

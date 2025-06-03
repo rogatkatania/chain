@@ -1,0 +1,9 @@
+{
+  "chain_id": "32769",
+  "name": "Zilliqa EVM",
+  "symbol": "ZIL",
+  "explorer_url": "https://evmx.zilliqa.com",
+  "rpc_urls": [
+    "https://api.zilliqa.com"
+  ]
+}

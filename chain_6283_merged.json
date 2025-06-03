@@ -1,0 +1,10 @@
+{
+  "chain_id": "6283",
+  "name": "LAOS",
+  "symbol": "LAOS",
+  "explorer_url": "https://blockscout.laos.laosfoundation.io",
+  "rpc_urls": [
+    "https://rpc.laos.laosfoundation.io",
+    "wss://rpc.laos.laosfoundation.io"
+  ]
+}

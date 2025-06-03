@@ -1,0 +1,9 @@
+{
+  "chain_id": "203",
+  "name": "WowChain Mainnet",
+  "symbol": "WowChain",
+  "explorer_url": "https://explorer.wowchain.io",
+  "rpc_urls": [
+    "https://rpc.wowchain.io"
+  ]
+}

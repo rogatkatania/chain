@@ -1,0 +1,10 @@
+{
+  "chain_id": "2606",
+  "name": "PoCRNet",
+  "symbol": "CRC",
+  "explorer_url": "https://ethereum-pocr.github.io/explorer/pocrnet",
+  "rpc_urls": [
+    "https://pocrnet.westeurope.cloudapp.azure.com/http",
+    "wss://pocrnet.westeurope.cloudapp.azure.com/ws"
+  ]
+}

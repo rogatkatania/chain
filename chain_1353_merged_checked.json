@@ -1,0 +1,10 @@
+{
+  "chain_id": "1353",
+  "name": "CIC Chain Mainnet",
+  "symbol": "CIC",
+  "explorer_url": "https://cicscan.com",
+  "rpc_urls": [
+    "https://xapi.cicscan.com"
+  ],
+  "rpc": []
+}

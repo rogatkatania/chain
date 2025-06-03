@@ -1,0 +1,9 @@
+{
+  "chain_id": "2021121117",
+  "name": "DataHopper",
+  "symbol": "HOP",
+  "explorer_url": "",
+  "rpc_urls": [
+    "https://23.92.21.121:8545"
+  ]
+}

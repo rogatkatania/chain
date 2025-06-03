@@ -1,0 +1,12 @@
+{
+  "chain_id": "41923",
+  "name": "EDU Chain",
+  "symbol": "EDU Chain",
+  "explorer_url": "https://educhain.blockscout.com",
+  "rpc_urls": [
+    "https://rpc.edu-chain.raas.gelato.cloud"
+  ],
+  "rpc": [
+    "https://rpc.edu-chain.raas.gelato.cloud"
+  ]
+}

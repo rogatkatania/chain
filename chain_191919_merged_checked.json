@@ -1,0 +1,10 @@
+{
+  "chain_id": "191919",
+  "name": "Altblockscan Mainnet",
+  "symbol": "ALTB",
+  "explorer_url": "https://scan.altblockscan.com",
+  "rpc_urls": [
+    "https://rpc.altblockscan.com"
+  ],
+  "rpc": []
+}

@@ -1,0 +1,10 @@
+{
+  "chain_id": "1313500",
+  "name": "Xerom",
+  "symbol": "XERO",
+  "explorer_url": "",
+  "rpc_urls": [
+    "https://rpc.xerom.org"
+  ],
+  "rpc": []
+}

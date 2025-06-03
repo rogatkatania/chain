@@ -1,0 +1,10 @@
+{
+  "chain_id": "123420111",
+  "name": "OP Celestia Raspberry",
+  "symbol": "ETH",
+  "explorer_url": "https://opcelestia-raspberry.gelatoscout.com",
+  "rpc_urls": [
+    "https://rpc.opcelestia-raspberry.gelato.digital",
+    "wss://ws.opcelestia-raspberry.gelato.digital"
+  ]
+}

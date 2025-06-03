@@ -1,0 +1,15 @@
+{
+  "chain_id": "4689",
+  "name": "IoTeX Network Mainnet",
+  "symbol": "iotex.io",
+  "explorer_url": "https://iotexscan.io",
+  "rpc_urls": [
+    "https://babel-api.fastblocks.io",
+    "https://babel-api.mainnet.iotex.io",
+    "https://babel-api.mainnet.iotex.one",
+    "https://iotex-network.rpc.thirdweb.com",
+    "https://iotex.api.onfinality.io/public",
+    "https://rpc.chainanalytics.org/iotex",
+    "https://rpc.depinscan.io/iotex"
+  ]
+}

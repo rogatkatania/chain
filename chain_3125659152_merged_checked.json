@@ -1,0 +1,10 @@
+{
+  "chain_id": "3125659152",
+  "name": "Pirl",
+  "symbol": "PIRL",
+  "explorer_url": "",
+  "rpc_urls": [
+    "https://wallrpc.pirl.io"
+  ],
+  "rpc": []
+}

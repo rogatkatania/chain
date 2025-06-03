@@ -1,0 +1,12 @@
+{
+  "chain_id": "1139",
+  "name": "MathChain",
+  "symbol": "MATH",
+  "explorer_url": "",
+  "rpc_urls": [
+    "https://mathchain-asia.maiziqianbao.net/rpc",
+    "https://mathchain-us.maiziqianbao.net/rpc",
+    "https://mathchain.maiziqianbao.net/rpc"
+  ],
+  "rpc": []
+}

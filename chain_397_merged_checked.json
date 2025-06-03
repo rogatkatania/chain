@@ -1,0 +1,12 @@
+{
+  "chain_id": "397",
+  "name": "NEAR Protocol",
+  "symbol": "NEAR",
+  "explorer_url": "https://eth-explorer.near.org",
+  "rpc_urls": [
+    "https://eth-rpc.mainnet.near.org"
+  ],
+  "rpc": [
+    "https://eth-rpc.mainnet.near.org"
+  ]
+}

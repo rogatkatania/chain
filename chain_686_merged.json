@@ -1,0 +1,13 @@
+{
+  "chain_id": "686",
+  "name": "Karura Network",
+  "symbol": "KAR",
+  "explorer_url": "https://blockscout.karura.network",
+  "rpc_urls": [
+    "https://eth-rpc-karura.aca-api.network",
+    "https://eth-rpc-karura.aca-staging.network",
+    "https://karura.api.onfinality.io/public",
+    "https://rpc.evm.karura.network",
+    "wss://eth-rpc-karura.aca-api.network"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "chain_id": "5090",
+  "name": "Pione Chain Mainnet",
+  "symbol": "PIO",
+  "explorer_url": "https://pionescan.com",
+  "rpc_urls": [
+    "https://rpc.pionescan.com"
+  ]
+}

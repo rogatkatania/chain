@@ -1,0 +1,9 @@
+{
+  "chain_id": "50005",
+  "name": "Yooldo Verse Mainnet",
+  "symbol": "Yooldo Verse",
+  "explorer_url": "https://explorer.yooldo-verse.xyz",
+  "rpc_urls": [
+    "https://rpc.yooldo-verse.xyz"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "chain_id": "146",
+  "name": "Sonic Mainnet",
+  "symbol": "sonic",
+  "explorer_url": "https://explorer.soniclabs.com",
+  "rpc_urls": [
+    "https://rpc.ankr.com/sonic_mainnet",
+    "https://rpc.soniclabs.com",
+    "https://rpc.therpc.io/sonic",
+    "https://sonic-mainnet.g.alchemy.com/v2/gi4tk6s65zmhnapbshfydl3w-lda8xmu",
+    "https://sonic-rpc.publicnode.com",
+    "https://sonic.api.onfinality.io/public",
+    "https://sonic.blockpi.network/v1/rpc/5738a801f1102334bdbc0f509584d7fbe288bdf3",
+    "https://sonic.drpc.org",
+    "wss://sonic-rpc.publicnode.com",
+    "wss://sonic.callstaticrpc.com",
+    "wss://sonic.drpc.org"
+  ]
+}

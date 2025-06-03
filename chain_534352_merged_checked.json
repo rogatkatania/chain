@@ -1,0 +1,39 @@
+{
+  "chain_id": "534352",
+  "name": "Scroll",
+  "symbol": "ETH",
+  "explorer_url": "https://scrollscan.com",
+  "rpc_urls": [
+    "https://1rpc.io/scroll",
+    "https://endpoints.omniatech.io/v1/scroll/mainnet/public",
+    "https://node.histori.xyz/scroll-mainnet/8ry9f6t9dct1se2hlagxnd9n2a",
+    "https://rpc-scroll.icecreamswap.com",
+    "https://rpc.ankr.com/scroll",
+    "https://rpc.scroll.io",
+    "https://rpc.zerion.io/v1/scroll",
+    "https://scroll-mainnet-public.unifra.io",
+    "https://scroll-mainnet.chainstacklabs.com",
+    "https://scroll-mainnet.g.alchemy.com/v2/gi4tk6s65zmhnapbshfydl3w-lda8xmu",
+    "https://scroll-mainnet.public.blastapi.io",
+    "https://scroll-mainnet.rpc.grove.city/v1/a7a7c8e2",
+    "https://scroll-rpc.publicnode.com",
+    "https://scroll.api.onfinality.io/public",
+    "https://scroll.blockpi.network/v1/rpc/bbf0fae6537b3a3a513e2dc8aab1b0e2f613f00d",
+    "https://scroll.blockpi.network/v1/rpc/private",
+    "https://scroll.drpc.org",
+    "wss://scroll-rpc.publicnode.com"
+  ],
+  "rpc": [
+    "https://rpc.ankr.com/scroll",
+    "https://scroll-mainnet.public.blastapi.io",
+    "https://rpc.scroll.io",
+    "https://scroll-mainnet.g.alchemy.com/v2/gi4tk6s65zmhnapbshfydl3w-lda8xmu",
+    "https://scroll-rpc.publicnode.com",
+    "https://scroll.drpc.org",
+    "https://scroll.blockpi.network/v1/rpc/bbf0fae6537b3a3a513e2dc8aab1b0e2f613f00d",
+    "https://scroll.api.onfinality.io/public",
+    "https://1rpc.io/scroll",
+    "https://rpc.zerion.io/v1/scroll",
+    "https://scroll-mainnet.chainstacklabs.com"
+  ]
+}

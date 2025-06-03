@@ -1,0 +1,10 @@
+{
+  "chain_id": "1122334455",
+  "name": "IPOS Network",
+  "symbol": "IPOS",
+  "explorer_url": "",
+  "rpc_urls": [
+    "https://rpc.iposlab.com",
+    "https://rpc2.iposlab.com"
+  ]
+}

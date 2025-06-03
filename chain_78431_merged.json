@@ -1,0 +1,9 @@
+{
+  "chain_id": "78431",
+  "name": "Bulletin Subnet",
+  "symbol": "BULLETIN",
+  "explorer_url": "https://subnets-test.avax.network/bulletin",
+  "rpc_urls": [
+    "https://subnets.avax.network/bulletin/testnet/rpc"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "chain_id": "718",
+  "name": "UXLINK ONE Mainnet",
+  "symbol": "UXLINK ONE",
+  "explorer_url": "https://sepolia.uxlinkone.com",
+  "rpc_urls": [
+    "https://rpc.uxlinkone.com"
+  ]
+}

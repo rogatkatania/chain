@@ -1,0 +1,11 @@
+{
+  "chain_id": "185",
+  "name": "Mint Mainnet",
+  "symbol": "ETH",
+  "explorer_url": "https://explorer.mintchain.io",
+  "rpc_urls": [
+    "https://asia.rpc.mintchain.io",
+    "https://global.rpc.mintchain.io",
+    "https://rpc.mintchain.io"
+  ]
+}

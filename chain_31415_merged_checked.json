@@ -1,0 +1,12 @@
+{
+  "chain_id": "31415",
+  "name": "Wirex Pay Mainnet",
+  "symbol": "WirexPay",
+  "explorer_url": "https://blockscout.wirexpaychain.com",
+  "rpc_urls": [
+    "https://rpc.wirexpaychain.com"
+  ],
+  "rpc": [
+    "https://rpc.wirexpaychain.com"
+  ]
+}

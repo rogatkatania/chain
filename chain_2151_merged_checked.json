@@ -1,0 +1,11 @@
+{
+  "chain_id": "2151",
+  "name": "BOSagora Mainnet",
+  "symbol": "ETH",
+  "explorer_url": "https://boascan.io",
+  "rpc_urls": [
+    "https://mainnet.bosagora.org",
+    "https://rpc.bosagora.org"
+  ],
+  "rpc": []
+}

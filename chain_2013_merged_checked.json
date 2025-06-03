@@ -1,0 +1,10 @@
+{
+  "chain_id": "2013",
+  "name": "Panarchy",
+  "symbol": "Panarchy",
+  "explorer_url": "",
+  "rpc_urls": [
+    "https://polytopia.org:8545"
+  ],
+  "rpc": []
+}

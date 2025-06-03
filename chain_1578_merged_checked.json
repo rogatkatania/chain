@@ -1,0 +1,10 @@
+{
+  "chain_id": "1578",
+  "name": "StarCHAIN",
+  "symbol": "StarCHAIN",
+  "explorer_url": "https://starchainscan.io",
+  "rpc_urls": [
+    "https://rpc.starworksglobal.com"
+  ],
+  "rpc": []
+}

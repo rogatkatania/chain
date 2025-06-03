@@ -1,0 +1,9 @@
+{
+  "chain_id": "6699",
+  "name": "OX Chain",
+  "symbol": "OX",
+  "explorer_url": "",
+  "rpc_urls": [
+    "https://rpc.oxscan.io"
+  ]
+}

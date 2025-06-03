@@ -1,0 +1,9 @@
+{
+  "chain_id": "9898",
+  "name": "Larissa Chain",
+  "symbol": "Larissa",
+  "explorer_url": "https://scan.larissa.network",
+  "rpc_urls": [
+    "https://rpc.larissa.network"
+  ]
+}

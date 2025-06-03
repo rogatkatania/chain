@@ -1,0 +1,9 @@
+{
+  "chain_id": "5511",
+  "name": "PointPay Mainnet",
+  "symbol": "pointpay",
+  "explorer_url": "https://explorer.pointpay.io",
+  "rpc_urls": [
+    "https://rpc-mainnet.pointpay.io"
+  ]
+}

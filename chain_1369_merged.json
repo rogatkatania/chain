@@ -1,0 +1,9 @@
+{
+  "chain_id": "1369",
+  "name": "Zafirium Mainnet",
+  "symbol": "ZAFIC",
+  "explorer_url": "https://explorer.zakumi.io",
+  "rpc_urls": [
+    "https://mainnet.zakumi.io"
+  ]
+}

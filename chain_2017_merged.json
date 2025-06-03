@@ -1,0 +1,14 @@
+{
+  "chain_id": "2017",
+  "name": "Adiri",
+  "symbol": "TEL",
+  "explorer_url": "https://telscan.io",
+  "rpc_urls": [
+    "https://adiri.tel",
+    "https://node1.telcoin.network",
+    "https://node2.telcoin.network",
+    "https://node3.telcoin.network",
+    "https://node4.telcoin.network",
+    "https://rpc.telcoin.network"
+  ]
+}

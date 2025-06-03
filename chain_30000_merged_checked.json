@@ -1,0 +1,12 @@
+{
+  "chain_id": "30000",
+  "name": "qChain Mainnet",
+  "symbol": "qChain",
+  "explorer_url": "https://scan.qchain.kr",
+  "rpc_urls": [
+    "https://rpc.qchain.kr"
+  ],
+  "rpc": [
+    "https://rpc.qchain.kr"
+  ]
+}

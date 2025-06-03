@@ -1,0 +1,10 @@
+{
+  "chain_id": "18071918",
+  "name": "Mande Network Mainnet",
+  "symbol": "Mande",
+  "explorer_url": "https://dym.fyi/r/mande",
+  "rpc_urls": [
+    "https://mande-mainnet.public.blastapi.io"
+  ],
+  "rpc": []
+}

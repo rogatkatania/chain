@@ -1,0 +1,9 @@
+{
+  "chain_id": "80096",
+  "name": "Hizoco mainnet",
+  "symbol": "HZC",
+  "explorer_url": "https://hizoco.net:38443",
+  "rpc_urls": [
+    "https://hizoco.net/rpc"
+  ]
+}

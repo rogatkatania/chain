@@ -1,0 +1,12 @@
+{
+  "chain_id": "4061",
+  "name": "Nahmii 3 Mainnet",
+  "symbol": "Nahmii",
+  "explorer_url": "https://explorer.nahmii.io",
+  "rpc_urls": [
+    "https://rpc.n3.nahmii.io"
+  ],
+  "rpc": [
+    "https://rpc.n3.nahmii.io"
+  ]
+}

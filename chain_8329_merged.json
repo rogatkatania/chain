@@ -1,0 +1,9 @@
+{
+  "chain_id": "8329",
+  "name": "Lorenzo",
+  "symbol": "Lorenzo",
+  "explorer_url": "https://scan.lorenzo-protocol.xyz",
+  "rpc_urls": [
+    "https://rpc.lorenzo-protocol.xyz"
+  ]
+}

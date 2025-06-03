@@ -1,0 +1,10 @@
+{
+  "chain_id": "15259",
+  "name": "Poodl Mainnet",
+  "symbol": "Poodl",
+  "explorer_url": "https://explorer.poodl.org",
+  "rpc_urls": [
+    "https://rpc.poodl.org"
+  ],
+  "rpc": []
+}

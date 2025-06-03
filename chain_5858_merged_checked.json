@@ -1,0 +1,12 @@
+{
+  "chain_id": "5858",
+  "name": "Chang Chain Foundation Mainnet",
+  "symbol": "ChangChain",
+  "explorer_url": "https://cthscan.com",
+  "rpc_urls": [
+    "https://rpc.cthscan.com"
+  ],
+  "rpc": [
+    "https://rpc.cthscan.com"
+  ]
+}

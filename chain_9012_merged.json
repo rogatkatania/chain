@@ -1,0 +1,9 @@
+{
+  "chain_id": "9012",
+  "name": "BerylBit Mainnet",
+  "symbol": "BRB",
+  "explorer_url": "https://explorer.berylbit.io",
+  "rpc_urls": [
+    "https://mainnet.berylbit.io"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "chain_id": "5439",
+  "name": "Egochain",
+  "symbol": "EGAX",
+  "explorer_url": "https://egoscan.io",
+  "rpc_urls": [
+    "https://mainnet.egochain.org"
+  ]
+}

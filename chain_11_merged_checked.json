@@ -1,0 +1,11 @@
+{
+  "chain_id": "11",
+  "name": "Metadium Mainnet",
+  "symbol": "META",
+  "explorer_url": "",
+  "rpc_urls": [
+    "https://api.metadium.com/dev",
+    "https://api.metadium.com/prod"
+  ],
+  "rpc": []
+}

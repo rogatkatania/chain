@@ -1,0 +1,10 @@
+{
+  "chain_id": "15430",
+  "name": "KYMTC Mainnet",
+  "symbol": "KYMTC",
+  "explorer_url": "https://kymaticscan.online",
+  "rpc_urls": [
+    "https://mainnet-rpc.kymaticscan.online"
+  ],
+  "rpc": []
+}

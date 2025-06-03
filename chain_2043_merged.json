@@ -1,0 +1,10 @@
+{
+  "chain_id": "2043",
+  "name": "NeuroWeb",
+  "symbol": "NEUROWEB",
+  "explorer_url": "",
+  "rpc_urls": [
+    "https://astrosat.origintrail.network",
+    "wss://parachain-rpc.origin-trail.network"
+  ]
+}

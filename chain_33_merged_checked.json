@@ -1,0 +1,10 @@
+{
+  "chain_id": "33",
+  "name": "GoodData Mainnet",
+  "symbol": "GooD",
+  "explorer_url": "",
+  "rpc_urls": [
+    "https://rpc.goodata.io"
+  ],
+  "rpc": []
+}

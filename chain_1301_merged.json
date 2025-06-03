@@ -1,0 +1,10 @@
+{
+  "chain_id": "1301",
+  "name": "",
+  "symbol": "",
+  "explorer_url": "",
+  "rpc_urls": [
+    "https://sepolia.unichain.org",
+    "https://unichain-sepolia-rpc.publicnode.com"
+  ]
+}

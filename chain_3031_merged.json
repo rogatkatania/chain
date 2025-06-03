@@ -1,0 +1,9 @@
+{
+  "chain_id": "3031",
+  "name": "Orlando Chain",
+  "symbol": "ORL",
+  "explorer_url": "https://orlscan.com",
+  "rpc_urls": [
+    "https://rpc-testnet.orlchain.com"
+  ]
+}

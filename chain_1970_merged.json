@@ -1,0 +1,9 @@
+{
+  "chain_id": "1970",
+  "name": "Super Smart Chain Mainnet",
+  "symbol": "SCS",
+  "explorer_url": "https://scan.scschain.com",
+  "rpc_urls": [
+    "https://rpc.scschain.com"
+  ]
+}

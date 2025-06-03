@@ -1,0 +1,9 @@
+{
+  "chain_id": "134",
+  "name": "iExec Sidechain",
+  "symbol": "Bellecour",
+  "explorer_url": "https://blockscout.bellecour.iex.ec",
+  "rpc_urls": [
+    "https://bellecour.iex.ec"
+  ]
+}

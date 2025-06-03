@@ -1,0 +1,12 @@
+{
+  "chain_id": "34504",
+  "name": "ZEUS Mainnet",
+  "symbol": "ZEUSX",
+  "explorer_url": "https://zeuschainscan.io",
+  "rpc_urls": [
+    "https://mainnet-rpc.zeuschainscan.io"
+  ],
+  "rpc": [
+    "https://mainnet-rpc.zeuschainscan.io"
+  ]
+}

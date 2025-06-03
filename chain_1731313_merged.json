@@ -1,0 +1,9 @@
+{
+  "chain_id": "1731313",
+  "name": "Turkey Demo Dev",
+  "symbol": "ETH",
+  "explorer_url": "",
+  "rpc_urls": [
+    "https://devchain-poa.huabeizhenxuan.com"
+  ]
+}

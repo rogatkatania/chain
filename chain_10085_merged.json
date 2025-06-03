@@ -1,0 +1,10 @@
+{
+  "chain_id": "10085",
+  "name": "Volcano Chain Mainnet",
+  "symbol": "Volcano",
+  "explorer_url": "https://vchainscan.com",
+  "rpc_urls": [
+    "https://mainnet.vchain.pro",
+    "wss://wss.mainnet.vchain.pro"
+  ]
+}

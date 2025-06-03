@@ -1,0 +1,9 @@
+{
+  "chain_id": "990",
+  "name": "eLiberty Mainnet",
+  "symbol": "$EL",
+  "explorer_url": "https://explorer.eliberty.ngo",
+  "rpc_urls": [
+    "https://rpc.eliberty.ngo"
+  ]
+}
