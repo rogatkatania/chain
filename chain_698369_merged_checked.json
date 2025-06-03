@@ -1,0 +1,13 @@
+{
+  "chain_id": "698369",
+  "name": "Primea Network Mainnet",
+  "symbol": "Primea Network Mainnet",
+  "explorer_url": "",
+  "rpc_urls": [
+    "http://rpc.primeanetwork.com/rpc-http",
+    "https://rpc.primeanetwork.com/rpc-https",
+    "ws://rpc.primeanetwork.com/rpc-ws",
+    "wss://rpc.primeanetwork.com/rpc-wss"
+  ],
+  "rpc": []
+}
