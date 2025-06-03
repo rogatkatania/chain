@@ -1,0 +1,12 @@
+{
+  "chain_id": "71402",
+  "name": "Godwoken Mainnet",
+  "symbol": "GWT",
+  "explorer_url": "https://v1.gwscan.com",
+  "rpc_urls": [
+    "https://v1.mainnet.godwoken.io/rpc"
+  ],
+  "rpc": [
+    "https://v1.mainnet.godwoken.io/rpc"
+  ]
+}

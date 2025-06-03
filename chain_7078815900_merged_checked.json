@@ -1,0 +1,10 @@
+{
+  "chain_id": "7078815900",
+  "name": "Mekong",
+  "symbol": "ETH",
+  "explorer_url": "https://explorer.mekong.ethpandaops.io",
+  "rpc_urls": [
+    "https://rpc.mekong.ethpandaops.io"
+  ],
+  "rpc": []
+}

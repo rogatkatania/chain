@@ -1,0 +1,10 @@
+{
+  "chain_id": "7099",
+  "name": "Bharat Blockchain Network",
+  "symbol": "BBNT",
+  "explorer_url": "",
+  "rpc_urls": [
+    "https://bbnrpc.testnet.bharatblockchain.io"
+  ],
+  "rpc": []
+}

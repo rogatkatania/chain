@@ -1,0 +1,12 @@
+{
+  "chain_id": "7077",
+  "name": "",
+  "symbol": "",
+  "explorer_url": "",
+  "rpc_urls": [
+    "https://evm-rpc-atlas.planq.network"
+  ],
+  "rpc": [
+    "https://evm-rpc-atlas.planq.network"
+  ]
+}

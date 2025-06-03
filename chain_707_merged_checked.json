@@ -1,0 +1,11 @@
+{
+  "chain_id": "707",
+  "name": "BlockChain Station Mainnet",
+  "symbol": "BCS",
+  "explorer_url": "https://explorer.bcsdev.io",
+  "rpc_urls": [
+    "https://rpc-mainnet.bcsdev.io",
+    "wss://rpc-ws-mainnet.bcsdev.io"
+  ],
+  "rpc": []
+}

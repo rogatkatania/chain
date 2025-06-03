@@ -1,0 +1,10 @@
+{
+  "chain_id": "69",
+  "name": "Optimism Kovan",
+  "symbol": "ETH",
+  "explorer_url": "https://kovan-optimistic.etherscan.io",
+  "rpc_urls": [
+    "https://kovan.optimism.io"
+  ],
+  "rpc": []
+}

@@ -1,0 +1,11 @@
+{
+  "chain_id": "711",
+  "name": "Tucana",
+  "symbol": "Tucana",
+  "explorer_url": "https://explorer.tucana.zone",
+  "rpc_urls": [
+    "https://evm-rpc.tucana.zone",
+    "wss://evm-ws.tucana.zone"
+  ],
+  "rpc": []
+}

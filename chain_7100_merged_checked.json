@@ -1,0 +1,10 @@
+{
+  "chain_id": "7100",
+  "name": "Nume",
+  "symbol": "Nume",
+  "explorer_url": "https://explorer.numecrypto.com",
+  "rpc_urls": [
+    "https://rpc.numecrypto.com"
+  ],
+  "rpc": []
+}
