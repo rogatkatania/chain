@@ -1,0 +1,10 @@
+{
+  "chain_id": "67588",
+  "name": "Cosmic Chain",
+  "symbol": "COSMIC",
+  "explorer_url": "",
+  "rpc_urls": [
+    "http://testnet.cosmicchain.site:3344"
+  ],
+  "rpc": []
+}

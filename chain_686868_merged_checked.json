@@ -1,0 +1,13 @@
+{
+  "chain_id": "686868",
+  "name": "Won Network",
+  "symbol": "WON",
+  "explorer_url": "https://scan.wonnetwork.org",
+  "rpc_urls": [
+    "https://merlin-testnet.blockpi.network/v1/rpc/ccd038fff1cfdf87d658b90ab1dc2fed76dc10c4",
+    "https://rpc.wonnetwork.org"
+  ],
+  "rpc": [
+    "https://merlin-testnet.blockpi.network/v1/rpc/ccd038fff1cfdf87d658b90ab1dc2fed76dc10c4"
+  ]
+}

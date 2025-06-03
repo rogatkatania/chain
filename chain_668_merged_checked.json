@@ -1,0 +1,10 @@
+{
+  "chain_id": "668",
+  "name": "JuncaChain",
+  "symbol": "JuncaChain",
+  "explorer_url": "https://scan.juncachain.com",
+  "rpc_urls": [
+    "https://rpc.juncachain.com"
+  ],
+  "rpc": []
+}

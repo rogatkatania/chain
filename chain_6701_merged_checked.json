@@ -1,0 +1,10 @@
+{
+  "chain_id": "6701",
+  "name": "PAXB Mainnet",
+  "symbol": "PAXB",
+  "explorer_url": "https://scan.paxb.io",
+  "rpc_urls": [
+    "https://chain.paxb.io"
+  ],
+  "rpc": []
+}
