@@ -1,0 +1,13 @@
+{
+  "chain_id": "78600",
+  "name": "Vanguard",
+  "symbol": "VANAR",
+  "explorer_url": "https://explorer-vanguard.vanarchain.com",
+  "rpc_urls": [
+    "https://rpc-vanguard.vanarchain.com",
+    "wss://ws-vanguard.vanarchain.com"
+  ],
+  "rpc": [
+    "https://rpc-vanguard.vanarchain.com"
+  ]
+}
