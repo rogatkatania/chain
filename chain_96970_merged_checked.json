@@ -1,0 +1,14 @@
+{
+  "chain_id": "96970",
+  "name": "",
+  "symbol": "",
+  "explorer_url": "",
+  "rpc_urls": [
+    "https://mantis-rpc.kore-technologies.ch",
+    "https://mantis-rpc.phoenix-systems.io"
+  ],
+  "rpc": [
+    "https://mantis-rpc.kore-technologies.ch",
+    "https://mantis-rpc.phoenix-systems.io"
+  ]
+}

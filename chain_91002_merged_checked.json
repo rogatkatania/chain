@@ -1,0 +1,10 @@
+{
+  "chain_id": "91002",
+  "name": "Nautilus Trition Chain",
+  "symbol": "ETH",
+  "explorer_url": "https://triton.nautscan.com",
+  "rpc_urls": [
+    "https://triton.api.nautchain.xyz"
+  ],
+  "rpc": []
+}

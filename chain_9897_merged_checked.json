@@ -1,0 +1,12 @@
+{
+  "chain_id": "9897",
+  "name": "",
+  "symbol": "",
+  "explorer_url": "",
+  "rpc_urls": [
+    "https://rpc.arena-z.t.raas.gelato.cloud"
+  ],
+  "rpc": [
+    "https://rpc.arena-z.t.raas.gelato.cloud"
+  ]
+}

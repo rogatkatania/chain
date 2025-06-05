@@ -1,0 +1,12 @@
+{
+  "chain_id": "9982",
+  "name": "MFEV CHAIN MAINNET",
+  "symbol": "MFEV CHAIN",
+  "explorer_url": "https://mfevscan.com",
+  "rpc_urls": [
+    "https://rpc.mfevscan.com"
+  ],
+  "rpc": [
+    "https://rpc.mfevscan.com"
+  ]
+}

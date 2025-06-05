@@ -1,0 +1,12 @@
+{
+  "chain_id": "957",
+  "name": "Lyra Chain",
+  "symbol": "Lyra",
+  "explorer_url": "https://explorer.lyra.finance",
+  "rpc_urls": [
+    "https://rpc.lyra.finance"
+  ],
+  "rpc": [
+    "https://rpc.lyra.finance"
+  ]
+}

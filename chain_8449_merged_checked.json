@@ -1,0 +1,12 @@
+{
+  "chain_id": "8449",
+  "name": "",
+  "symbol": "",
+  "explorer_url": "",
+  "rpc_urls": [
+    "https://rpc.dev.deriw.com"
+  ],
+  "rpc": [
+    "https://rpc.dev.deriw.com"
+  ]
+}

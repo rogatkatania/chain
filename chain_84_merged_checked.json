@@ -1,0 +1,10 @@
+{
+  "chain_id": "84",
+  "name": "Linqto Devnet",
+  "symbol": "LNQ",
+  "explorer_url": "https://explorer.linqto-dev.com",
+  "rpc_urls": [
+    "https://linqto-dev.com"
+  ],
+  "rpc": []
+}

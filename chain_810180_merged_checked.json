@@ -1,0 +1,13 @@
+{
+  "chain_id": "810180",
+  "name": "zkLink Nova Mainnet",
+  "symbol": "ETH",
+  "explorer_url": "https://explorer.zklink.io",
+  "rpc_urls": [
+    "https://rpc.zklink.io",
+    "wss://rpc.zklink.io"
+  ],
+  "rpc": [
+    "https://rpc.zklink.io"
+  ]
+}

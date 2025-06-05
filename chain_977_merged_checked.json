@@ -1,0 +1,11 @@
+{
+  "chain_id": "977",
+  "name": "Nepal Blockchain Network",
+  "symbol": "YETI",
+  "explorer_url": "",
+  "rpc_urls": [
+    "https://api.nepalblockchain.dev",
+    "https://api.nepalblockchain.network"
+  ],
+  "rpc": []
+}

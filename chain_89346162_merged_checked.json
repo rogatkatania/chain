@@ -1,0 +1,13 @@
+{
+  "chain_id": "89346162",
+  "name": "Reya Cronos",
+  "symbol": "reya-cronos",
+  "explorer_url": "https://reya-cronos.blockscout.com",
+  "rpc_urls": [
+    "https://rpc.reya-cronos.gelato.digital",
+    "wss://ws.reya-cronos.gelato.digital"
+  ],
+  "rpc": [
+    "https://rpc.reya-cronos.gelato.digital"
+  ]
+}

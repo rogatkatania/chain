@@ -1,0 +1,10 @@
+{
+  "chain_id": "93747",
+  "name": "",
+  "symbol": "",
+  "explorer_url": "",
+  "rpc_urls": [
+    "https://rpc.stratovm.io"
+  ],
+  "rpc": []
+}

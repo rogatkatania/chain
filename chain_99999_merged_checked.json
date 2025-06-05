@@ -1,0 +1,10 @@
+{
+  "chain_id": "99999",
+  "name": "UB Smart Chain",
+  "symbol": "USC",
+  "explorer_url": "",
+  "rpc_urls": [
+    "https://rpc.uschain.network"
+  ],
+  "rpc": []
+}

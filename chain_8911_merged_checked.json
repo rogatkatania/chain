@@ -1,0 +1,12 @@
+{
+  "chain_id": "8911",
+  "name": "Algen",
+  "symbol": "ALG",
+  "explorer_url": "https://scan.algen.network",
+  "rpc_urls": [
+    "https://rpc.algen.network"
+  ],
+  "rpc": [
+    "https://rpc.algen.network"
+  ]
+}

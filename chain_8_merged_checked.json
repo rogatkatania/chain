@@ -1,0 +1,13 @@
+{
+  "chain_id": "8",
+  "name": "Ubiq",
+  "symbol": "UBQ",
+  "explorer_url": "https://ubiqscan.io",
+  "rpc_urls": [
+    "https://pyrus2.ubiqscan.io",
+    "https://rpc.octano.dev"
+  ],
+  "rpc": [
+    "https://pyrus2.ubiqscan.io"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "chain_id": "888888",
+  "name": "Vision - Mainnet",
+  "symbol": "Vision",
+  "explorer_url": "https://www.visionscan.org",
+  "rpc_urls": [
+    "https://infragrid.v.network/ethereum/compatible"
+  ],
+  "rpc": [
+    "https://infragrid.v.network/ethereum/compatible"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "chain_id": "861",
+  "name": "Electra Network",
+  "symbol": "Electra",
+  "explorer_url": "https://scan.electranetwork.tech",
+  "rpc_urls": [
+    "https://rpc.electranetwork.tech"
+  ],
+  "rpc": []
+}

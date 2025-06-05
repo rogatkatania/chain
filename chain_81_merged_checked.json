@@ -1,0 +1,16 @@
+{
+  "chain_id": "81",
+  "name": "Japan Open Chain Mainnet",
+  "symbol": "JOC",
+  "explorer_url": "https://explorer.japanopenchain.org",
+  "rpc_urls": [
+    "https://rpc-1.japanopenchain.org:8545",
+    "https://rpc-2.japanopenchain.org:8545",
+    "https://rpc-3.japanopenchain.org"
+  ],
+  "rpc": [
+    "https://rpc-1.japanopenchain.org:8545",
+    "https://rpc-2.japanopenchain.org:8545",
+    "https://rpc-3.japanopenchain.org"
+  ]
+}

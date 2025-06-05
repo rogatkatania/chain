@@ -1,0 +1,12 @@
+{
+  "chain_id": "8333",
+  "name": "B3",
+  "symbol": "B3",
+  "explorer_url": "https://explorer.b3.fun",
+  "rpc_urls": [
+    "https://mainnet-rpc.b3.fun"
+  ],
+  "rpc": [
+    "https://mainnet-rpc.b3.fun"
+  ]
+}

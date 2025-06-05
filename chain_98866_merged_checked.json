@@ -1,0 +1,13 @@
+{
+  "chain_id": "98866",
+  "name": "Plume Mainnet",
+  "symbol": "PLUME",
+  "explorer_url": "https://phoenix-explorer.plumenetwork.xyz",
+  "rpc_urls": [
+    "https://phoenix-rpc.plumenetwork.xyz",
+    "wss://phoenix-rpc.plumenetwork.xyz"
+  ],
+  "rpc": [
+    "https://phoenix-rpc.plumenetwork.xyz"
+  ]
+}

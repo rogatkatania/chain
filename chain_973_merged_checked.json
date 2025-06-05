@@ -1,0 +1,10 @@
+{
+  "chain_id": "973",
+  "name": "Palm Smart Chain",
+  "symbol": "Palm",
+  "explorer_url": "https://explorer.palmsmartchain.io",
+  "rpc_urls": [
+    "https://rpc.palmsmartchain.io"
+  ],
+  "rpc": []
+}

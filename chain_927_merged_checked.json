@@ -1,0 +1,10 @@
+{
+  "chain_id": "927",
+  "name": "Yidark Chain Mainnet",
+  "symbol": "Yidark",
+  "explorer_url": "https://yidarkscan.com",
+  "rpc_urls": [
+    "https://rpc.yidark.io"
+  ],
+  "rpc": []
+}

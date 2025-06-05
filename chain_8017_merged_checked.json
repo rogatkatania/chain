@@ -1,0 +1,12 @@
+{
+  "chain_id": "8017",
+  "name": "iSunCoin Mainnet",
+  "symbol": "iSunCoin",
+  "explorer_url": "https://baifa.io/app/chains/8017",
+  "rpc_urls": [
+    "https://mainnet.isuncoin.com"
+  ],
+  "rpc": [
+    "https://mainnet.isuncoin.com"
+  ]
+}

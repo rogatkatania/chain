@@ -1,0 +1,12 @@
+{
+  "chain_id": "84841",
+  "name": "O Chain",
+  "symbol": "O",
+  "explorer_url": "https://explorer.o.xyz",
+  "rpc_urls": [
+    "https://84841.rpc.thirdweb.com",
+    "https://rpc.o.xyz",
+    "wss://rpc.o.xyz"
+  ],
+  "rpc": []
+}

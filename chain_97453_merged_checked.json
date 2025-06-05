@@ -1,0 +1,10 @@
+{
+  "chain_id": "97453",
+  "name": "Sidra Chain",
+  "symbol": "SIDRA",
+  "explorer_url": "https://ledger.sidrachain.com",
+  "rpc_urls": [
+    "https://node.sidrachain.com"
+  ],
+  "rpc": []
+}

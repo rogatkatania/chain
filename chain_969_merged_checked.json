@@ -1,0 +1,10 @@
+{
+  "chain_id": "969",
+  "name": "EthXY",
+  "symbol": "EthXY",
+  "explorer_url": "https://explorer.ethxy.com",
+  "rpc_urls": [
+    "https://rpc.ethxy.com"
+  ],
+  "rpc": []
+}

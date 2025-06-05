@@ -1,0 +1,10 @@
+{
+  "chain_id": "9911",
+  "name": "Espento Mainnet",
+  "symbol": "SPENT",
+  "explorer_url": "https://escscan.com",
+  "rpc_urls": [
+    "https://rpc.escscan.com"
+  ],
+  "rpc": []
+}

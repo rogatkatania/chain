@@ -1,0 +1,10 @@
+{
+  "chain_id": "846000",
+  "name": "4GoodNetwork",
+  "symbol": "4GN",
+  "explorer_url": "",
+  "rpc_urls": [
+    "https://chain.deptofgood.com"
+  ],
+  "rpc": []
+}

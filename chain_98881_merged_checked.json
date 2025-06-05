@@ -1,0 +1,10 @@
+{
+  "chain_id": "98881",
+  "name": "Ebi Chain",
+  "symbol": "Ebi",
+  "explorer_url": "",
+  "rpc_urls": [
+    "https://rpc.ebi.xyz"
+  ],
+  "rpc": []
+}

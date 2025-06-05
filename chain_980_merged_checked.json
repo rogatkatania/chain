@@ -1,0 +1,12 @@
+{
+  "chain_id": "980",
+  "name": "TOP Mainnet EVM",
+  "symbol": "TOP",
+  "explorer_url": "https://www.topscan.io",
+  "rpc_urls": [
+    "https://ethapi.topnetwork.org"
+  ],
+  "rpc": [
+    "https://ethapi.topnetwork.org"
+  ]
+}

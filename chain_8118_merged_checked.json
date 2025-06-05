@@ -1,0 +1,12 @@
+{
+  "chain_id": "8118",
+  "name": "Shardeum",
+  "symbol": "Shardeum",
+  "explorer_url": "https://explorer.shardeum.org",
+  "rpc_urls": [
+    "https://api.shardeum.org"
+  ],
+  "rpc": [
+    "https://api.shardeum.org"
+  ]
+}

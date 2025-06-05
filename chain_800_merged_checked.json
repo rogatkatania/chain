@@ -1,0 +1,10 @@
+{
+  "chain_id": "800",
+  "name": "Lucid Blockchain",
+  "symbol": "Lucid",
+  "explorer_url": "https://explorer.lucidcoin.io",
+  "rpc_urls": [
+    "https://rpc.lucidcoin.io"
+  ],
+  "rpc": []
+}

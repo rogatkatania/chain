@@ -1,0 +1,13 @@
+{
+  "chain_id": "98865",
+  "name": "Plume (Legacy)",
+  "symbol": "PLUME Legacy",
+  "explorer_url": "https://explorer.plumenetwork.xyz",
+  "rpc_urls": [
+    "https://rpc.plumenetwork.xyz",
+    "wss://rpc.plumenetwork.xyz"
+  ],
+  "rpc": [
+    "https://rpc.plumenetwork.xyz"
+  ]
+}

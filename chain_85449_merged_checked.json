@@ -1,0 +1,10 @@
+{
+  "chain_id": "85449",
+  "name": "CYBERTRUST",
+  "symbol": "CYBER",
+  "explorer_url": "",
+  "rpc_urls": [
+    "http://testnet.cybertrust.space:48501"
+  ],
+  "rpc": []
+}

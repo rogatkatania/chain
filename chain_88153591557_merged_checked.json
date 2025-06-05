@@ -1,0 +1,13 @@
+{
+  "chain_id": "88153591557",
+  "name": "Arbitrum Blueberry",
+  "symbol": "ETH",
+  "explorer_url": "https://arb-blueberry.gelatoscout.com",
+  "rpc_urls": [
+    "https://rpc.arb-blueberry.gelato.digital",
+    "wss://ws.arb-blueberry.gelato.digital"
+  ],
+  "rpc": [
+    "https://rpc.arb-blueberry.gelato.digital"
+  ]
+}

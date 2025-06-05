@@ -1,0 +1,10 @@
+{
+  "chain_id": "90210",
+  "name": "Beverly Hills",
+  "symbol": "ETH",
+  "explorer_url": "https://explorer.beverlyhills.ethdevops.io",
+  "rpc_urls": [
+    "https://rpc.beverlyhills.ethdevops.io:8545"
+  ],
+  "rpc": []
+}

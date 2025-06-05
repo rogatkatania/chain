@@ -1,0 +1,14 @@
+{
+  "chain_id": "7",
+  "name": "ThaiChain",
+  "symbol": "TCH",
+  "explorer_url": "https://exp.thaichain.org",
+  "rpc_urls": [
+    "https://rpc.dome.cloud",
+    "https://rpc.thaichain.org"
+  ],
+  "rpc": [
+    "https://rpc.thaichain.org",
+    "https://rpc.dome.cloud"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "chain_id": "996",
+  "name": "Bifrost Polkadot Mainnet",
+  "symbol": "Bifrost",
+  "explorer_url": "",
+  "rpc_urls": [
+    "https://hk.p.bifrost-rpc.liebi.com"
+  ],
+  "rpc": []
+}

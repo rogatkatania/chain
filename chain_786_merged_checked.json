@@ -1,0 +1,16 @@
+{
+  "chain_id": "786",
+  "name": "MAAL Chain",
+  "symbol": "MAAL",
+  "explorer_url": "https://maalscan.io",
+  "rpc_urls": [
+    "https://node1-mainnet.maalscan.io",
+    "https://node2-mainnet.maalscan.io",
+    "https://node3-mainnet.maalscan.io"
+  ],
+  "rpc": [
+    "https://node1-mainnet.maalscan.io",
+    "https://node2-mainnet.maalscan.io",
+    "https://node3-mainnet.maalscan.io"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "chain_id": "8387",
+  "name": "Dracones Financial Services",
+  "symbol": "FUCK",
+  "explorer_url": "",
+  "rpc_urls": [
+    "https://api.dracones.net"
+  ],
+  "rpc": []
+}

@@ -1,0 +1,14 @@
+{
+  "chain_id": "888",
+  "name": "Wanchain",
+  "symbol": "WAN",
+  "explorer_url": "https://wanscan.org",
+  "rpc_urls": [
+    "https://gwan-ssl.wandevs.org:56891",
+    "https://gwan2-ssl.wandevs.org"
+  ],
+  "rpc": [
+    "https://gwan2-ssl.wandevs.org",
+    "https://gwan-ssl.wandevs.org:56891"
+  ]
+}

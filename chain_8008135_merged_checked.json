@@ -1,0 +1,10 @@
+{
+  "chain_id": "8008135",
+  "name": "Fhenix Helium",
+  "symbol": "tFHE",
+  "explorer_url": "https://explorer.helium.fhenix.zone",
+  "rpc_urls": [
+    "https://api.helium.fhenix.zone"
+  ],
+  "rpc": []
+}

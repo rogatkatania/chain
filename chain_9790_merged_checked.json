@@ -1,0 +1,12 @@
+{
+  "chain_id": "9790",
+  "name": "Carbon EVM",
+  "symbol": "Carbon",
+  "explorer_url": "",
+  "rpc_urls": [
+    "https://evm-api.carbon.network"
+  ],
+  "rpc": [
+    "https://evm-api.carbon.network"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "chain_id": "995",
+  "name": "5ireChain Mainnet",
+  "symbol": "5ireChain",
+  "explorer_url": "https://5irescan.io",
+  "rpc_urls": [
+    "https://rpc.5ire.network"
+  ],
+  "rpc": [
+    "https://rpc.5ire.network"
+  ]
+}

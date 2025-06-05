@@ -1,0 +1,12 @@
+{
+  "chain_id": "8227",
+  "name": "Space Subnet",
+  "symbol": "SPACE",
+  "explorer_url": "https://subnets.avax.network/space",
+  "rpc_urls": [
+    "https://subnets.avax.network/space/mainnet/rpc"
+  ],
+  "rpc": [
+    "https://subnets.avax.network/space/mainnet/rpc"
+  ]
+}

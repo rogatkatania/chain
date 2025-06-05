@@ -1,0 +1,13 @@
+{
+  "chain_id": "855456",
+  "name": "Dodao",
+  "symbol": "EVMCC",
+  "explorer_url": "https://evmexplorer.tanssi-chains.network/?rpcUrl=https://fraa-flashbox-4643-rpc.a.stagenet.tanssi.network",
+  "rpc_urls": [
+    "https://fraa-flashbox-4643-rpc.a.stagenet.tanssi.network",
+    "wss://fraa-flashbox-4643-rpc.a.stagenet.tanssi.network"
+  ],
+  "rpc": [
+    "https://fraa-flashbox-4643-rpc.a.stagenet.tanssi.network"
+  ]
+}

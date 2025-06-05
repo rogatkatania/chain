@@ -1,0 +1,20 @@
+{
+  "chain_id": "9008",
+  "name": "Shido Network",
+  "symbol": "Shido Mainnet",
+  "explorer_url": "https://shidoscan.com",
+  "rpc_urls": [
+    "https://evm.shidoscan.net",
+    "https://rpc-delta-nodes.shidoscan.com",
+    "https://rpc-nodes.shidoscan.com",
+    "https://shido-mainnet-archive-lb-nw5es9.zeeve.net/USjg7xqUmCZ4wCsqEOOE/rpc",
+    "wss://shido-mainnet-archive-lb-nw5es9.zeeve.net/USjg7xqUmCZ4wCsqEOOE/ws",
+    "wss://wss.shidoscan.net"
+  ],
+  "rpc": [
+    "https://evm.shidoscan.net",
+    "https://shido-mainnet-archive-lb-nw5es9.zeeve.net/USjg7xqUmCZ4wCsqEOOE/rpc",
+    "https://rpc-nodes.shidoscan.com",
+    "https://rpc-delta-nodes.shidoscan.com"
+  ]
+}

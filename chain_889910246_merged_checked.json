@@ -1,0 +1,10 @@
+{
+  "chain_id": "889910246",
+  "name": "PTCESCAN Mainnet",
+  "symbol": "PTCE",
+  "explorer_url": "https://ptcscan.io",
+  "rpc_urls": [
+    "https://rpc.ptcscan.io"
+  ],
+  "rpc": []
+}

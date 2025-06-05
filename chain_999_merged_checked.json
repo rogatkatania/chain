@@ -1,0 +1,22 @@
+{
+  "chain_id": "999",
+  "name": "HyperEVM",
+  "symbol": "HYPE",
+  "explorer_url": "https://purrsec.com/",
+  "rpc_urls": [
+    "https://gwan-ssl.wandevs.org:46891",
+    "https://hyperliquid-json-rpc.stakely.io",
+    "https://hyperliquid.drpc.org",
+    "https://rpc.hyperlend.finance",
+    "https://rpc.hyperliquid.xyz/evm",
+    "https://rpc.hypurrscan.io",
+    "wss://hyperliquid.drpc.org"
+  ],
+  "rpc": [
+    "https://hyperliquid-json-rpc.stakely.io",
+    "https://rpc.hypurrscan.io",
+    "https://gwan-ssl.wandevs.org:46891",
+    "https://rpc.hyperliquid.xyz/evm",
+    "https://rpc.hyperlend.finance"
+  ]
+}

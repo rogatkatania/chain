@@ -1,0 +1,12 @@
+{
+  "chain_id": "8668",
+  "name": "Hela Official Runtime Mainnet",
+  "symbol": "Hela",
+  "explorer_url": "https://mainnet-blockexplorer.helachain.com",
+  "rpc_urls": [
+    "https://mainnet-rpc.helachain.com"
+  ],
+  "rpc": [
+    "https://mainnet-rpc.helachain.com"
+  ]
+}

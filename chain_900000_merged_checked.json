@@ -1,0 +1,11 @@
+{
+  "chain_id": "900000",
+  "name": "Posichain Mainnet Shard 0",
+  "symbol": "PSC",
+  "explorer_url": "https://explorer.posichain.org",
+  "rpc_urls": [
+    "https://api.posichain.org",
+    "https://api.s0.posichain.org"
+  ],
+  "rpc": []
+}

@@ -1,0 +1,10 @@
+{
+  "chain_id": "81720",
+  "name": "Quantum Chain Mainnet",
+  "symbol": "QNET",
+  "explorer_url": "https://quantumscan.org",
+  "rpc_urls": [
+    "https://rpc.quantumscan.org"
+  ],
+  "rpc": []
+}

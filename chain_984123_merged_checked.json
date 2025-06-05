@@ -1,0 +1,12 @@
+{
+  "chain_id": "984123",
+  "name": "Forma Sketchpad",
+  "symbol": "Forma",
+  "explorer_url": "https://explorer.sketchpad-1.forma.art",
+  "rpc_urls": [
+    "https://rpc.sketchpad-1.forma.art"
+  ],
+  "rpc": [
+    "https://rpc.sketchpad-1.forma.art"
+  ]
+}

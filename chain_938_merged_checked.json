@@ -1,0 +1,10 @@
+{
+  "chain_id": "938",
+  "name": "Haust Mainnet",
+  "symbol": "Haust",
+  "explorer_url": "https://haust-network-blockscout.eu-north-2.gateway.fm",
+  "rpc_urls": [
+    "https://haust-network-rpc.eu-north-2.gateway.fm"
+  ],
+  "rpc": []
+}

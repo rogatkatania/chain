@@ -1,0 +1,10 @@
+{
+  "chain_id": "803",
+  "name": "Haic",
+  "symbol": "Haic",
+  "explorer_url": "",
+  "rpc_urls": [
+    "https://orig.haichain.io"
+  ],
+  "rpc": []
+}

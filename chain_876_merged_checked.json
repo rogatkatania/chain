@@ -1,0 +1,10 @@
+{
+  "chain_id": "876",
+  "name": "Bandai Namco Research Verse Mainnet",
+  "symbol": "Bandai Namco Research Verse",
+  "explorer_url": "https://explorer.main.oasvrs.bnken.net",
+  "rpc_urls": [
+    "https://rpc.main.oasvrs.bnken.net"
+  ],
+  "rpc": []
+}

@@ -1,0 +1,10 @@
+{
+  "chain_id": "97912060",
+  "name": "ChadChain",
+  "symbol": "CHAD",
+  "explorer_url": "",
+  "rpc_urls": [
+    "https://rpc.chadchain.org"
+  ],
+  "rpc": []
+}

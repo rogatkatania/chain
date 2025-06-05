@@ -1,0 +1,12 @@
+{
+  "chain_id": "97766",
+  "name": "MetaBenz CHAIN",
+  "symbol": "MetaBenz CHAIN",
+  "explorer_url": "https://metabenzscan.com",
+  "rpc_urls": [
+    "https://rpc.metabenzscan.com"
+  ],
+  "rpc": [
+    "https://rpc.metabenzscan.com"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "chain_id": "986",
+  "name": "LAGOM Mainnet",
+  "symbol": "LAGOM Mainnet",
+  "explorer_url": "https://Explorer.lagomchain.com",
+  "rpc_urls": [
+    "https://rpc1.lagom.mainnet.zeeve.net"
+  ],
+  "rpc": []
+}

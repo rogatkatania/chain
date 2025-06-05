@@ -1,0 +1,10 @@
+{
+  "chain_id": "7924",
+  "name": "MO Mainnet",
+  "symbol": "MO",
+  "explorer_url": "https://moscan.app",
+  "rpc_urls": [
+    "https://mainnet-rpc.mochain.app"
+  ],
+  "rpc": []
+}

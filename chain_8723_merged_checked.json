@@ -1,0 +1,10 @@
+{
+  "chain_id": "8723",
+  "name": "TOOL Global Mainnet",
+  "symbol": "OLO",
+  "explorer_url": "https://www.olo.network",
+  "rpc_urls": [
+    "https://mainnet-web3.wolot.io"
+  ],
+  "rpc": []
+}

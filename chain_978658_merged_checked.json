@@ -1,0 +1,11 @@
+{
+  "chain_id": "978658",
+  "name": "Treasure Topaz",
+  "symbol": "Treasure Topaz",
+  "explorer_url": "https://topaz.treasurescan.io",
+  "rpc_urls": [
+    "https://rpc.topaz.treasure.lol",
+    "wss://rpc.topaz.treasure.lol/ws"
+  ],
+  "rpc": []
+}

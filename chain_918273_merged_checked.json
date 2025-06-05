@@ -1,0 +1,10 @@
+{
+  "chain_id": "918273",
+  "name": "Owshen Mainnet",
+  "symbol": "ETH",
+  "explorer_url": "",
+  "rpc_urls": [
+    "https://rpc.owshen.io"
+  ],
+  "rpc": []
+}

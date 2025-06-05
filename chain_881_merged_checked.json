@@ -1,0 +1,13 @@
+{
+  "chain_id": "881",
+  "name": "Weber Governance Mainnet",
+  "symbol": "PTT",
+  "explorer_url": "https://mainnet.myweber.org",
+  "rpc_urls": [
+    "https://chain.myweber.org",
+    "https://rpc.hypr.network"
+  ],
+  "rpc": [
+    "https://chain.myweber.org"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "chain_id": "94",
+  "name": "SwissDLT",
+  "symbol": "SDLT",
+  "explorer_url": "https://explorer.swissdlt.ch",
+  "rpc_urls": [
+    "https://rpc.swissdlt.ch"
+  ],
+  "rpc": [
+    "https://rpc.swissdlt.ch"
+  ]
+}

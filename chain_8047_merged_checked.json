@@ -1,0 +1,10 @@
+{
+  "chain_id": "8047",
+  "name": "BOAT Mainnet",
+  "symbol": "BOAT",
+  "explorer_url": "https://scan.come.boats",
+  "rpc_urls": [
+    "https://rpc0.come.boat"
+  ],
+  "rpc": []
+}

@@ -1,0 +1,12 @@
+{
+  "chain_id": "9901",
+  "name": "Zytron Linea Mainnet",
+  "symbol": "ETH",
+  "explorer_url": "https://explorer.zypher.network",
+  "rpc_urls": [
+    "https://rpc.zypher.network"
+  ],
+  "rpc": [
+    "https://rpc.zypher.network"
+  ]
+}

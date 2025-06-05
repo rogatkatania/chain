@@ -1,0 +1,10 @@
+{
+  "chain_id": "888882",
+  "name": "REXX Mainnet",
+  "symbol": "REXX",
+  "explorer_url": "https://rexxnetwork.com",
+  "rpc_urls": [
+    "https://rpc.rexxnetwork.com"
+  ],
+  "rpc": []
+}

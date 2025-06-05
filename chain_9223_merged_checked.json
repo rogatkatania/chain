@@ -1,0 +1,10 @@
+{
+  "chain_id": "9223",
+  "name": "Codefin Mainnet",
+  "symbol": "COF",
+  "explorer_url": "https://explorer.codefin.pro",
+  "rpc_urls": [
+    "https://chain-rpc.codefin.pro"
+  ],
+  "rpc": []
+}

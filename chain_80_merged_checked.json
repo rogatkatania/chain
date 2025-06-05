@@ -1,0 +1,11 @@
+{
+  "chain_id": "80",
+  "name": "GeneChain",
+  "symbol": "GeneChain",
+  "explorer_url": "https://scan.genechain.io",
+  "rpc_urls": [
+    "https://rpc.genechain.io",
+    "website:https://genechain.io/en/index.html"
+  ],
+  "rpc": []
+}

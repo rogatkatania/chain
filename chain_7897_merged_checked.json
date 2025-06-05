@@ -1,0 +1,13 @@
+{
+  "chain_id": "7897",
+  "name": "arena-z",
+  "symbol": "arena-z",
+  "explorer_url": "https://explorer.arena-z.gg",
+  "rpc_urls": [
+    "https://rpc.arena-z.gg",
+    "wss://ws.arena-z.gg"
+  ],
+  "rpc": [
+    "https://rpc.arena-z.gg"
+  ]
+}

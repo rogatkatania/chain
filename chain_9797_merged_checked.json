@@ -1,0 +1,12 @@
+{
+  "chain_id": "9797",
+  "name": "OptimusZ7 Mainnet",
+  "symbol": "OptimusZ7",
+  "explorer_url": "https://explorer.optimusz7.com",
+  "rpc_urls": [
+    "https://rpc.optimusz7.com"
+  ],
+  "rpc": [
+    "https://rpc.optimusz7.com"
+  ]
+}

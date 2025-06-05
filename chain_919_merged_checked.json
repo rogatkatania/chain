@@ -1,0 +1,12 @@
+{
+  "chain_id": "919",
+  "name": "",
+  "symbol": "",
+  "explorer_url": "",
+  "rpc_urls": [
+    "https://sepolia.mode.network"
+  ],
+  "rpc": [
+    "https://sepolia.mode.network"
+  ]
+}

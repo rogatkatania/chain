@@ -1,0 +1,13 @@
+{
+  "chain_id": "8883",
+  "name": "Sapphire by Unique",
+  "symbol": "UNQ",
+  "explorer_url": "https://uniquescan.io/sapphire",
+  "rpc_urls": [
+    "https://asia-rpc-sapphire.unique.network",
+    "https://eu-rpc-sapphire.unique.network",
+    "https://rpc-sapphire.unique.network",
+    "https://us-rpc-sapphire.unique.network"
+  ],
+  "rpc": []
+}

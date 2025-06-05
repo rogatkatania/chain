@@ -1,0 +1,10 @@
+{
+  "chain_id": "918",
+  "name": "SlerfChain Mainnet",
+  "symbol": "SLERF CHAIN",
+  "explorer_url": "https://scan.slerfchain.xyz",
+  "rpc_urls": [
+    "https://rpc.slerfchain.xyz"
+  ],
+  "rpc": []
+}

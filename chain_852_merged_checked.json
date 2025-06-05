@@ -1,0 +1,10 @@
+{
+  "chain_id": "852",
+  "name": "HongKong Mainnet",
+  "symbol": "HONGKONG",
+  "explorer_url": "http://47.238.205.52",
+  "rpc_urls": [
+    "https://eth.jegotrip.net"
+  ],
+  "rpc": []
+}

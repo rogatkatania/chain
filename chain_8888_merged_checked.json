@@ -1,0 +1,10 @@
+{
+  "chain_id": "8888",
+  "name": "XANAChain",
+  "symbol": "XANAChain",
+  "explorer_url": "https://xanachain.xana.net",
+  "rpc_urls": [
+    "https://mainnet.xana.net/rpc"
+  ],
+  "rpc": []
+}

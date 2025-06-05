@@ -1,0 +1,12 @@
+{
+  "chain_id": "83872",
+  "name": "ZEDXION",
+  "symbol": "ZEDXION",
+  "explorer_url": "http://zedscan.net",
+  "rpc_urls": [
+    "https://mainnet-rpc.zedscan.net"
+  ],
+  "rpc": [
+    "https://mainnet-rpc.zedscan.net"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "chain_id": "800001",
+  "name": "OctaSpace",
+  "symbol": "OCTA",
+  "explorer_url": "https://explorer.octa.space",
+  "rpc_urls": [
+    "https://rpc.octa.space",
+    "wss://rpc.octa.space"
+  ],
+  "rpc": [
+    "https://rpc.octa.space"
+  ]
+}

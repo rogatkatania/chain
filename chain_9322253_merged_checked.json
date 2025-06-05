@@ -1,0 +1,10 @@
+{
+  "chain_id": "9322253",
+  "name": "Milvine",
+  "symbol": "XCAP",
+  "explorer_url": "https://xcap-milvine.explorer.xcap.network",
+  "rpc_urls": [
+    "https://xcap-milvine.relay.xcap.network/zj5l55ftsgi027kz4nf14vs8d89inego/rpc1"
+  ],
+  "rpc": []
+}

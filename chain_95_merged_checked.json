@@ -1,0 +1,12 @@
+{
+  "chain_id": "95",
+  "name": "CamDL Mainnet",
+  "symbol": "CADL",
+  "explorer_url": "https://explorer.camdl.gov.kh",
+  "rpc_urls": [
+    "https://rpc1.camdl.gov.kh"
+  ],
+  "rpc": [
+    "https://rpc1.camdl.gov.kh"
+  ]
+}

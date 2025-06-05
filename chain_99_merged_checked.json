@@ -1,0 +1,11 @@
+{
+  "chain_id": "99",
+  "name": "POA Network Core",
+  "symbol": "POA",
+  "explorer_url": "https://blockscout.com/poa/core",
+  "rpc_urls": [
+    "https://core.poa.network",
+    "https://core.poanetwork.dev"
+  ],
+  "rpc": []
+}

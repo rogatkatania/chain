@@ -1,0 +1,12 @@
+{
+  "chain_id": "88882",
+  "name": "",
+  "symbol": "",
+  "explorer_url": "",
+  "rpc_urls": [
+    "https://spicy-rpc.chiliz.com"
+  ],
+  "rpc": [
+    "https://spicy-rpc.chiliz.com"
+  ]
+}

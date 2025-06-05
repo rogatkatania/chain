@@ -1,0 +1,11 @@
+{
+  "chain_id": "814",
+  "name": "Firechain zkEVM",
+  "symbol": "Firechain",
+  "explorer_url": "",
+  "rpc_urls": [
+    "https://rpc-zkevm.firestation.io",
+    "https://rpc-zkevm.thefirechain.com"
+  ],
+  "rpc": []
+}

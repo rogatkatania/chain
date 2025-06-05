@@ -1,0 +1,10 @@
+{
+  "chain_id": "911",
+  "name": "TAPROOT Mainnet",
+  "symbol": "TAPROOT CHAIN",
+  "explorer_url": "https://scan.taprootchain.io",
+  "rpc_urls": [
+    "https://rpc.taprootchain.io"
+  ],
+  "rpc": []
+}

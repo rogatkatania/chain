@@ -1,0 +1,12 @@
+{
+  "chain_id": "810181",
+  "name": "",
+  "symbol": "",
+  "explorer_url": "",
+  "rpc_urls": [
+    "https://sepolia.rpc.zklink.io"
+  ],
+  "rpc": [
+    "https://sepolia.rpc.zklink.io"
+  ]
+}

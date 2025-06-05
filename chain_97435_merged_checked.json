@@ -1,0 +1,12 @@
+{
+  "chain_id": "97435",
+  "name": "",
+  "symbol": "",
+  "explorer_url": "",
+  "rpc_urls": [
+    "https://rpc-dependent-emerald-whippet-gh6kch3nen.t.conduit.xyz"
+  ],
+  "rpc": [
+    "https://rpc-dependent-emerald-whippet-gh6kch3nen.t.conduit.xyz"
+  ]
+}

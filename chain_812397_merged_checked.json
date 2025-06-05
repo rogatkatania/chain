@@ -1,0 +1,12 @@
+{
+  "chain_id": "812397",
+  "name": "SG Verse Mainnet",
+  "symbol": "SG Verse",
+  "explorer_url": "https://explorer.sgverse.net",
+  "rpc_urls": [
+    "https://rpc.sgverse.net"
+  ],
+  "rpc": [
+    "https://rpc.sgverse.net"
+  ]
+}

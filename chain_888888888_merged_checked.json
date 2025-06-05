@@ -1,0 +1,12 @@
+{
+  "chain_id": "888888888",
+  "name": "Ancient8",
+  "symbol": "Ancient8",
+  "explorer_url": "https://scan.ancient8.gg",
+  "rpc_urls": [
+    "https://rpc.ancient8.gg"
+  ],
+  "rpc": [
+    "https://rpc.ancient8.gg"
+  ]
+}

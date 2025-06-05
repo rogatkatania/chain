@@ -1,0 +1,10 @@
+{
+  "chain_id": "88888888",
+  "name": "T.E.A.M Blockchain",
+  "symbol": "TEAM",
+  "explorer_url": "https://teamblockchain.team",
+  "rpc_urls": [
+    "https://rpc.teamblockchain.team"
+  ],
+  "rpc": []
+}

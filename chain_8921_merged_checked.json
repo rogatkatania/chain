@@ -1,0 +1,12 @@
+{
+  "chain_id": "8921",
+  "name": "Algen Layer2",
+  "symbol": "ALG L2",
+  "explorer_url": "https://scan.alg2.algen.network",
+  "rpc_urls": [
+    "https://rpc.alg2.algen.network"
+  ],
+  "rpc": [
+    "https://rpc.alg2.algen.network"
+  ]
+}

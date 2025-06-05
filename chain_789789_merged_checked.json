@@ -1,0 +1,10 @@
+{
+  "chain_id": "789789",
+  "name": "Emeraldz",
+  "symbol": "EMED",
+  "explorer_url": "https://emeraldzscan.com",
+  "rpc_urls": [
+    "https://public.0xrpc.com/789789"
+  ],
+  "rpc": []
+}

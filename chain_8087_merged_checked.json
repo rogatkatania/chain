@@ -1,0 +1,10 @@
+{
+  "chain_id": "8087",
+  "name": "E-Dollar",
+  "symbol": "USD",
+  "explorer_url": "",
+  "rpc_urls": [
+    "https://rpc.e-dollar.org"
+  ],
+  "rpc": []
+}

@@ -1,0 +1,11 @@
+{
+  "chain_id": "8738",
+  "name": "Alph Network",
+  "symbol": "ALPH",
+  "explorer_url": "https://explorer.alph.network",
+  "rpc_urls": [
+    "https://rpc.alph.network",
+    "wss://rpc.alph.network"
+  ],
+  "rpc": []
+}

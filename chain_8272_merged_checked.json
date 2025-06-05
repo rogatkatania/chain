@@ -1,0 +1,10 @@
+{
+  "chain_id": "8272",
+  "name": "Blockton Blockchain",
+  "symbol": "Blockton Blockchain",
+  "explorer_url": "https://blocktonscan.com",
+  "rpc_urls": [
+    "https://rpc.blocktonscan.com"
+  ],
+  "rpc": []
+}

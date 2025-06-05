@@ -1,0 +1,12 @@
+{
+  "chain_id": "8811",
+  "name": "Haven1",
+  "symbol": "haven1",
+  "explorer_url": "https://explorer.haven1.org",
+  "rpc_urls": [
+    "https://rpc.haven1.org"
+  ],
+  "rpc": [
+    "https://rpc.haven1.org"
+  ]
+}

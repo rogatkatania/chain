@@ -1,0 +1,12 @@
+{
+  "chain_id": "9496",
+  "name": "Load Alphanet",
+  "symbol": "LOAD",
+  "explorer_url": "https://explorer.load.network",
+  "rpc_urls": [
+    "https://alphanet.load.network"
+  ],
+  "rpc": [
+    "https://alphanet.load.network"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "chain_id": "8822",
+  "name": "IOTA EVM",
+  "symbol": "IOTA EVM",
+  "explorer_url": "https://explorer.evm.iota.org",
+  "rpc_urls": [
+    "https://iota-mainnet-evm.public.blastapi.io",
+    "https://json-rpc.evm.iotaledger.net",
+    "https://rpc.ankr.com/iota_evm",
+    "wss://ws.json-rpc.evm.iotaledger.net"
+  ],
+  "rpc": [
+    "https://rpc.ankr.com/iota_evm",
+    "https://json-rpc.evm.iotaledger.net"
+  ]
+}

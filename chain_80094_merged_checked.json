@@ -1,0 +1,27 @@
+{
+  "chain_id": "80094",
+  "name": "Berachain",
+  "symbol": "Berachain",
+  "explorer_url": "https://berascan.com",
+  "rpc_urls": [
+    "https://berachain-mainnet.g.alchemy.com/v2/gi4tk6s65zmhnapbshfydl3w-lda8xmu",
+    "https://berachain-rpc.publicnode.com",
+    "https://berachain.blockpi.network/v1/rpc/public",
+    "https://berachain.drpc.org",
+    "https://rpc.berachain-apis.com",
+    "https://rpc.berachain.com",
+    "https://rpc.zerion.io/v1/berachain",
+    "wss://berachain-rpc.publicnode.com",
+    "wss://berachain.drpc.org",
+    "wss://rpc.berachain-apis.com"
+  ],
+  "rpc": [
+    "https://rpc.berachain.com",
+    "https://berachain-rpc.publicnode.com",
+    "https://berachain.drpc.org",
+    "https://berachain.blockpi.network/v1/rpc/public",
+    "https://rpc.berachain-apis.com",
+    "https://rpc.zerion.io/v1/berachain",
+    "https://berachain-mainnet.g.alchemy.com/v2/gi4tk6s65zmhnapbshfydl3w-lda8xmu"
+  ]
+}

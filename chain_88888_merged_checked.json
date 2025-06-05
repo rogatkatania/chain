@@ -1,0 +1,16 @@
+{
+  "chain_id": "88888",
+  "name": "Chiliz Chain",
+  "symbol": "CHZ",
+  "explorer_url": "https://chiliscan.com/",
+  "rpc_urls": [
+    "https://chiliz.publicnode.com",
+    "https://rpc.ankr.com/chiliz",
+    "https://rpc.chiliz.com"
+  ],
+  "rpc": [
+    "https://rpc.ankr.com/chiliz",
+    "https://chiliz.publicnode.com",
+    "https://rpc.chiliz.com"
+  ]
+}

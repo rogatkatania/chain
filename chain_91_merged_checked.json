@@ -1,0 +1,10 @@
+{
+  "chain_id": "91",
+  "name": "Garizon Stage1",
+  "symbol": "GAR",
+  "explorer_url": "https://explorer.garizon.com",
+  "rpc_urls": [
+    "https://s1.garizon.net/rpc"
+  ],
+  "rpc": []
+}

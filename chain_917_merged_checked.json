@@ -1,0 +1,13 @@
+{
+  "chain_id": "917",
+  "name": "Rinia",
+  "symbol": "FIRE",
+  "explorer_url": "https://rinia.firescan.io",
+  "rpc_urls": [
+    "https://rinia-rpc1.thefirechain.com",
+    "https://rpc-rinia.firestation.io"
+  ],
+  "rpc": [
+    "https://rpc-rinia.firestation.io"
+  ]
+}

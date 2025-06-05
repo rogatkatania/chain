@@ -1,0 +1,10 @@
+{
+  "chain_id": "84886",
+  "name": "Aerie Network",
+  "symbol": "Aerie",
+  "explorer_url": "https://explorer.aerielab.io",
+  "rpc_urls": [
+    "https://mainnet.aerielab.io"
+  ],
+  "rpc": []
+}

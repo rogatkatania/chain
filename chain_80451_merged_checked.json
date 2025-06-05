@@ -1,0 +1,12 @@
+{
+  "chain_id": "80451",
+  "name": "Geo Genesis",
+  "symbol": "Geo Genesis",
+  "explorer_url": "",
+  "rpc_urls": [
+    "https://rpc-geo-genesis-h0q2s21xx8.t.conduit.xyz"
+  ],
+  "rpc": [
+    "https://rpc-geo-genesis-h0q2s21xx8.t.conduit.xyz"
+  ]
+}

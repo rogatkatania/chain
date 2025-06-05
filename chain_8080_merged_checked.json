@@ -1,0 +1,10 @@
+{
+  "chain_id": "8080",
+  "name": "Shardeum Liberty 1.X",
+  "symbol": "Shardeum",
+  "explorer_url": "https://explorer-liberty10.shardeum.org",
+  "rpc_urls": [
+    "https://liberty10.shardeum.org"
+  ],
+  "rpc": []
+}
